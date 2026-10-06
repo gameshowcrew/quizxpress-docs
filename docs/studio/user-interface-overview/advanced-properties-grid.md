@@ -1,8 +1,94 @@
 # Advanced properties grid
 
-The property grid is the place where you can quickly set all the detailed properties of the selected element(s). Each element (such as question, answer, slide, video, and picture) has individual properties. It is not absolutely needed to use the property grid as the most important settings can be accessed through the ribbon but for advanced users this may be a quicker way to get things done. (some more advanced/obscure properties can only be accessed from the properties grid). In the following chapters you will find an explanation of the most important properties. You can show the property grid by going to the VIEW menu and putting a checkmark before ‘Properties’ (in the ‘Views’ section).
+The properties pane is the place where you can quickly set all the detailed properties of the selected element(s). Each element (such as question, answer, slide, video, and picture) has individual properties. It is not absolutely needed to use it as the most important settings can be accessed through the ribbon but for advanced users this may be a quicker way to get things done. (some more advanced/obscure properties can only be accessed from the properties pane). In the following chapters you will find an explanation of the most important properties. You can show the properties pane by going to the VIEW menu and putting a checkmark before ‘Properties’ (in the ‘Views’ section).
+
+QuizXpress shows those properties in the **properties panel**, which you get by default, and still offers the **classic property grid** that earlier versions used. Both show exactly the same properties and you can switch between them whenever you like, so the chapters further down apply to either one.
+
+## The properties panel
+
+![](../../assets/images/properties-panel-overview.webp){ width="322" loading=lazy }
+
+Instead of one long alphabetical list, the panel groups the properties of the selected element into pages and sections, and gives each property a control that fits it: a switch for a yes/no setting, a slider for a transparency, a colour swatch for a colour, and so on. Everything you change is applied to the slide straight away.
+
+**What is selected**
+
+The top of the panel tells you what you are editing: an icon, the type of the element, and a second line with its content (the text of an answer, the file name of a picture). When you select several elements at once — for example all four answers of a question — the title reads ‘4 objects selected’ and the panel shows the properties they have in common. Properties whose values differ between the selected elements are shown empty or as ‘Mixed’; as soon as you set one, all selected elements get the new value.
+
+**Pages**
+
+Under the search box is a row of pages: *Gameplay*, *Scoring*, *Design*, *Text*, *Media* and *Advanced*. Only the pages that actually have properties for the current selection are shown, and the page that matters most for the selected element comes first — the *Text* page for a text element, *Gameplay* for a quiz slide. The *Advanced* page (the `{}` tab) collects the technical properties: metadata, mobile device settings and scripting. Click a tab to switch pages; the panel remembers your choice per type of element.
+
+**Sections and more options**
+
+Each page is divided into sections such as ‘Timing’, ‘Answering’ or ‘Border’. Click a section title to fold it away, and use *Expand all sections* / *Collapse all sections* in the options menu to do all of them at once. Sections that also contain rarely used properties show a **More options** link at the bottom; click it to reveal them and **Fewer options** to hide them again. The panel remembers which sections you collapsed and which ones show their extra options.
+
+**Finding a property**
+
+![](../../assets/images/properties-panel-search.webp){ width="322" loading=lazy }
+
+If you don’t know where a property lives, type a word in the search box at the top (or press *Ctrl+F*). The panel then shows every matching property from every page at once, with the matching part of the name highlighted. The search also looks in the descriptions, so a word that only appears in the explanation of a property still finds it. Click the ✕ in the search box to go back to the normal view.
+
+### Changing values
+
+![](../../assets/images/properties-panel-text-editors.webp){ width="322" loading=lazy }
+
+Most properties speak for themselves: type in a box, flip a switch, pick from a drop-down list. A few are worth pointing out.
+
+**Numbers** can be typed, stepped with the small arrows at the right of the box, or — often quicker — changed by *dragging the name of the property* left and right. Hold *Shift* while dragging for bigger steps and *Alt* for finer ones. Properties that have a sensible minimum and maximum, such as a transparency, get a slider with a number box next to it; both stay in step with each other.
+
+**Fonts** are set with a drop-down that previews every installed font, a size box, and buttons for bold, italic and underline.
+
+**Grouped properties** such as a gradient or a size show a summary on one line. Click the name of the property to fold the individual settings (for a gradient: From, To and Type) open underneath it.
+
+### Colours
+
+![](../../assets/images/properties-panel-color-picker.webp){ width="333" loading=lazy }
+
+A colour property shows a swatch with its hex value. Click it and you get:
+
+- **No color**, for properties that may be left empty (a transparent background, for example).
+- A **palette** of shades on top and a row of **Standard colors** below it.
+- **Recent colors** — the colours you used earlier, so repeating a colour across several elements takes one click. These are remembered for as long as QuizXpress Studio is running.
+- **Custom color**, which folds open a saturation/brightness square, a hue bar, an opacity bar and a box where you can type or paste a hex value such as `#1E4A6B`.
+
+The small pipette at the right of the ‘Custom color’ title picks a colour **from anywhere on your screen** — also from outside QuizXpress. Click it and the screen freezes; a magnifier follows your mouse and shows the individual pixels with the colour under the cursor. Click to take that colour, use the arrow keys to move one pixel at a time (hold *Shift* for ten), or press *Esc* to cancel. Because the screen has no transparency, the opacity of the colour you had is kept.
+
+### Gradients
+
+![](../../assets/images/properties-panel-gradient-presets.webp){ width="313" loading=lazy }
+
+A gradient property shows a preview of the gradient. Next to it is a palette button that opens a set of ready-made **gradient presets** — one click gives a slide background or a text box a finished look. To keep a gradient you made yourself, right-click the gradient property and choose *Add to my gradients*; it then appears under **My gradients** in the picker (up to five). Right-click one of your own gradients in the picker to remove it again. Your gradients are kept between sessions.
+
+### Reset, copy and paste
+
+Right-click any property for:
+
+- **Reset to default** — puts the property back to the value it has in a new slide.
+- **Copy value** and **Paste value** — handy for moving a colour, a font or a gradient from one element to another. *Ctrl+C* and *Ctrl+V* do the same for the property you are working in, so you can copy a colour here and paste it straight into another program as `#1E4A6B`, or the other way round.
+
+### Descriptions
+
+![](../../assets/images/properties-panel-descriptions.webp){ width="333" loading=lazy }
+
+Hovering over the name of a property shows a tooltip explaining what it does. If you would rather have that explanation permanently in view, switch on *Show descriptions* in the options menu: a bar then appears at the bottom of the panel with the name and the explanation of the property your mouse is on.
+
+### Options
+
+![](../../assets/images/properties-panel-options-menu.webp){ width="333" loading=lazy }
+
+The **…** button in the top right corner of the panel holds the settings for the panel itself: expanding and collapsing all sections, showing descriptions, the dark theme, and switching to the classic property grid.
+
+### Dark theme
+
+![](../../assets/images/properties-panel-dark-theme.webp){ width="333" loading=lazy }
+
+*Dark theme* in the options menu gives the panel a dark colour scheme, which is easier on the eyes when you are designing light slides or working in a dimly lit room. The choice is remembered the next time you start QuizXpress Studio, and only affects the properties panel.
+
+## The classic property grid
 
 ![](../../assets/images/image18.webp){ width="644" loading=lazy }
+
+The grid that earlier versions of QuizXpress used is still there. It lists all properties of the selected element in alphabetical groups and is the quickest way to see everything at once. Choose *Classic property grid* from the **…** menu of the properties panel to switch to it, and the *Switch to the new properties panel* button at the right of the grid’s own toolbar to come back. QuizXpress remembers which of the two you prefer.
 
 ## Quiz slide properties
 

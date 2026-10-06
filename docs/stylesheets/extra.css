@@ -1,0 +1,16 @@
+/* Screenshots: subtle frame, never wider than the content column. */
+.md-typeset img:not(.inline-icon) {
+  max-width: 100%;
+  height: auto;
+  border-radius: 4px;
+}
+/* Small icons that sit inside a sentence (ribbon buttons etc.). */
+.md-typeset img.inline-icon {
+  vertical-align: middle;
+  height: auto;
+  margin: 0 0.15em;
+}
+/* Wide property tables scroll instead of squeezing. */
+.md-typeset table:not([class]) {
+  font-size: 0.72rem;
+}

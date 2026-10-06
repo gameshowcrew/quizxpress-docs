@@ -1,0 +1,226 @@
+site_name: QuizXpress Docs
+site_description: User manual for QuizXpress 8.6 — create, set up and run live quiz shows.
+# Set this to the final address once the docs are live, e.g. https://docs.quizxpress.com/
+# site_url: https://docs.quizxpress.com/
+# Fill in once the repo is on GitHub to get an "edit this page" button on every page:
+# repo_url: https://github.com/<your-account>/quizxpress-docs
+# edit_uri: edit/main/docs/
+copyright: Copyright &copy; QuizXpress
+
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - navigation.instant
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+    - toc.follow
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: deep orange
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  icon:
+    logo: material/help-circle-outline
+
+extra_css:
+  - stylesheets/extra.css
+
+validation:
+  links:
+    anchors: warn
+    unrecognized_links: warn
+
+plugins:
+  - search
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc:
+      permalink: true
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra:
+  social:
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@GameShowCrew
+
+nav:
+- Getting started:
+  - Introduction: index.md
+  - Installation:
+    - installation/system-requirements.md
+    - installation/licensing.md
+    - installation/updates-and-version-numbering.md
+- Studio:
+  - studio/creating-your-first-quiz.md
+  - User interface overview:
+    - studio/user-interface-overview/index.md
+    - studio/user-interface-overview/ribbon.md
+    - studio/user-interface-overview/backstage-menu.md
+    - studio/user-interface-overview/design-area.md
+    - studio/user-interface-overview/thumbnails-panel.md
+    - studio/user-interface-overview/advanced-properties-grid.md
+    - studio/user-interface-overview/object-list-view.md
+    - studio/user-interface-overview/editing-content.md
+    - studio/user-interface-overview/the-quiz-wizard.md
+    - studio/user-interface-overview/quizmaster-notes.md
+  - studio/using-categories.md
+  - Slide and game formats:
+    - studio/slide-and-game-formats/index.md
+    - studio/slide-and-game-formats/question.md
+    - studio/slide-and-game-formats/pairing-question.md
+    - studio/slide-and-game-formats/billboard.md
+    - studio/slide-and-game-formats/end-of-round.md
+    - studio/slide-and-game-formats/demographic-groups.md
+    - studio/slide-and-game-formats/last-man-standing.md
+    - studio/slide-and-game-formats/audience-response.md
+    - studio/slide-and-game-formats/wager.md
+    - studio/slide-and-game-formats/majority-rules.md
+    - studio/slide-and-game-formats/minigame.md
+    - studio/slide-and-game-formats/trivia-board-round.md
+    - studio/slide-and-game-formats/trivia-ladder-round.md
+    - studio/slide-and-game-formats/trivia-feud.md
+    - studio/slide-and-game-formats/speed-round.md
+    - studio/slide-and-game-formats/bingo-round.md
+  - Mini games:
+    - studio/mini-games/index.md
+    - studio/mini-games/virtual-horse-race.md
+    - studio/mini-games/cups-and-balls.md
+    - studio/mini-games/card-game.md
+    - studio/mini-games/wheel-of-fortune-module.md
+    - studio/mini-games/penalty-shootout.md
+    - studio/mini-games/rock-paper-scissors.md
+    - studio/mini-games/simon-says.md
+    - studio/mini-games/chrono-challenge.md
+    - studio/mini-games/quiz-duel.md
+    - studio/mini-games/lucky-marbles.md
+    - studio/mini-games/rope-rumble.md
+    - studio/mini-games/auction.md
+    - studio/mini-games/performance-ranking.md
+    - studio/mini-games/clock-and-slideshow-module.md
+    - studio/mini-games/the-randomizer-module.md
+  - studio/the-message-broker-module.md
+  - Adding multimedia content:
+    - studio/adding-multimedia-content/index.md
+    - studio/adding-multimedia-content/pictures.md
+    - studio/adding-multimedia-content/shapes.md
+    - studio/adding-multimedia-content/speech.md
+    - studio/adding-multimedia-content/sound.md
+    - studio/adding-multimedia-content/video.md
+    - studio/adding-multimedia-content/real-time-chart.md
+    - studio/adding-multimedia-content/word-game.md
+  - studio/quizxpress-and-ai.md
+  - studio/dual-language-quizzes.md
+  - studio/import-and-export-of-questions.md
+  - studio/styles.md
+  - studio/backgrounds.md
+  - studio/advanced-slide-properties.md
+  - Other functionality:
+    - studio/other-functionality/index.md
+    - studio/other-functionality/undo-and-redo.md
+    - studio/other-functionality/slide-routing.md
+    - studio/other-functionality/text-reveal-animations.md
+    - studio/other-functionality/jokers.md
+    - studio/other-functionality/text-casing.md
+    - studio/other-functionality/find-text-in-questions-and-answers.md
+    - studio/other-functionality/home-alignment-size-order.md
+    - studio/other-functionality/home-banners.md
+    - studio/other-functionality/home-shuffle.md
+    - studio/other-functionality/home-options.md
+    - studio/other-functionality/file-options-dialog.md
+    - studio/other-functionality/packing-and-unpacking-a-quiz.md
+    - studio/other-functionality/fixing-broken-links.md
+    - studio/other-functionality/creating-playlists.md
+  - studio/testing-your-quiz.md
+- Setup:
+  - setup/index.md
+  - setup/configuring-your-hardware-the-buzzers-tab-page.md
+  - setup/setting-up-mobile-keypad-support.md
+  - setup/setting-up-teams-the-teams-tab-page.md
+  - setup/configuring-sounds-the-sounds-tab-page.md
+  - setup/customizing-the-look-the-screens-tab-page.md
+  - setup/other-settings-the-advanced-tab-page.md
+  - setup/end-of-question-actions.md
+  - setup/testing-your-buzzer-setup.md
+- Live:
+  - live/index.md
+  - live/using-physical-devices.md
+  - Using mobile keypads:
+    - live/using-mobile-keypads/index.md
+    - live/using-mobile-keypads/overview.md
+    - live/using-mobile-keypads/setting-up-the-system.md
+    - live/using-mobile-keypads/using-the-web-based-mobile-keypad.md
+    - live/using-mobile-keypads/using-the-mobile-apps.md
+    - live/using-mobile-keypads/branding-the-buzzerpad-website.md
+    - live/using-mobile-keypads/making-money-by-selling-tickets.md
+  - live/testing-with-virtual-keypads.md
+  - Starting a quiz:
+    - live/starting-a-quiz/index.md
+    - live/starting-a-quiz/the-launch-checker.md
+    - live/starting-a-quiz/the-welcome-screen.md
+    - live/starting-a-quiz/the-keypad-and-buzzer-registration-screen.md
+    - live/starting-a-quiz/the-countdown-screen.md
+    - live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md
+    - live/starting-a-quiz/the-leaderboard.md
+    - live/starting-a-quiz/round-winners-screen.md
+    - live/starting-a-quiz/chart-screen.md
+    - live/starting-a-quiz/the-final-score-screen.md
+  - live/controlling-the-quiz.md
+  - live/command-line-options.md
+  - QuizXpress Director:
+    - live/quizxpress-director/index.md
+    - live/quizxpress-director/the-questions-view.md
+    - live/quizxpress-director/the-teams-view.md
+    - live/quizxpress-director/the-manual-scoring-view.md
+    - live/quizxpress-director/the-analyzer-view.md
+    - live/quizxpress-director/the-responses-view.md
+    - live/quizxpress-director/the-round-scores-view.md
+    - live/quizxpress-director/the-extensions-view-mini-games-and-plugins.md
+    - live/quizxpress-director/the-media-player-tab.md
+    - live/quizxpress-director/the-mobile-tab.md
+    - live/quizxpress-director/the-galaxy-tab.md
+    - live/quizxpress-director/quizxpress-director-dark-mode.md
+- More:
+  - Solo (tradeshow booths): solo.md
+  - Analyzer:
+    - analyzer/index.md
+    - analyzer/exporting-results-to-excel.md
+  - Troubleshooting:
+    - troubleshooting/index.md
+    - troubleshooting/buzzer-connection-issues.md
+  - Advanced topics:
+    - advanced/quizxpress-live-recovery-mode.md
+    - advanced/custom-behaviors-with-built-in-javascript-engine.md
+    - advanced/custom-data-fields.md
+    - advanced/skinning.md
+  - Tips and tricks: tips-and-tricks.md
+  - Hardware installation:
+    - hardware-installation/quizxpress-keypads-and-buzzers.md
+    - hardware-installation/fleetwood-reply-buzzers.md
+    - hardware-installation/sony-buzz-buzzers-on-windows-7-and-later.md
+  - Legal:
+    - legal/software-license-agreement.md
+    - legal/trademarks.md

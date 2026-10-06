@@ -215,6 +215,7 @@ nav:
   - Scripting:
     - advanced/scripting/index.md
     - advanced/scripting/working-with-quizxpress.md
+    - advanced/scripting/debugging.md
     - advanced/scripting/reference.md
     - advanced/scripting/examples.md
   - Other advanced topics:

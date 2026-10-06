@@ -32,10 +32,16 @@ broken links, broken anchors and missing images, which is the main safety net. A
 | Quiz Live (running the show, screens, keyboard control) | `docs/live/` | Live |
 | Mobile keypads, Smart Buzzer app, buzzerpad website | `docs/live/using-mobile-keypads/` | Live |
 | QuizXpress Director | `docs/live/quizxpress-director/` | Live |
-| Solo, Analyzer, troubleshooting, JavaScript/skinning, hardware, legal | `docs/solo.md`, `docs/analyzer/`, `docs/troubleshooting/`, `docs/advanced/`, `docs/hardware-installation/`, `docs/legal/` | More |
+| Message Broker (MIDI/DMX, IP inbound/outbound) | `docs/advanced/message-broker/` | Advanced |
+| Other advanced features: recovery mode, JavaScript engine, custom data fields, skinning | `docs/advanced/` | Advanced |
+| Solo, Analyzer, troubleshooting, hardware, legal | `docs/solo.md`, `docs/analyzer/`, `docs/troubleshooting/`, `docs/hardware-installation/`, `docs/legal/` | More |
 
 Find the existing page for a feature with a search before creating a new one:
 `grep -ril "wager" docs/`.
+
+New advanced features or converted feature documents get their own group under the **Advanced**
+tab: a folder `docs/advanced/<feature>/` with an `index.md` overview, listed in `nav:` under
+`- Advanced:`.
 
 ## Writing conventions
 

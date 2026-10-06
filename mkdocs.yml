@@ -52,11 +52,14 @@ plugins:
 markdown_extensions:
   - admonition
   - attr_list
+  - def_list
   - md_in_html
   - tables
   - toc:
       permalink: true
   - pymdownx.details
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
   - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
@@ -203,6 +206,17 @@ nav:
     - live/quizxpress-director/the-mobile-tab.md
     - live/quizxpress-director/the-galaxy-tab.md
     - live/quizxpress-director/quizxpress-director-dark-mode.md
+- Advanced:
+  - Message Broker:
+    - advanced/message-broker/index.md
+    - advanced/message-broker/midi-and-dmx.md
+    - advanced/message-broker/ip-inbound.md
+    - advanced/message-broker/ip-outbound.md
+  - Other advanced topics:
+    - advanced/quizxpress-live-recovery-mode.md
+    - advanced/custom-behaviors-with-built-in-javascript-engine.md
+    - advanced/custom-data-fields.md
+    - advanced/skinning.md
 - More:
   - Solo (tradeshow booths): solo.md
   - Analyzer:
@@ -211,11 +225,6 @@ nav:
   - Troubleshooting:
     - troubleshooting/index.md
     - troubleshooting/buzzer-connection-issues.md
-  - Advanced topics:
-    - advanced/quizxpress-live-recovery-mode.md
-    - advanced/custom-behaviors-with-built-in-javascript-engine.md
-    - advanced/custom-data-fields.md
-    - advanced/skinning.md
   - Tips and tricks: tips-and-tricks.md
   - Hardware installation:
     - hardware-installation/quizxpress-keypads-and-buzzers.md

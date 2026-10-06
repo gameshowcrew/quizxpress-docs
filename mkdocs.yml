@@ -212,9 +212,13 @@ nav:
     - advanced/message-broker/midi-and-dmx.md
     - advanced/message-broker/ip-inbound.md
     - advanced/message-broker/ip-outbound.md
+  - Scripting:
+    - advanced/scripting/index.md
+    - advanced/scripting/working-with-quizxpress.md
+    - advanced/scripting/reference.md
+    - advanced/scripting/examples.md
   - Other advanced topics:
     - advanced/quizxpress-live-recovery-mode.md
-    - advanced/custom-behaviors-with-built-in-javascript-engine.md
     - advanced/custom-data-fields.md
     - advanced/skinning.md
 - More:

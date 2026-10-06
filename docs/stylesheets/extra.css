@@ -45,3 +45,9 @@
 }
 .qx-zoom--open { display: flex; }
 .qx-zoom img { max-width: 100%; max-height: 100%; object-fit: contain; box-shadow: 0 0 40px rgba(0,0,0,.6); }
+
+/* Code names in the first table column (handlers, commands): don't break mid-word. */
+.md-typeset table:not([class]) td:first-child code {
+  word-break: normal;
+  overflow-wrap: normal;
+}

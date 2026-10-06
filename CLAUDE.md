@@ -33,7 +33,8 @@ broken links, broken anchors and missing images, which is the main safety net. A
 | Mobile keypads, Smart Buzzer app, buzzerpad website | `docs/live/using-mobile-keypads/` | Live |
 | QuizXpress Director | `docs/live/quizxpress-director/` | Live |
 | Message Broker (MIDI/DMX, IP inbound/outbound) | `docs/advanced/message-broker/` | Advanced |
-| Other advanced features: recovery mode, JavaScript engine, custom data fields, skinning | `docs/advanced/` | Advanced |
+| Scripting (JavaScript engine) | `docs/advanced/scripting/` | Advanced |
+| Other advanced features: recovery mode, custom data fields, skinning | `docs/advanced/` | Advanced |
 | Solo, Analyzer, troubleshooting, hardware, legal | `docs/solo.md`, `docs/analyzer/`, `docs/troubleshooting/`, `docs/hardware-installation/`, `docs/legal/` | More |
 
 Find the existing page for a feature with a search before creating a new one:

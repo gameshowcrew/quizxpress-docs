@@ -1,10 +1,8 @@
 site_name: QuizXpress Docs
 site_description: User manual for QuizXpress 8.6 — create, set up and run live quiz shows.
-# Set this to the final address once the docs are live, e.g. https://docs.quizxpress.com/
-# site_url: https://docs.quizxpress.com/
-# Fill in once the repo is on GitHub to get an "edit this page" button on every page:
-# repo_url: https://github.com/<your-account>/quizxpress-docs
-# edit_uri: edit/main/docs/
+site_url: https://docs.quizxpress.com/
+repo_url: https://github.com/gameshowcrew/quizxpress-docs
+edit_uri: edit/main/docs/
 copyright: Copyright &copy; QuizXpress
 
 theme:

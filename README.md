@@ -21,7 +21,7 @@ Open http://127.0.0.1:8000. The preview reloads as soon as you save a file.
 | Add a page              | Create the `.md` file and add it to `nav:` in `mkdocs.yml`. |
 | Add a note / tip box    | `!!! note` or `!!! tip` on its own line, then the text indented by 4 spaces. |
 
-Before pushing, `mkdocs build --strict` catches broken links and missing images.
+Always run `git pull` before you start editing. Before pushing, `mkdocs build --strict` catches broken links and missing images.
 
 ## Publishing
 
@@ -29,9 +29,10 @@ Every push to `main` builds the site and publishes it to GitHub Pages
 (`.github/workflows/deploy.yml`). One-time setup in the GitHub repo:
 **Settings → Pages → Source: GitHub Actions**.
 
-For a custom domain such as `docs.quizxpress.com`: add a file `docs/CNAME` containing just that
-domain, set the same domain under Settings → Pages, and add a CNAME DNS record pointing to
-`<your-account>.github.io`. Then set `site_url` in `mkdocs.yml`.
+The site is served at https://docs.quizxpress.com. The custom domain is set under
+Settings → Pages → Custom domain, with a CNAME DNS record `docs` → `gameshowcrew.github.io`
+in SiteGround's DNS Zone Editor. No `CNAME` file is needed in the repo when publishing with
+GitHub Actions.
 
 GitHub Pages from a **private** repo needs a paid GitHub plan. With a free plan, either make the
 repo public or connect it to Cloudflare Pages instead (build command `pip install -r requirements.txt && mkdocs build`, output folder `site`).

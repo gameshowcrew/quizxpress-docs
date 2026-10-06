@@ -36,8 +36,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
-  icon:
-    logo: material/help-circle-outline
+  logo: assets/brand/logo-white.png
+  favicon: assets/brand/logo-white.png
 
 extra_css:
   - stylesheets/extra.css

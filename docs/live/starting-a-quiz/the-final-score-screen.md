@@ -2,7 +2,7 @@
 
 When the last quiz slide has finished, it's time to announce the final results: a ruffle plays, and the top three teams are shown one by one.
 
-![](../../assets/images/image434.webp){ width="432" loading=lazy }
+![](../../assets/images/image434.webp){ loading=lazy }
 
 At the bottom of the screen, you can see a few buttons that let you navigate through the score list. You can jump one screen ahead or back, or jump straight to the first or last screen. The rightmost of the five small buttons (the rotating arrow) lets the list scroll automatically every few seconds. The button with the ‘cross’ closes QuizXpress Live (or you can hover the mouse over the top right of the screen).
 
@@ -18,4 +18,4 @@ In case a quiz contains multiple ‘Demographic’ groups of people (see [Demogr
 
 By default, group scores are shown. You can toggle between group scores and individual scores by pressing the two leftmost buttons at the bottom. Press the button with ‘two heads’ to show group scores. Press the button with ‘one person’/‘two persons’ to toggle between individual and group scores.
 
-![](../../assets/images/image436.webp){ width="469" loading=lazy }
+![](../../assets/images/image436.webp){ loading=lazy }

@@ -4,7 +4,7 @@ QuizXpress has a built-in JavaScript engine that can execute specific logic for 
 
 *Note that this feature is for advanced use cases and technical users and is not required for running a quiz under normal conditions!*
 
-![](../assets/images/image474.webp){ width="602" loading=lazy }
+![](../assets/images/image474.webp){ loading=lazy }
 
 With the new \[jsvar.\<varname>\] text symbol, you can present text on a slide whose values come from JavaScript code.
 
@@ -12,7 +12,7 @@ Here’s an example where we randomly pick a team and play the next question wit
 
 We create a slide with only one text field:
 
-![](../assets/images/image475.webp){ width="507" loading=lazy }
+![](../assets/images/image475.webp){ loading=lazy }
 
 We add the following JavaScript on the slide:
 
@@ -20,6 +20,6 @@ We add the following JavaScript on the slide:
 
 Now, when the slide is loaded, it will show a random team name 50 times on the slide (going slower and slower), and when done, it will select one team. All other teams will be disabled when going to the next slide. The name of the selected team is stored in a global variable named “playing-team”. We can use and display that name on the next slide with:
 
-![](../assets/images/image477.webp){ width="602" loading=lazy }
+![](../assets/images/image477.webp){ loading=lazy }
 
 This is just one example of what you can do with JavaScript and the \[jsvar\] text symbol.

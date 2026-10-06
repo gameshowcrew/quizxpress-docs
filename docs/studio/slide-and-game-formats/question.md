@@ -52,7 +52,7 @@ Setting the ‘correctness’ of an answer can be done by right clicking the ans
 
 You can also use this to create ‘Family Feud’ style questions like the below. By giving the answers the correctness of the family feud answer percentages, choosing a more popular answer will award a player with more points. If you set the points for the question to 100, the number of points that can be won by a player for giving a certain answer is the corresponding percentage.
 
-![](../../assets/images/image35.webp){ width="605" loading=lazy }
+![](../../assets/images/image35.webp){ loading=lazy }
 
 ### Multiple correct (multiple responses)
 
@@ -66,7 +66,7 @@ In this mode, a player must put the answers in the correct order. You can make q
 
 If you want the players to give the exact order to win points, select the question and in the properties pane set the ‘ordered answer mode’ to ‘exact match’ (which is the default). If giving a partially correct order should also lead to winning points, set the ‘ordered answer mode’ to ‘partial match’. In this case, the percentage of answers given at the right spot will result in the same percentage of the points that can be won for the question. For example, if the correct order is ABCD and a player answers ACBD, this will result in 50% of the points that can be won for the question.
 
-![](../../assets/images/image36.webp){ width="553" loading=lazy }
+![](../../assets/images/image36.webp){ loading=lazy }
 
 To change the order, right click one of the ordered answers and click ‘Set Order’:![](../../assets/images/image37.webp){ width="284" loading=lazy }
 

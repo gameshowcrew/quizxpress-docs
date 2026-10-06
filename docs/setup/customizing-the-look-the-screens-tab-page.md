@@ -26,9 +26,9 @@ You can switch between the available skins in the Appearance section:
 
 ![](../assets/images/image340.webp){ width="431" loading=lazy }
 
-| ![](../assets/images/image341.webp){ width="286" loading=lazy }                                                                                                         | ![](../assets/images/image342.webp){ width="286" loading=lazy } |
+| ![](../assets/images/image341.webp){ loading=lazy }                                                                                                         | ![](../assets/images/image342.webp){ loading=lazy } |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | ‘Dark Theme’ welcome screen                                                                                                                                                             | ‘TV Show’ welcome screen                                                        |
 |                                                                                                                                                                                         |                                                                                 |
-| ![](../assets/images/image343.webp){ width="280" loading=lazy } |                                                                                 |
+| ![](../assets/images/image343.webp){ loading=lazy } |                                                                                 |
 | ‘Techno Theme’ quiz screen                                                                                                                                                              |                                                                                 |

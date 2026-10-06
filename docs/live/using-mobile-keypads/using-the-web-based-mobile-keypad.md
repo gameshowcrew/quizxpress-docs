@@ -10,7 +10,7 @@ The web-based keypad can be used in situations where you have internet available
 
 - Alternatively, press ‘Q’ when a quiz is launched to show a QR code on screen that players can scan. Scanning the code takes them to the buzzerpad website automatically and fills in the PIN code for them; they only need to enter a unique player name.
 
-![](../../assets/images/image356.webp){ width="355" loading=lazy }
+![](../../assets/images/image356.webp){ loading=lazy }
 
 - Press GO on the phone to connect to the quiz.
 

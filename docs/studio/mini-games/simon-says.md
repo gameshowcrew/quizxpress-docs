@@ -36,14 +36,14 @@ In the Simon Says minigame, the audience plays a game that challenges players to
 
 The purpose of the games is that when a light sequence is playing, players must memorize it.
 
-![](../../assets/images/image155.webp){ width="301" loading=lazy }
+![](../../assets/images/image155.webp){ loading=lazy }
 
 When the sequence is done playing, players input the sequence into their keypad / buzzer / phone
 
-![](../../assets/images/image156.webp){ width="292" loading=lazy }
+![](../../assets/images/image156.webp){ loading=lazy }
 
 After this, the system judges the answers and shows the winning and losing players. After this a random light is added to the sequence and the sequence plays again. This makes the game increasingly more difficult as time goes on.
 
 In this game (Last Man Standing mode), only player 1’s answer was correct. Player 1 wins the game.
 
-![](../../assets/images/image157.webp){ width="336" loading=lazy }
+![](../../assets/images/image157.webp){ loading=lazy }

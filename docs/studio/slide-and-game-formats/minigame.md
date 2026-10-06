@@ -26,6 +26,6 @@ Finally, you can launch a minigame standalone (without running a quiz in the qui
 
 When started you are presented with an overview of all available minigames that can be started:
 
-![](../../assets/images/image67.webp){ width="403" loading=lazy }
+![](../../assets/images/image67.webp){ loading=lazy }
 
 By right-clicking a tile you can configure the minigame and even make and store different configurations (which will appear as separate new tiles). When launching a game that requires player interaction on mobile keypads, a connect screen with a PIN code and QR code is presented for the mobile buzzers to connect. You can for example use the minigame launcher to run a quick game to give away a free drink.

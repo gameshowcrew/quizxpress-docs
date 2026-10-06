@@ -26,7 +26,7 @@ Strictly speaking, it isn’t necessary for the buzzers to explicitly sign in. H
 
 The button displayed at the bottom of the screen is the ‘start’ button, which starts the quiz. Below you can see two screenshots, one showing the screen before anyone has signed in, and one showing the state of the screen once everybody has signed in.
 
-| ![](../../assets/images/image404.webp){ width="293" loading=lazy } | ![](../../assets/images/image405.webp){ width="295" loading=lazy } |
+| ![](../../assets/images/image404.webp){ loading=lazy } | ![](../../assets/images/image405.webp){ loading=lazy } |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
 !!! note

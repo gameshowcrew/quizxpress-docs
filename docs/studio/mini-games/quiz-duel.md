@@ -2,7 +2,7 @@
 
 Quiz Duel is a fun, easy-to-use, western-inspired ‘reflex’ minigame. With fun graphics and western-style sound effects, this game will definitely elevate your event!
 
-![](../../assets/images/image164.webp){ width="350" loading=lazy }
+![](../../assets/images/image164.webp){ loading=lazy }
 
 The game has the following configuration options:
 

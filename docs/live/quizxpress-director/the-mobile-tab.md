@@ -2,7 +2,7 @@
 
 The Mobile tab shows all currently connected mobile devices.
 
-![](../../assets/images/image455.webp){ width="605" loading=lazy }
+![](../../assets/images/image455.webp){ loading=lazy }
 
 From here you can:
 
@@ -26,7 +26,7 @@ From here you can:
 
 The latency test is mostly used when running in local Wi-Fi mode, to test whether all your players have a solid connection to your router. It sends a ping to all devices and measures the time it takes to receive a response. This is plotted behind each mobile device in a chart like this:
 
-![](../../assets/images/image456.webp){ width="605" loading=lazy }
+![](../../assets/images/image456.webp){ loading=lazy }
 
 When a device is very slow or disconnected, the chart turns red, and as quizmaster you could warn the player to move closer to the access point. Note: do not leave the latency test running during your quiz, as the test uses Wi-Fi bandwidth and server capacity.
 
@@ -73,6 +73,6 @@ Imagine you launched an online quiz where you expect up to 20 players (device ra
 
 To do so, open Director in the quiz player, go to the Mobile tab, and click the Settings button. Then click the Change device range button and enter the new range:
 
-![](../../assets/images/image463.webp){ width="602" loading=lazy }
+![](../../assets/images/image463.webp){ loading=lazy }
 
 The system will check the range for validity and ask for confirmation. After your approval, the server will be updated. Note that when you make the range smaller — for example, going from “1-50” to “1-20” — the connected players that fall outside the new range will be disconnected.

@@ -2,9 +2,9 @@
 
 Players can score points in this exciting twist on the classic Plinko marble game. After choosing the bucket they think the marble will land in—and optionally voting or competing to select the release point—the marble drops and bounces its way down the board, guided by a realistic physics simulation. With multiple board layouts and an optional rotating *vortex* that can send the marble back to a random starting position, every round is full of suspense and surprises.
 
-![](../../assets/images/image166.webp){ width="503" loading=lazy }
+![](../../assets/images/image166.webp){ loading=lazy }
 
-![](../../assets/images/image166.webp){ width="503" loading=lazy }
+![](../../assets/images/image166.webp){ loading=lazy }
 
 The game has the following configuration options:
 

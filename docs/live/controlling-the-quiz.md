@@ -134,7 +134,7 @@ The following picture shows the commands available from the QuizXpress remote co
 
 Alternatively, if you are not using QuizXpress hardware but, for example, the Sony buzzers, you can also use a generic PowerPoint presenter — such as a Labtec® 2.4 GHz wireless notebook presenter, a Logitech R400, or a similar device — with the following functions:
 
-| ![](../assets/images/image438.webp){ width="275" loading=lazy } | ![](../assets/images/image439.webp){ width="328" loading=lazy } |
+| ![](../assets/images/image438.webp){ loading=lazy } | ![](../assets/images/image439.webp){ width="328" loading=lazy } |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
 ## Quizmaster help menu
@@ -147,7 +147,7 @@ By default, quizmaster hints are switched ‘on’ in the ‘Advanced’ tab in 
 
 See below for two examples of quizmaster hints as shown in QuizXpress Live during a quiz.
 
-![](../assets/images/image440.webp){ width="605" loading=lazy }
+![](../assets/images/image440.webp){ loading=lazy }
 
 In the Quizmaster hints screen above, shown for example when a question has ended, we see the following buttons with the different commands and their optional ‘shortcut keys’:
 

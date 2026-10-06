@@ -26,7 +26,7 @@ Available configuration options:
 
 Please find below a picture of the card game in action.
 
-![](../../assets/images/image138.webp){ width="605" loading=lazy }
+![](../../assets/images/image138.webp){ loading=lazy }
 
 Each player is represented by a square. When a choice is made, the square turns either red or black.
 

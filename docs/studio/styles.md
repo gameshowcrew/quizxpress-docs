@@ -24,9 +24,9 @@ You can organize your workspace by filtering out styles (and backgrounds) you do
 
 There are also three slide layouts with a so-called ‘lower third’ layout. These types of layouts can be used, for example, when using QuizXpress as an overlay on a TV camera stream (using a chroma key color).
 
-| ![](../assets/images/image275.webp){ width="199" loading=lazy } | ![](../assets/images/image276.webp){ width="205" loading=lazy } | ![](../assets/images/image277.webp){ width="210" loading=lazy } |
+| ![](../assets/images/image275.webp){ loading=lazy } | ![](../assets/images/image276.webp){ loading=lazy } | ![](../assets/images/image277.webp){ loading=lazy } |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 New, custom styles can be designed in an advanced tool named Style Maker. You’ll find this tool in the Windows Start menu under QuizXpress. The style system is based on what’s known as 9-patch images. In this system, a base image is split into 9 sections (corners and middle parts) and 8 repeatable blocks that ‘glue’ these sections together when the panel is stretched. See the example below:
 
-![](../assets/images/image278.webp){ width="605" loading=lazy }
+![](../assets/images/image278.webp){ loading=lazy }

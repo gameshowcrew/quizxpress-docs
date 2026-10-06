@@ -31,6 +31,6 @@ From here you can preview the video, set the start and end markers, set the volu
 
 Tick the ‘Background’ box when you want your video to appear in the background of the slide. In the screenshot below, we are using a background video with an overlay shape to create an old-school TV effect (the video is set to background and a shape with a transparent screen is inserted).
 
-![](../../assets/images/image215.webp){ width="605" loading=lazy }
+![](../../assets/images/image215.webp){ loading=lazy }
 
 With Replay, you can enable replaying part of the video after the question has finished (when the correct answer is revealed).

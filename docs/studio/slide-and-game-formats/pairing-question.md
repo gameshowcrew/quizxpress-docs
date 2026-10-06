@@ -7,7 +7,7 @@ In a Pairing Question, players match text labels to images (e.g., countries to f
 
 To create this type of question, select a template with at least *three* image placeholders and set the question type to ‘Pairing Question’. Then assign the appropriate labels to each image:
 
-![](../../assets/images/image49.webp){ width="602" loading=lazy }
+![](../../assets/images/image49.webp){ loading=lazy }
 
 Alternatively, you can use the Quiz Wizard.
 
@@ -33,7 +33,7 @@ Set the input type to ‘Hotspot’:
 
 Then, put an image of a map in the picture placeholder, and edit the hotspot region(s) with the **Hotspot Editor** (right click the picture and select **Edit Hotspots**):
 
-![](../../assets/images/image54.webp){ width="602" loading=lazy }Now mark the area that makes the correct answer (here in red). Supported region shapes include rectangular, elliptical, and free-form areas.
+![](../../assets/images/image54.webp){ loading=lazy }Now mark the area that makes the correct answer (here in red). Supported region shapes include rectangular, elliptical, and free-form areas.
 
 Multiple correct regions can be defined:![](../../assets/images/image55.webp){ width="602" loading=lazy }
 
@@ -43,7 +43,7 @@ For multiple regions it looks like this in the Smart Buzzer app:
 
 On the quiz screen the picture will reveal the correct answer like:
 
-![](../../assets/images/image57.webp){ width="602" loading=lazy }
+![](../../assets/images/image57.webp){ loading=lazy }
 
 !!! note
 

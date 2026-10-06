@@ -28,7 +28,7 @@ Trivia Feud has three game modes: **Manual**, **Interactive** (fastest finger), 
 
 In manual mode, the game is fully controlled from a screen in QuizXpress Director, the quizmaster control panel, which runs on the laptop screen while the game show runs on a big screen.
 
-![](../../assets/images/image80.webp){ width="474" loading=lazy }
+![](../../assets/images/image80.webp){ loading=lazy }
 
 Survey answers given by the players can be manually revealed by pressing the corresponding buttons in Director. Accumulated points are shown on top, and the scores are shown for both teams.
 
@@ -96,7 +96,7 @@ The fastest player buzzing in is shown on the big screen with the current number
 
 Players have a limited time to provide an answer. This is indicated by a countdown timer at the top. The time can be configured in the Answer Time property (available in the property grid). If a player fails to answer within the timeframe, three crosses appear and the player gets penalty points deducted.
 
-![](../../assets/images/image89.webp){ width="605" loading=lazy }
+![](../../assets/images/image89.webp){ loading=lazy }
 
 If the answer given is on the board, the quizmaster reveals the answer by clicking the corresponding button in QuizXpress Director. Points are shown on top and then added to the player’s total.
 

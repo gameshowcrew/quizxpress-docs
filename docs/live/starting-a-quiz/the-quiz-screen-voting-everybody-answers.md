@@ -10,7 +10,7 @@ After the countdown video (which can be turned off and/or replaced with your own
 
 4.  The number of points to be gained by answering the question correctly. Note that points may decrease over time depending on the slide’s settings as set in Studio.
 
-![](../../assets/images/image407.webp){ width="518" loading=lazy }
+![](../../assets/images/image407.webp){ loading=lazy }
 
 When every team has made its choice, the system judges all answers and adds or subtracts points from the scores. Also, at the top of the quiz screen, a chart is shown:
 
@@ -37,7 +37,7 @@ When you use Sony Buzzers, QuizXpress Live processes a voting quiz slide slightl
 
 | ![](../../assets/images/image409.webp){ width="160" loading=lazy } | ![](../../assets/images/image410.webp){ width="166" loading=lazy } |                                                                                 | ![](../../assets/images/image411.webp){ width="155" loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| ![](../../assets/images/image412.webp){ width="160" loading=lazy } |                                                                                 | ![](../../assets/images/image413.webp){ width="168" loading=lazy } | ![](../../assets/images/image414.webp){ width="159" loading=lazy } |
+| ![](../../assets/images/image412.webp){ loading=lazy } |                                                                                 | ![](../../assets/images/image413.webp){ loading=lazy } | ![](../../assets/images/image414.webp){ loading=lazy } |
 
 Voting is one of the possible modes for a quiz slide. Other variations are described below.
 
@@ -49,7 +49,7 @@ On the next page you see a picture of a typical fastest finger screen. The most 
 
 The fact that ‘Team 17’ pressed first can be verified by checking the ‘Information Panel’ at the top of the screen. This panel shows, in separate boxes, the time each team buzzed in. Each box contains the name of a team that pressed their buzzer, together with the timestamp at which they pressed, ordered from left to right, starting with the fastest team.
 
-| ![](../../assets/images/image415.webp){ width="298" loading=lazy } | ![](../../assets/images/image416.webp){ width="296" loading=lazy } |
+| ![](../../assets/images/image415.webp){ loading=lazy } | ![](../../assets/images/image416.webp){ loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
 Note that the Information Panel at the top shows the number of points to be gained (which can diminish over time as explained earlier). Also, there is no indicator of the number of teams that answered, as this is not applicable for a fastest-finger question.
@@ -84,7 +84,7 @@ When setting a slide to ‘End of Round’, there is another option, called ‘e
 
 - Disable one player: automatically dismisses the player with the fewest points. If multiple players are tied at the bottom of the intermediate score list, the quizmaster selects which player will be dismissed, using the arrow keys on the keyboard or the quizmaster remote control. The selected player/team is highlighted with a blinking red light. Pressing the spacebar on the keyboard, or the bottom button on the quizmaster’s remote, dismisses the selected player. Deciding which player to dismiss when multiple teams have the same score is outside the scope of QuizXpress Live — for example, a quizmaster could ask an estimation question and dismiss the player whose answer is furthest from the correct one.
 
-> ![](../../assets/images/image417.webp){ width="524" loading=lazy }
+> ![](../../assets/images/image417.webp){ loading=lazy }
 
 - Manually dismiss players: the quizmaster can select any number of players to dismiss. They do this one by one, again using the keyboard or the quizmaster remote to select them. An example of an ‘End of Round, quizmaster selects losers’ quiz slide is shown above. The ‘play’ button at the bottom of the screen indicates that the quizmaster has finished dismissing players; pressing it (select it with the keyboard and press space) continues the quiz. The button with the rotating arrow undoes the dismissal process if the quizmaster dismisses someone by mistake, after which they can restart dismissing players.
 
@@ -142,7 +142,7 @@ Wager questions can be used to have the audience place a bet on the outcome of t
 
 When you set a quiz slide to type ‘Wager’, it looks as follows in QuizXpress Studio:
 
-![](../../assets/images/image420.webp){ width="605" loading=lazy }
+![](../../assets/images/image420.webp){ loading=lazy }
 
 The question text is by default changed to “Please place your bet for the next question…”, but you can change the text later to whatever you like. The answers to this type of question are used to set the percentage of the score the player can win or lose on the next question. For example, if the player answers ‘C’ to this question, it means they bet 66% of their score on the next question. If they answer the next question correctly, their score increases by 66%. Of course, if you use a slide layout with five answers, the percentages are distributed across five options (0%, 25%, 50%, 75%, and 100%). You can also set the percentage manually by clicking any of the answers and changing the ‘Wager %’ property.
 

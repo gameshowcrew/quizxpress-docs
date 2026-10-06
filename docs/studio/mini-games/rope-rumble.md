@@ -4,7 +4,7 @@ Rope Rumble is a fast-paced team tug-of-war game. Players are divided into two t
 
 The game evaluates team activity in rapid intervals, so the lead can change from moment to moment. The team that generates the most buzzer presses pulls the rope toward its side. The first team to pull the flag past the winning line wins the round.
 
-![](../../assets/images/image168.webp){ width="605" loading=lazy }
+![](../../assets/images/image168.webp){ loading=lazy }
 
 For added suspense, Rope Rumble can be played with a time limit. If time expires before either team reaches the winning line, victory goes to the team whose side the flag is on. Multiple rounds can be played, and players on the winning team receive the configured number of points.
 

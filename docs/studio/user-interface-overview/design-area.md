@@ -8,7 +8,7 @@ Slide items can be selected and resized by left-clicking one of the resize handl
 
 To insert a new slide, go to the INSERT menu and choose one of the predefined layouts in the ‘Quiz Slides’ section. Dark blue boxes represent placeholders for inserting a picture or video.
 
-![](../../assets/images/image13.webp){ width="605" loading=lazy }
+![](../../assets/images/image13.webp){ loading=lazy }
 
 By choosing the layouts on the bottom row, you can insert a minigame, a Trivia Board, a Trivia Ladder, a Trivia Feud game, or a Bingo round, respectively.
 

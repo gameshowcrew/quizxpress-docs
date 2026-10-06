@@ -12,7 +12,7 @@ Message Broker is an advanced QuizXpress plugin that enables seamless data excha
 
 The following picture shows an overview of how things are connected:
 
-![](../assets/images/image183.webp){ width="574" loading=lazy }
+![](../assets/images/image183.webp){ loading=lazy }
 
 Message Broker can be utilized to set up quiz rooms, control lighting, create custom game formats, and build external modules using various development environments, such as [Cycling ‘74 Max](https://cycling74.com/). This guide provides detailed instructions on configuring and using Message Broker to maximize its potential.
 
@@ -20,7 +20,7 @@ Note that Message Broker is a licensed add-on for QuizXpress and requires a one-
 
 Message Broker is accessible for configuration from the QuizXpress Director screen in a running quiz player:
 
-![](../assets/images/image184.webp){ width="591" loading=lazy }
+![](../assets/images/image184.webp){ loading=lazy }
 
 *(To access QuizXpress Director, start a quiz and press the D key, then look for the Extensions tab.)*
 

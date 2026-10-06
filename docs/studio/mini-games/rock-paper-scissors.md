@@ -28,17 +28,17 @@ Available configuration options:
 
 All out: the text that is shown when everyone has lost. When the game starts, a screen is shown with a video on top showing the moving hands of a virtual player who all the other players play against.
 
-![](../../assets/images/image150.webp){ width="388" loading=lazy }
+![](../../assets/images/image150.webp){ loading=lazy }
 
 Each player makes a choice for rock, paper, or scissors on their keypad/buzzer/phone.
 
-![](../../assets/images/image151.webp){ width="388" loading=lazy }
+![](../../assets/images/image151.webp){ loading=lazy }
 
 After this the opponent’s choice is revealed.
 
-![](../../assets/images/image152.webp){ width="386" loading=lazy }
+![](../../assets/images/image152.webp){ loading=lazy }
 
-![](../../assets/images/image153.webp){ width="524" loading=lazy }
+![](../../assets/images/image153.webp){ loading=lazy }
 
 When the choice of the opponent has been revealed, the game indicates who won, lost, or tied.
 

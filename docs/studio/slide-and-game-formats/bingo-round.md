@@ -28,17 +28,17 @@ The types of questions supported in a Trivia Bingo round are number, text, lette
 
 To create text cells on your bingo card, use the ‘open question’ slide template:
 
-![](../../assets/images/image106.webp){ width="624" loading=lazy }
+![](../../assets/images/image106.webp){ loading=lazy }
 
 And set the Input mode to Number, Letter or Text:
 
-![](../../assets/images/image107.webp){ width="624" loading=lazy }
+![](../../assets/images/image107.webp){ loading=lazy }
 
 This will result in a bingo cell with the correct answer as set for the question. Using ‘Number’ or ‘Text’ does not make much difference, but when using the type ‘Letter’, only the first letter will appear on the bingo card.
 
 To create a *picture* bingo card cell, choose the following layout:
 
-![](../../assets/images/image108.webp){ width="623" loading=lazy }
+![](../../assets/images/image108.webp){ loading=lazy }
 
 Select the picture element and check the ‘Hidden’ flag in the ‘Adjust’ section of the ribbon.
 
@@ -46,7 +46,7 @@ Select the picture element and check the ‘Hidden’ flag in the ‘Adjust’ s
 
 This will make the picture hidden when presenting the quiz to the audience, and it will appear on the Bingo card as a picture cell (you can choose to also show the picture on the big screen during a quiz, but this will make the answer very easy to find on the Bingo card!).
 
-![](../../assets/images/image110.webp){ width="624" loading=lazy }
+![](../../assets/images/image110.webp){ loading=lazy }
 
 The Quiz Wizard also helps in quickly creating a Trivia- or Music Bingo round. Just start the Quiz Wizard (HOME tab, Quiz Wizard button) and press ‘create a new round’ followed by ‘a Bingo round’. You can now choose from the four types of Bingo and indicate your preferences.
 
@@ -54,7 +54,7 @@ When you are done creating your questions, you can preview a (random) card by ri
 
 Below you find an example of a Trivia Bingo card preview:
 
-![](../../assets/images/image111.webp){ width="544" loading=lazy }
+![](../../assets/images/image111.webp){ loading=lazy }
 
 When running your quiz, as soon as your Bingo slide is presented, the system creates a set of random cards and distributes them among your players automatically.
 
@@ -64,7 +64,7 @@ For Trivia Bingo there is an option (on the BINGO tab of the ribbon) to randomiz
 
 It is possible to customize the picture that is shown in the center of the Bingo cards on the mobile app and use your own image. For this, select the Bingo element on the Bingo slide, open the advanced properties pane (VIEW tab, put a check before ‘Properties’), click the ‘Center image’ property and click the three dots property to select an image file:
 
-![](../../assets/images/image113.webp){ width="522" loading=lazy }
+![](../../assets/images/image113.webp){ loading=lazy }
 
 Use your own center image to promote your brand with players!
 
@@ -176,11 +176,11 @@ The quiz wizard contains specific support for Music Bingo. It allows you to sele
 
 When a player has marked enough cells to complete a pattern, he or she makes a claim by hitting the Bingo button on the mobile app. This results in the player’s name showing on screen and a 3-second countdown while the system validates the claim. There is no need for manual checking.
 
-![](../../assets/images/image126.webp){ width="605" loading=lazy }
+![](../../assets/images/image126.webp){ loading=lazy }
 
 After validation a thumbs-up or thumbs-down is shown on the big screen as well as on the mobile.
 
-![](../../assets/images/image127.webp){ width="413" loading=lazy } ![](../../assets/images/image128.webp){ width="103" loading=lazy }
+![](../../assets/images/image127.webp){ loading=lazy } ![](../../assets/images/image128.webp){ width="103" loading=lazy }
 
 On a valid Bingo, the player wins points (if configured) and the system switches to the next pattern.
 
@@ -188,7 +188,7 @@ When there is no next pattern to be played, the round ends and the quiz continue
 
 Handling multiple claims looks like:
 
-![](../../assets/images/image129.webp){ width="482" loading=lazy }
+![](../../assets/images/image129.webp){ loading=lazy }
 
 When a player disconnects from your quiz or loses connection to the session, the Bingo card and marked cells are not lost. When joining the game again, the card will be presented like it was when disconnecting. Also, should the quiz player crash, you can restart the quiz, recover from the stored snapshot and continue the Bingo round.
 
@@ -198,7 +198,7 @@ In QuizXpress Director, on the ‘Teams’ tab, there is an option to view the c
 
 To show the card of a player, select the player and press the ‘Show bingo card’ button. So, in case of a dispute, you can always double-check.
 
-![](../../assets/images/image130.webp){ width="624" loading=lazy }
+![](../../assets/images/image130.webp){ loading=lazy }
 
 ### Change Bingo patterns during a Bingo session
 

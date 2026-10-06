@@ -40,12 +40,12 @@ Available configuration options:
 
 ![](../../assets/images/image159.webp){ width="213" loading=lazy }At the start of the game, players are notified to get ready to count!
 
-![](../../assets/images/image160.webp){ width="209" loading=lazy }![](../../assets/images/image161.webp){ width="215" loading=lazy }
+![](../../assets/images/image160.webp){ width="209" loading=lazy }![](../../assets/images/image161.webp){ loading=lazy }
 
 After a small countdown shown onscreen (3-2-1), players have to keep counting and press the buzzer when the indicated time expires. After the amount of seconds determined by the settings has passed, the clock is stopped.
 
-![](../../assets/images/image162.webp){ width="307" loading=lazy }
+![](../../assets/images/image162.webp){ loading=lazy }
 
 Players are judged based on how far their answers are off the goal time (depending on the game mode chosen).
 
-![](../../assets/images/image163.webp){ width="307" loading=lazy }
+![](../../assets/images/image163.webp){ loading=lazy }

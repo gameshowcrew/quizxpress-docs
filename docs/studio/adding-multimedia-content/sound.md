@@ -30,7 +30,7 @@ You can import your Spotify playlists (optionally with album art and a 30 second
 
 If we create a Bingo game with these options, we get a mix of cells with album art and Artist/Title text, like:
 
-![](../../assets/images/image210.webp){ width="281" loading=lazy }
+![](../../assets/images/image210.webp){ loading=lazy }
 
 The created slides and game settings can be tweaked after the import.
 

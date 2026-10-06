@@ -28,6 +28,6 @@ Now, you can go to your other machine and activate QuizXpress using the same key
 
 To see where your license is in use (on what computers), press F1, then open the **Info** tab and click the **License Details** button:
 
-![](../assets/images/image6.webp){ width="602" loading=lazy }
+![](../assets/images/image6.webp){ loading=lazy }
 
 This will open a new web browser (you must be online) and navigate to a page that shows the details of your license key, including the computers where the key is currently in use.

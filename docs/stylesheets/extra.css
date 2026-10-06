@@ -35,3 +35,13 @@
   height: 1.3rem;
   width: auto;
 }
+
+/* Click-to-enlarge for screenshots */
+.md-typeset img:not(.inline-icon) { cursor: zoom-in; }
+.qx-zoom {
+  display: none; position: fixed; inset: 0; z-index: 1000;
+  background: rgba(0, 0, 0, 0.85); cursor: zoom-out;
+  align-items: center; justify-content: center; padding: 2vmin;
+}
+.qx-zoom--open { display: flex; }
+.qx-zoom img { max-width: 100%; max-height: 100%; object-fit: contain; box-shadow: 0 0 40px rgba(0,0,0,.6); }

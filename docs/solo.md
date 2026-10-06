@@ -14,13 +14,13 @@ Pressing the Ctrl button also shows the Exit button to close the application.
 
 After filling in all necessary information (underlined entry fields are mandatory), the ‘Start’ button becomes green, and the user should press it to begin the quiz. The welcome screen of the quiz is shown. Pressing the buzzer advances to the first question. Questions are answered using the A, B, C, or D button on the buzzer. When a question has been answered, a player can continue by pressing any key on the buzzer. In short, the entire quiz can be operated using a single buzzer. After a person has finished the quiz, the score screen is shown, which looks as follows (depending on the skin chosen — in the example below, the Techno skin was active):
 
-![](assets/images/image468.webp){ width="555" loading=lazy }
+![](assets/images/image468.webp){ loading=lazy }
 
 The score screen shows both the player’s score and the time needed to answer the questions. Only the time spent answering questions correctly is counted. After pressing one of the buzzer buttons, the initial screen of QuizXpress Live is shown again.
 
 Pressing ‘Results’ shows the score screen with all participants that played so far:
 
-![](assets/images/image469.webp){ width="511" loading=lazy }
+![](assets/images/image469.webp){ loading=lazy }
 
 ### Customizing the QuizXpress Solo data entry screen
 
@@ -40,4 +40,4 @@ In the window shown (see next page), all data entry fields can be configured (th
 
     if the number of fields is changed, previously stored score results will be cleared after confirmation. In this case, a message will be shown reminding you to first save the previous results if needed (this can be done by pressing the ‘Results’ button to show the current results, then choosing ‘Save as CSV’).
 
-![](assets/images/image470.webp){ width="501" loading=lazy }
+![](assets/images/image470.webp){ loading=lazy }

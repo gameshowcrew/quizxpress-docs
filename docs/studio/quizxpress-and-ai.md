@@ -10,7 +10,7 @@ The AI Quiz Generator helps you generate various types of questions. You can sta
 
 After clicking the button, the Trivia generator window is shown.
 
-![](../assets/images/image235.webp){ width="567" loading=lazy }
+![](../assets/images/image235.webp){ loading=lazy }
 
 In the Topic field, enter your desired subject. Be as specific as possible. For example:
 
@@ -38,11 +38,11 @@ This feature helps you create multiple-choice options while you keep control ove
 
 See an example of this below:
 
-![](../assets/images/image236.webp){ width="356" loading=lazy }
+![](../assets/images/image236.webp){ loading=lazy }
 
 ![](../assets/images/image237.webp){ width="331" loading=lazy }
 
-![](../assets/images/image238.webp){ width="533" loading=lazy }
+![](../assets/images/image238.webp){ loading=lazy }
 
 ## Trivia Feud survey generation
 
@@ -56,13 +56,13 @@ The survey answers will now be generated for you, including viable percentages.
 
 ![](../assets/images/image241.webp){ width="464" loading=lazy }
 
-![](../assets/images/image242.webp){ width="467" loading=lazy }
+![](../assets/images/image242.webp){ loading=lazy }
 
 ## AI-image generator
 
 You can also use the ‘QuizXpress AI co-pilot’ to generate slide images or a slide background.
 
-For example, generate an image in an image placeholder:![](../assets/images/image243.webp){ width="360" loading=lazy }
+For example, generate an image in an image placeholder:![](../assets/images/image243.webp){ loading=lazy }
 
 Providing a detailed description and rich context yields better pictures. You can also specify the desired style, such as ‘3D rendering’, ‘abstract art’, ‘comic’, etc.
 
@@ -72,7 +72,7 @@ In the example below, four pictures of the Eiffel Tower in the snow are generate
 
 Choose one of the four generated pictures, and it will be inserted into the picture placeholder.
 
-![](../assets/images/image245.webp){ width="444" loading=lazy }
+![](../assets/images/image245.webp){ loading=lazy }
 
 You can do the same for slide backgrounds. Right-click the background and choose ‘Generate with AI’. The example below generates a background for a music round with the description ‘female quizmaster announcing a music round, pointing towards the audience, with headphones, in front of a stage’.
 
@@ -82,7 +82,7 @@ You can do the same for slide backgrounds. Right-click the background and choose
 
 You can right-click any question or answer and instantly perform an online Google search on the text in the selected item. A browser pops up with the search results, helping you double-check the AI-generated content.
 
-![](../assets/images/image247.webp){ width="374" loading=lazy }
+![](../assets/images/image247.webp){ loading=lazy }
 
 ## Credits
 

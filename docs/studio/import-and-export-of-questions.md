@@ -126,11 +126,11 @@ With this function you can turn your favorite playlists into a QuizXpress music 
 
 Here, you specify what to create, along with several options. In this example, we are creating a music bingo with 75 slides: half of the bingo cells will be made up of album art, and the rest will be text with Artist/Song. After importing, the 30-second music clips will be on the slides, and an example bingo card will look like this:
 
-![](../assets/images/image256.webp){ width="605" loading=lazy }
+![](../assets/images/image256.webp){ loading=lazy }
 
 Likewise, you can create a music trivia quiz with questions.
 
-![](../assets/images/image257.webp){ width="605" loading=lazy }
+![](../assets/images/image257.webp){ loading=lazy }
 
 !!! note
 

@@ -27,11 +27,11 @@ For more information about other pictures settings please refer to [Picture prop
 
 When you right-click an image, you’ll see a ‘Crop…’ command in the context menu. This opens the **Crop Image** editor, which lets you select the section of the image to be presented in your quiz:
 
-![](../../assets/images/image188.webp){ width="602" loading=lazy }
+![](../../assets/images/image188.webp){ loading=lazy }
 
 The result is:
 
-![](../../assets/images/image189.webp){ width="602" loading=lazy }
+![](../../assets/images/image189.webp){ loading=lazy }
 
 Note that the *original* image is not retained after cropping, but if you don’t like the result, you can always undo the crop (within the same session).
 
@@ -43,7 +43,7 @@ This is especially useful when creating pairing questions or designing Bingo car
 
 You can format the text with various options, and when done, click OK to replace the picture placeholder on your slide with the generated image:
 
-![](../../assets/images/image191.webp){ width="602" loading=lazy }
+![](../../assets/images/image191.webp){ loading=lazy }
 
 ## Applying effects
 
@@ -51,7 +51,7 @@ One of the properties of a picture within a question is ‘Effect’. When a val
 
 See the following picture sequence for an example:
 
-![](../../assets/images/image192.webp){ width="194" loading=lazy } ![](../../assets/images/image193.webp){ width="176" loading=lazy } ![](../../assets/images/image194.webp){ width="184" loading=lazy }
+![](../../assets/images/image192.webp){ loading=lazy } ![](../../assets/images/image193.webp){ loading=lazy } ![](../../assets/images/image194.webp){ loading=lazy }
 
 Different stages of a ‘Twist’ effect.
 

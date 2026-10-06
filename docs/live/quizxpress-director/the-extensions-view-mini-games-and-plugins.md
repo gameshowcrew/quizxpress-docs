@@ -6,7 +6,7 @@ Please refer to [Majority Rules](../../studio/slide-and-game-formats/majority-ru
 
 There are three actions you can perform on an installed plugin: configure, launch, and end. ‘Configure’ opens a window to change settings for the plugin. ‘Launch’ starts the plugin on the main quiz screen for the contestants. The ‘End’ button terminates a plugin and returns you to the normal quiz screen.
 
-![](../../assets/images/image452.webp){ width="592" loading=lazy }
+![](../../assets/images/image452.webp){ loading=lazy }
 
 When you click the ‘Configurations’ button, you will see that you can create, delete, or rename a configuration. Available configurations are shown in the plugins list, next to each plugin, for you to choose from. You can also clone the currently selected configuration. Press the configure button to change the details of the selected configuration. The selected configuration for a plugin is the one used once you launch the plugin.
 

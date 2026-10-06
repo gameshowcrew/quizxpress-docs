@@ -49,9 +49,9 @@ Things like player names, scores, responses, response times, the PIN code, slide
 
 Below are some examples of screens with a custom design. The left side shows how the slide looks in QuizXpress Studio. The right side shows how the slide could look during a game.
 
-| ![](../../assets/images/image197.webp){ width="314" loading=lazy } | ![](../../assets/images/image198.webp){ width="305" loading=lazy } |
+| ![](../../assets/images/image197.webp){ loading=lazy } | ![](../../assets/images/image198.webp){ loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| ![](../../assets/images/image199.webp){ width="319" loading=lazy }  | ![](../../assets/images/image200.webp){ width="303" loading=lazy } |
+| ![](../../assets/images/image199.webp){ loading=lazy }  | ![](../../assets/images/image200.webp){ loading=lazy } |
 |                                                                                 |                                                                                 |
 
 When editing text elements in the text editor form (double-click a text or text shape to open it), there is an ‘Insert Symbol’ button to insert a text symbol. You can also type the symbols in manually. The Insert Symbol dialog lists all symbols along with an explanation for each.
@@ -79,7 +79,7 @@ Text symbols are a great way to make your quiz slides more dynamic, and, for exa
 
 You can also show and hide shape and text items over time by setting the timed shape properties on the SHAPE TOOLS contextual ribbon tab. This allows you, for example, to create a ‘hint’ that appears after a certain time as the countdown proceeds, as shown in the following example:
 
-![](../../assets/images/image202.webp){ width="605" loading=lazy }
+![](../../assets/images/image202.webp){ loading=lazy }
 
 In this example, the text item with panel appears after 40% of the countdown time is over.
 

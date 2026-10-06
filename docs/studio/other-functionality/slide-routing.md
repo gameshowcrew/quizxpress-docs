@@ -6,11 +6,11 @@ A built-in viewer helps to visualize the slide flow.
 
 You define a route by giving the slide you want to jump to an Id in the slide’s properties. This can be an arbitrary but unique name that makes sense to you as the quiz author:
 
-![](../../assets/images/image281.webp){ width="545" loading=lazy }
+![](../../assets/images/image281.webp){ loading=lazy }
 
 Then, refer to this Id in the ‘Next slide’ property of the answer/picture on an Audience Response/Majority Rules slide:
 
-![](../../assets/images/image282.webp){ width="592" loading=lazy }
+![](../../assets/images/image282.webp){ loading=lazy }
 
 The example above shows an Audience Response slide with 4 pictures. When option A (Paris) has the most votes, the system jumps to the slide with Id ‘Paris’.
 

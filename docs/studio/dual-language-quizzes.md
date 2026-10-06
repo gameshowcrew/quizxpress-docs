@@ -14,7 +14,7 @@ Once you enter text in the secondary language, it is stored in the quiz. Switchi
 
 You can automatically translate a quiz into another language. To do so, click the Translate button on the HOME ribbon tab:
 
-![](../assets/images/image251.webp){ width="518" loading=lazy }
+![](../assets/images/image251.webp){ loading=lazy }
 
 In QuizXpress Live!, the slides of both languages are presented on screen at the same time — the Primary language on the left and the Secondary language on the right.
 

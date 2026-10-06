@@ -2,7 +2,7 @@
 
 QuizXpress Director is a tool that gives you advanced control over the running quiz show. It has a separate user interface that can run on your primary screen while the quiz show runs on the attached beamer, TV set, or LED screen. You should set your Windows desktop to ‘extended mode’ for this (on Windows 10, press Windows key + P).
 
-![](../../assets/images/image441.webp){ width="605" loading=lazy }
+![](../../assets/images/image441.webp){ loading=lazy }
 
 The QuizXpress Director user interface consists of a command area (left panel), where all the currently available command buttons are listed, and a set of tabbed views, each having a distinct function.
 

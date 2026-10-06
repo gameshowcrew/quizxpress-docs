@@ -1,8 +1,6 @@
 site_name: QuizXpress Docs
 site_description: User manual for QuizXpress 8.6 — create, set up and run live quiz shows.
 site_url: https://docs.quizxpress.com/
-repo_url: https://github.com/gameshowcrew/quizxpress-docs
-edit_uri: edit/main/docs/
 copyright: Copyright &copy; QuizXpress
 
 theme:
@@ -17,7 +15,6 @@ theme:
     - navigation.instant
     - search.suggest
     - search.highlight
-    - content.action.edit
     - toc.follow
   palette:
     - media: "(prefers-color-scheme: light)"

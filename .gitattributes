@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# batch files need CRLF
+*.bat text eol=crlf

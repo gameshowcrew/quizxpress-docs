@@ -12,7 +12,68 @@ Linking results in smaller, more manageable quiz files, but you’ll have to mak
 
 Once the file is inserted, the AUDIO contextual ribbon tab becomes visible to configure the various options.
 
-![](../../assets/images/image207.webp){ width="605" loading=lazy }
+![The AUDIO ribbon tab](../../assets/images/image207.webp){ width="720" loading=lazy }
+
+## Trimming a sound
+
+Usually you only want to play part of a song or recording: the chorus, the intro, or just the few seconds that give the answer away. The trim editor shows the sound as a waveform, so you can see where the music starts, where it gets loud and where it fades out, and choose the part to play by listening to it.
+
+The trim editor doesn't change the sound file itself. It only sets the sound's start and end time, so you can always go back to the whole track.
+
+### Opening the trim editor
+
+Select the sound icon on the slide, then use one of these:
+
+- Click the ‘Trim’ button in the ‘Timing’ group on the AUDIO ribbon tab, next to the start and stop times. The small arrow in the bottom-right corner of the ‘Timing’ group opens the same editor.
+
+    ![The Trim button on the AUDIO ribbon tab](../../assets/images/sound-ribbon-trim-button.webp){ width="420" loading=lazy }
+
+- Right-click the sound icon on the slide and choose ‘Trim sound...’.
+
+    ![Trim sound in the sound's context menu](../../assets/images/sound-context-menu-trim.webp){ width="240" loading=lazy }
+
+!!! note
+    You can't trim Spotify tracks and MIDI files, or a linked sound file that can't be found. The ‘Trim’ button is greyed out for these.
+
+### Choosing the part to play
+
+![The trim editor](../../assets/images/sound-trim-editor.webp){ loading=lazy }
+
+The part that will play is highlighted in blue. To change it:
+
+- **Drag across the waveform** to select a new part, or drag the markers at the start and end of the selection.
+- **Type the times** in the ‘Start’ and ‘End’ boxes. You can enter seconds (`75`), minutes and seconds (`1:15`) or hours, minutes and seconds (`0:01:15`), with decimals if you like (`1:15.5`). ‘Length’ shows how long the selected part plays.
+- **Set the start or end while listening**: click ‘Set start (I)’ or ‘Set end (O)’, or press I or O on the keyboard, at the exact moment you hear the right spot. When no sound is playing, these buttons use the cursor position instead.
+- **‘Whole track’** selects the complete sound again.
+
+Click anywhere in the waveform to place the cursor (the orange line).
+
+To listen:
+
+- ‘Play selection’ (or the Space bar) plays the selected part. Press Space again to stop.
+- ‘Play from cursor’ plays from the cursor to the end of the sound.
+- While the sound is playing, click the waveform to jump to that spot.
+
+The display next to the buttons shows the current position and the total length of the sound.
+
+For precise work, zoom in with the mouse wheel and use Shift + mouse wheel or the scroll bar under the waveform to move left and right. ‘Zoom to fit’ shows the whole sound again.
+
+Click ‘OK’ to apply the new start and end time, or ‘Cancel’ to leave the sound as it was. You can undo a trim in one step with Undo. If you normalized the sound's volume, QuizXpress measures the new part again so it stays just as loud.
+
+### Setting the replay part
+
+In the same editor you can choose the part that plays again after the answer is revealed (see [Replay](#replay) below). Often that's a different part of the song than the one played during the question, for example the chorus.
+
+![The trim editor showing the replay part](../../assets/images/sound-trim-editor-replay.webp){ loading=lazy }
+
+1. Tick ‘Replay after the answer is revealed’. The editor switches to ‘Replay’ and the selection turns green.
+2. Select the replay part in the same way as described above.
+3. Optionally, enter a ‘Delay (s)’: the number of seconds to wait after the answer is revealed before the replay starts.
+
+Use the ‘Playback’ and ‘Replay’ buttons at the top left to switch between the two parts. The part you are not editing is shown as a bar along the bottom of the waveform (blue for playback, green for replay), so you can see how the two relate.
+
+!!! note
+    Replay isn't available when the sound's ‘Keep playing’ option is on, because the sound then never stops.
 
 ## Replay
 
@@ -20,7 +81,7 @@ Often you’ll want to replay (part of) the music after the question has finishe
 
 ![](../../assets/images/image208.webp){ width="576" loading=lazy }
 
-You can set an initial delay, the song’s start time, and the end time.
+You can set an initial delay, the song’s start time, and the end time. The easiest way to choose the replay part is on the waveform in the trim editor; see [Setting the replay part](#setting-the-replay-part).
 
 ## Spotify ™ playlist import
 

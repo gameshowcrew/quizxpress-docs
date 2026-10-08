@@ -40,7 +40,7 @@ Some triggers have an optional parameter that narrows down when they fire. In th
 | Restart | The quiz restarts and goes back to the welcome screen. |
 | Fastest Finger | A player is first to respond to a fastest-finger question. You can filter on the device number (keypad or buzzer). |
 | Screen Changed | The screen changes, for example welcome screen → buzzer sign-on screen → quiz screen → score screen. You can filter on the type of screen. |
-| Slide Changed | The quiz advances to another slide. You can filter on the from/to slide number or on the slide class. |
+| Slide Changed | The quiz advances to another slide. You can filter on the from/to slide number or on the slide class. Slide numbers start at 0 (the first slide is 0), unless 'Number slides from 1' is ticked on the [IP Outbound](ip-outbound.md#settings) tab. |
 | Remote Command | A command arrives from the quizmaster remote control. |
 | Receive Keypad | A signal arrives from a keypad or buzzer. You can filter on the keypad number and the key (A = 1, B = 2, and so on; fastest finger = 0). |
 | Claim Bingo | A player claims Bingo. |

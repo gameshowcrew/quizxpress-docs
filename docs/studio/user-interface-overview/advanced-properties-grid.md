@@ -142,6 +142,11 @@ These properties are shown by clicking on the background of a question. The prop
 <td>Background stretch mode</td>
 <td>Indicates how the background picture is stretched on the slide. This can either be ‘Fill’ to simply fill the entire slide with the picture (aspect ratio is not maintained) or ‘Zoom’ to keep the correct aspect ratio and possibly loose some parts of the picture</td>
 </tr>
+<tr class="odd">
+<td>Background video</td>
+<td><p>A video that plays behind the slide during the quiz. A picture or video in a placeholder plays on top of it. Once set, these settings appear below it: <em>Video storage type</em> (embedded or linked), <em>Linked file</em> (for a linked video), <em>Loop</em> (on by default), <em>Silent</em> (on by default) and, under ‘More options’, <em>Sync with quiz</em> (pause the video when a team buzzes in, the countdown is paused or the question ends).</p>
+<p>On a category, the background video is applied to every slide formatted with that category. See <a href="../../backgrounds/#background-video">Background video</a>.</p></td>
+</tr>
 <tr class="even">
 <td>Bonus points</td>
 <td>The bonus points for the 1, 2<sup>nd</sup> and 3<sup>rd</sup> fastest player to answer correctly.</td>

@@ -59,8 +59,14 @@ The first row is mandatory and must follow the heading names as below:
 <td>BACKGROUND</td>
 <td>An optional path to a background image for the slide (png, jpg, bmp, etc.)</td>
 </tr>
+<tr class="odd">
+<td>BACKGROUND-VIDEO</td>
+<td>An optional path to a video that plays behind the slide (see <a href="../backgrounds/#background-video">Background video</a>). It does not take a placeholder, so it can be combined with pictures (P1-P6) or a VIDEO. When the question has a category with a background video, the video in this column replaces it for this question.</td>
+</tr>
 </tbody>
 </table>
+
+Workbooks made with an older template, without the BACKGROUND-VIDEO column, can still be imported.
 
 In addition to this fixed set of columns, there are a number of user-definable columns that can be picked from the dropdown list in the Excel template:
 
@@ -110,9 +116,27 @@ By default, all slides are created as quiz questions. However, you can specify t
 
 So, for example, the text “{A}Do you like this quiz night?” imports an Audience Response slide with the text “Do you like this quiz night?”
 
-Sound and video inserted into your slide using the SOUND and VIDEO columns are normally embedded, meaning the entire contents of the sound/video file are stored inside the quiz file. This may result in large quiz files. To prevent this, you can prefix the values in these columns with ‘{L}’ to indicate you want to link the media files. For example: “{L} C:\Users\Public\Videos\Sample Videos\Wildlife.wmv”. Note that linked files must remain present on your system when running the quiz.
+Sound and video inserted into your slide using the SOUND, VIDEO and BACKGROUND-VIDEO columns are normally embedded, meaning the entire contents of the sound/video file are stored inside the quiz file. This may result in large quiz files. To prevent this, you can prefix the values in these columns with ‘{L}’ to indicate you want to link the media files. For example: “{L} C:\Users\Public\Videos\Sample Videos\Wildlife.wmv”. Note that linked files must remain present on your system when running the quiz. When several questions use the same background video file, it is stored only once in the quiz.
+
+You can add settings to a video in the VIDEO or BACKGROUND-VIDEO column by putting them between curly brackets after the file name, separated by semicolons. For example: “intro.mp4{loop=false;sync-with-quiz=true}”. Settings you leave out keep their default value.
+
+| Setting        | Description                                                                                                               |
+|----------------|---------------------------------------------------------------------------------------------------------------------------|
+| start-at       | Where the video starts, for example 00:00:05                                                                              |
+| stop-at        | Where the video stops, for example 00:00:20                                                                               |
+| loop           | true or false: play the video again when it ends. Default: true for a background video, false for a video in a placeholder |
+| silent         | true or false: play without sound. Default: true for a background video, false for a video in a placeholder              |
+| volume         | Volume from 0 to 100 (default 100)                                                                                         |
+| speed          | Playback speed in percent, from 25 to 250 (default 100)                                                                   |
+| effect         | A video effect, such as Blur or Mosaic                                                                                    |
+| intro-pause    | VIDEO only: seconds to wait before the video starts (default 1)                                                           |
+| sync-with-quiz | BACKGROUND-VIDEO only: true to pause the background video along with the quiz (default false)                             |
 
 You can create rounds in your quiz by adding multiple worksheets to the Excel workbook. For each worksheet, a quiz slide of type ‘billboard’ is inserted into the quiz, containing the worksheet’s name to announce the next round. For example, suppose you have two worksheets, ‘Round 1’ and ‘Round 2’, each containing ten questions. When importing the Excel file into QuizXpress Studio, you get a quiz containing: a billboard with the text ‘Round 1’, followed by ten questions, followed by a billboard with the text ‘Round 2’, again followed by ten questions.
+
+## Export to Excel
+
+‘FILE->Export->Export to Excel’ saves the questions of your quiz in the same format, as a CSV file that opens in Excel and can be imported again. Pictures, sounds and videos are saved next to the CSV file. Sounds and videos keep the name of their original file, and a file that several questions share, such as the background video of a category, is saved only once. For videos, only the settings that differ from the default are written.
 
 ## Import from PowerPoint
 

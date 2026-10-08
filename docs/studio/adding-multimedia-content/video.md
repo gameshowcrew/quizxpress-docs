@@ -29,8 +29,21 @@ When selecting a video, the contextual ribbon tab for video becomes visible:
 
 From here you can preview the video, set the start and end markers, set the volume, and change the playback speed (note that changing the playback speed may not work for all video types and depends on the CODECs being used). You can also configure an effect that changes over time. For example, you can use the Mosaic effect to show the video fully pixelated at the start and gradually reveal the details while asking your audience a question about the video, with decreasing points. You can also play the video in silent mode and loop the fragment until the question ends. With ‘Select Picture’, you can change the slide element back to a static picture.
 
-Tick the ‘Background’ box when you want your video to appear in the background of the slide. In the screenshot below, we are using a background video with an overlay shape to create an old-school TV effect (the video is set to background and a shape with a transparent screen is inserted).
+With Replay, you can enable replaying part of the video after the question has finished (when the correct answer is revealed).
+
+## Video in the background
+
+A video can also play behind the whole slide, as its background. Such a background video is not placed in a placeholder: right-click the background of the slide and choose ‘Background video…’, or set the ‘Background video’ property of the slide. A background video loops and plays without sound by default. See [Background video](../backgrounds.md#background-video) for all its settings.
+
+In the screenshot below, a background video is combined with an overlay shape to create an old-school TV effect (a shape with a transparent screen is placed on top of the background video).
 
 ![](../../assets/images/image215.webp){ loading=lazy }
 
-With Replay, you can enable replaying part of the video after the question has finished (when the correct answer is revealed).
+!!! note
+    Earlier versions had a ‘Background’ tick box for a video in a placeholder. That box is gone: a background video now has its own place behind the slide. Background videos in quizzes made with an earlier version are converted automatically when you open the quiz.
+
+## Combining a background video with a video in a placeholder
+
+Because the background video does not use a placeholder, a slide can have both: a background video playing behind the slide and a video (or picture) in its placeholder, which plays on top of it. For example, use a looping studio animation as background video and the question’s film fragment in the placeholder.
+
+The two videos each keep their own settings. The video in the placeholder starts after its intro pause and always pauses and resumes along with the quiz. The background video starts as soon as the slide appears and, unless you switch on ‘Sync with quiz’, keeps playing. Leave the background video silent (the default) so its sound does not mix with the sound of the video in the placeholder.

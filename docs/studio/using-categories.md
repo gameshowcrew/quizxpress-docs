@@ -13,3 +13,11 @@ Now you can set the properties of the category like the background to use. To ap
 ![](../assets/images/image28.webp){ width="350" loading=lazy }
 
 Now the selected slide(s) will be formatted like the category slide.
+
+## Background video for a category
+
+A category can also have a [background video](backgrounds.md#background-video), for example a looping animation in the colors of the ‘Science’ round. Select the category slide in Category view and set it the same way as for a normal slide: right-click its background and choose ‘Background video…’, or set the ‘Background video’ property in the properties pane, together with its settings (loop, silent, sync with quiz).
+
+When you apply the category, every selected slide gets the background video with the same settings. The video is stored only once in the quiz file, however many slides use it. A picture or video in the placeholders of those slides stays where it is and plays on top of the background video. Applying the category again, or another category with a background video, replaces the slide’s background video. Afterwards you can still change the settings of the background video per slide.
+
+Questions imported from Excel that refer to the category get its background video too, unless the BACKGROUND-VIDEO column of the question names a video of its own (see [Import and export of questions](import-and-export-of-questions.md)).

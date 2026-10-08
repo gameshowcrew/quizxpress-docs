@@ -218,10 +218,13 @@ nav:
     - advanced/scripting/debugging.md
     - advanced/scripting/reference.md
     - advanced/scripting/examples.md
+  - Skinning:
+    - advanced/skinning/index.md
+    - advanced/skinning/creating-a-custom-skin.md
+    - advanced/skinning/maintaining-a-custom-skin.md
   - Other advanced topics:
     - advanced/quizxpress-live-recovery-mode.md
     - advanced/custom-data-fields.md
-    - advanced/skinning.md
 - More:
   - Solo (tradeshow booths): solo.md
   - Analyzer:

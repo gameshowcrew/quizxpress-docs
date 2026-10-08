@@ -26,6 +26,9 @@ You can switch between the available skins in the Appearance section:
 
 ![](../assets/images/image340.webp){ width="431" loading=lazy }
 
+!!! tip "Your own skin"
+    You can also create your own skin in your house style, with your own colours, fonts and images. See [Skinning](../advanced/skinning/index.md).
+
 | ![](../assets/images/image341.webp){ loading=lazy }                                                                                                         | ![](../assets/images/image342.webp){ loading=lazy } |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | ‘Dark Theme’ welcome screen                                                                                                                                                             | ‘TV Show’ welcome screen                                                        |

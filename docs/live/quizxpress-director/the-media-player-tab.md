@@ -24,6 +24,14 @@ When you add files to the list, they are actually copied to the local QuizXpress
 
 ![](../../assets/images/image454.webp){ width="605" loading=lazy }
 
+## Searching the list
+
+With many media files, use the search field above the list to find one quickly. Type part of a file name and the list only shows the files that contain it, for example 'chris' finds both 'Chris Rea - Driving home for christmas' and 'Band Aid 30 - Do They Know It's Christmas'. Upper and lower case don't matter. Press Esc or clear the field to show all files again.
+
+![Media list filtered with the search field](../../assets/images/media-player-search.webp){ width="605" loading=lazy }
+
+While you type in the search field, keys such as Space, 'C' and 'S' go to the field and don't trigger the Director shortcuts. The search only filters the list; the sound board keeps all its pads.
+
 ## The sound board
 
 Next to the list, the Media Player tab has a sound board: a grid of colorful, glowing pads, like the launch pads DJs use. One click on a pad plays its sound, video or picture, so jingles, applause and walk-on music are always at your fingertips.

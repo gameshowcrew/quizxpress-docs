@@ -14,7 +14,7 @@ The available views in Director are:
 | **Responses**    | Real-time response overview                                                                                                                                               |
 | **Round scores** | Overview of the scores and winners per round *(only visible if rounds are used in the quiz file)*                                                                         |
 | **Extensions**   | List of installed QuizXpress ‘plugins’ and controls to start, stop and configure these plugins                                                                            |
-| **Media Player** | A list of media files (sound and video) and controls to add, start, stop, or pause a media file (you can also restart a video or sound on the current slide if available) |
+| **Media Player** | A list of media files (sound and video) and controls to add, start, stop, or pause a media file (you can also restart a video or sound on the current slide if available), plus a [sound board](the-media-player-tab.md#the-sound-board) to play files with one click |
 | **Mobile**       | A list of connected mobile devices and various commands to control mobile connections                                                                                     |
 
 There are two ways to open the Director window:

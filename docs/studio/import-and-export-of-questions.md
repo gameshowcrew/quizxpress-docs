@@ -8,9 +8,9 @@ QuizXpress Studio allows questions to be imported from Microsoft Excel. You may 
 
 QuizXpress Studio supports the Office 2007 native .xlsx file format and the CSV (comma-separated text file) format. The .xlsx format is preferred, as it has fewer issues with localization, special characters, etc.
 
-To define your questions in Excel, open the preinstalled template *quiztemplate.xlsx* (you can find this file in the QuizXpress installation folder). You can also open the template from the backstage menu, on the ‘Import’ section. You will see the layout as shown below:
+To define your questions in Excel, open the preinstalled template *quiztemplate.xlsx* (you can find this file in the QuizXpress installation folder). You can also open the template from the backstage menu, on the ‘Import’ section. Below is the template filled with a few music questions, each with a background video and some with a video:
 
-![](../assets/images/image254.webp){ width="605" loading=lazy }
+![The Excel template with example music questions](../assets/images/excel-template.webp){ loading=lazy }
 
 The first row is mandatory and must follow the heading names as below:
 

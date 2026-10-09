@@ -14,11 +14,15 @@ Instead of a still picture, a slide can also have a video playing behind it: mov
 
 To add one, right-click the background of the slide and choose ‘Background video…’, then select a video file. You can also set it in the properties pane: select the slide, and click the ‘Background video’ property in the Background section of the Design page. When you select several slides and set the property, they all get the same background video; the video is stored only once in the quiz file.
 
+![Context menu of the slide background with the background video options](../assets/images/background-video-context-menu.webp){ loading=lazy }
+
 In the editor the slide shows the first frame of the video, with a small video icon in the top left corner so you can see which slides have a background video. To see it move, right-click the background and choose ‘Play background video’ (and ‘Stop background video’ to stop it). The preview (F5) plays it as well.
 
 A background video does not take a picture/video placeholder, so you can still put a picture or a [video in a placeholder](adding-multimedia-content/video.md#combining-a-background-video-with-a-video-in-a-placeholder) on the same slide; it plays on top of the background video.
 
 Once a slide has a background video, the following settings appear below the ‘Background video’ property:
+
+![Background video settings in the properties panel](../assets/images/properties-panel-background-video.webp){ width="322" loading=lazy }
 
 | Property           | Description                                                                                                                                                                                                 |
 |--------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

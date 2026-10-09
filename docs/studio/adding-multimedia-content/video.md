@@ -25,7 +25,7 @@ Embedded video content cannot be larger than 30MB. In general, try to keep your 
 
 When selecting a video, the contextual ribbon tab for video becomes visible:
 
-![](../../assets/images/image214.webp){ width="590" loading=lazy }
+![The Video ribbon tab](../../assets/images/video-ribbon.webp){ loading=lazy }
 
 From here you can preview the video, set the start and end markers, set the volume, and change the playback speed (note that changing the playback speed may not work for all video types and depends on the CODECs being used). You can also configure an effect that changes over time. For example, you can use the Mosaic effect to show the video fully pixelated at the start and gradually reveal the details while asking your audience a question about the video, with decreasing points. You can also play the video in silent mode and loop the fragment until the question ends. With ‘Select Picture’, you can change the slide element back to a static picture.
 
@@ -45,5 +45,7 @@ In the screenshot below, a background video is combined with an overlay shape to
 ## Combining a background video with a video in a placeholder
 
 Because the background video does not use a placeholder, a slide can have both: a background video playing behind the slide and a video (or picture) in its placeholder, which plays on top of it. For example, use a looping studio animation as background video and the question’s film fragment in the placeholder.
+
+![A slide with a background video and a video in its placeholder](../../assets/images/background-and-placeholder-video.webp){ loading=lazy }
 
 The two videos each keep their own settings. The video in the placeholder starts after its intro pause and always pauses and resumes along with the quiz. The background video starts as soon as the slide appears and, unless you switch on ‘Sync with quiz’, keeps playing. Leave the background video silent (the default) so its sound does not mix with the sound of the video in the placeholder.

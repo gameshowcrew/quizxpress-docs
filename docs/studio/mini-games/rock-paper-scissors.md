@@ -4,6 +4,8 @@ In the Rock Paper Scissors minigame, the audience plays against a virtual oppone
 Players choose rock, paper or scissors on their buzzer, keypad or phone. The computer's
 hand moves up and down three times before revealing its choice.
 
+![Rock Paper Scissors voting screen with the white hand style](../../assets/images/rock-paper-scissors-voting.webp){ loading=lazy }
+
 ## Playing a round
 
 1. Start the game. The studio appears and the background music starts.
@@ -27,7 +29,11 @@ before voting closes, are eliminated.
     For example, if the computer reveals rock, players who chose paper win the round,
     players who chose rock tie, and players who chose scissors are eliminated.
 
+![Round results with the neon hand style and the remaining players](../../assets/images/rock-paper-scissors-results.webp){ loading=lazy }
+
 ## Game mode and scoring
+
+![Rock Paper Scissors settings with hand previews and voting colors](../../assets/images/rock-paper-scissors-settings.webp){ width="600" loading=lazy }
 
 Open the game's settings to choose a game mode:
 

@@ -6,18 +6,24 @@ The wheel of fortune allows you to spin a wheel to draw a prize or points for a 
 
 Please find below the configuration screens with their default settings:
 
-| ![](../../assets/images/image140.webp){ width="254" loading=lazy } | ![](../../assets/images/image141.webp){ width="254" loading=lazy } |
-|--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
+| ![The ‘Game’ tab](../../assets/images/wheel-of-fortune-settings-game.webp){ width="240" loading=lazy } | ![The ‘Appearance’ tab](../../assets/images/wheel-of-fortune-settings-appearance.webp){ width="240" loading=lazy } | ![The ‘Other’ tab](../../assets/images/wheel-of-fortune-settings-other.webp){ width="240" loading=lazy } |
+|---|---|---|
 
-- Participants: selected players play the wheel (selection is done before the wheel starts, on the director screen), the top ranked players play the wheel or a single player of a certain rank can stop the wheel with his or her keypad.
+- Participants: choose who plays the wheel.
+
+    - ‘Select participating players before game’: you select the players on the director screen, just before the wheel starts.
+    - ‘Play the game with the top’: the given number of top ranked players play the wheel.
+    - ‘The player with this ranking can stop the wheel for a prize’: a single player of a certain rank can stop the wheel with his or her keypad. Untick ‘Show player’ to hide the panel that shows who this player is.
+    - ‘Play with the winner of the last question’: the team that was first with the correct answer to the previous question plays the wheel. When nobody answered that question correctly, the wheel is skipped.
+    - ‘None (wheel only)’: only the wheel is shown, without teams. Use it to draw a prize for someone in the room. Points on the wheel are shown, but not given to a team.
 
 - Draw a prize: prizes (which can also be positive or negative points) are shown in the wheel. By pressing the ‘Setup prizes’ button the prizes can be configured, see [Setting up the prizes](#setting-up-the-prizes).
 
-- Draw a team/player: the selected participants are distributed across the wheel. The number of segments on the wheel can be chosen by selecting a value for ‘Number of segments’. If the checkmark is checked before ‘Show prize’, prizes which can be won (or lost) are shown next to the wheel. While the wheel spins, the prizes highlight one after another. When the wheel stops on a player/team, the highlighted prize is won (or lost, in the case of negative points). Prizes (or points) can be defined by pressing the ‘Setup prizes’ button. This mode does not work in combination with the ‘stop the wheel’ option in the ‘participants’ section, as prizes are required on the wheel for the ‘stop the wheel’ game.
+- Draw a team/player: the selected participants are distributed across the wheel. Under ‘Show in wheel’ you choose whether the wheel shows the team names or the keypad numbers. The number of segments on the wheel can be chosen by selecting a value for ‘Number of segments’. If the checkmark is checked before ‘Show prize’, prizes which can be won (or lost) are shown next to the wheel. While the wheel spins, the prizes highlight one after another. When the wheel stops on a player/team, the highlighted prize is won (or lost, in the case of negative points). Prizes (or points) can be defined by pressing the ‘Setup prizes’ button. This mode does not work in combination with the ‘stop the wheel’ option in the ‘participants’ section, as prizes are required on the wheel for the ‘stop the wheel’ game, nor with ‘None (wheel only)’.
 
 - Draw bonus points: the positive, negative and Kapow! points are distributed across the wheel in the number of segments indicated. For positive and negative points, each segment increases or decreases in value, respectively (for example: positive points of 1 with 5 segments results in the values 1, 2, 3, 4, and 5; negative points of -2 with 4 segments results in the values -2, -4, -6, -8). Kapow! points are negative points that are fixed across the number of segments specified. The Kapow! segments are the ones players do not want to land on! The total number of segments for the ‘Draw bonus points’ section cannot exceed 40.
 
-- Appearance tab: set the title text of the game and the fonts used. Choose a background image as well as the image shown at the center of the wheel. Without a center image, the wheel shows a gold star in the center.
+- Appearance tab: set the title text of the game, the font of the title (also used for the panel next to the wheel and for the result) and the font of the text on the wheel. Choose a background image as well as the image shown at the center of the wheel. Without a center image, the wheel shows a gold star in the center. Under ‘Sound’ you can choose music (an MP3 file) that plays while the wheel is on screen.
 
 - Other tab: Set the wheel spinning speed as well as the spin time.
 

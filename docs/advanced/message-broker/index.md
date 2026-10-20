@@ -11,7 +11,7 @@ This section describes QuizXpress 8.5 and later.
 
 - **TCP/UDP:** inbound and outbound communication using plain-text messages (ASCII or UTF-8). See [IP inbound channel](ip-inbound.md) and [IP outbound channel](ip-outbound.md).
 - **Telnet:** send commands and receive data directly from a Telnet console. See [IP inbound channel](ip-inbound.md).
-- **OSC:** the outbound channel can also send [Open Sound Control](ip-outbound.md#settings) messages, for tools such as Max, QLab and TouchOSC.
+- **OSC:** the outbound channel can also send [Open Sound Control](ip-outbound.md#settings) messages, for tools such as Max, QLab and TouchOSC. To send the exact messages a lighting console or other device expects, such as an ETC Eos or Ion, use [OSC Out](osc-out.md).
 - **MIDI:** QuizXpress events trigger configurable MIDI messages, often used to control DMX light tables. See [MIDI and DMX](midi-and-dmx.md).
 
 This overview shows how everything is connected:
@@ -45,4 +45,4 @@ Open it with 'Message log...' at the bottom of the Message Broker settings. To o
 The log keeps the last 5000 lines. Passwords never appear in it: they are shown as `****`.
 
 !!! note
-    The message log opens on the screen of QuizXpress Director, never on the projection screen, so you can keep it open during a live show.
+    The message log opens on the screen of QuizXpress Director. When it opens at the start of a quiz, before the Director is shown, it opens on a screen without the quiz, so you can keep it open during a live show. With only one screen, it opens on top of the quiz.

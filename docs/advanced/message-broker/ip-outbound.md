@@ -4,7 +4,7 @@ With the outbound channel, QuizXpress sends a message whenever something happens
 
 Turn it on in the 'IP Outbound' tab of the [Message Broker settings](index.md#opening-the-message-broker-settings):
 
-![The IP Outbound tab](../../assets/images/mb-ip-outbound-tab.webp){ width="320" loading=lazy }
+![The IP Outbound tab](../../assets/images/mb-ip-outbound-tab.webp){ width="420" loading=lazy }
 
 ## Settings
 
@@ -53,6 +53,9 @@ Turn it on in the 'IP Outbound' tab of the [Message Broker settings](index.md#op
 
 !!! tip
     The [message log](index.md#message-log) shows every message that goes out, so you can check what your application should receive.
+
+!!! note
+    A lighting console such as an ETC Eos or Ion only reacts to its own commands, not to these fixed messages. Use [OSC Out](osc-out.md) to send it exactly the messages it expects.
 
 ## Messages
 

@@ -4,7 +4,7 @@ With the inbound channel, external applications send text commands to QuizXpress
 
 Configure it on the 'IP Inbound' tab of the [Message Broker settings](index.md#opening-the-message-broker-settings):
 
-![The IP Inbound tab](../../assets/images/mb-ip-inbound-tab.webp){ width="320" loading=lazy }
+![The IP Inbound tab](../../assets/images/mb-ip-inbound-tab.webp){ width="420" loading=lazy }
 
 ## Settings
 

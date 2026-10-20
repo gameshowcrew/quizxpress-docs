@@ -212,6 +212,7 @@ nav:
     - advanced/message-broker/midi-and-dmx.md
     - advanced/message-broker/ip-inbound.md
     - advanced/message-broker/ip-outbound.md
+    - advanced/message-broker/osc-out.md
   - Scripting:
     - advanced/scripting/index.md
     - advanced/scripting/working-with-quizxpress.md

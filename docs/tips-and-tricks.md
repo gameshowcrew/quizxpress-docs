@@ -28,7 +28,7 @@ Also, it is better not to mix open questions and multiple-choice questions in on
 
 **Keep your quiz small by keeping media files external (or use the pack function)**
 
-With QX4, you can keep both your sound and video files external. This keeps your quiz files small and manageable. You can keep the files at their original path, or store them in the folder where the quiz file itself is stored. When copying your quiz to another computer, you’ll need to copy all external files as well (in which case you’ll probably always want to put the files in the folder with the quiz file), or use the ‘Pack’ function to create a distributable quiz with all media embedded. When QuizXpress Live starts, it will check whether all external files are accessible and give a warning if not.
+With QX4, you can keep both your sound and video files external. This keeps your quiz files small and manageable. You can keep the files at their original path, or store them in the folder where the quiz file itself is stored. When copying your quiz to another computer, you’ll need to copy all external files as well (in which case you’ll probably always want to put the files in the folder with the quiz file), or use the [‘Pack’ function](studio/other-functionality/packing-and-unpacking-a-quiz.md) to create a distributable quiz with all media embedded, trimmed to the parts that are played. When QuizXpress Live starts, it will check whether all external files are accessible and give a warning if not.
 
 **Have a backup system**
 

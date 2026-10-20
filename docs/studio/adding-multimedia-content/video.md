@@ -13,7 +13,7 @@ To add a video to a question, first create a new question with a template that h
 
 Then right-click the picture box placeholder and click ‘Select Video’ from the context menu. This opens a file dialog where you can select a video fragment *(\*.avi, \*.wmv, \*.mov, \*.mp4, \*.mpg, \*.mpeg, \*.flv, \*.3gp, \*.webm*).
 
-Just like audio, a video can be linked or embedded. Embedding a video fragment into a quiz means the fragment is incorporated into the quiz file. Linking a video fragment means a reference is made from the quiz file to a video on the file system. In general, *linking* videos is recommended while you’re still editing the quiz. When you’re done editing, you can use the ‘Pack’ function to combine all externally linked files into one large quiz file (max 2GB). With this combined file, it’s easy to move your quiz to another computer without having to worry about the external assets.
+Just like audio, a video can be linked or embedded. Embedding a video fragment into a quiz means the fragment is incorporated into the quiz file. Linking a video fragment means a reference is made from the quiz file to a video on the file system. In general, *linking* videos is recommended while you’re still editing the quiz. When you’re done editing, you can use the [‘Pack’ function](../other-functionality/packing-and-unpacking-a-quiz.md) to combine all externally linked files into one large quiz file (max 2GB). Packing can also trim videos to the part that is played and compress them, which keeps the packed file small. With this combined file, it’s easy to move your quiz to another computer without having to worry about the external assets.
 
 !!! note
 

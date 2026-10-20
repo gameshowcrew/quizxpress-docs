@@ -8,7 +8,7 @@ To add a sound fragment to a quiz slide, select the INSERT ribbon tab and click 
 
 ![](../../assets/images/image206.webp){ width="321" loading=lazy }
 
-Linking results in smaller, more manageable quiz files, but you’ll have to make sure all external files remain accessible — either at their original path or in the folder where the quiz file is stored (alternatively, you can keep the files external and pack your quiz before distributing it).
+Linking results in smaller, more manageable quiz files, but you’ll have to make sure all external files remain accessible — either at their original path or in the folder where the quiz file is stored (alternatively, you can keep the files external and [pack your quiz](../other-functionality/packing-and-unpacking-a-quiz.md) before distributing it; packing can also trim sounds to the part that is played and compress them).
 
 Once the file is inserted, the AUDIO contextual ribbon tab becomes visible to configure the various options.
 

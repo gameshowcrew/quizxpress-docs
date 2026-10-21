@@ -79,6 +79,7 @@ The receiving side opens a UDP socket. Messages are plain strings in the format 
 | `/endcountdown` | The countdown stopped; the question is over. |
 | `/correct` | An answer to the current question was judged correct. |
 | `/incorrect` | An answer to the current question was judged wrong. |
+| `/answerrevealed` | The correct answer is shown on the slide, for example when the time is up on a voting question. On a Trivia Feud slide it is sent for every answer that is turned over on the board. |
 | `/restart` | The quiz was restarted from the final score screen. |
 | `/scorechanged {device} {teamname} {old score} {new score}` | A team's score changed. Example: `/scorechanged 10 'John Trivialta' 5 10` means team 'John Trivialta' on device 10 went from 5 to 10 points. In OSC the team name is a string without the quotes. |
 | `/claimbingo` | A player claimed Bingo. |

@@ -99,6 +99,7 @@ A placeholder that doesn't belong to the event is sent as it is written; the edi
 | Timeout | The question timed out. | – |
 | Correct answer | An answer is judged correct. | – |
 | Incorrect answer | An answer is judged wrong. | – |
+| Answer revealed | The correct answer is shown on the slide, also on voting questions where nobody judges an answer. On a Trivia Feud slide, every answer that is turned over on the board. | – |
 | Fastest finger | A player is first in a fastest-finger question. | 'Keypad' |
 | Keypad press | A key is pressed on a keypad or buzzer. | 'Keypad', 'Key' (A = 1, B = 2, fastest finger = 0) |
 | Remote control button | A button is pressed on the quizmaster remote control. | 'Button' |
@@ -115,6 +116,7 @@ A placeholder that doesn't belong to the event is sent as it is written; the edi
 |---|---|---|
 | Every slide fires the cue with its number in cue list 1 | Slide changes | `/eos/cue/1/{slide}/fire` |
 | A correct answer fires cue 20 | Correct answer | `/eos/cue/1/20/fire` |
+| The reveal of every question gets its own look, in cue list 2 | Answer revealed | `/eos/cue/2/{slide}/fire` |
 | The winner's light comes on | Fastest finger | `/eos/newcmd="Chan %1 At Full#",{device}` |
 | A special look for the finale | Slide changes, 'Slide class' finale | `/eos/macro/99/fire` |
 | Press Go 5 seconds before the end | Countdown tick, 'Seconds left' 5 | `/eos/key/go_0` |

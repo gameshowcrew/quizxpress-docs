@@ -33,6 +33,7 @@ Some triggers have an optional parameter that narrows down when they fire. In th
 | Timeout | The current question times out, for example because nobody answered in time. |
 | Correct Answer | The quizmaster judges an answer correct. |
 | Incorrect Answer | The quizmaster judges an answer incorrect. |
+| Answer Revealed | The correct answer is shown on the slide. On a Trivia Feud slide, every answer that is turned over on the board. |
 | Start Countdown | The countdown timer starts. |
 | End Countdown | The countdown timer ends. |
 | Pause Countdown | The quizmaster pauses the countdown timer. |

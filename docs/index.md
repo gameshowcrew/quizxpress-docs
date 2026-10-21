@@ -62,6 +62,4 @@ The software consists of the following parts:
 
 - *Minigame Launcher,* the app that allows you to run any of the supported minigames stand-alone.
 
-Already know QuizXpress? See [What's new in 8.6](whats-new.md) for the highlights of this version.
-
 Before we dive into the details, we’d like to point you to our YouTube channel where you’ll find a variety of instructional videos covering different topics. Subscribe now at <https://www.youtube.com/@GameShowCrew>

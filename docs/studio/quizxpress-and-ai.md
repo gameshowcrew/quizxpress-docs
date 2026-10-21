@@ -2,6 +2,9 @@
 
 QuizXpress offers access to your very own AI-powered virtual quiz writer. You can generate questions, autocomplete multiple-choice questions with viable options, create Trivia Feud surveys, or generate images!
 
+!!! tip
+    Prefer a conversation? You can also let an AI assistant such as Claude build and edit your quiz in Quiz Studio for you: see [AI assistants](../advanced/ai-assistants/index.md).
+
 ## AI Quiz generator
 
 The AI Quiz Generator helps you generate various types of questions. You can start it by clicking the button on the HOME tab.

@@ -72,6 +72,7 @@ extra:
 nav:
 - Getting started:
   - Introduction: index.md
+  - whats-new.md
   - Installation:
     - installation/system-requirements.md
     - installation/licensing.md
@@ -219,6 +220,10 @@ nav:
     - advanced/scripting/debugging.md
     - advanced/scripting/reference.md
     - advanced/scripting/examples.md
+  - AI assistants:
+    - advanced/ai-assistants/index.md
+    - advanced/ai-assistants/connecting-an-ai-assistant.md
+    - advanced/ai-assistants/what-an-assistant-can-do.md
   - Skinning:
     - advanced/skinning/index.md
     - advanced/skinning/creating-a-custom-skin.md

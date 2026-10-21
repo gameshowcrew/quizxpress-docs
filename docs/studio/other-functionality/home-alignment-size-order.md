@@ -10,4 +10,7 @@ You can now choose one of the following options:
 
 - Size: make same width, make same height, make same width and height, decrease size, increase size
 
+!!! tip
+    To line up a single item, just drag it: [smart guides](../user-interface-overview/design-area.md#smart-guides) show when it lines up with other items or the slide, and it snaps into place.
+
 ![](../../assets/images/image293.webp){ width="108" loading=lazy }The order button allows you to order multiple overlapping items in z-order (depth). You can bring an item to the front, send it to the back, bring it one level forward or send it one level backward.

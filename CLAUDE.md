@@ -89,6 +89,9 @@ source and the default language (`/`); French is at `/fr/`, Italian at `/it/`.
 - Images are shared (`docs/assets/images/`). A screenshot of the English UI is reused unless a
   localized one is added.
 - When you change an English page, update its `.fr.md` and `.it.md` too (or tell the user they are outdated).
+- Search is per language: `hooks/search_by_language.py` splits the merged search index after the build and
+  `overrides/main.html` points each language's search box at its own index (`/fr/search/`, `/it/search/`).
+  Don't remove either, or searches show results from all languages again.
 - Menu titles come from each page's `# Heading`; the tab names in `nav:` are translated via
   `nav_translations` in the `i18n` plugin config in `mkdocs.yml`.
 

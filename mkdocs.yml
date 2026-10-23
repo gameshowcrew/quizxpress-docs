@@ -5,6 +5,7 @@ copyright: Copyright &copy; QuizXpress
 
 theme:
   name: material
+  custom_dir: overrides
   features:
     - navigation.tabs
     - navigation.sections
@@ -43,6 +44,9 @@ validation:
   links:
     anchors: warn
     unrecognized_links: warn
+
+hooks:
+  - hooks/search_by_language.py
 
 plugins:
   - search

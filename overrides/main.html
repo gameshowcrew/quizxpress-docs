@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+
+{#- The search of each language reads its own index (see hooks/search_by_language.py). -#}
+{% block scripts %}
+  {% if config.theme.language != config.plugins.i18n.config.languages|selectattr("default")|map(attribute="locale")|first %}
+  <script>
+    (function () {
+      var el = document.getElementById("__config");
+      var cfg = JSON.parse(el.textContent);
+      cfg.base = cfg.base + "/{{ config.theme.language }}/";
+      el.textContent = JSON.stringify(cfg);
+    })();
+  </script>
+  {% endif %}
+  {{ super() }}
+{% endblock %}

@@ -5,14 +5,12 @@ copyright: Copyright &copy; QuizXpress
 
 theme:
   name: material
-  language: en
   features:
     - navigation.tabs
     - navigation.sections
     - navigation.indexes
     - navigation.top
     - navigation.footer
-    - navigation.instant
     - search.suggest
     - search.highlight
     - toc.follow
@@ -48,6 +46,36 @@ validation:
 
 plugins:
   - search
+  - i18n:
+      docs_structure: suffix
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: en
+          name: English
+          build: true
+          default: true
+        - locale: fr
+          name: Français
+          build: true
+          nav_translations:
+            Getting started: Prise en main
+            Studio: Studio
+            Setup: Configuration
+            Live: Live
+            Advanced: Avancé
+            More: Plus
+        - locale: it
+          name: Italiano
+          build: true
+          nav_translations:
+            Getting started: Per iniziare
+            Studio: Studio
+            Setup: Configurazione
+            Live: Live
+            Advanced: Avanzate
+            More: Altro
 
 markdown_extensions:
   - admonition

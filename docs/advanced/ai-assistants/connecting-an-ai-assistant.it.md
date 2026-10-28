@@ -15,7 +15,7 @@ Aggiungere Quiz Studio come server MCP nel proprio assistente IA, usando l'indir
 claude mcp add --transport http quizstudio http://127.0.0.1:8766/mcp
 ```
 
-Gli altri assistenti che supportano server MCP tramite HTTP hanno un'impostazione analoga in cui si inseriscono un nome e l'indirizzo.
+Gli altri assistenti che supportano server MCP tramite HTTP hanno un'impostazione analoga in cui si inseriscono un nome e l'indirizzo. Per Claude Desktop, vedi [Usare Claude Desktop](claude-desktop.md).
 
 Quiz Studio deve essere in esecuzione mentre l'assistente lavora. Avviare la conversazione come di consueto, ad esempio: "Apri il mio quiz 'Friday night.qx' in Quiz Studio e mostrami una panoramica delle diapositive."
 

@@ -27,4 +27,5 @@ Tant qu'un assistant est connecté, une barre sous le ruban vous l'indique.
 ## Dans cette section
 
 - [Connecter un assistant IA](connecting-an-ai-assistant.md) : l'activer et connecter votre assistant.
+- [Utiliser Claude Desktop](claude-desktop.md) : configurer l'application Claude pour Windows, y compris dans Parallels sur un Mac.
 - [Ce que peut faire un assistant](what-an-assistant-can-do.md) : les possibilités, avec des exemples de demandes.

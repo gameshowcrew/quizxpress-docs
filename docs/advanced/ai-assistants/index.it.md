@@ -27,4 +27,5 @@ Finché un assistente è connesso, una barra sotto la barra multifunzione lo seg
 ## In questa sezione
 
 - [Collegare un assistente IA](connecting-an-ai-assistant.md): attivarlo e collegare l'assistente.
+- [Usare Claude Desktop](claude-desktop.md): configura l'app Claude per Windows, anche in Parallels su un Mac.
 - [Cosa può fare un assistente](what-an-assistant-can-do.md): le possibilità, con esempi di richieste.

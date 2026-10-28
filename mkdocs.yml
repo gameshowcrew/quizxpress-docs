@@ -80,6 +80,16 @@ plugins:
             Live: Live
             Advanced: Avanzate
             More: Altro
+        - locale: es
+          name: Español
+          build: true
+          nav_translations:
+            Getting started: Primeros pasos
+            Studio: Studio
+            Setup: Configuración
+            Live: Live
+            Advanced: Avanzado
+            More: Más
 
 markdown_extensions:
   - admonition

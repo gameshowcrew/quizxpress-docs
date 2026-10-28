@@ -27,4 +27,5 @@ While an assistant is connected, a bar below the ribbon tells you so.
 ## In this section
 
 - [Connecting an AI assistant](connecting-an-ai-assistant.md): turn it on and connect your assistant.
+- [Using Claude Desktop](claude-desktop.md): set up the Claude app for Windows, also in Parallels on a Mac.
 - [What an assistant can do](what-an-assistant-can-do.md): the possibilities, with examples of what to ask.

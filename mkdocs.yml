@@ -264,6 +264,7 @@ nav:
   - AI assistants:
     - advanced/ai-assistants/index.md
     - advanced/ai-assistants/connecting-an-ai-assistant.md
+    - advanced/ai-assistants/claude-desktop.md
     - advanced/ai-assistants/what-an-assistant-can-do.md
   - Skinning:
     - advanced/skinning/index.md

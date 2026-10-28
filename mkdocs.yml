@@ -74,6 +74,14 @@ plugins:
         - locale: it
           name: Italiano
           build: true
+          extra:
+            social:
+              - icon: fontawesome/brands/youtube
+                link: https://www.youtube.com/@GameShowCrew
+                name: Game Show Crew (English)
+              - icon: fontawesome/brands/youtube
+                link: https://www.youtube.com/channel/UCKTsZu0AIGeJHlW6f7sAxHA
+                name: QuizXpress Italia
           nav_translations:
             Getting started: Per iniziare
             Studio: Studio

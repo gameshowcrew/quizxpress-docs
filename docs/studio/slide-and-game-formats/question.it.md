@@ -4,11 +4,11 @@ Questo tipo indica una normale domanda del quiz. Sono possibili le seguenti vari
 
 - *Everyone Answers (detta anche votazione):* consente a tutti i giocatori di rispondere a una domanda.
 
-- *Lock-out (detta anche fastest finger)*: il giocatore che preme per primo un buzzer ha il diritto di rispondere a una domanda.
+- *Lock-out (detta anche Dito più Veloce)*: il giocatore che preme per primo un buzzer ha il diritto di rispondere a una domanda.
 
 - *Domanda a scelta multipla*: domanda con più risposte tra cui i giocatori possono scegliere. Le risposte date vengono giudicate automaticamente dal sistema (cioè se ‘Judge question’ è impostato su ‘Automatically’). È possibile creare una domanda a scelta multipla andando alla scheda DESIGN e cambiando il layout con uno che preveda più risposte.
 
-- *Domanda aperta (senza opzioni a scelta multipla)*: domanda a cui un giocatore/una squadra risponde a voce e che viene poi giudicata dal conduttore del quiz (tramite il telecomando da presentatore, la tastiera o QuizXpress Director). È possibile creare una domanda aperta andando al menu DESIGN e cambiando il layout con uno senza risposte. Nella sezione ‘input mode’, selezionare ‘default’ come modalità di input.
+- *Domanda aperta (senza opzioni a scelta multipla)*: domanda a cui un giocatore/una squadra risponde a voce e che viene poi giudicata dal Quizmaster (tramite il telecomando da presentatore, la tastiera o QuizXpress Director). È possibile creare una domanda aperta andando al menu DESIGN e cambiando il layout con uno senza risposte. Nella sezione ‘input mode’, selezionare ‘default’ come modalità di input.
 
 - Tipi di input estesi, che riguardano domande con risposte numeriche, a testo completo o con la prima lettera. A queste domande si può rispondere con l’app QuizXpress Smart Buzzer o con il sito web buzzerpad. È possibile creare una domanda aperta con risposta numerica, a lettera o a testo selezionando ‘number’, ‘letter’ o ‘text’ come modalità di input.
 
@@ -18,7 +18,7 @@ Nella sezione dei punti è possibile indicare il numero di punti da vincere per 
 
 Con queste opzioni è possibile premiare con più punti i giocatori che rispondono rapidamente. Allo stesso tempo, le risposte errate possono essere penalizzate maggiormente all’inizio di una domanda, per evitare che le persone tirino a indovinare/scommettano subito dopo l’inizio del conto alla rovescia.
 
-Per una domanda a scelta multipla è possibile impostare dei punti bonus di velocità per i tre giocatori più veloci a rispondere correttamente. Si ottiene così una domanda ‘tutti possono rispondere’ con un elemento ‘fastest finger’. Per accedere all’impostazione dei punti bonus, fare clic sul pulsante ‘Speed Bonus’ nella sezione Points, dopodiché si apre il seguente modulo:
+Per una domanda a scelta multipla è possibile impostare dei punti bonus di velocità per i tre giocatori più veloci a rispondere correttamente. Si ottiene così una domanda ‘tutti possono rispondere’ con un elemento ‘Dito più Veloce’. Per accedere all’impostazione dei punti bonus, fare clic sul pulsante ‘Speed Bonus’ nella sezione Points, dopodiché si apre il seguente modulo:
 
 ![](../../assets/images/image31.webp){ width="201" loading=lazy }
 
@@ -76,7 +76,7 @@ QuizXpress supporta tre tipi di input utilizzabili con l’app Smart Buzzer o co
 
 ![](../../assets/images/image38.webp){ width="286" loading=lazy }
 
-Scegliendo *Default* per una domanda aperta si ottiene una normale domanda fastest finger, che può essere giocata con buzzer o keypad. Con l’app Smart Buzzer o il sito web buzzerpad, sullo schermo viene mostrato un buzzer. La persona che preme per prima blocca i buzzer di tutti gli altri giocatori e risponde a voce al conduttore del quiz.
+Scegliendo *Default* per una domanda aperta si ottiene una normale domanda Dito più Veloce, che può essere giocata con buzzer o pulsantiere. Con l’app Smart Buzzer o il sito web buzzerpad, sullo schermo viene mostrato un buzzer. La persona che preme per prima blocca i buzzer di tutti gli altri giocatori e risponde a voce al Quizmaster.
 
 ### Input numerico
 

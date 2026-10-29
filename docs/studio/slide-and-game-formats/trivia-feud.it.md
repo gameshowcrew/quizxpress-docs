@@ -22,11 +22,11 @@ Dopo l’avvio dello show, QuizXpress Live mostra il tabellone Trivia Feud con l
 
 ![](../../assets/images/image79.webp){ width="591" loading=lazy }
 
-Trivia Feud prevede tre modalità di gioco: **Manual**, **Interactive** (fastest finger) e **Multiplayer**.
+Trivia Feud prevede tre modalità di gioco: **Manual**, **Interactive** (Dito più Veloce) e **Multiplayer**.
 
 ## Modalità Manual
 
-In modalità manuale, il gioco è controllato interamente da una schermata di QuizXpress Director, il pannello di controllo del conduttore del quiz, che viene eseguito sullo schermo del portatile mentre lo show è proiettato su un grande schermo.
+In modalità manuale, il gioco è controllato interamente da una schermata di QuizXpress Director, il pannello di controllo del Quizmaster, che viene eseguito sullo schermo del portatile mentre lo show è proiettato su un grande schermo.
 
 ![](../../assets/images/image80.webp){ loading=lazy }
 
@@ -36,15 +36,15 @@ Lo si può anche usare per giocare esattamente il formato dello show televisivo,
 
 - Iniziare con un Faceoff tra le due squadre premendo il pulsante ‘Start Faceoff’:
 
-- I giocatori usano il proprio buzzer (che può essere un keypad, un buzzer o un telefono cellulare) per prenotarsi. Il giocatore più veloce a prenotarsi viene mostrato sullo schermo.
+- I giocatori usano il proprio buzzer (che può essere una pulsantiera, un buzzer o un telefono cellulare) per prenotarsi. Il giocatore più veloce a prenotarsi viene mostrato sullo schermo.
 
 - Il giocatore che si è prenotato per primo dà una risposta al sondaggio.
 
-- Il conduttore del quiz rivela la risposta (se è presente sul tabellone) premendo il pulsante corrispondente in QuizXpress Director. I punti della risposta vengono aggiunti ai punti della tabella punteggi superiore, che mostra i punti che può vincere il giocatore vincitore.
+- Il Quizmaster rivela la risposta (se è presente sul tabellone) premendo il pulsante corrispondente in QuizXpress Director. I punti della risposta vengono aggiunti ai punti della tabella punteggi superiore, che mostra i punti che può vincere il giocatore vincitore.
 
 - Premere il pulsante ‘Switch team’.
 
-- Anche l’altro giocatore dà ora una risposta al sondaggio, che il conduttore del quiz rivela sul tabellone se presente.
+- Anche l’altro giocatore dà ora una risposta al sondaggio, che il Quizmaster rivela sul tabellone se presente.
 
 - A seconda di quale squadra ha dato la risposta di rango più alto, rendere questa squadra la ‘squadra che gioca’ (quindi mantenere la squadra attualmente selezionata oppure premere di nuovo ‘switch team’).
 
@@ -86,7 +86,7 @@ Se giocano più di 2 giocatori/squadre, è possibile scegliere quali squadre si 
 
 Il pannello di controllo in QuizXpress Director contiene anche un ‘points multiplier’. Scegliendo un valore di 2 o 3, i giocatori ricevono rispettivamente 2 o 3 volte più punti. Lo si potrebbe applicare, ad esempio, a un round finale in cui una squadra deve superare un certo numero di punti per vincere.
 
-## Modalità Interactive (Fastest Finger)
+## Modalità Interactive (Dito più Veloce)
 
 In questa modalità tutti i giocatori partecipano e possono prenotarsi per dare la propria risposta.
 
@@ -98,7 +98,7 @@ I giocatori hanno un tempo limitato per fornire una risposta. Questo è indicato
 
 ![](../../assets/images/image89.webp){ loading=lazy }
 
-Se la risposta data è presente sul tabellone, il conduttore del quiz la rivela facendo clic sul pulsante corrispondente in QuizXpress Director. I punti vengono mostrati in alto e poi aggiunti al totale del giocatore.
+Se la risposta data è presente sul tabellone, il Quizmaster la rivela facendo clic sul pulsante corrispondente in QuizXpress Director. I punti vengono mostrati in alto e poi aggiunti al totale del giocatore.
 
 ![](../../assets/images/image90.webp){ width="223" loading=lazy } ![](../../assets/images/image91.webp){ width="227" loading=lazy }
 
@@ -106,13 +106,13 @@ Se la risposta data non è presente, fare clic sulla croce in Director, che vien
 
 ![](../../assets/images/image92.webp){ width="568" loading=lazy }
 
-Quando si crea la diapositiva Trivia Feud in modalità Fastest Finger, è possibile indicare quante risposte può dare un giocatore dopo essersi prenotato (max correct answers), quante risposte errate possono essere date prima che il turno del giocatore termini (max incorrect answers) e se un giocatore viene escluso dal tabellone corrente o può prenotarsi di nuovo (Exclude o Continue).
+Quando si crea la diapositiva Trivia Feud in modalità Dito più Veloce, è possibile indicare quante risposte può dare un giocatore dopo essersi prenotato (max correct answers), quante risposte errate possono essere date prima che il turno del giocatore termini (max incorrect answers) e se un giocatore viene escluso dal tabellone corrente o può prenotarsi di nuovo (Exclude o Continue).
 
 ![](../../assets/images/image93.webp){ width="605" loading=lazy }
 
 Le impostazioni qui sopra possono essere modificate anche nel pannello delle proprietà avanzate, che si può mostrare facendo clic sulla scheda VIEW e spuntando ‘Properties’. In questo pannello sono visibili tutte le impostazioni che si applicano al Trivia Feud una volta selezionato.
 
-L’opzione auto reveal indica se le risposte rimanenti che non sono state citate verranno mostrate automaticamente quando tutti i giocatori sono fuori gioco, oppure se il conduttore le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
+L’opzione auto reveal indica se le risposte rimanenti che non sono state citate verranno mostrate automaticamente quando tutti i giocatori sono fuori gioco, oppure se il Quizmaster le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
 
 ## Modalità Multiplayer
 
@@ -132,7 +132,7 @@ Nella finestra delle proprietà di Studio (se non è visibile, mostrarla facendo
 
 **Tolerance**: specifica la tolleranza utilizzata da QuizXpress per giudicare le risposte date. Una tolleranza più alta ammette più errori di ortografia.
 
-**Auto reveal**: indica se, al termine del conto alla rovescia, le risposte verranno mostrate automaticamente oppure se il conduttore le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
+**Auto reveal**: indica se, al termine del conto alla rovescia, le risposte verranno mostrate automaticamente oppure se il Quizmaster le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
 
 In questa modalità è possibile specificare più risposte corrette, separate da un punto e virgola:
 

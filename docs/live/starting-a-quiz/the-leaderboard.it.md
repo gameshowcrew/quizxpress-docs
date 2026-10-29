@@ -1,6 +1,6 @@
 # La classifica
 
-Quando una domanda termina — perché qualcuno ha risposto correttamente (fastest-finger), perché tutti hanno dato la propria risposta (voting) o perché il conto alla rovescia è arrivato a zero (time-out) — la schermata del punteggio con la classifica può essere mostrata premendo il tasto «S». Inizialmente la classifica mostra le prime 20 squadre (o meno, se le squadre/i giocatori sono meno); è tuttavia possibile scorrere verso l'alto e verso il basso con i tasti freccia della tastiera o con i pulsanti su/giù del telecomando del conduttore del quiz.
+Quando una domanda termina — perché qualcuno ha risposto correttamente (Dito più Veloce), perché tutti hanno dato la propria risposta (voting) o perché il conto alla rovescia è arrivato a zero (time-out) — la schermata del punteggio con la classifica può essere mostrata premendo il tasto «S». Inizialmente la classifica mostra le prime 20 squadre (o meno, se le squadre/i giocatori sono meno); è tuttavia possibile scorrere verso l'alto e verso il basso con i tasti freccia della tastiera o con i pulsanti su/giù della pulsantiera Master.
 
 È possibile aprire questa schermata anche con Shift-S: in tal caso la classifica mostra inizialmente le posizioni più basse, creando maggiore suspense. Quando in un quiz sono presenti dei round (sono presenti diapositive End of Round), premendo Ctrl-S vengono mostrati i punteggi dei giocatori nel round corrente. Shift-Ctrl-S mostra i punteggi del round in ordine inverso (dal più basso al più alto). Premendo Ctrl-E viene mostrato il vincitore di ogni round.
 

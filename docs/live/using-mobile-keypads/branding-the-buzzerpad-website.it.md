@@ -29,7 +29,7 @@ Personalizzazione con i parametri URL
 | pin         | Passa il codice PIN in modo che il giocatore non debba inserirlo                                          | pin=12345                                                   |
 | ticket      | Passa il codice del biglietto                                                                             | ticket=AG1234F                                              |
 | uid         | Passa un'identità utente fissa come GUID (il formato esadecimale è XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX)  | uid=aed6373a-db53-499d-9428-a7ad22289272                    |
-| autoconnect | Passando *fname*, *pin* e *autoconnect*=1, il keypad effettua l'accesso automaticamente                   | pin=12345&fname=Player1&autoconnect=1                       |
+| autoconnect | Passando *fname*, *pin* e *autoconnect*=1, la pulsantiera effettua l'accesso automaticamente                   | pin=12345&fname=Player1&autoconnect=1                       |
 
 Ad esempio:
 

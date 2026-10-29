@@ -4,7 +4,7 @@ Dopo il video del conto alla rovescia (che può essere disattivato e/o sostituit
 
 1.  Il timer del conto alla rovescia. Il timer conta alla rovescia dal tempo indicato al momento della creazione del quiz in QuizXpress Live fino a zero. Sotto il timer è indicata la posizione della domanda nel quiz, nel formato \<numero della domanda/numero totale di domande>.
 
-2.  Le squadre (partecipanti) che hanno premuto il proprio keypad. Questo indicatore ha tre fasi: prima mostra una griglia di quadrati che indica da quale keypad è stata ricevuta una risposta, offrendo un quadro generale. Quando restano pochi keypad, mostra i singoli numeri dei keypad. Quando ne restano ancora meno, mostra i nomi dei giocatori come impostati in Quiz Setup, aiutando il conduttore del quiz a identificare gli ultimi giocatori che devono ancora rispondere.
+2.  Le squadre (partecipanti) che hanno premuto la propria pulsantiera. Questo indicatore ha tre fasi: prima mostra una griglia di quadrati che indica da quale pulsantiera è stata ricevuta una risposta, offrendo un quadro generale. Quando restano poche pulsantiere, mostra i singoli numeri delle pulsantiere. Quando ne restano ancora meno, mostra i nomi dei giocatori come impostati in Quiz Setup, aiutando il Quizmaster a identificare gli ultimi giocatori che devono ancora rispondere.
 
 3.  Il numero totale di giocatori che hanno già fornito una risposta.
 
@@ -41,18 +41,18 @@ Quando si utilizzano i Sony Buzzer, QuizXpress Live gestisce una diapositiva di 
 
 Il voting è una delle possibili modalità di una diapositiva di quiz. Le altre varianti sono descritte di seguito.
 
-## Fastest Finger/ Lock-out
+## Dito più Veloce / Lock-out { #fastest-finger-lock-out }
 
-Nella sezione precedente abbiamo trattato la schermata di una domanda «voting», alla quale tutti possono rispondere. Con una domanda fastest-finger, può rispondere solo la prima persona che preme il proprio buzzer. Se risponde in modo errato, vengono sottratti punti dal suo punteggio e il conto alla rovescia continua. Gli altri giocatori hanno quindi la possibilità di premere il proprio buzzer (il giocatore che ha risposto in modo errato non può più rispondere alla domanda corrente).
+Nella sezione precedente abbiamo trattato la schermata di una domanda «voting», alla quale tutti possono rispondere. Con una domanda Dito più Veloce, può rispondere solo la prima persona che preme il proprio buzzer. Se risponde in modo errato, vengono sottratti punti dal suo punteggio e il conto alla rovescia continua. Gli altri giocatori hanno quindi la possibilità di premere il proprio buzzer (il giocatore che ha risposto in modo errato non può più rispondere alla domanda corrente).
 
-Nella pagina successiva è mostrata una tipica schermata fastest finger. La differenza più importante rispetto a una schermata voting è che in questa schermata, in basso, c'è una grande barra con il nome della squadra (o della persona) che ha premuto per prima il proprio buzzer. Questa barra mostra anche la risposta data, l'avatar della squadra e i punti guadagnati/persi. In questo caso la squadra 17 ha dato la risposta giusta, guadagnando così 10 punti. Il grande segno di spunta verde indica che la domanda ha ricevuto una risposta corretta. In questo esempio, la risposta corretta era stata impostata su Answer-‘D’ in QuizXpress Studio e l'opzione ‘autojudge’ (judge question automatically nella barra multifunzione del menu) della diapositiva del quiz era impostata su true. In questo caso QuizXpress valuta automaticamente la risposta quando viene premuto un pulsante a scelta multipla su un buzzer. Quando un buzzer non ha un pulsante a scelta multipla (ad esempio i Sparkle poles), l'opzione ‘auto judge’ non si applica automaticamente. In tal caso la squadra\il giocatore deve rispondere a voce, dopodiché il conduttore del quiz deve valutare la risposta utilizzando il proprio telecomando, la tastiera del computer o QuizXpress Director. Per ulteriori informazioni sui comandi del conduttore del quiz, vedere [Controllo del quiz](../controlling-the-quiz.md).
+Nella pagina successiva è mostrata una tipica schermata Dito più Veloce. La differenza più importante rispetto a una schermata voting è che in questa schermata, in basso, c'è una grande barra con il nome della squadra (o della persona) che ha premuto per prima il proprio buzzer. Questa barra mostra anche la risposta data, l'avatar della squadra e i punti guadagnati/persi. In questo caso la squadra 17 ha dato la risposta giusta, guadagnando così 10 punti. Il grande segno di spunta verde indica che la domanda ha ricevuto una risposta corretta. In questo esempio, la risposta corretta era stata impostata su Answer-‘D’ in QuizXpress Studio e l'opzione ‘autojudge’ (judge question automatically nella barra multifunzione del menu) della diapositiva del quiz era impostata su true. In questo caso QuizXpress valuta automaticamente la risposta quando viene premuto un pulsante a scelta multipla su un buzzer. Quando un buzzer non ha un pulsante a scelta multipla (ad esempio i Sparkle poles), l'opzione ‘auto judge’ non si applica automaticamente. In tal caso la squadra\il giocatore deve rispondere a voce, dopodiché il Quizmaster deve valutare la risposta utilizzando la pulsantiera Master, la tastiera del computer o QuizXpress Director. Per ulteriori informazioni sui comandi del Quizmaster, vedere [Controllo del quiz](../controlling-the-quiz.md).
 
 Il fatto che ‘Team 17’ abbia premuto per prima può essere verificato controllando l'«Information Panel» nella parte superiore dello schermo. Questo pannello mostra, in riquadri separati, l'ora in cui ogni squadra ha premuto il buzzer. Ogni riquadro contiene il nome di una squadra che ha premuto il proprio buzzer, insieme all'orario in cui lo ha premuto, ordinati da sinistra a destra, a partire dalla squadra più veloce.
 
 | ![](../../assets/images/image415.webp){ loading=lazy } | ![](../../assets/images/image416.webp){ loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
-Si noti che l'Information Panel in alto mostra il numero di punti ottenibili (che possono diminuire nel tempo, come spiegato in precedenza). Inoltre, non c'è alcun indicatore del numero di squadre che hanno risposto, poiché non è applicabile a una domanda fastest-finger.
+Si noti che l'Information Panel in alto mostra il numero di punti ottenibili (che possono diminuire nel tempo, come spiegato in precedenza). Inoltre, non c'è alcun indicatore del numero di squadre che hanno risposto, poiché non è applicabile a una domanda Dito più Veloce.
 
 !!! note
 
@@ -60,7 +60,7 @@ Si noti che l'Information Panel in alto mostra il numero di punti ottenibili (ch
 
 - *Quando ‘auto judge’ è ‘true’ nella finestra delle proprietà (equivalente nella barra multifunzione del menu: ‘Judge question’ è impostato su ‘Automatically’), i partecipanti devono usare i pulsanti ABCD del buzzer. QuizXpress valuta automaticamente la risposta data.*
 
-- *Quando ‘auto judge’ è ‘false’ nella finestra delle proprietà (equivalente nella barra multifunzione del menu: ‘Judge question’ è impostato su ‘Manual’), i partecipanti devono usare il grande pulsante buzzer per prenotarsi. Il giocatore che ha premuto più velocemente dà quindi la risposta a voce e il conduttore del quiz la valuta.*
+- *Quando ‘auto judge’ è ‘false’ nella finestra delle proprietà (equivalente nella barra multifunzione del menu: ‘Judge question’ è impostato su ‘Manual’), i partecipanti devono usare il grande pulsante buzzer per prenotarsi. Il giocatore che ha premuto più velocemente dà quindi la risposta a voce e il Quizmaster la valuta.*
 
 ## Billboard
 
@@ -82,11 +82,11 @@ Quando durante un quiz viene mostrata una diapositiva End of Round, non ha luogo
 
 Quando si imposta una diapositiva su ‘End of Round’, è possibile impostare un'altra opzione, chiamata ‘end of round action’. Può essere impostata su una delle seguenti opzioni:
 
-- Disable one player: elimina automaticamente il giocatore con meno punti. Se più giocatori sono a pari merito in fondo alla classifica intermedia, il conduttore del quiz seleziona quale giocatore verrà eliminato, utilizzando i tasti freccia della tastiera o il telecomando del conduttore del quiz. Il giocatore/la squadra selezionato/a viene evidenziato/a con una luce rossa lampeggiante. Premendo la barra spaziatrice della tastiera, o il pulsante inferiore del telecomando del conduttore, il giocatore selezionato viene eliminato. Decidere quale giocatore eliminare quando più squadre hanno lo stesso punteggio esula dall'ambito di QuizXpress Live — ad esempio, un conduttore del quiz potrebbe porre una domanda di stima ed eliminare il giocatore la cui risposta è più lontana da quella corretta.
+- Disable one player: elimina automaticamente il giocatore con meno punti. Se più giocatori sono a pari merito in fondo alla classifica intermedia, il Quizmaster seleziona quale giocatore verrà eliminato, utilizzando i tasti freccia della tastiera o la pulsantiera Master. Il giocatore/la squadra selezionato/a viene evidenziato/a con una luce rossa lampeggiante. Premendo la barra spaziatrice della tastiera, o il pulsante inferiore della pulsantiera Master, il giocatore selezionato viene eliminato. Decidere quale giocatore eliminare quando più squadre hanno lo stesso punteggio esula dall'ambito di QuizXpress Live — ad esempio, un Quizmaster potrebbe porre una domanda di stima ed eliminare il giocatore la cui risposta è più lontana da quella corretta.
 
 > ![](../../assets/images/image417.webp){ loading=lazy }
 
-- Manually dismiss players: il conduttore del quiz può selezionare un numero qualsiasi di giocatori da eliminare. Lo fa uno alla volta, sempre utilizzando la tastiera o il telecomando del conduttore per selezionarli. Un esempio di diapositiva di quiz ‘End of Round, quizmaster selects losers’ è mostrato sopra. Il pulsante «play» in basso nello schermo indica che il conduttore del quiz ha finito di eliminare i giocatori; premerlo (selezionarlo con la tastiera e premere spazio) fa proseguire il quiz. Il pulsante con la freccia rotante annulla il processo di eliminazione se il conduttore del quiz elimina qualcuno per errore, dopodiché può ricominciare a eliminare i giocatori.
+- Manually dismiss players: il Quizmaster può selezionare un numero qualsiasi di giocatori da eliminare. Lo fa uno alla volta, sempre utilizzando la tastiera o la pulsantiera Master per selezionarli. Un esempio di diapositiva di quiz ‘End of Round, quizmaster selects losers’ è mostrato sopra. Il pulsante «play» in basso nello schermo indica che il Quizmaster ha finito di eliminare i giocatori; premerlo (selezionarlo con la tastiera e premere spazio) fa proseguire il quiz. Il pulsante con la freccia rotante annulla il processo di eliminazione se il Quizmaster elimina qualcuno per errore, dopodiché può ricominciare a eliminare i giocatori.
 
 - Automatically dismiss players: con questa opzione, il sistema disattiva automaticamente un certo numero di giocatori (come configurato per la diapositiva in Studio), senza alcun riscontro visivo per il pubblico.
 
@@ -124,7 +124,7 @@ Per utilizzare questa funzionalità, impostare il tipo di una diapositiva di qui
 
 !!! note
 
-    In alternativa, è possibile dividere il pubblico in gruppi prima dell'inizio del quiz in QuizXpress Setup. Qui si può definire quali keypad appartengono a quale gruppo. Per ulteriori informazioni, fare riferimento a [Grouping keypads](../../setup/setting-up-teams-the-teams-tab-page.md#raggruppare-i-keypad)*
+    In alternativa, è possibile dividere il pubblico in gruppi prima dell'inizio del quiz in QuizXpress Setup. Qui si può definire quali pulsantiere appartengono a quale gruppo. Per ulteriori informazioni, fare riferimento a [Raggruppare le pulsantiere](../../setup/setting-up-teams-the-teams-tab-page.md#raggruppare-i-keypad)*
 
 ## Last Man Standing
 

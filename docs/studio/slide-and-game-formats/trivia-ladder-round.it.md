@@ -1,4 +1,4 @@
-# Trivia Ladder round
+# Round Trivia Ladder
 
 Un Trivia Ladder round consente di creare un round in stile ‘Chi vuol essere milionario?®’ (‘Who Wants to Be a Millionaire®’) in cui uno o più giocatori cercano di salire una scala rispondendo correttamente alle domande.
 

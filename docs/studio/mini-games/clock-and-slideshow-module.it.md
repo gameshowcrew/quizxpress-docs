@@ -1,4 +1,4 @@
-# Clock and slideshow module
+# Modulo Orologio e Slideshow
 
 Questo modulo può mostrare un orologio digitale (o un conto alla rovescia), una presentazione di immagini con fantastici effetti di transizione, oppure un mix di entrambi.
 

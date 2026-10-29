@@ -1,4 +1,4 @@
-# Simon Says
+# Simon
 
 Nel minigioco Simon Says, il pubblico partecipa a un gioco che sfida i giocatori a riprodurre una sequenza di luci sempre più lunga. Opzioni di configurazione disponibili:
 

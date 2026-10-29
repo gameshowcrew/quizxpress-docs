@@ -1,4 +1,4 @@
-# Trivia Board round
+# Round Tabellone Trivia
 
 Un Trivia Board round consente di creare un tabellone di domande in stile Jeopardy® con argomenti e domande di difficoltà/punteggio variabile.
 

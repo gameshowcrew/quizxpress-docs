@@ -1,4 +1,4 @@
-# HOME → Alignment & Size, Order
+# HOME → Allineamento & Dimensione, Disponi
 
 ![](../../assets/images/image292.webp){ width="211" loading=lazy }
 

@@ -1,4 +1,4 @@
-# Minigame
+# Modulo Gioco
 
 QuizXpress offre una varietà di minigiochi. I minigiochi daranno più brio al vostro game show o alla vostra serata di quiz, proponendo qualcosa di diverso dalle domande di cultura generale. Con questi giochi è possibile vincere o perdere punti.
 

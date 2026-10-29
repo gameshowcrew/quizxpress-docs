@@ -1,4 +1,4 @@
-# Billboard
+# Tabellone
 
 Una diapositiva di quiz "Billboard" è una diapositiva senza alcuna interazione da parte dei giocatori. È semplicemente una schermata statica, tipicamente usata per annunci o spiegazioni. Una diapositiva Billboard può essere progettata proprio come una normale domanda, utilizzando testi, colori, immagini, suoni e video.
 

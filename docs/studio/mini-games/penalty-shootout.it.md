@@ -1,4 +1,4 @@
-# Penalty Shootout
+# Calci di Rigore
 
 Lo scopo del minigioco Penalty Shootout è prevedere se il calciatore segnerà (e in quale sezione della porta), se il rigore verrà sbagliato o se il portiere parerà il rigore.
 

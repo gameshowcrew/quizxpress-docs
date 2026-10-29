@@ -1,4 +1,4 @@
-# Auction
+# Asta Interattiva
 
 Con questo plugin è possibile mettere all'asta degli oggetti durante un quiz mentre il pubblico fa le proprie offerte con i dispositivi portatili — ideale per le raccolte fondi!
 

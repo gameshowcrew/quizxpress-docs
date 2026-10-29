@@ -1,4 +1,4 @@
-# Pairing question
+# Domanda di abbinamento
 
 In una Pairing Question, i giocatori associano etichette di testo a immagini (ad esempio paesi a bandiere o marchi a loghi). Sul buzzer mobile appare così:
 

@@ -1,4 +1,4 @@
-# Skinning
+# Skin Personalizzati
 
 L'aspetto del quiz player di QuizXpress, QuizXpress Live, può essere modificato completamente in base alle proprie preferenze o alla propria immagine coordinata creando uno 'skin' personalizzato. QuizXpress include cinque skin integrati (QuizXpress Classic, QuizXpress 2022, Dark Theme, TV Show e Techno), selezionabili in Quiz Setup nella scheda 'Screens', nella sezione 'Appearance'. Vedere [Personalizzare l'aspetto](../../setup/customizing-the-look-the-screens-tab-page.md).
 

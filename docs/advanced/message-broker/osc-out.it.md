@@ -1,4 +1,4 @@
-# OSC Out
+# Uscita OSC
 
 Con OSC Out si decide quale messaggio OSC QuizXpress invia quando succede qualcosa nel quiz. Utilizzarlo per i dispositivi che reagiscono solo ai propri comandi, come una console luci ETC Eos o Ion: una risposta corretta può attivare il cue 20, il dito più veloce sul keypad 3 può attivare una macro, e ogni nuova diapositiva può attivare il cue con lo stesso numero.
 

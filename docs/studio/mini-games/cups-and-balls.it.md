@@ -1,4 +1,4 @@
-# Cups and Balls
+# Trova la Pallina
 
 Nel gioco dei bicchieri e della pallina il pubblico deve indovinare sotto quale bicchiere si trova una pallina dopo che i bicchieri sono stati mescolati. All'inizio la pallina viene mostrata. Poi i bicchieri vengono mescolati e ogni giocatore deve osservare con attenzione. Infine, ogni giocatore deve dire sotto quale bicchiere si trova la pallina. Con questo gioco si possono vincere punti o premi.
 

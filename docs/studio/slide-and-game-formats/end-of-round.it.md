@@ -1,4 +1,4 @@
-# End of round
+# Fine Round
 
 In QuizXpress è possibile indicare che una diapositiva di quiz segna la "fine di un round". Per farlo, impostare il "Type" della diapositiva su "End of Round" in QuizXpress Studio.
 

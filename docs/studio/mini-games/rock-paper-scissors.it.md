@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Morra Cinese
 
 Nel minigioco Rock Paper Scissors, il pubblico gioca contro un avversario virtuale.
 I giocatori scelgono sasso, carta o forbici sul proprio buzzer, keypad o telefono. La mano del

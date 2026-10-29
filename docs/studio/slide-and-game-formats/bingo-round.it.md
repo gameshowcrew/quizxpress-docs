@@ -1,4 +1,4 @@
-# Bingo round
+# Round Bingo
 
 Questo tipo di diapositiva avvia una normale partita di Number Bingo, Emoji Bingo, Music Bingo o Trivia Bingo. Questo tipo di gioco può attualmente essere giocato solo quando il pubblico utilizza l'app Smart Buzzer per dispositivi mobili.
 

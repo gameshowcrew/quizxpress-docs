@@ -1,18 +1,18 @@
 # Trivia Board round
 
-Un Trivia Board round consente di creare un tabellone di domande in stile Jeopardy® con argomenti e domande di difficoltà/punteggio variabile.
+Un round Tabellone Trivia consente di creare un tabellone di domande in stile Jeopardy® con argomenti e domande di difficoltà/punteggio variabile.
 
 ![](../../assets/images/image68.webp){ width="513" loading=lazy }
 
-Come le normali diapositive del quiz, un trivia board può essere completamente personalizzato nello stile (per maggiori dettagli sulle opzioni, fare riferimento alla sezione [Trivia Board properties](../user-interface-overview/advanced-properties-grid.md#proprieta-del-trivia-board)).
+Come le normali diapositive del quiz, un Tabellone Trivia può essere completamente personalizzato nello stile (per maggiori dettagli sulle opzioni, fare riferimento alla sezione [Tabellone Trivia properties](../user-interface-overview/advanced-properties-grid.md#proprieta-del-trivia-board)).
 
-Durante il quiz, le domande sul tabellone possono essere scelte (con la tastiera, con il mouse o con il telecomando del conduttore del quiz) oppure estratte a caso; in tal caso un selettore casuale scorre sullo schermo e sceglie una delle caselle.
+Durante il quiz, le domande sul tabellone possono essere scelte (con la tastiera, con il mouse o con il telecomando del Quizmaster) oppure estratte a caso; in tal caso un selettore casuale scorre sullo schermo e sceglie una delle caselle.
 
-## Come creare un Trivia Board?
+## Come creare un Tabellone Trivia?
 
-Per creare un trivia board, iniziare inserendo una diapositiva trivia board nel quiz (andare al menu INSERT, fare clic sull’elenco a discesa nella sezione Quiz Slides e scegliere il layout Trivia Board). Il trivia board verrà generato automaticamente dalle domande che lo seguono.
+Per creare un Tabellone Trivia, iniziare inserendo una diapositiva Tabellone Trivia nel quiz (andare al menu INSERT, fare clic sull’elenco a discesa nella sezione Quiz Slides e scegliere il layout Trivia Board). Il Tabellone Trivia verrà generato automaticamente dalle domande che lo seguono.
 
-Per suddividere le domande in argomenti e punteggi (o solo in argomenti), assicurarsi di impostare le seguenti proprietà delle domande che seguono il trivia board:
+Per suddividere le domande in argomenti e punteggi (o solo in argomenti), assicurarsi di impostare le seguenti proprietà delle domande che seguono il Tabellone Trivia:
 
 - L’argomento (topic)
 
@@ -24,37 +24,37 @@ Entrambi possono essere inseriti nella scheda QUESTION quando la domanda è sele
 
 In alternativa, è possibile inserire le proprietà anche nel pannello delle proprietà (se non è visibile, mostrarlo prima selezionando la scheda VIEW e spuntando ‘Properties’).
 
-Un Trivia Board può essere combinato con altri formati di gioco di QuizXpress. Per creare un Trivia Board (round), QuizXpress deve sapere dove termina un round Trivia Board. Un round Trivia Board termina a uno dei seguenti tipi di diapositiva:
+Un Tabellone Trivia può essere combinato con altri formati di gioco di QuizXpress. Per creare un Tabellone Trivia (round), QuizXpress deve sapere dove termina un round Tabellone Trivia. Un round Tabellone Trivia termina a uno dei seguenti tipi di diapositiva:
 
 - una diapositiva ‘End of round’ (vedere anche 3.4.3)
 
-- un’altra diapositiva Trivia Board
+- un’altra diapositiva Tabellone Trivia
 
 - una diapositiva Trivia Ladder
 
-- la fine del quiz (ultimo round o gioco composto solo da un Trivia Board)
+- la fine del quiz (ultimo round o gioco composto solo da un Tabellone Trivia)
 
-Durante il quiz, tutte le diapositive di un round Trivia Board vengono elaborate e raggruppate per argomento. All’interno di un argomento, le domande sono raggruppate per numero di punti. In questo modo, dietro ogni casella di punti del tabellone possono esserci più domande. Quando le domande dietro una certa casella sono esaurite, la casella diventa grigia e non può più essere scelta.
+Durante il quiz, tutte le diapositive di un round Tabellone Trivia vengono elaborate e raggruppate per argomento. All’interno di un argomento, le domande sono raggruppate per numero di punti. In questo modo, dietro ogni casella di punti del tabellone possono esserci più domande. Quando le domande dietro una certa casella sono esaurite, la casella diventa grigia e non può più essere scelta.
 
-Le domande senza punti (ad esempio Audience response, Demographic, Wager) vengono ignorate durante la creazione del Trivia Board.
+Le domande senza punti (ad esempio Audience response, Demographic, Wager) vengono ignorate durante la creazione del Tabellone Trivia.
 
-In alternativa, il Quiz Wizard può aiutare a creare un round Trivia Board completo in pochi clic! Avviare la procedura guidata (scheda HOME, quindi ‘Quiz Wizard’) e selezionare ‘create a new round’ seguito da ‘a Trivia Board round’. Quindi inserire gli argomenti, i punti e le altre preferenze.
+In alternativa, il Quiz Wizard può aiutare a creare un round Tabellone Trivia completo in pochi clic! Avviare la procedura guidata (scheda HOME, quindi ‘Quiz Wizard’) e selezionare ‘create a new round’ seguito da ‘a Trivia Board round’. Quindi inserire gli argomenti, i punti e le altre preferenze.
 
 ![](../../assets/images/image70.webp){ width="499" loading=lazy }
 
 Scegliere il tempo per le domande, i punti e lo stile da usare nelle pagine successive, quindi premere ‘Finish’ per creare il tabellone, le domande e la diapositiva finale di fine round. Naturalmente sarà ancora necessario inserire le domande vere e proprie, ma l’argomento e i punti corretti saranno già impostati.
 
-## Anteprima di un Trivia Board
+## Anteprima di un Tabellone Trivia
 
-La diapositiva Trivia Board in QuizXpress Studio mostra il tabellone così come apparirà durante lo show: gli argomenti e i valori di punti reali del round, disposti secondo le impostazioni di design (posizione, spaziatura, immagini e testo). Impostando le opzioni di stile del Trivia Board e lo sfondo è possibile determinare l’aspetto del tabellone.
+La diapositiva Tabellone Trivia in QuizXpress Studio mostra il tabellone così come apparirà durante lo show: gli argomenti e i valori di punti reali del round, disposti secondo le impostazioni di design (posizione, spaziatura, immagini e testo). Impostando le opzioni di stile del Tabellone Trivia e lo sfondo è possibile determinare l’aspetto del tabellone.
 
-![Una diapositiva Trivia Board progettata in Studio](../../assets/images/trivia-board-studio-slide.webp){ loading=lazy }
+![Una diapositiva Tabellone Trivia progettata in Studio](../../assets/images/trivia-board-studio-slide.webp){ loading=lazy }
 
-Per provare il tabellone come verrà giocato durante il game show, premere F5 e il tabellone verrà generato automaticamente dalle domande presenti nel round Trivia Board.
+Per provare il tabellone come verrà giocato durante il game show, premere F5 e il tabellone verrà generato automaticamente dalle domande presenti nel round Tabellone Trivia.
 
 ## Progettare il proprio tabellone
 
-Oltre al classico tabellone blu, è possibile dare a un Trivia Board un design completamente personale: uno sfondo a tema, intestazioni degli argomenti illustrate e caselle personalizzate. Alcuni esempi:
+Oltre al classico tabellone blu, è possibile dare a un Tabellone Trivia un design completamente personale: uno sfondo a tema, intestazioni degli argomenti illustrate e caselle personalizzate. Alcuni esempi:
 
 ![Un tabellone musicale con caselle al neon e intestazioni degli argomenti illustrate](../../assets/images/trivia-board-custom-music.webp){ loading=lazy }
 
@@ -123,7 +123,7 @@ Fare clic sul pulsante accanto a 'Topic images' per dare a ogni argomento del ro
 
 ### Video di sfondo
 
-Anche una diapositiva Trivia Board può avere un [video di sfondo](../backgrounds.md#video-di-sfondo). Viene riprodotto dietro il tabellone con le impostazioni proprie del video (ripetizione, muto, volume) e va in pausa mentre viene mostrata una domanda.
+Anche una diapositiva Tabellone Trivia può avere un [video di sfondo](../backgrounds.md#video-di-sfondo). Viene riprodotto dietro il tabellone con le impostazioni proprie del video (ripetizione, muto, volume) e va in pausa mentre viene mostrata una domanda.
 
 !!! note
     Le versioni meno recenti di QuizXpress possono ancora aprire un quiz con un tabellone personalizzato, ma lo mostrano come un tabellone classico.

@@ -18,11 +18,11 @@ Un'altra funzione è la possibilità di usare squadre anonime. In questo caso l'
 
 ![](../assets/images/image330.webp){ width="605" loading=lazy }
 
-## Scheda Teams – Keypad QuizXpress
+## Scheda Teams – Pulsantiere QuizXpress { #scheda-teams-keypad-quizxpress }
 
-Nella scheda Teams è possibile definire i nomi delle squadre/giocatori e definire dei gruppi. Questa scheda non è disponibile quando si usa solo Mobile; quando Mobile viene usato in combinazione con keypad o buzzer, la pagina viene comunque mostrata.
+Nella scheda Teams è possibile definire i nomi delle squadre/giocatori e definire dei gruppi. Questa scheda non è disponibile quando si usa solo Mobile; quando Mobile viene usato in combinazione con pulsantiere o buzzer, la pagina viene comunque mostrata.
 
-Per tutti i tipi di buzzer tranne i buzzer Sony, il numero di squadre deriva dalla stringa ‘Keypads’ inserita nella scheda ‘Buzzers’. Ad esempio, quando si usa la stringa 1-50, la scheda ‘Teams’ mostra un elenco di keypad da 1 a 50 e i nomi predefiniti delle squadre *Team 1 … Team 50*. I nomi delle squadre possono essere modificati nella seconda colonna dell'elenco.
+Per tutti i tipi di buzzer tranne i buzzer Sony, il numero di squadre deriva dalla stringa ‘Keypads’ inserita nella scheda ‘Buzzers’. Ad esempio, quando si usa la stringa 1-50, la scheda ‘Teams’ mostra un elenco di pulsantiere da 1 a 50 e i nomi predefiniti delle squadre *Team 1 … Team 50*. I nomi delle squadre possono essere modificati nella seconda colonna dell'elenco.
 
 Come spiegato sopra, per cambiare il numero di squadre è necessario modificare la stringa ‘Keypads’ nella scheda ‘Buzzers’.
 
@@ -36,27 +36,27 @@ Come si può vedere nell'immagine seguente, sono disponibili vari altri comandi:
 
 - Import: importa l'elenco dei nomi delle squadre da Excel o da un file di testo. Per Excel, inserire i nomi nella prima colonna del primo foglio; per un file di testo, inserire ogni nome su una nuova riga.
 
-- Save to PDF: per ottenere una panoramica delle squadre assegnate a ciascun keypad, esportare l'elenco in PDF premendo il pulsante ‘Save to PDF’
+- Save to PDF: per ottenere una panoramica delle squadre assegnate a ciascuna pulsantiera, esportare l'elenco in PDF premendo il pulsante ‘Save to PDF’
 
 - Groups: è possibile dividere le squadre in gruppi. Maggiori informazioni nella sezione seguente.
 
 > ![](../assets/images/image331.webp){ width="605" loading=lazy }
 
-### Raggruppare i keypad
+### Raggruppare le pulsantiere { #raggruppare-i-keypad }
 
 È possibile dividere le squadre in gruppi in Quiz Setup (in alternativa, è possibile dividere le squadre in gruppi anche durante l'esecuzione di un quiz. Per maggiori informazioni, fare riferimento a [Demographic](../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#demographic) relativo alle diapositive demografiche del quiz.
 
-Facendo clic sul pulsante ‘Groups’ viene mostrato un elenco in cui è possibile inserire i nomi dei gruppi e il relativo insieme di keypad. Vedere l'immagine seguente:
+Facendo clic sul pulsante ‘Groups’ viene mostrato un elenco in cui è possibile inserire i nomi dei gruppi e il relativo insieme di pulsantiere. Vedere l'immagine seguente:
 
 ![](../assets/images/image332.webp){ width="605" loading=lazy }
 
-Premendo il pulsante ‘Add’ compare una finestra in cui è possibile inserire sia il nome del gruppo sia i keypad corrispondenti (inserendo una stringa di keypad). È inoltre possibile rimuovere i gruppi.
+Premendo il pulsante ‘Add’ compare una finestra in cui è possibile inserire sia il nome del gruppo sia le pulsantiere corrispondenti (inserendo una stringa di pulsantiere). È inoltre possibile rimuovere i gruppi.
 
-Quando si inserisce l'intervallo di keypad per un gruppo (ad esempio ‘1, 2, 3, 10-20’), viene eseguito un controllo per verificare che l'intervallo rientri nell'intervallo di keypad definito nella scheda ‘Buzzers’. In caso contrario, viene mostrato un messaggio di errore.
+Quando si inserisce l'intervallo di pulsantiere per un gruppo (ad esempio ‘1, 2, 3, 10-20’), viene eseguito un controllo per verificare che l'intervallo rientri nell'intervallo di pulsantiere definito nella scheda ‘Buzzers’. In caso contrario, viene mostrato un messaggio di errore.
 
-Le altre impostazioni modificabili qui riguardano il comportamento dei gruppi per le domande di tipo fastest finger e per quelle di votazione.
+Le altre impostazioni modificabili qui riguardano il comportamento dei gruppi per le domande di tipo Dito più Veloce e per quelle di votazione.
 
-Le opzioni per le domande fastest finger sono:
+Le opzioni per le domande Dito più Veloce sono:
 
 | **Lockout**    | Con questa opzione abilitata, solo il primo giocatore di un gruppo che risponde può rispondere alla domanda. Se la risposta fornita è errata, l'intero gruppo viene bloccato. |
 |----------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------|

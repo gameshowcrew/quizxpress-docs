@@ -2,7 +2,7 @@
 
 QuizXpress è progettato per funzionare con diversi tipi di dispositivi di input. Di seguito è riportata una descrizione dei dispositivi che possono essere configurati nella scheda «Buzzers» di Quiz Setup.
 
-È inoltre possibile utilizzare dispositivi mobili con QuizXpress. I dispositivi mobili possono essere usati come estensione del sistema di buzzer o keypad esistente. Per maggiori informazioni sul supporto dei keypad mobili, consultare [Configurare il supporto dei keypad mobili](setting-up-mobile-keypad-support.md).
+È inoltre possibile utilizzare dispositivi mobili con QuizXpress. I dispositivi mobili possono essere usati come estensione del sistema di buzzer o pulsantiere esistente. Per maggiori informazioni sul supporto delle pulsantiere mobili, consultare [Configurare il supporto delle pulsantiere mobili](setting-up-mobile-keypad-support.md).
 
 Al primo avvio di Quiz Setup dopo l'installazione di QuizXpress, come sistema di buzzer è selezionato «None». Prima di eseguire un quiz in QuizXpress Live, è necessario scegliere un sistema di buzzer in Quiz Setup. Ciò è indicato anche dal suggerimento mostrato al primo avvio di Quiz Setup, come illustrato di seguito.
 
@@ -20,27 +20,27 @@ QuizXpress supporta alcuni sistemi di buzzer a scelta multipla, elencati in ques
 
 - La possibilità di far rispondere le persone a una domanda a scelta multipla (votazione o risposta del pubblico)
 
-- La possibilità di lasciare che QuizXpress giudichi automaticamente le risposte a scelta multipla per una domanda «fastest finger» (risponde il primo a premere il buzzer). Si noti che è facoltativo: è anche possibile lasciare che sia il conduttore del quiz a giudicare le risposte date. Questo si può impostare in QuizXpress Studio tramite il flag «auto judge» di una diapositiva del quiz.
+- La possibilità di lasciare che QuizXpress giudichi automaticamente le risposte a scelta multipla per una domanda «Dito più Veloce» (risponde il primo a premere il buzzer). Si noti che è facoltativo: è anche possibile lasciare che sia il Quizmaster a giudicare le risposte date. Questo si può impostare in QuizXpress Studio tramite il flag «auto judge» di una diapositiva del quiz.
 
-### Keypad base QuizXpress
+### Pulsantiere QuizXpress Basic { #keypad-base-quizxpress }
 
-I keypad di questo sistema hanno sei pulsanti a scelta multipla e un pulsante fastest-finger. La base è collegata al PC tramite un cavo USB, ha una portata di 100 metri/350 piedi e può leggere fino a 100 keypad al secondo. È possibile giocare a QuizXpress con un massimo di 400 keypad contemporaneamente.
+Le pulsantiere di questo sistema hanno sei pulsanti a scelta multipla e un pulsante Dito più Veloce. La base è collegata al PC tramite un cavo USB, ha una portata di 100 metri/350 piedi e può leggere fino a 100 pulsantiere al secondo. È possibile giocare a QuizXpress con un massimo di 400 pulsantiere contemporaneamente.
 
-Il sistema di keypad QuizXpress include un telecomando Quizmaster che il conduttore del quiz può usare per gestire il quiz.
+Il sistema di pulsantiere QuizXpress include una pulsantiera Master che il Quizmaster può usare per gestire il quiz.
 
-Ogni keypad QuizXpress ha un id univoco preprogrammato. Quando si usano i keypad QuizXpress, inserire gli id dei dispositivi utilizzati per il quiz nel campo «Keypads:» in Quiz Setup. Ad esempio, se si usano i keypad da 1 a 10, inserire l'intervallo «1-10». Se si usano i keypad 1, 2, 3, 4 e 6, inserire il testo «1,2,3,4,6».
+Ogni pulsantiera QuizXpress ha un id univoco preprogrammato. Quando si usano le pulsantiere QuizXpress, inserire gli id dei dispositivi utilizzati per il quiz nel campo «Keypads:» in Quiz Setup. Ad esempio, se si usano le pulsantiere da 1 a 10, inserire l'intervallo «1-10». Se si usano le pulsantiere 1, 2, 3, 4 e 6, inserire il testo «1,2,3,4,6».
 
-Per maggiori informazioni sull'installazione del sistema di keypad QuizXpress, fare riferimento all'Appendice A.
+Per maggiori informazioni sull'installazione del sistema di pulsantiere QuizXpress, fare riferimento all'Appendice A.
 
 !!! note
 
-    durante il quiz non è necessario utilizzare tutti i keypad indicati in Quiz Setup. Prima di avviare il quiz viene mostrata una schermata di registrazione dei keypad. I giocatori partecipanti si fanno riconoscere premendo un tasto sul proprio keypad durante questa schermata di registrazione.*
+    durante il quiz non è necessario utilizzare tutte le pulsantiere indicate in Quiz Setup. Prima di avviare il quiz viene mostrata una schermata di registrazione delle pulsantiere. I giocatori partecipanti si fanno riconoscere premendo un tasto sulla propria pulsantiera durante questa schermata di registrazione.*
 
-### Keypad QuizXpress Plus
+### Pulsantiere QuizXpress Plus { #keypad-quizxpress-plus }
 
 ![](../assets/images/image309.webp){ width="173" loading=lazy }
 
-Il sistema di keypad QuizXpress Plus è simile ai keypad QuizXpress base, ma ha una portata maggiore, è quattro volte più veloce e può gestire fino a 2000 keypad su un solo ricevitore. Con il sistema Plus si ottiene una portata di circa 350 metri grazie alle 4 antenne del ricevitore e una velocità di interrogazione di 400 keypad al secondo (il sistema base ne gestisce 100 al secondo).
+Il sistema di pulsantiere QuizXpress Plus è simile alle pulsantiere QuizXpress Basic, ma ha una portata maggiore, è quattro volte più veloce e può gestire fino a 2000 pulsantiere su un solo ricevitore. Con il sistema Plus si ottiene una portata di circa 350 metri grazie alle 4 antenne del ricevitore e una velocità di interrogazione di 400 pulsantiere al secondo (il sistema Basic ne gestisce 100 al secondo).
 
 ### Buzzer QuizXpress
 
@@ -50,7 +50,7 @@ Con i buzzer QuizXpress si ottiene la combinazione di un grande pulsante da batt
 
 ### Buzzer QuizXpress Galaxy RGB
 
-I buzzer QuizXpress Galaxy RGB sono buzzer interattivi, ricaricabili e wireless, con un pulsante fastest-finger e 4 pulsanti a scelta multipla in 64 colori.
+I buzzer QuizXpress Galaxy RGB sono buzzer interattivi, ricaricabili e wireless, con un pulsante Dito più Veloce e 4 pulsanti a scelta multipla in 64 colori.
 
 Forniscono un riscontro visivo per diversi eventi che avvengono nel quiz, ad esempio:
 
@@ -68,7 +68,7 @@ Forniscono un riscontro visivo per diversi eventi che avvengono nel quiz, ad ese
 
 ### Torce QuizXpress
 
-Illuminare il pubblico con il buzzer QuizXpress Torch! Il buzzer a torcia ricaricabile ha un pulsante fastest-finger, 4 pulsanti a scelta multipla e LED interni che supportano 128 colori possibili. È possibile utilizzare fino a 3000 torce.
+Illuminare il pubblico con il buzzer QuizXpress Torch! Il buzzer a torcia ricaricabile ha un pulsante Dito più Veloce, 4 pulsanti a scelta multipla e LED interni che supportano 128 colori possibili. È possibile utilizzare fino a 3000 torce.
 
 I buzzer Torch possono:
 
@@ -76,7 +76,7 @@ I buzzer Torch possono:
 
 - mostrare le scelte fatte dal pubblico.
 
-- mostrare chi ha premuto per primo in una domanda fastest-finger
+- mostrare chi ha premuto per primo in una domanda Dito più Veloce
 
 - cambiare colore una volta effettuata una scelta
 
@@ -92,9 +92,9 @@ In pratica, le torce sono un dispositivo Galaxy (vedere 4.1.3) e un buzzer in un
 
 Fleetwood Reply Systems offre una varietà di strumenti portatili e interattivi per la risposta del pubblico e il voto elettronico, comunemente usati in riunioni, formazione, processi decisionali e ricerca.
 
-QuizXpress funziona con i keypad wireless Reply® Mini Model CRS5000 e Reply Worldwide, insieme a una base CRS940/CRS941. La base è collegata al PC tramite un cavo USB. È possibile giocare a QuizXpress con un massimo di 250 keypad contemporaneamente.
+QuizXpress funziona con le pulsantiere wireless Reply® Mini Model CRS5000 e Reply Worldwide, insieme a una base CRS940/CRS941. La base è collegata al PC tramite un cavo USB. È possibile giocare a QuizXpress con un massimo di 250 pulsantiere contemporaneamente.
 
-Ogni buzzer Reply Systems ha un id univoco preprogrammato (a differenza dei buzzer Sony). Quando si usano i buzzer Reply System, aggiungere gli id dei buzzer utilizzati per il quiz nel campo «Keypads:». Ad esempio, se si usano i keypad da 1 a 10, inserire l'intervallo «1-10». Se si usano i keypad 1, 2, 4 e 6, inserire il testo «1,2,4,6». Impostare inoltre il canale della base selezionando il canale corretto dall'elenco a discesa «Channel».
+Ogni buzzer Reply Systems ha un id univoco preprogrammato (a differenza dei buzzer Sony). Quando si usano i buzzer Reply System, aggiungere gli id dei buzzer utilizzati per il quiz nel campo «Keypads:». Ad esempio, se si usano le pulsantiere da 1 a 10, inserire l'intervallo «1-10». Se si usano le pulsantiere 1, 2, 4 e 6, inserire il testo «1,2,4,6». Impostare inoltre il canale della base selezionando il canale corretto dall'elenco a discesa «Channel».
 
 Per maggiori informazioni sull'installazione del sistema Reply, fare riferimento all'Appendice B.
 
@@ -102,17 +102,17 @@ Per maggiori informazioni sull'installazione del sistema Reply, fare riferimento
 
     durante il quiz non è necessario utilizzare tutti i buzzer indicati in Quiz Setup. Prima di avviare il quiz viene mostrata una schermata di registrazione dei buzzer. I giocatori partecipanti si fanno riconoscere premendo un tasto sul proprio buzzer durante questa schermata di registrazione.*
 
-### Keypad virtuali
+### Pulsantiere virtuali { #keypad-virtuali }
 
-QuizXpress include un keypad virtuale software che può essere eseguito sulla stessa macchina o su altre macchine della rete. Si connette a QuizXpress Live tramite una connessione TCP/IP. Ogni keypad virtuale ha un id del keypad che può essere modificato all'istante.
+QuizXpress include una pulsantiera virtuale software che può essere eseguito sulla stessa macchina o su altre macchine della rete. Si connette a QuizXpress Live tramite una connessione TCP/IP. Ogni pulsantiera virtuale ha un id della pulsantiera che può essere modificato all'istante.
 
 ![](../assets/images/image312.webp){ width="360" loading=lazy }
 
 !!! note
 
-    quando si avvia Live con keypad virtuali configurati, Windows può chiedere conferma per aprire una porta sul firewall locale.*
+    quando si avvia Live con pulsantiere virtuali configurate, Windows può chiedere conferma per aprire una porta sul firewall locale.*
 
-Con il keypad virtuale è molto semplice testare il proprio quiz, anche senza alcun hardware reale.
+Con la pulsantiera virtuale è molto semplice testare il proprio quiz, anche senza alcun hardware reale.
 
 ### Buzzer Sony Buzz™
 
@@ -128,15 +128,15 @@ Un ricevitore USB viene utilizzato per 4 buzzer Sony wireless, quindi tenere pre
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tavoli da palco illuminati QuizXpress Luminous                                                                                                                         | Pali buzzer QuizXpress Sparkle                                                                                                                                        |
 
-Luminous e Sparkle funzionano esattamente come i buzzer QuizXpress, quindi è questo il tipo di dispositivo da selezionare in Quiz Setup. Si noti che il palo buzzer Sparkle non ha pulsanti a scelta multipla, quindi può essere usato con *domande aperte* o con domande a scelta multipla impostate su «manual judgment» (in questo caso il giocatore comunica a voce al conduttore del quiz quale risposta a scelta multipla è corretta, e il conduttore giudica la risposta data). Il tavolo da palco sincronizza automaticamente le proprie luci con il buzzer abbinato.
+Luminous e Sparkle funzionano esattamente come i buzzer QuizXpress, quindi è questo il tipo di dispositivo da selezionare in Quiz Setup. Si noti che il palo buzzer Sparkle non ha pulsanti a scelta multipla, quindi può essere usato con *domande aperte* o con domande a scelta multipla impostate su «manual judgment» (in questo caso il giocatore comunica a voce al Quizmaster quale risposta a scelta multipla è corretta, e il Quizmaster giudica la risposta data). Il tavolo da palco sincronizza automaticamente le proprie luci con il buzzer abbinato.
 
 ## Sistemi di buzzer a pulsante singolo
 
-Oltre ai buzzer con pulsanti a scelta multipla, QuizXpress supporta anche buzzer con un solo pulsante (a volte chiamati «slammer»). Con questi pulsanti l'attenzione si concentra davvero sull'aspetto fastest-finger del gioco: risponde chi batte per primo. In questo caso il conduttore del quiz giudica sempre la risposta (il giudizio automatico non è possibile, poiché non ci sono pulsanti a scelta multipla).
+Oltre ai buzzer con pulsanti a scelta multipla, QuizXpress supporta anche buzzer con un solo pulsante (a volte chiamati «slammer»). Con questi pulsanti l'attenzione si concentra davvero sull'aspetto Dito più Veloce del gioco: risponde chi batte per primo. In questo caso il Quizmaster giudica sempre la risposta (il giudizio automatico non è possibile, poiché non ci sono pulsanti a scelta multipla).
 
 ### Buzzer QuizXpress Cube
 
-| ![](../assets/images/image316.webp){ width="146" loading=lazy } | I cubi buzzer sono dispositivi ricaricabili con un potente LED RGB e un solo pulsante. Con questo tipo di buzzer è possibile eseguire solo domande di tipo fastest-finger, poiché non ci sono pulsanti a scelta multipla. Molto adatti per le finali. Per usare questo tipo di buzzer, è sufficiente selezionare «QuizXpress Buzzers» come tipo di dispositivo. |
+| ![](../assets/images/image316.webp){ width="146" loading=lazy } | I cubi buzzer sono dispositivi ricaricabili con un potente LED RGB e un solo pulsante. Con questo tipo di buzzer è possibile eseguire solo domande di tipo Dito più Veloce, poiché non ci sono pulsanti a scelta multipla. Molto adatti per le finali. Per usare questo tipo di buzzer, è sufficiente selezionare «QuizXpress Buzzers» come tipo di dispositivo. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 I cubi hanno tre colori diversi. La tabella seguente elenca i colori dei buzzer e il loro significato:

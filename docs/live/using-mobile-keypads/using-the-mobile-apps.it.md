@@ -10,7 +10,7 @@ QuizXpress Mobile offre anche due app, entrambe disponibili per Android e iOS.
 
 **App QuizXpress Director**
 
-Per l'ospite/presentatore del quiz è disponibile un'app separata chiamata *QuizXpress Director*. Questa app consente all'ospite di controllare il quiz (mostrare la domanda successiva, rivelare la risposta, mostrare punteggi intermedi o grafici), gestire le squadre (modificare punteggi o nomi delle squadre), avviare minigiochi, riprodurre suoni tramite una soundboard e molto altro!
+Per l'ospite/presentatore del quiz è disponibile un'app separata chiamata *QuizXpress Director*. Questa app consente all'ospite di controllare il quiz (mostrare la domanda successiva, rivelare la risposta, mostrare punteggi intermedi o grafici), gestire le squadre (modificare punteggi o nomi delle squadre), avviare Moduli Gioco, riprodurre suoni tramite una soundboard e molto altro!
 
 Le sezioni seguenti descrivono le app in modo più dettagliato.
 
@@ -24,17 +24,17 @@ Quando la partita si svolge con un router Wi-Fi collegato al computer, il pulsan
 
 Quando si gioca senza router Wi-Fi, e quindi ci si connette da remoto tramite internet, il quiz player mostra sullo schermo un PIN. I giocatori possono inserire questo PIN premendo «Join game with PIN».
 
-Dopo l'accesso viene mostrata la schermata di benvenuto configurata nella sezione Branding delle impostazioni (fare riferimento a [Configurare il supporto dei keypad mobili](../../setup/setting-up-mobile-keypad-support.md)).
+Dopo l'accesso viene mostrata la schermata di benvenuto configurata nella sezione Branding delle impostazioni (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)).
 
 Se sono stati configurati i jingle impostando la cartella Jingles nelle impostazioni, ai giocatori verrà mostrato un elenco di tutti i frammenti sonori disponibili. Ogni giocatore può scegliere un jingle da usare durante la partita nelle seguenti situazioni:
 
 - Bonus points - il suono del giocatore che è stato il primo a dare la risposta corretta viene riprodotto quando viene mostrata la schermata dei punti bonus.
 
-- Fastest finger – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
+- Dito più Veloce – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
 
 - Intermediate score overviews – il suono del giocatore al primo posto viene riprodotto quando si mostra la classifica.
 
-> Come conduttore del quiz, è sempre possibile attivare manualmente la selezione del jingle per un dispositivo specifico nella scheda Mobile di Director.
+> Come Quizmaster, è sempre possibile attivare manualmente la selezione del jingle per un dispositivo specifico nella scheda Mobile di Director.
 
 A sinistra si vede un esempio di domanda di tipo «first letter».
 
@@ -58,9 +58,9 @@ QuizXpress Smart Buzzer supporta diversi tipi di domanda:
 
 | ![](../../assets/images/image368.webp){ width="96" loading=lazy }                                                                                               | ![](../../assets/images/image369.webp){ width="96" loading=lazy }            | ![](../../assets/images/image370.webp){ width="96" loading=lazy }           | ![](../../assets/images/image371.webp){ width="96" loading=lazy }              | ![](../../assets/images/image372.webp){ width="95" loading=lazy }        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Fastest finger*                                                                                                                                                                                                             | *Multiple Choice regular/ordered/multiple answer/eliminator*                                                                                                                                                               | *First Letter*                                                                                                                                                                                                            | *Full text*                                                                                                                                                                                                                  | *Numeric*                                                                                                                                                                                                                  |
+| *Dito più Veloce*                                                                                                                                                                                                             | *Multiple Choice regular/ordered/multiple answer/eliminator*                                                                                                                                                               | *First Letter*                                                                                                                                                                                                            | *Full text*                                                                                                                                                                                                                  | *Numeric*                                                                                                                                                                                                                  |
 | ![](../../assets/images/image373.webp){ width="98" loading=lazy } | ![](../../assets/images/image374.webp){ width="99" loading=lazy } | ![](../../assets/images/image375.webp){ width="100" loading=lazy } | ![](../../assets/images/image376.webp){ width="100" loading=lazy } | ![](../../assets/images/image377.webp){ width="98" loading=lazy } |
-| *Multiple Choice with picture*                                                                                                                                                                                               | *Multiple Choice with picture effect*                                                                                                                                                                                      | *Fastest finger with picture*                                                                                                                                                                                             | *Multiple Choice pictures regular/ordered/multiple answer*                                                                                                                                                                   | *Numeric/First letter with picture*                                                                                                                                                                                        |
+| *Multiple Choice with picture*                                                                                                                                                                                               | *Multiple Choice with picture effect*                                                                                                                                                                                      | *Dito più Veloce con immagine*                                                                                                                                                                                             | *Multiple Choice pictures regular/ordered/multiple answer*                                                                                                                                                                   | *Numeric/First letter with picture*                                                                                                                                                                                        |
 
 Lo Smart Buzzer fornisce un riscontro dopo ogni domanda per indicare se la risposta era giusta o sbagliata e se sono stati ricevuti punti bonus:
 
@@ -86,7 +86,7 @@ L'app Smart Buzzer supporta la visualizzazione di immagini «promozionali» dura
 
 Con questa modalità di gioco, i giocatori possono guadagnare punti extra votando la correttezza della risposta verbale di un altro giocatore a una domanda aperta. Questo vale per le situazioni in cui è possibile un'interazione diretta con i giocatori (quindi non per una configurazione in streaming). Funziona nel modo seguente:
 
-- Ai giocatori viene presentata una domanda fastest-finger. I buzzer compaiono su tutte le app Smart Buzzer
+- Ai giocatori viene presentata una domanda Dito più Veloce. I buzzer compaiono su tutte le app Smart Buzzer
 
 - Un giocatore pensa di conoscere la risposta e preme il buzzer; tutti gli altri vengono bloccati.
 
@@ -94,15 +94,15 @@ Con questa modalità di gioco, i giocatori possono guadagnare punti extra votand
 
 ![](../../assets/images/image388.webp){ width="145" loading=lazy }
 
-- Il conduttore del quiz si confronta con il giocatore per ascoltare la risposta verbale e può quindi giudicare la risposta giusta o sbagliata, oppure interpellare gli altri giocatori per sapere se *loro* ritengono la risposta data giusta o sbagliata, toccando il pulsante *Poll* nell'app Director.
+- Il Quizmaster si confronta con il giocatore per ascoltare la risposta verbale e può quindi giudicare la risposta giusta o sbagliata, oppure interpellare gli altri giocatori per sapere se *loro* ritengono la risposta data giusta o sbagliata, toccando il pulsante *Poll* nell'app Director.
 
 - Sui dispositivi degli altri giocatori compare per 10 secondi un popup del sondaggio Thumbs Up/Thumbs Down, e i giocatori possono esprimere il proprio voto (oppure astenersi, nel qual caso non c'è rischio di perdere punti).
 
 ![](../../assets/images/image389.webp){ width="141" loading=lazy }
 
-- Il conduttore del quiz giudica ora la risposta data dal giocatore fastest-finger toccando il pulsante «Right» o «Wrong» nell'app Director. Di conseguenza, il giocatore più veloce vince o perde punti (a seconda delle impostazioni della domanda). Gli altri giocatori vincono o perdono il 50% dei punti della domanda, a seconda che il loro giudizio sulla risposta del giocatore più veloce fosse corretto.
+- Il Quizmaster giudica ora la risposta data dal giocatore Dito più Veloce toccando il pulsante «Right» o «Wrong» nell'app Director. Di conseguenza, il giocatore più veloce vince o perde punti (a seconda delle impostazioni della domanda). Gli altri giocatori vincono o perdono il 50% dei punti della domanda, a seconda che il loro giudizio sulla risposta del giocatore più veloce fosse corretto.
 
-Questa modalità mantiene coinvolti tutti i giocatori in un round fastest-finger, poiché non è solo il singolo giocatore più veloce a poter vincere punti: tutti i partecipanti hanno la possibilità di vincerne.
+Questa modalità mantiene coinvolti tutti i giocatori in un round Dito più Veloce, poiché non è solo il singolo giocatore più veloce a poter vincere punti: tutti i partecipanti hanno la possibilità di vincerne.
 
 ## App telecomando – Mobile Director
 
@@ -110,13 +110,13 @@ Per controllare il quiz dal tablet o dal telefono, è possibile usare l'app tele
 
 È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante giallo «più» in basso a destra sullo schermo del dispositivo mobile.
 
-Premendo il pulsante, viene mostrato uno scanner di codici QR. Il codice QR da scansionare è visualizzato nella scheda Mobile di QuizXpress Setup (fare riferimento a [Configurare il supporto dei keypad mobili](../../setup/setting-up-mobile-keypad-support.md)). Scansionare il codice qui visualizzato e il nome del computer verrà mostrato nell'app QuizXpress Director. Questa procedura va eseguita una sola volta per registrare il computer nell'app.
+Premendo il pulsante, viene mostrato uno scanner di codici QR. Il codice QR da scansionare è visualizzato nella scheda Mobile di QuizXpress Setup (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)). Scansionare il codice qui visualizzato e il nome del computer verrà mostrato nell'app QuizXpress Director. Questa procedura va eseguita una sola volta per registrare il computer nell'app.
 
 Dopo aver avviato un quiz, selezionare dall'elenco il computer che si desidera controllare e toccarlo: l'app telecomando mobile sarà quindi connessa alla sessione del quiz.
 
 !!! note
 
-    Assicurarsi che il server selezionato nell'app QuizXpress Director sia lo stesso selezionato in QuizXpress Setup. Fare clic sul pulsante del menu ![](../../assets/images/image390.webp){ .inline-icon width="23" } in alto a sinistra nell'app. Fare clic su «Settings» e controllare l'impostazione «Mobile server to connect to». Questa impostazione deve corrispondere a quella definita in QuizXpress Setup (fare riferimento a [Configurare il supporto dei keypad mobili](../../setup/setting-up-mobile-keypad-support.md) per informazioni su come impostare il server (o il Wi-Fi locale) utilizzato dal quiz player).
+    Assicurarsi che il server selezionato nell'app QuizXpress Director sia lo stesso selezionato in QuizXpress Setup. Fare clic sul pulsante del menu ![](../../assets/images/image390.webp){ .inline-icon width="23" } in alto a sinistra nell'app. Fare clic su «Settings» e controllare l'impostazione «Mobile server to connect to». Questa impostazione deve corrispondere a quella definita in QuizXpress Setup (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md) per informazioni su come impostare il server (o il Wi-Fi locale) utilizzato dal quiz player).
 
 | **Mobile server to connect to** | **Settings server**                           |
 |---------------------------------|-----------------------------------------------|
@@ -128,7 +128,7 @@ Dopo la connessione al quiz in corso, si vedrà l'app QuizXpress Director, che h
 
 | ![](../../assets/images/image391.webp){ width="103" loading=lazy } | ![](../../assets/images/image392.webp){ width="114" loading=lazy } | ![](../../assets/images/image393.webp){ width="113" loading=lazy } | ![](../../assets/images/image394.webp){ width="116" loading=lazy } | ![](../../assets/images/image395.webp){ width="115" loading=lazy } |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| Telecomando                                                                                                                                                                       | Avviare/arrestare e controllare i minigiochi                                    | Navigare tra le domande del quiz                                                | Panoramica di giocatori e punteggi                                              | Sound Pad per riprodurre effetti sonori casuali                                 |
+| Telecomando                                                                                                                                                                       | Avviare/arrestare e controllare i Moduli Gioco                                    | Navigare tra le domande del quiz                                                | Panoramica di giocatori e punteggi                                              | Sound Pad per riprodurre effetti sonori casuali                                 |
 
 La scheda del telecomando consente di controllare il quiz. Sono disponibili i seguenti pulsanti:
 
@@ -148,9 +148,9 @@ La scheda del telecomando consente di controllare il quiz. Sono disponibili i se
 
 - Up/Down – scorre la classifica verso l'alto/il basso quando ci sono più di 22 giocatori.
 
-- Next – passa alla diapositiva successiva / al passaggio successivo di un minigioco / al passaggio successivo delle azioni di fine domanda (per le azioni di fine domanda fare riferimento a [Azioni di fine domanda](../../setup/end-of-question-actions.md))
+- Next – passa alla diapositiva successiva / al passaggio successivo di un Modulo Gioco / al passaggio successivo delle azioni di fine domanda (per le azioni di fine domanda fare riferimento a [Azioni di fine domanda](../../setup/end-of-question-actions.md))
 
-- Right/Wrong – giudica la risposta data verbalmente a una domanda fastest-finger.
+- Right/Wrong – giudica la risposta data verbalmente a una domanda Dito più Veloce.
 
 - Volume control: modificare da remoto il volume di riproduzione del quiz player in tempo reale
 
@@ -160,7 +160,7 @@ La scheda del telecomando consente di controllare il quiz. Sono disponibili i se
 
     I pulsanti ERT e il controllo del volume sono attualmente disponibili solo su Android; la versione iOS seguirà.*
 
-1.  La scheda dei minigiochi consente di avviare minigiochi al volo. Selezionare un minigioco e premere il pulsante. Avanzare nel minigioco facendo clic sul tasto freccia.
+1.  La scheda dei Moduli Gioco consente di avviare Moduli Gioco al volo. Selezionare un Modulo Gioco e premere il pulsante. Avanzare nel Modulo Gioco facendo clic sul tasto freccia.
 
 2.  La scheda delle domande mostra tutte le domande, le risposte corrette, le note e una miniatura delle diapositive. Nella barra degli strumenti inferiore sono disponibili i seguenti pulsanti:
 
@@ -186,9 +186,9 @@ Le diapositive già visitate sono colorate di giallo; la domanda corrente è col
 
 - Aggiornare la pagina.
 
-- Modificare un giocatore - cambiare nome, punteggio, numero del keypad (in caso di keypad fisico)
+- Modificare un giocatore - cambiare nome, punteggio, numero della pulsantiera (in caso di pulsantiera fisica)
 
-- Aggiungere un giocatore - nome, punteggio, numero del keypad (in caso di keypad fisico)
+- Aggiungere un giocatore - nome, punteggio, numero della pulsantiera (in caso di pulsantiera fisica)
 
 - Disattivare un giocatore.
 

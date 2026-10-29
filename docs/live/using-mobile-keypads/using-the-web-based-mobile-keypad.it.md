@@ -1,6 +1,6 @@
-# Usare il keypad mobile basato sul web
+# Usare la pulsantiera mobile basata sul web
 
-Il keypad web può essere utilizzato quando è disponibile una connessione a internet e non si desidera che i giocatori scarichino l'app Smart Buzzer. I giocatori possono semplicemente unirsi al quiz con un normale browser web, seguendo questi passaggi:
+La pulsantiera web può essere utilizzato quando è disponibile una connessione a internet e non si desidera che i giocatori scarichino l'app Smart Buzzer. I giocatori possono semplicemente unirsi al quiz con un normale browser web, seguendo questi passaggi:
 
 - In Quiz Setup, nella scheda mobile, è stato indicato quale server viene utilizzato. Ad esempio [www.buzzerpad.com](http://www.buzzerpad.com)
 
@@ -18,13 +18,13 @@ Alcune schermate del buzzer web:
 
 | ![](../../assets/images/image357.webp){ width="142" loading=lazy }  | ![](../../assets/images/image358.webp){ width="141" loading=lazy }  | ![](../../assets/images/image359.webp){ width="141" loading=lazy }  |
 |----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| Schermata di accesso a Buzzerpad                                                 | Keypad web semplice                                                              | Domanda numerica                                                                 |
+| Schermata di accesso a Buzzerpad                                                 | Pulsantiera web semplice                                                              | Domanda numerica                                                                 |
 | ![](../../assets/images/image360.webp){ width="161" loading=lazy } | ![](../../assets/images/image361.webp){ width="159" loading=lazy } | ![](../../assets/images/image362.webp){ width="158" loading=lazy } |
 | Mostrare una promo                                                               | Domanda con ordinamento                                                          | Domanda con immagine                                                             |
 | ![](../../assets/images/image363.webp){ width="163" loading=lazy }   | ![](../../assets/images/image364.webp){ width="158" loading=lazy }   | ![](../../assets/images/image365.webp){ width="154" loading=lazy }    |
 | Effetto immagine                                                                 | Domanda testuale con immagine                                                    | Domanda a scelta multipla con immagini                                           |
 
-In alto a destra sul keypad viene mostrato l'ID del keypad. Sotto l'ID viene mostrato il PIN del quiz. Attualmente sono disponibili due server: uno nell'Europa occidentale (buzzerpad.eu) e uno negli Stati Uniti centrali (buzzerpad.com). Si consiglia di utilizzare il server più vicino alla propria posizione/fuso orario, per la velocità e per le finestre di manutenzione dei server. Il server da utilizzare può essere configurato in Quiz Setup, nella scheda Mobile.
+In alto a destra sulla pulsantiera viene mostrato l'ID della pulsantiera. Sotto l'ID viene mostrato il PIN del quiz. Attualmente sono disponibili due server: uno nell'Europa occidentale (buzzerpad.eu) e uno negli Stati Uniti centrali (buzzerpad.com). Si consiglia di utilizzare il server più vicino alla propria posizione/fuso orario, per la velocità e per le finestre di manutenzione dei server. Il server da utilizzare può essere configurato in Quiz Setup, nella scheda Mobile.
 
 !!! note
 

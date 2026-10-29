@@ -1,3 +1,3 @@
-# Utilizzo dei keypad mobili
+# Utilizzo delle pulsantiere mobili
 
-In questo capitolo viene descritto come svolgere il quiz con i keypad mobili. Esistono diversi modi per utilizzare i telefoni cellulari come buzzer.
+In questo capitolo viene descritto come svolgere il quiz con le pulsantiere mobili. Esistono diversi modi per utilizzare i telefoni cellulari come buzzer.

@@ -1,8 +1,8 @@
-# La vista Extensions (minigiochi e plugin)
+# La vista Extensions (Moduli Gioco e Moduli Aggiuntivi)
 
-La vista ‘Extensions’ è il punto di accesso ai minigiochi QuizXpress inclusi nella licenza. Da qui è possibile avviare i minigiochi al volo in qualsiasi momento durante il quiz, quando il conto alla rovescia non è in corso né in pausa. In alternativa, è possibile inserire i minigiochi nel quiz durante la sua creazione. Per saperne di più sui minigiochi disponibili, consultare [Minigiochi](../../studio/mini-games/index.md).
+La vista ‘Extensions’ è il punto di accesso ai Moduli Gioco QuizXpress inclusi nella licenza. Da qui è possibile avviare i Moduli Gioco al volo in qualsiasi momento durante il quiz, quando il conto alla rovescia non è in corso né in pausa. In alternativa, è possibile inserire i Moduli Gioco nel quiz durante la sua creazione. Per saperne di più sui Moduli Gioco disponibili, consultare [Moduli Gioco](../../studio/mini-games/index.md).
 
-Per ulteriori informazioni sull’inserimento di minigiochi nel quiz, consultare [Majority Rules](../../studio/slide-and-game-formats/majority-rules.md).
+Per ulteriori informazioni sull’inserimento di Moduli Gioco nel quiz, consultare [Majority Rules](../../studio/slide-and-game-formats/majority-rules.md).
 
 Su un plugin installato è possibile eseguire tre azioni: configurare, avviare e terminare. ‘Configure’ apre una finestra per modificare le impostazioni del plugin. ‘Launch’ avvia il plugin sulla schermata principale del quiz per i concorrenti. Il pulsante ‘End’ termina un plugin e riporta alla normale schermata del quiz.
 

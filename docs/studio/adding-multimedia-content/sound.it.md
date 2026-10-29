@@ -182,7 +182,7 @@ Quando si riproducono i suoni sono possibili vari effetti:
 
 È possibile ascoltare questi effetti sonori mentre si crea la domanda che contiene il suono. Per ascoltare il suono e i suoi effetti, fare clic sul pulsante ‘Play’ nella barra multifunzione, oppure selezionare ‘Play’ dal menu contestuale del suono.
 
-Se non si desidera che il suono parta subito all'inizio della domanda, utilizzare la proprietà ‘Intro Pause’ del suono per ritardare la riproduzione (questo dà ai partecipanti la possibilità di leggere prima la domanda, oppure al conduttore del quiz la possibilità di leggerla prima ad alta voce).
+Se non si desidera che il suono parta subito all'inizio della domanda, utilizzare la proprietà ‘Intro Pause’ del suono per ritardare la riproduzione (questo dà ai partecipanti la possibilità di leggere prima la domanda, oppure al Quizmaster la possibilità di leggerla prima ad alta voce).
 
 !!! note
 

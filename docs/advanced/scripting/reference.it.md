@@ -26,7 +26,7 @@ QuizXpress chiama queste funzioni quando esistono nello script di una diapositiv
 
 | Gestore | Chiamato quando… |
 |---|---|
-| `onVote(player, answer, isCorrect)` | Una squadra ha risposto con il keypad (scelta multipla, voto). `answer` è la risposta come sul keypad, ad esempio `'A'`. `isCorrect` è `false` quando la risposta è sbagliata o la diapositiva non ha una risposta corretta. Viene chiamato anche quando una squadra cambia la risposta. |
+| `onVote(player, answer, isCorrect)` | Una squadra ha risposto con la pulsantiera (scelta multipla, voto). `answer` è la risposta come sulla pulsantiera, ad esempio `'A'`. `isCorrect` è `false` quando la risposta è sbagliata o la diapositiva non ha una risposta corretta. Viene chiamato anche quando una squadra cambia la risposta. |
 | `onFastestFinger(player)` | Una squadra ha premuto per prima in una domanda di dito più veloce. |
 | `onCorrectAnswer(player)` | La risposta della squadra più veloce è stata giudicata corretta. |
 | `onIncorrectAnswer(player)` | La risposta della squadra più veloce è stata giudicata sbagliata. |
@@ -97,7 +97,7 @@ if (slide.slideType === SlideType.Question) {
 }
 ```
 
-`SlideType.Question`, `TestQuestion`, `Banner` (billboard), `EndOfRound`, `Demographic`, `LastManStanding`, `AudienceResponse`, `Wager`, `Minigame`, `MajorityRules`, `JeopardyRound` (round Trivia Board), `TriviaLadderRound`, `BingoRound`, `TriviaFeud`, `SpeedRound`, `PairingQuestion`.
+`SlideType.Question`, `TestQuestion`, `Banner` (billboard), `EndOfRound`, `Demographic`, `LastManStanding`, `AudienceResponse`, `Wager`, `Minigame`, `MajorityRules`, `JeopardyRound` (round Tabellone Trivia), `TriviaLadderRound`, `BingoRound`, `TriviaFeud`, `SpeedRound`, `PairingQuestion`.
 
 ## player
 
@@ -108,7 +108,7 @@ Gli oggetti in `qx.teams` e `qx.leaderBoard`, l'argomento `player` dei gestori, 
 | `player.name` | Legge o imposta il nome del giocatore. |
 | `player.group` | Il gruppo demografico del giocatore. |
 | `player.lastVote` | L'ultima risposta ricevuta, ad esempio `'A'`. |
-| `player.keypad` | Il numero di keypad del giocatore. |
+| `player.keypad` | Il numero della pulsantiera del giocatore. |
 | `player.score` | Legge o imposta il punteggio corrente. Vedere [Modificare i punteggi](working-with-quizxpress.md#modificare-i-punteggi). |
 | `player.excluded` | Legge o imposta se il giocatore è escluso. |
 | `player.timeUsed` | Tempo impiegato (numero decimale). |
@@ -144,12 +144,12 @@ Disponibile come `qx.sink.sound`.
 | `setVolume(volume)` | Imposta il volume di riproduzione (0–100). | |
 | `startPlaylist(files[], volume)` | Avvia la riproduzione di un elenco di brani. | |
 | `endPlaylist()` | Ferma la playlist. | |
-| `playBuzzerSound(keypad)` | Riproduce il suono del buzzer per un keypad. | |
+| `playBuzzerSound(keypad)` | Riproduce il suono del buzzer per una pulsantiera. | |
 
 !!! tip
     Nelle stringhe JavaScript, una barra rovesciata deve essere raddoppiata: scrivere i percorsi Windows come `"C:\\Music\\song1.mp3"`.
 
-Fermare sempre in `onUnloadSlide()` la musica avviata: il conduttore del quiz può lasciare la diapositiva in qualsiasi momento. Con 'Test' in Studio, le funzioni audio non fanno nulla.
+Fermare sempre in `onUnloadSlide()` la musica avviata: il Quizmaster può lasciare la diapositiva in qualsiasi momento. Con 'Test' in Studio, le funzioni audio non fanno nulla.
 
 ## Funzioni globali
 

@@ -118,7 +118,7 @@ async function onLoadSlide(slide) {
     slide.setAnswers(answers);
     slide.setCorrectAnswer('ABCD'[position]);
 
-    console.log('Correct answer: ' + 'ABCD'[position]);   // per il conduttore del quiz
+    console.log('Correct answer: ' + 'ABCD'[position]);   // per il Quizmaster
 }
 ```
 

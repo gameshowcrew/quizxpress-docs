@@ -1,6 +1,6 @@
 # Penalty Shootout
 
-Lo scopo del minigioco Penalty Shootout è prevedere se il calciatore segnerà (e in quale sezione della porta), se il rigore verrà sbagliato o se il portiere parerà il rigore.
+Lo scopo del Modulo Gioco Penalty Shootout è prevedere se il calciatore segnerà (e in quale sezione della porta), se il rigore verrà sbagliato o se il portiere parerà il rigore.
 
 Le opzioni di configurazione disponibili sono:
 

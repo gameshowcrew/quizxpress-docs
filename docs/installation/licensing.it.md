@@ -1,6 +1,6 @@
 # Licenze
 
-La suite software QuizXpress è protetta da una chiave di licenza. La versione demo, scaricabile dal nostro sito web, dispone di una modalità di prova di 2 settimane pienamente funzionante. La chiave di licenza contiene informazioni sul numero di dispositivi (buzzer/tastierini/dispositivi mobili) utilizzabili e sulla data di scadenza della licenza.
+La suite software QuizXpress è protetta da una chiave di licenza. La versione demo, scaricabile dal nostro sito web, dispone di una modalità di prova di 2 settimane pienamente funzionante. La chiave di licenza contiene informazioni sul numero di dispositivi (buzzer/pulsantiere/dispositivi mobili) utilizzabili e sulla data di scadenza della licenza.
 
 ## Attivazione
 
@@ -12,7 +12,7 @@ QuizXpress può essere attivato sia online sia offline. L'attivazione online è 
 
 ![](../assets/images/image4.webp){ width="313" loading=lazy }
 
-Dopo l'attivazione, questo modulo mostra ciò che è incluso nella licenza (i minigiochi supportati e l'hardware aggiuntivo come le tabelle punteggi e i dispositivi Galaxy RGB)
+Dopo l'attivazione, questo modulo mostra ciò che è incluso nella licenza (i Moduli Gioco supportati e l'hardware aggiuntivo come le tabelle punteggi e i dispositivi Galaxy RGB)
 
 Per l'attivazione *offline* (nel caso in cui il PC non sia connesso a Internet), è necessario inviare a Game Show Crew il proprio ‘Computer ID’ e la propria ‘Computer key’; si riceverà quindi via e-mail una chiave di attivazione offline da inserire nella casella di testo di attivazione offline.
 

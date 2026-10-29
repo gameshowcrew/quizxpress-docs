@@ -1,7 +1,7 @@
 # Rock Paper Scissors
 
-Nel minigioco Rock Paper Scissors, il pubblico gioca contro un avversario virtuale.
-I giocatori scelgono sasso, carta o forbici sul proprio buzzer, keypad o telefono. La mano del
+Nel Modulo Gioco Rock Paper Scissors, il pubblico gioca contro un avversario virtuale.
+I giocatori scelgono sasso, carta o forbici sul proprio buzzer, sulla propria pulsantiera o sul telefono. La mano del
 computer si muove su e giù tre volte prima di rivelare la sua scelta.
 
 ![Schermata di voto di Rock Paper Scissors con lo stile di mano bianco](../../assets/images/rock-paper-scissors-voting.webp){ loading=lazy }

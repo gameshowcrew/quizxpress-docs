@@ -1,6 +1,6 @@
 # OSC Out
 
-Con OSC Out si decide quale messaggio OSC QuizXpress invia quando succede qualcosa nel quiz. Utilizzarlo per i dispositivi che reagiscono solo ai propri comandi, come una console luci ETC Eos o Ion: una risposta corretta può attivare il cue 20, il dito più veloce sul keypad 3 può attivare una macro, e ogni nuova diapositiva può attivare il cue con lo stesso numero.
+Con OSC Out si decide quale messaggio OSC QuizXpress invia quando succede qualcosa nel quiz. Utilizzarlo per i dispositivi che reagiscono solo ai propri comandi, come una console luci ETC Eos o Ion: una risposta corretta può attivare il cue 20, il dito più veloce sulla pulsantiera 3 può attivare una macro, e ogni nuova diapositiva può attivare il cue con lo stesso numero.
 
 Il [canale in uscita IP](ip-outbound.md) invia sempre gli stessi messaggi fissi, come `/correct` e `/buzz 3 A`. Va bene per il proprio software, ma una console luci ignora i messaggi che non conosce. OSC Out invia esattamente i messaggi che la console si aspetta, ed è possibile usare entrambi allo stesso tempo.
 
@@ -37,7 +37,7 @@ Aprire le [impostazioni del Message Broker](index.md#aprire-le-impostazioni-di-m
 :   Ciò che accade nel quiz, ad esempio 'Correct answer' o 'Slide changes'. Vedere [Eventi e filtri](#eventi-e-filtri).
 
 **Filters**
-:   Alcuni eventi possono essere ristretti, ad esempio 'Fastest finger' a un solo keypad, o 'Slide changes' alle diapositive di una certa classe. Un filtro non selezionato accetta tutto.
+:   Alcuni eventi possono essere ristretti, ad esempio 'Dito più Veloce' a una sola pulsantiera, o 'Slide changes' alle diapositive di una certa classe. Un filtro non selezionato accetta tutto.
 
 **OSC messages**
 :   I messaggi da inviare, uno per riga, nell'ordine in cui vengono scritti. 'Examples' inserisce righe già pronte per ETC Eos e QLab.
@@ -74,12 +74,12 @@ I segnaposto tra parentesi graffe vengono sostituiti con valori del quiz al mome
 | `{previous}` | Il numero della diapositiva precedente, `0` per la prima diapositiva. | Tutti gli eventi |
 | `{class}`, `{id}` | La classe e l'id della diapositiva corrente, impostati nei metadati della diapositiva in Studio. | Tutti gli eventi |
 | `{type}` | Il tipo di diapositiva, ad esempio `question`. | Tutti gli eventi |
-| `{device}` | Il numero del keypad o del buzzer. | Fastest finger, Keypad press |
+| `{device}` | Il numero della pulsantiera o del buzzer. | Dito più Veloce, Keypad press |
 | `{key}` | Il tasto premuto, ad esempio `A`. | Keypad press |
-| `{keynumber}` | Il tasto come numero: A = 1, B = 2 e così via, il pulsante del dito più veloce = 0. | Keypad press |
+| `{keynumber}` | Il tasto come numero: A = 1, B = 2 e così via, il pulsante Dito più Veloce = 0. | Keypad press |
 | `{seconds}`, `{ms}` | Il tempo rimanente in secondi e in millisecondi. | Countdown tick |
 | `{screen}` | Lo schermo, ad esempio `quizscreen` o `finalscorescreen`. | Screen changes |
-| `{command}` | Il pulsante del telecomando, ad esempio `ok` o `f1`. | Remote control button |
+| `{command}` | Il pulsante della pulsantiera Master, ad esempio `ok` o `f1`. | Remote control button |
 
 Un segnaposto che non appartiene all'evento viene inviato così come è scritto; l'editor lo segnala.
 
@@ -100,9 +100,9 @@ Un segnaposto che non appartiene all'evento viene inviato così come è scritto;
 | Correct answer | Una risposta viene giudicata corretta. | – |
 | Incorrect answer | Una risposta viene giudicata sbagliata. | – |
 | Answer revealed | La risposta corretta viene mostrata sulla diapositiva, anche nelle domande a voto in cui nessuno giudica una risposta. Su una diapositiva Trivia Feud, ogni risposta che viene girata sul tabellone. | – |
-| Fastest finger | Un giocatore è il primo in una domanda di dito più veloce. | 'Keypad' |
-| Keypad press | Viene premuto un tasto su un keypad o un buzzer. | 'Keypad', 'Key' (A = 1, B = 2, dito più veloce = 0) |
-| Remote control button | Viene premuto un pulsante sul telecomando del conduttore del quiz. | 'Button' |
+| Dito più Veloce | Un giocatore è il primo in una domanda Dito più Veloce. | 'Keypad' |
+| Keypad press | Viene premuto un tasto su una pulsantiera o un buzzer. | 'Keypad', 'Key' (A = 1, B = 2, Dito più Veloce = 0) |
+| Remote control button | Viene premuto un pulsante sulla pulsantiera Master. | 'Button' |
 | Quiz restarts | Il quiz riparte. | – |
 | Bingo claimed, False bingo, Bingo | Viene dichiarato un Bingo, risulta falso o è valido. | – |
 
@@ -117,12 +117,12 @@ Un segnaposto che non appartiene all'evento viene inviato così come è scritto;
 | Ogni diapositiva attiva il cue con il proprio numero nella lista cue 1 | Slide changes | `/eos/cue/1/{slide}/fire` |
 | Una risposta corretta attiva il cue 20 | Correct answer | `/eos/cue/1/20/fire` |
 | La rivelazione di ogni domanda ha un proprio look, nella lista cue 2 | Answer revealed | `/eos/cue/2/{slide}/fire` |
-| Si accende la luce del vincitore | Fastest finger | `/eos/newcmd="Chan %1 At Full#",{device}` |
+| Si accende la luce del vincitore | Dito più Veloce | `/eos/newcmd="Chan %1 At Full#",{device}` |
 | Un look speciale per il finale | Slide changes, 'Slide class' finale | `/eos/macro/99/fire` |
 | Premere Go 5 secondi prima della fine | Countdown tick, 'Seconds left' 5 | `/eos/key/go_0` |
 | Abbassare il submaster 1 quando il conto alla rovescia va in pausa | Countdown paused | `/eos/sub/1=0.3` |
 
-In `/eos/newcmd`, Eos sostituisce `%1` con il primo argomento, qui il numero del keypad, quindi il comando diventa ad esempio `Chan 3 At Full`. Il `#` finale funziona come il tasto Invio.
+In `/eos/newcmd`, Eos sostituisce `%1` con il primo argomento, qui il numero della pulsantiera, quindi il comando diventa ad esempio `Chan 3 At Full`. Il `#` finale funziona come il tasto Invio.
 
 !!! tip
     Gli altri dispositivi funzionano allo stesso modo. QLab, ad esempio, avvia il cue 5 con `/cue/5/start`; usare `/cue/{slide}/start` per seguire le diapositive.

@@ -1,6 +1,6 @@
 # Simon Says
 
-Nel minigioco Simon Says, il pubblico partecipa a un gioco che sfida i giocatori a riprodurre una sequenza di luci sempre più lunga. Opzioni di configurazione disponibili:
+Nel Modulo Gioco Simon Says, il pubblico partecipa a un gioco che sfida i giocatori a riprodurre una sequenza di luci sempre più lunga. Opzioni di configurazione disponibili:
 
 ![](../../assets/images/image154.webp){ width="323" loading=lazy }
 
@@ -38,7 +38,7 @@ Lo scopo del gioco è che, mentre viene riprodotta una sequenza di luci, i gioca
 
 ![](../../assets/images/image155.webp){ loading=lazy }
 
-Quando la sequenza è terminata, i giocatori inseriscono la sequenza sul proprio keypad / buzzer / telefono
+Quando la sequenza è terminata, i giocatori inseriscono la sequenza sulla propria pulsantiera / buzzer / telefono
 
 ![](../../assets/images/image156.webp){ loading=lazy }
 

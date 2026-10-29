@@ -1,4 +1,4 @@
-# Tastierini e buzzer QuizXpress
+# Pulsantiere e buzzer QuizXpress
 
 ![](../assets/images/image482.webp){ width="148" loading=lazy }
 
@@ -8,7 +8,7 @@ Per installare il ricevitore QuizXpress, collegarlo a una porta USB disponibile.
 
 ![](../assets/images/image483.webp){ width="264" loading=lazy }![](../assets/images/image484.webp){ width="261" loading=lazy }
 
-Ora è possibile configurare QuizXpress per l'uso dei buzzer QuizXpress (fare riferimento anche a [Tastierini di base QuizXpress](../setup/configuring-your-hardware-the-buzzers-tab-page.md#keypad-base-quizxpress)).
+Ora è possibile configurare QuizXpress per l'uso dei buzzer QuizXpress (fare riferimento anche a [Pulsantiere QuizXpress Basic](../setup/configuring-your-hardware-the-buzzers-tab-page.md#keypad-base-quizxpress)).
 
 - Avviare Quiz Setup
 
@@ -22,6 +22,6 @@ Ora è possibile configurare QuizXpress per l'uso dei buzzer QuizXpress (fare ri
 
 !!! note
 
-    I tastierini QuizXpress funzionano con due batterie AAA.
+    Le pulsantiere QuizXpress funzionano con due batterie AAA.
 
 Il ricevitore QuizXpress ha tre LED. Quello rosso indica se è alimentato, quello giallo indica la comunicazione e quello verde indica l'attività di polling RF. Durante il quiz il LED verde dovrebbe lampeggiare. In caso contrario, è necessario riavviare il dispositivo con F12.

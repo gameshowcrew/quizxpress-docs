@@ -18,7 +18,7 @@ Le parti più usate di `qx`:
 |---|---|
 | `qx.slide` | La diapositiva corrente: domanda, risposte, risposta corretta, punti, id, classe… |
 | `qx.slides` | Tutte le diapositive del quiz. |
-| `qx.teams` | Tutte le squadre, con nome, keypad, punteggio e ultimo voto. |
+| `qx.teams` | Tutte le squadre, con nome, pulsantiera, punteggio e ultimo voto. |
 | `qx.leaderBoard` | Le squadre ordinate per punteggio, la prima in testa. |
 | `qx.roundLeaderBoard` | I punteggi del round corrente. |
 | `qx.sink` | QuizXpress Live stesso: passare a una diapositiva, terminare il quiz, riprodurre musica… |
@@ -37,7 +37,7 @@ function onCountdownTick(secondsLeft) {
         qx['message'] = 'Ten seconds left!';
 }
 
-// una squadra ha risposto con il proprio keypad
+// una squadra ha risposto con la propria pulsantiera
 function onVote(player, answer, isCorrect) {
     console.log(player.name + ' answered ' + answer);
 }

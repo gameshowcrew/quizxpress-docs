@@ -31,7 +31,7 @@ Nel campo Topic, inserire l'argomento desiderato. Essere il più specifici possi
 
 È inoltre possibile regolare i cursori Creativity/Difficulty e Fun Factor che, a seconda dell'argomento, hanno un'influenza maggiore o minore.
 
-Ora premere il pulsante "Generate" e osservare come le domande vengono generate, complete di note dettagliate che il conduttore del quiz può usare durante la conduzione.
+Ora premere il pulsante "Generate" e osservare come le domande vengono generate, complete di note dettagliate che il Quizmaster può usare durante la conduzione.
 
 Le domande generate sono presentate in formato elenco insieme alle risposte corrispondenti. Nel caso delle domande a risposta multipla, il sistema di IA genera anche alternative plausibili alla risposta corretta. Questa funzione semplifica il processo di creazione del quiz e garantisce che i contenuti siano coinvolgenti e completi.
 

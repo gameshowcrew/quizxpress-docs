@@ -24,7 +24,7 @@ Creare round diversi con lo stesso tipo di domande rende il quiz più facile da 
 
 - Un round Last Man Standing in cui i partecipanti vengono eliminati finché ne rimane uno solo
 
-Inoltre, è meglio non mescolare domande aperte e domande a scelta multipla in uno stesso round, perché ogni tipo di domanda ha un modo diverso di fornire l’input (tasti diversi sul telecomando), il che può confondere il pubblico se ogni domanda è diversa.
+Inoltre, è meglio non mescolare domande aperte e domande a scelta multipla in uno stesso round, perché ogni tipo di domanda ha un modo diverso di fornire l’input (tasti diversi sulla pulsantiera), il che può confondere il pubblico se ogni domanda è diversa.
 
 **Mantenere il quiz leggero tenendo i file multimediali esterni (o usare la funzione Pack)**
 
@@ -32,7 +32,7 @@ Con QX4 è possibile mantenere esterni sia i file audio sia i file video. In que
 
 **Avere un sistema di riserva**
 
-Per un evento critico, può essere opportuno predisporre un ambiente di riserva. Ciò significa avere un secondo computer e/o un secondo ricevitore RF con relativo cavo, programmato con lo stesso ID del ricevitore principale. Questo è necessario perché ogni telecomando è associato a un solo ricevitore, quindi normalmente non è possibile sostituire semplicemente il ricevitore. Possiamo però fornire un ricevitore con esattamente lo stesso ID del ricevitore principale. In questo modo si può semplicemente sostituire il ricevitore se si guasta, o passare a un altro computer senza riprogrammare i telecomandi. Contattateci per maggiori dettagli.
+Per un evento critico, può essere opportuno predisporre un ambiente di riserva. Ciò significa avere un secondo computer e/o un secondo ricevitore RF con relativo cavo, programmato con lo stesso ID del ricevitore principale. Questo è necessario perché ogni pulsantiera è associata a un solo ricevitore, quindi normalmente non è possibile sostituire semplicemente il ricevitore. Possiamo però fornire un ricevitore con esattamente lo stesso ID del ricevitore principale. In questo modo si può semplicemente sostituire il ricevitore se si guasta, o passare a un altro computer senza riprogrammare i telecomandi. Contattateci per maggiori dettagli.
 
 **Conoscere il dispositivo di destinazione**
 

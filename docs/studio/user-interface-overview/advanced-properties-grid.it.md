@@ -440,27 +440,27 @@ Queste proprietà sono mostrate quando si clicca su un elemento Audio in una dia
 
 ## Proprietà dei video
 
-Queste proprietà vengono mostrate facendo clic su un video in una diapositiva
+Queste proprietà sono mostrate quando si clicca su un elemento Video in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Aspect Ratio | (sola lettura) proporzioni |
-| Codec | (sola lettura) decoder video in uso |
-| Duration | (sola lettura) lunghezza del video |
-| Effect | Effetto facoltativo sul video |
-| End | Momento in cui terminare il video |
-| Intro Pause | Ritardo tra la visualizzazione della diapositiva e l’avvio del video |
-| Linked File | Nome file del file video esterno, se collegato |
-| Loop | Ripete il video dopo che si è fermato |
-| Replay | Riproduce di nuovo il video dopo che la risposta corretta è stata rivelata nella domanda. |
-| Replay delay | Il numero di secondi dopo i quali inizia la ripetizione |
-| Replay start | Imposta il momento di riproduzione in cui il video inizierà |
-| Replay end | Imposta il momento di riproduzione in cui il video terminerà |
-| Silent | Elimina l’audio del video |
-| Start | Momento in cui avviare il video |
-| Video Height | (sola lettura) altezza del video |
-| Video storage type | Indica se il frammento video è incorporato (embedded) o collegato (linked). Incorporare un frammento video in un quiz significa che il frammento video viene integrato nel file del quiz. Collegare un frammento video significa che dal file del quiz viene creato un riferimento a un video presente nel file system. In generale si consiglia di collegare i video. *Nota: quando si collegano i video, assicurarsi di non rimuovere i file video dal file system. Quando si sposta il quiz su un altro computer, i video devono essere copiati nella stessa cartella del file del quiz.* |
-| (sola lettura) larghezza del video | (sola lettura) larghezza del video |
+| Proporzioni | (sola lettura) Le proporzioni del video |
+| Codec | (sola lettura) Il decoder video utilizzato |
+| Durata | (sola lettura) La durata del video |
+| Effetto | Effetto facoltativo applicato al video |
+| Fine | La posizione in cui il video verrà interrotto |
+| Pausa Intro | Il tempo di attesa tra la visualizzazione della diapositiva e l’avvio del video. In questo modo il Quizmaster può leggere prima la domanda. |
+| File Collegato | Il nome del file video esterno (se collegato) |
+| Ripeti | Ripete il video una volta concluso |
+| Replay | Riproduce nuovamente il video dopo che la risposta corretta è stata rivelata nella domanda. |
+| Ritardo Replay | Viene visualizzato quando il Replay è abilitato. Indica il numero di secondi dopo i quali inizia la ripetizione. |
+| Inizio Replay | Imposta il momento in cui il video inizierà a essere riprodotto |
+| Fine Replay | Imposta il momento in cui il video smetterà di essere riprodotto |
+| Silenzioso | Silenzia l’audio del video |
+| Inizio | La posizione da cui verrà avviato il video |
+| Altezza | (sola lettura) L’altezza del video |
+| Tipo Archivio Video | Indica se il file video è incorporato nel quiz o collegato. Incorporare un file video significa integrarlo nel file del quiz; collegarlo significa fare riferimento a un file presente sul computer. In generale si raccomanda il collegamento. *Nota: quando si collega un file video, non rimuoverlo dal computer; quando si sposta il quiz su un altro computer, i video devono essere copiati nella stessa cartella del file del quiz.* |
+| Larghezza | (sola lettura) La larghezza del video |
 
 ## Proprietà delle forme
 

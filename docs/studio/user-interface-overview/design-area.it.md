@@ -2,29 +2,29 @@
 
 L’area di progettazione contiene una rappresentazione visiva di quella che chiamiamo una “diapositiva del quiz”. Mostra la diapositiva del quiz esattamente come verrà visualizzata durante lo show. Una diapositiva del quiz è composta da più elementi: una domanda, risposte a scelta multipla, immagini, forme e testo, un video o un elemento audio, ecc. Gli elementi possono essere selezionati singolarmente o come gruppo e poi modificati. Anche la diapositiva del quiz nel suo insieme può essere selezionata per modificarne le proprietà. Per selezionare una diapositiva del quiz, fare clic sullo sfondo della diapositiva. Vedere [Proprietà delle diapositive del quiz](advanced-properties-grid.md#proprieta-delle-diapositive-del-quiz) per una panoramica di tutte le proprietà di una diapositiva.
 
-Gli elementi della diapositiva possono essere selezionati e ridimensionati facendo clic con il tasto sinistro su una delle maniglie di ridimensionamento e trascinandola fino alla dimensione desiderata. Quando sono selezionati più elementi, usando il tasto Ctrl oppure trascinando un riquadro di selezione con il mouse, la modifica delle proprietà mostrate nel riquadro delle proprietà (o tramite i controlli della barra multifunzione) cambia le proprietà di tutti gli elementi selezionati contemporaneamente. Ciò è utile, ad esempio, per impostare in un colpo solo il carattere di tutte le risposte di una domanda: selezionare prima tutte le risposte, quindi modificare la proprietà ‘font’ nel riquadro delle proprietà. Durante lo spostamento, gli oggetti si agganciano alle [guide smart](#guide-intelligenti) e a una griglia invisibile; tenere premuto il tasto *Ctrl* durante il trascinamento per disattivare questo aggancio.
+Gli elementi della diapositiva possono essere selezionati e ridimensionati facendo clic con il tasto sinistro su una delle maniglie di ridimensionamento e trascinandola fino alla dimensione desiderata. Quando sono selezionati più elementi, usando il tasto Ctrl oppure trascinando un riquadro di selezione con il mouse, la modifica delle proprietà mostrate nel riquadro delle proprietà (o tramite i controlli della barra multifunzione) cambia le proprietà di tutti gli elementi selezionati contemporaneamente. Ciò è utile, ad esempio, per impostare in un colpo solo il carattere di tutte le risposte di una domanda: selezionare prima tutte le risposte, quindi modificare la proprietà ‘font’ nel riquadro delle proprietà. Durante lo spostamento, gli oggetti si agganciano alle [Guide Smart](#guide-intelligenti) e a una griglia invisibile; tenere premuto il tasto *Ctrl* durante il trascinamento per disattivare questo aggancio.
 
-## Guide smart { #guide-intelligenti }
+## Guide Smart { #guide-intelligenti }
 
-Mentre si spostano o si ridimensionano gli elementi di una diapositiva, Quiz Studio mostra le guide smart: linee rosse che indicano quando gli elementi sono allineati, e l’elemento si aggancia in posizione non appena si avvicina. In questo modo è facile creare diapositive ordinate e coerenti senza misurare nulla.
+Mentre si spostano o si ridimensionano gli elementi di una diapositiva, Quiz Studio mostra le Guide Smart: linee rosse che indicano quando gli elementi sono allineati, e l’elemento si aggancia in posizione non appena si avvicina. In questo modo è facile creare diapositive ordinate e coerenti senza misurare nulla.
 
-![Guide smart durante lo spostamento di una risposta](../../assets/images/smart-guides-spacing.webp){ loading=lazy }
+![Guide Smart durante lo spostamento di una risposta](../../assets/images/smart-guides-spacing.webp){ loading=lazy }
 
 - **Allineamento dei bordi**: compare una linea rossa tratteggiata quando un bordo dell’elemento è allineato con il bordo di un altro elemento o con il bordo della diapositiva. Piccole croci rosse contrassegnano gli elementi allineati.
 - **Allineamento dei centri**: compare una linea rossa tratto-punto quando il centro dell’elemento è allineato con il centro di un altro elemento o con il centro della diapositiva.
 - **Spaziatura uguale**: quando l’elemento si trova alla stessa distanza dall’elemento sopra (o prima) e da quello sotto (o dopo), oppure alla stessa distanza che separa altri elementi della stessa riga o colonna, in ogni spazio uguale compaiono frecce con la distanza in pixel. Nell’immagine qui sopra, tutte e quattro le risposte distano 20 pixel l’una dall’altra.
 - **Dimensione uguale**: durante il ridimensionamento di un elemento, questo si aggancia alla larghezza o all’altezza di un altro elemento della diapositiva, e su ogni elemento con quella dimensione compare un indicatore di dimensione.
 
-![Guide smart durante il ridimensionamento di una risposta](../../assets/images/smart-guides-size.webp){ loading=lazy }
+![Guide Smart durante il ridimensionamento di una risposta](../../assets/images/smart-guides-size.webp){ loading=lazy }
 
-Durante il trascinamento, una copia semitrasparente dell’elemento mostra dove verrà posizionato, e una piccola etichetta mostra la sua posizione (X e Y) oppure, durante il ridimensionamento, la sua dimensione, in pixel della diapositiva. Le guide smart funzionano anche quando si spostano insieme più elementi selezionati.
+Durante il trascinamento, una copia semitrasparente dell’elemento mostra dove verrà posizionato, e una piccola etichetta mostra la sua posizione (X e Y) oppure, durante il ridimensionamento, la sua dimensione, in pixel della diapositiva. Le Guide Smart funzionano anche quando si spostano insieme più elementi selezionati.
 
-- Tenere premuto il tasto *Ctrl* durante il trascinamento per posizionare un elemento liberamente, senza guide smart né griglia.
+- Tenere premuto il tasto *Ctrl* durante il trascinamento per posizionare un elemento liberamente, senza Guide Smart né griglia.
 - Premere *Esc* durante il trascinamento per annullare lo spostamento e lasciare l’elemento dov’era.
 
-Per disattivare (o riattivare) le guide smart, fare clic con il tasto destro sullo sfondo della diapositiva e fare clic su ‘Guide smart’. Quiz Studio ricorda questa impostazione. Gli elementi si agganciano quindi solo alla griglia invisibile.
+Per disattivare (o riattivare) le Guide Smart, fare clic con il tasto destro sullo sfondo della diapositiva e fare clic su ‘Guide Smart’. Quiz Studio ricorda questa impostazione. Gli elementi si agganciano quindi solo alla griglia invisibile.
 
-![Guide smart nel menu contestuale della diapositiva](../../assets/images/smart-guides-menu.webp){ width="200" loading=lazy }
+![Guide Smart nel menu contestuale della diapositiva](../../assets/images/smart-guides-menu.webp){ width="200" loading=lazy }
 
 !!! tip
     Per allineare più elementi in un colpo solo, selezionarli e usare gli [strumenti di allineamento](../other-functionality/home-alignment-size-order.md) della barra multifunzione HOME.

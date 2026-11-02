@@ -646,81 +646,81 @@ Quando si configura una diapositiva Trivia Feud, sono disponibili le seguenti pr
 </thead>
 <tbody>
 <tr class="odd">
-<td>Auto scale text</td>
-<td>Ridimensiona il testo delle risposte in modo che stia nelle caselle (con il risultato di dimensioni del carattere diverse per le risposte)</td>
+<td>Scala Testo Automaticamente</td>
+<td>Ridimensiona il testo delle risposte in modo che si adattino alle caselle (il risultato è una diversa dimensione dei caratteri per le risposte).</td>
 </tr>
 <tr class="even">
-<td>Drop shadow</td>
-<td>Aggiunge un’ombra esterna ai testi delle risposte</td>
+<td>Ombra Testo</td>
+<td>Aggiunge un’ombra ai testi delle risposte</td>
 </tr>
 <tr class="odd">
-<td>Leading zeros</td>
-<td>Mostra gli zeri iniziali per i punteggi del sondaggio</td>
+<td>Zeri iniziali</td>
+<td>Mostra gli zeri iniziali nei punteggi del sondaggio</td>
 </tr>
 <tr class="even">
-<td>Question font</td>
+<td>Font Domanda</td>
 <td>Carattere della domanda del sondaggio</td>
 </tr>
 <tr class="odd">
-<td>Question text color</td>
+<td>Colore Testo Domanda</td>
 <td>Colore della domanda del sondaggio</td>
 </tr>
 <tr class="even">
-<td>Show light grid</td>
-<td>Mostra la griglia luminosa sullo sfondo</td>
+<td>Mostra Griglia Luminosa</td>
+<td>Mostra una griglia luminosa sullo sfondo</td>
 </tr>
 <tr class="odd">
-<td>Survey</td>
-<td>Modifica le risposte del sondaggio</td>
+<td>Sondaggio</td>
+<td>Modifica le risposte al sondaggio</td>
 </tr>
 <tr class="even">
-<td>Survey question</td>
-<td>Modifica le domande del sondaggio</td>
+<td>Domanda Sondaggio</td>
+<td>Modifica la domanda del sondaggio</td>
 </tr>
 <tr class="odd">
-<td>Survey text alignment</td>
-<td>Allineamento del testo del sondaggio</td>
+<td>Allineamento Testo Sondaggio</td>
+<td>Modifica l’allineamento del testo del sondaggio</td>
 </tr>
 <tr class="even">
-<td>Survey text color</td>
+<td>Colore Testo Sondaggio</td>
 <td>Colore delle risposte del sondaggio</td>
 </tr>
 <tr class="odd">
-<td>Game mode</td>
-<td>Manual, Dito più Veloce, Multiplayer</td>
+<td>Modalità di Gioco</td>
+<td>*Manuale*, *Dito più Veloce* o *Multigiocatore*</td>
 </tr>
 <tr class="even">
-<td>Hide survey question</td>
-<td>Nasconde la domanda del sondaggio (il Quizmaster preferisce leggerla ad alta voce)</td>
+<td>Nascondi Domanda Sondaggio</td>
+<td>Nasconde la domanda del sondaggio (se il Quizmaster preferisce leggerla ad alta voce)</td>
 </tr>
 <tr class="odd">
-<td>Max correct answers</td>
-<td>Il numero massimo di risposte corrette che un giocatore può dare (solo Dito più Veloce).</td>
+<td>Max Risposte Corrette</td>
+<td>Il numero massimo di risposte corrette che un giocatore può dare (solo modalità Dito più Veloce).</td>
 </tr>
 <tr class="even">
-<td>Max incorrect answers</td>
+<td>Max Risposte Errate</td>
 <td><p>Il numero massimo di risposte errate che un giocatore può dare prima che il conto alla rovescia riprenda (modalità Dito più Veloce)</p>
-<p>Il numero massimo di risposte errate prima che il turno passi all’altra squadra (modalità manual)</p></td>
+<p>Il numero massimo di risposte errate prima che il turno passi all’altra squadra (modalità Manuale)</p></td>
 </tr>
 <tr class="odd">
-<td>Penalty points</td>
+<td>Punti Penalità</td>
 <td>Il numero di punti di penalità quando una risposta data è errata (modalità Dito più Veloce)</td>
 </tr>
 <tr class="even">
-<td>Points multiplier</td>
-<td>Applica un moltiplicatore di 2 o 3 alle risposte del sondaggio, in modo che un giocatore possa vincere 2 o 3 volte più punti</td>
+<td>Moltiplicatore Punti</td>
+<td>Applica un moltiplicatore x2 o x3 alle risposte del sondaggio, in modo che un giocatore possa vincere 2 o 3 volte i punti in palio</td>
 </tr>
 <tr class="odd">
-<td>Reveal order</td>
-<td>L’ordine in cui vengono rivelati i pannelli rimanenti (‘first to last’ o ‘last to first’)</td>
+<td>Ordine Rivelazione</td>
+<td>L’ordine in cui vengono rivelati i pannelli rimanenti: *Dal primo all’ultimo* o *Dall’ultimo al primo*</td>
 </tr>
 <tr class="even">
-<td>Reveal delay (ms)</td>
-<td>Il ritardo in millisecondi tra la rivelazione di una risposta del sondaggio e l’altra. Consente al Quizmaster di leggere le risposte una per una mentre vengono mostrate.</td>
+<td>Ritardo Rivelazione (ms)</td>
+<td>Il ritardo, in millisecondi, tra la rivelazione di una risposta del sondaggio e l’altra. Permette al Quizmaster di leggere le risposte una alla volta mentre vengono mostrate.</td>
 </tr>
 <tr class="odd">
-<td>Wrong answer mode</td>
-<td>Quando un giocatore ha dato il numero di risposte errate definito in ‘max incorrect answers’, questa modalità indica se il giocatore viene escluso per questa domanda o può premere di nuovo il buzzer (continuare) (modalità Dito più Veloce)</td>
+<td>Modalità Risposta Errata</td>
+<td>Quando un giocatore ha dato il numero di risposte errate definito in ‘Max Risposte Errate’, questa modalità indica se il giocatore viene escluso per questa domanda (*Escludi Giocatore/Squadra*) o può premere di nuovo il buzzer (*Continua a Giocare*) (modalità Dito più Veloce)</td>
 </tr>
 </tbody>
 </table>

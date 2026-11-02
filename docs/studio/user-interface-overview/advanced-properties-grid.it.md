@@ -387,24 +387,24 @@ Queste proprietà sono mostrate quando si fa clic su una casella di risposta in 
 
 ## Proprietà delle immagini
 
-Queste proprietà vengono mostrate facendo clic sulla casella di un’immagine in una diapositiva
+Queste proprietà sono mostrate quando si fa clic su una casella immagine in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Border | Indica se intorno all’immagine viene tracciato un bordo |
-| Border color | Il colore del bordo, se abilitato |
-| Border thickness | Spessore in pixel del bordo (se abilitato) |
-| Corner radius | Raggio degli angoli della linea del bordo per creare un bordo arrotondato |
-| Correct answer | Indica se l’immagine contiene la risposta corretta. Può essere impostato per le immagini solo quando la diapositiva contiene soltanto immagini ed è una diapositiva a scelta multipla. |
-| Drop shadow | Indica se sotto l’immagine viene applicata un’ombra |
-| Effect | Imposta un effetto sull’immagine. Vedere [Ritaglio](../adding-multimedia-content/pictures.md#ritaglio) per una spiegazione più dettagliata degli effetti. |
-| Hidden | Nasconde l’immagine durante il quiz |
-| Hidden on mobile | Indica se un’immagine mostrata su una diapositiva del quiz deve essere nascosta sul telefono cellulare. Uno scenario di utilizzo è quando si vuole mostrare un’immagine diversa sul telefono cellulare rispetto al grande schermo per il pubblico. Per esempio, si potrebbe volere che l’immagine per dispositivi mobili abbia proporzioni diverse. In tal caso, non si vuole che l’immagine mostrata sul grande schermo compaia anche sul telefono cellulare. |
-| Image | Una miniatura dell’immagine. Fare clic sul pulsante Sfoglia (…) di questa proprietà per cercare un’immagine. |
-| Inflate | Determina se l’immagine deve riempire l’intera area ingrandendosi |
-| Label | Una descrizione testuale dell’immagine (usata quando l’immagine non può essere mostrata) |
-| Mobile device image | Una versione alternativa dell’immagine da usare sui dispositivi mobili |
-| Stretch | Allunga l’immagine in entrambe le direzioni per riempire l’area (può deformare l’immagine) |
+| Bordo | Indica se deve essere visibile un bordo intorno all'immagine |
+| Colore Bordo | Il colore del bordo, se abilitato |
+| Spessore Bordo | Spessore in pixel del bordo, se abilitato |
+| Raggio Angoli | Raggio degli angoli della linea del bordo per creare un bordo arrotondato |
+| Risposta Corretta | Indica se l'immagine contiene la risposta corretta. Può essere impostata solo per le immagini, se la diapositiva contiene solo immagini e se la diapositiva è a scelta multipla. |
+| Ombra Esterna | Indica se è richiesta un'ombra sotto l'immagine |
+| Effetto | Imposta un effetto sull’immagine. Vedere [Applicare gli effetti](../adding-multimedia-content/pictures.md#applicare-gli-effetti) per una spiegazione più dettagliata degli effetti. |
+| Nascosta | Nasconde l’immagine durante il quiz |
+| Nascondi su Mobile | Indica se l'immagine mostrata su una diapositiva del quiz deve essere nascosta sul telefono cellulare. Lo scenario per l'utilizzo di questa opzione è quando si desidera mostrare sul cellulare un'immagine diversa da quella mostrata sul grande schermo al pubblico. Ad esempio, si desidera che l'immagine sul cellulare abbia un altro rapporto di aspetto. In questo caso, non si vuole mostrare l'immagine visualizzata sullo schermo anche sul cellulare. |
+| Immagine | Visualizza una miniatura dell'immagine. Fare clic sul pulsante sfoglia (...) di questa proprietà per cercare una foto. |
+| Ingrandisci | Ingrandisce l’immagine fino ai bordi dell’area mantenendo le proporzioni, le parti che escono possono essere tagliate. |
+| Etichetta | Una descrizione testuale dell'immagine (da usare quando l'immagine non può essere mostrata) |
+| Immagine Dispositivi Mobili | Una versione alternativa dell'immagine da utilizzare sui Dispositivi Mobili |
+| Riempi | Allunga l'immagine in entrambe le direzioni per riempire l'area (potrebbe distorcere l'immagine) |
 
 ## Proprietà dei suoni
 

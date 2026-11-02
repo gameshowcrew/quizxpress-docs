@@ -499,31 +499,31 @@ Queste proprietà vengono visualizzate quando si fa clic su un elemento Parlato 
 
 ## Proprietà dei grafici
 
-Queste proprietà vengono mostrate facendo clic su un grafico in una diapositiva
+Queste proprietà vengono mostrate quando si fa clic su un grafico in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Alignment | Allineamento del titolo del grafico |
-| Area background | Imposta il colore di sfondo dell’area dei dati del grafico |
-| Axis color | Il colore usato per l’asse |
-| Axis label autosize | Imposta automaticamente la dimensione delle etichette sull’asse. Se non è impostato, è possibile scegliere esplicitamente un carattere e una dimensione per le etichette |
-| Axis label color | Il colore usato per le etichette sull’asse |
-| Chart background | Imposta il colore di sfondo dell’area esterna ai dati del grafico |
-| Chart type | Il tipo di grafico. Scegliere tra Bar, Column, Doughnut o Pie. |
-| Corner radius | Raggio degli angoli dell’elemento grafico |
-| Dropshadow offset | Mostra un’ombra esterna per l’area dei dati del grafico |
-| Grid color | Il colore usato per la griglia nell’area dei dati del grafico |
-| Label color | Colore delle etichette mostrate per ogni elemento del grafico |
-| Label display mode | Per le etichette, mostra i valori assoluti, le percentuali o entrambi |
-| Label font | Carattere delle etichette |
-| Label style | Indica dove posizionare le etichette |
-| Mode | Indica il tipo di dati mostrati nel grafico: response (percentuale di ogni risposta data) o right/wrong (percentuale di giocatori che hanno risposto correttamente/in modo errato) |
-| Show 3D | Mostra una rappresentazione 3D del grafico |
-| Show legend | Mostra una legenda per i dati del grafico (percentuale di risposte per ciascuna risposta) |
-| Title | Titolo del grafico |
-| Title color | Colore del titolo del grafico |
-| Title font | Carattere del titolo del grafico |
-| Visibility | Indica se il grafico è sempre visibile (con aggiornamenti in tempo reale durante il conto alla rovescia) o solo dopo la chiusura della domanda |
+| Allineamento | L’allineamento del titolo del grafico |
+| Sfondo Area | Imposta il colore di sfondo dell'area dei dati del grafico |
+| Colore Assi | Il colore utilizzato per gli assi |
+| Auto-Dimensione Etichette Assi | Imposta automaticamente la dimensione delle etichette sull'asse. Se non sono impostate, è possibile scegliere esplicitamente un carattere e una dimensione per le etichette. |
+| Colore Etichette Assi | Il colore utilizzato per le etichette degli assi. |
+| Sfondo Grafico | Imposta il colore di sfondo dell'area esterna ai dati del grafico |
+| Tipologia Grafico | Il tipo di grafico. È possibile scegliere tra *Barre*, *Colonna*, *Ciambella* o *Torta*. |
+| Raggio Angoli | Imposta l’arrotondamento degli angoli dell’elemento grafico. |
+| Scostamento Ombra | Mostra un'ombra per l'area dei dati del grafico |
+| Colore Griglia | Il colore utilizzato per la griglia nell'area dei dati del grafico |
+| Colore Etichetta | Colore delle etichette visualizzate per ogni elemento del grafico |
+| Modalità Visualizzazione Etichetta | Per le etichette, indica se mostrare i valori assoluti, le percentuali o entrambi (*Assoluto*, *Percentuale*, *Entrambi*). |
+| Font Etichetta | Il carattere utilizzato per le Etichette |
+| Stile Etichetta | Indica dove posizionare le etichette |
+| Modalità | Indica il tipo di dati mostrati nel grafico: *Risposta* (percentuale di ogni risposta data) o *Corrette/Errate* (percentuale di giocatori che hanno risposto correttamente o in modo errato). |
+| Mostra 3D | Visualizza una rappresentazione 3D del grafico |
+| Mostra Legenda | Visualizza una legenda per i dati del grafico (percentuale di risposte per ogni risposta). |
+| Titolo | Il titolo del grafico |
+| Colore Titolo | Il colore del titolo del grafico |
+| Font Titolo | Il carattere utilizzato per il titolo del grafico |
+| Visibilità | Indica se il grafico è sempre visibile (con aggiornamenti in tempo reale durante il conto alla rovescia) o solo dopo la chiusura della domanda. |
 
 ## Proprietà dei giochi di parole
 

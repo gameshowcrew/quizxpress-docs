@@ -401,36 +401,36 @@ Queste proprietà sono mostrate quando si fa clic su una casella immagine in una
 | Nascosta | Nasconde l’immagine durante il quiz |
 | Nascondi su Mobile | Indica se l'immagine mostrata su una diapositiva del quiz deve essere nascosta sul telefono cellulare. Lo scenario per l'utilizzo di questa opzione è quando si desidera mostrare sul cellulare un'immagine diversa da quella mostrata sul grande schermo al pubblico. Ad esempio, si desidera che l'immagine sul cellulare abbia un altro rapporto di aspetto. In questo caso, non si vuole mostrare l'immagine visualizzata sullo schermo anche sul cellulare. |
 | Immagine | Visualizza una miniatura dell'immagine. Fare clic sul pulsante sfoglia (...) di questa proprietà per cercare una foto. |
-| Ingrandisci | Ingrandisce l’immagine fino ai bordi dell’area mantenendo le proporzioni, le parti che escono possono essere tagliate. |
+| Ingrandisci | Ingrandisce l’immagine fino ai bordi dell’area mantenendo le proporzioni; le parti che escono possono essere tagliate. |
 | Etichetta | Una descrizione testuale dell'immagine (da usare quando l'immagine non può essere mostrata) |
 | Immagine Dispositivi Mobili | Una versione alternativa dell'immagine da utilizzare sui Dispositivi Mobili |
 | Riempi | Allunga l'immagine in entrambe le direzioni per riempire l'area (potrebbe distorcere l'immagine) |
 
 ## Proprietà dei suoni
 
-Queste proprietà vengono mostrate facendo clic su un elemento sonoro in una diapositiva
+Queste proprietà sono mostrate quando si clicca su un elemento Audio in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Duration | La durata del suono. Inizialmente viene mostrata la durata completa. |
-| Intro pause | Il tempo di attesa prima che il suono parta. Questo dà al Quizmaster la possibilità di leggere prima la domanda. |
-| Keep playing | Per impostazione predefinita, la musica inserita in una diapositiva si ferma quando termina il timer del conto alla rovescia. Con questo flag è possibile lasciare la musica in riproduzione fino al passaggio alla diapositiva successiva. |
-| Pitch | L’altezza del suono all’inizio del conto alla rovescia |
-| Remove vocals | Effetto per rimuovere le voci (i risultati possono variare) |
-| Repeat | Indica se il suono deve ripetersi. |
-| Replay | Riproduce di nuovo il suono dopo che la risposta corretta è stata rivelata nella domanda. |
-| Replay delay | Mostrato quando replay è abilitato. Indica il numero di secondi dopo i quali inizia la ripetizione |
-| Replay start | Imposta il momento in cui il frammento sonoro inizierà a essere riprodotto |
-| Replay end | Imposta il momento in cui il frammento sonoro smetterà di essere riprodotto |
-| Reverse audio | Riproduce il frammento sonoro al contrario |
-| Sound Storage Type | Indica se i dati del suono sono memorizzati incorporati nel file del quiz (embedded) o sul disco locale (linked) |
-| Speed percentage | La velocità del suono quando inizia la riproduzione. |
-| Start at | La posizione nel file audio da cui il suono verrà avviato. |
-| Stop at | Il momento in cui fermare il suono |
-| Target Pitch | L’altezza del suono alla fine del conto alla rovescia (l’altezza viene interpolata dall’inizio alla fine) |
-| Target speed percentage | La velocità del suono quando termina la riproduzione. Nota: giocando con ‘speed percentage’ e ‘target speed percentage’ è possibile riprodurre i suoni ‘da lento a normale’ o ‘da veloce a normale’. Impostando entrambe le percentuali al 100% il frammento sonoro viene semplicemente riprodotto dall’inizio alla fine a velocità normale. |
-| Volume | Il volume al quale riprodurre la musica |
-| Volume fade | Dissolvenza in entrata/uscita all’avvio/arresto della musica |
+| Durata | La durata del file audio. Inizialmente è mostrata la durata totale. |
+| Pausa Intro | Il tempo di attesa prima che il file audio inizi. In questo modo il quizmaster avrà la possibilità di leggere prima la domanda. |
+| Continua Riproduzione | Per impostazione predefinita, l’audio inserito in una diapositiva si interrompe alla fine del conto alla rovescia. Con questa opzione attiva, l’audio continuerà la riproduzione fino al passaggio alla diapositiva successiva. |
+| Tono (-12 - +12 semitoni) | Il tono del suono all’inizio del conto alla rovescia |
+| Rimuovi Vocals | Effetto per rimuovere le voci dal file audio (i risultati possono variare) |
+| Ripeti | Indica se il file audio deve ripetersi o no. |
+| Replay | Riproduce nuovamente il suono dopo che la risposta corretta è stata rivelata nella domanda. |
+| Ritardo Replay | Viene visualizzato quando il Replay è abilitato. Mostra il numero di secondi dopo i quali inizia la ripetizione. |
+| Inizio Replay | Imposta il momento in cui il frammento sonoro inizierà a essere riprodotto |
+| Fine Replay | Imposta il momento in cui il frammento sonoro smetterà di essere riprodotto |
+| Audio Invertito | Riproduce il frammento sonoro al contrario |
+| Tipo Archivio Audio | Indica se il file audio è incorporato nel quiz o collegato dal disco locale. Incorporare un file audio significa integrarlo nel file del quiz; collegarlo significa fare riferimento a un file presente sul computer. In generale si raccomanda il collegamento. Nota: quando si collega un file audio, non rimuoverlo dal computer; quando si sposta il quiz su un altro computer, i file audio devono essere copiati nella stessa cartella del file del quiz. |
+| Percentuale Velocità | Indica la velocità del file audio quando inizia la riproduzione. |
+| Inizia da | La posizione del file Audio da cui verrà avviato il suono. |
+| Termina a | La posizione del file audio in cui il suono verrà interrotto. |
+| Tonalità Target (-12 - +12 semitoni) | Il tono del suono alla fine del conto alla rovescia (il tono viene interpolato dall’inizio alla fine) |
+| Percentuale Velocità target | La velocità del file audio quando termina la riproduzione. Nota: con ‘Percentuale Velocità’ e ‘Percentuale Velocità target’ è possibile riprodurre i suoni ‘da lento a normale’ o ‘da veloce a normale’. Impostando entrambe le percentuali al 100%, il frammento audio viene riprodotto dall’inizio alla fine a velocità normale. |
+| Volume | Il volume con cui riprodurre il file Audio |
+| Dissolvenza Volume | Dissolvenza in entrata/uscita all’avvio/arresto della musica |
 
 ## Proprietà dei Moduli Gioco { #proprieta-dei-minigiochi }
 

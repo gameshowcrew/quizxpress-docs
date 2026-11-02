@@ -349,21 +349,21 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 
 ## Proprietà della domanda
 
-Queste proprietà vengono mostrate facendo clic sulla casella della domanda in una diapositiva
+Queste proprietà sono mostrate quando si fa clic su una casella della domanda in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Alignment | L’allineamento del testo della domanda |
-| Drop shadow | Indica se sotto il testo della domanda viene applicata un’ombra |
-| Gradient | Il gradiente di riempimento per lo sfondo della domanda. |
-| Shadow color | Indica il colore dell’ombra |
-| Text | Il testo della domanda |
-| Text Color | Il colore del testo della domanda |
-| Text font | Il carattere usato per il testo della domanda |
-| Text reveal animation | Come viene rivelato il testo. Show (predefinito: viene mostrato direttamente), Show letter by letter o Show word by word |
-| Text reveal delay (sec) | Il ritardo dopo il quale il testo viene mostrato |
-| Text reveal speed | Velocità di rivelazione del testo |
-| Transparency | Trasparenza dello sfondo della domanda |
+| Allineamento | L’allineamento del testo della domanda |
+| Ombra Esterna | Indica se sotto il testo della domanda viene applicata un’ombra |
+| Sfumatura | Riempimento sfumato per lo sfondo della domanda. |
+| Colore Ombra | Indica il colore dell’ombreggiatura |
+| Testo | Il testo della domanda |
+| Colore Testo | Il colore del testo della domanda |
+| Font Testo | Il font usato per il testo della domanda |
+| Animazione Rivelazione Testo | Come viene rivelato il testo: *Mostra Tutto* (predefinito: viene mostrato direttamente), *Lettera per Lettera* o *Parola per Parola* |
+| Ritardo Rivelazione Testo (sec) | Il ritardo, in secondi, dopo il quale il testo viene mostrato. |
+| Velocità Rivelazione Testo | Velocità con cui il testo viene mostrato |
+| Trasparenza | Trasparenza dello sfondo della domanda |
 
 ## Proprietà delle risposte
 

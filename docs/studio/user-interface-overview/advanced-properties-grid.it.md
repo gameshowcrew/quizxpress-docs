@@ -367,23 +367,23 @@ Queste proprietà sono mostrate quando si fa clic su una casella della domanda i
 
 ## Proprietà delle risposte
 
-Queste proprietà vengono mostrate facendo clic sulla casella di una risposta in una diapositiva
+Queste proprietà sono mostrate quando si fa clic su una casella di risposta in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Alignment | L’allineamento del testo della risposta |
-| Correct answer | Indica se la risposta selezionata è la risposta corretta. Impostare su ‘true’ se la risposta selezionata è quella corretta. |
-| Correctness | Applicabile alle domande con più risposte corrette, questo valore imposta la correttezza (come percentuale dei punti totali della domanda) della risposta. |
-| Drop shadow | Indica se sotto il testo della domanda viene applicata un’ombra |
-| Gradient | Il gradiente di riempimento per lo sfondo della domanda. L’applicabilità di questa proprietà dipende dallo stile utilizzato. |
-| Shadow color | Il colore dell’ombra esterna |
-| Text | Il testo della risposta |
-| Text reveal animation | Come viene rivelato il testo. Show (predefinito: viene mostrato direttamente), Show letter by letter o Show word by word |
-| Text reveal delay (sec) | Il ritardo dopo il quale il testo viene mostrato |
-| Text reveal speed | Velocità di rivelazione del testo |
-| Text color | Il colore del testo della risposta |
-| Text font | Il carattere del testo della risposta |
-| Transparency | Trasparenza dello sfondo del pannello della risposta |
+| Allineamento | L’allineamento del testo della risposta |
+| Risposta Corretta | Indica se la risposta selezionata è la risposta corretta. Impostare su ‘Sì’ se la risposta selezionata è la risposta corretta. |
+| Correttezza | Applicabile alle domande con più risposte corrette, questo valore imposta la correttezza della risposta (in percentuale del totale dei punti della domanda). |
+| Ombra Esterna | Indica se sotto il testo della risposta viene applicata un’ombra |
+| Sfumatura | Il riempimento sfumato per lo sfondo della risposta. L’applicabilità di questa proprietà dipende dallo stile utilizzato. |
+| Colore Ombra | Indica il colore dell’ombreggiatura |
+| Testo | Il testo della risposta |
+| Rivelazione Testo | Come viene rivelato il testo: *Mostra Tutto* (predefinito: viene mostrato direttamente), *Lettera per Lettera* o *Parola per Parola* |
+| Ritardo Rivelazione Testo (sec) | Il ritardo, in secondi, dopo il quale il testo viene mostrato. |
+| Velocità Rivelazione Testo | Velocità con cui il testo viene mostrato |
+| Colore Testo | Il colore del testo della risposta |
+| Font Testo | Il font usato per il testo della risposta |
+| Trasparenza | Trasparenza dello sfondo della risposta |
 
 ## Proprietà delle immagini
 

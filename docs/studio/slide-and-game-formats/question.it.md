@@ -70,7 +70,7 @@ Se si vuole che i giocatori indichino l’ordine esatto per vincere punti, selez
 
 Per cambiare l’ordine, fare clic con il pulsante destro su una delle risposte ordinate e fare clic su ‘Imposta Ordine’:![](../../assets/images/image37.webp){ width="284" loading=lazy }
 
-## Domande numeriche, a testo completo e con la prima lettera
+## Domande Numeriche, Testuali e con Lettera Iniziale { #domande-numeriche-a-testo-completo-e-con-la-prima-lettera }
 
 QuizXpress supporta tre tipi di input utilizzabili con l’app Smart Buzzer o con il sito web buzzerpad: Numerica, Testuale e Lettera Iniziale. Questi tipi di input possono essere usati in combinazione con una domanda aperta. Le opzioni sono le seguenti:
 
@@ -78,7 +78,7 @@ QuizXpress supporta tre tipi di input utilizzabili con l’app Smart Buzzer o co
 
 Scegliendo *Predefinito* per una domanda aperta si ottiene una normale domanda Dito più Veloce, che può essere giocata con buzzer o pulsantiere. Con l’app Smart Buzzer o il sito web buzzerpad, sullo schermo viene mostrato un buzzer. La persona che preme per prima blocca i buzzer di tutti gli altri giocatori e risponde a voce al Quizmaster.
 
-### Input numerico
+### Input Numerico
 
 
 
@@ -93,13 +93,13 @@ Nelle domande numeriche di tipo “Nearest Wins” (approssimazione), un numero 
 
 In questo caso i primi 3 giocatori più vicini alla risposta corretta vincono punti.
 
-### Input a testo completo
+### Input Testuale { #input-a-testo-completo }
 
 Il tipo *Testuale* consente ai giocatori di inserire testo libero (senza distinzione tra maiuscole e minuscole).
 
 Per le domande Testuali (a testo completo) è possibile indicare se si desidera una corrispondenza esatta con le risposte date, oppure usare la Corrispondenza Approssimata  e impostare una tolleranza per ammettere piccoli errori di ortografia. Se si desidera consentire più risposte, è possibile inserire più testi nel campo ‘Risposta Corretta’ separati da un punto e virgola (ad esempio ‘Belgium;Belgique;Belgie’). Usare il pulsante ‘Test’ per verificare che la tolleranza per le risposte di testo con ‘Corrispondenza Approssimata’ funzioni correttamente.
 
-#### Domande a testo completo con risposte multiple
+#### Domande Testuali con risposte multiple { #domande-a-testo-completo-con-risposte-multiple }
 
 Le domande Testuali possono avere anche più risposte. Ad esempio, è possibile riprodurre una canzone e chiedere l’artista e il titolo. Ogni risposta corretta darà il 50% dei punti. Supponiamo di riprodurre una canzone di Madonna intitolata Holiday e di voler far rispondere ai giocatori sia l’artista sia il titolo:
 
@@ -119,7 +119,7 @@ Per impostazione predefinita, il giocatore vede tanti campi di input quante sono
 
 Quindi, ad esempio, si potrebbe chiedere ‘Nomina 4 paesi che confinano con la Germania’, impostare ‘Limite Risposte Testuali’ su 4 e inserire tutti i 9 paesi confinanti come risposte corrette.
 
-### Input a lettera
+### Input Lettera Iniziale { #input-a-lettera }
 
 Per il tipo *Iniziale* viene presentata ai giocatori una griglia A-Z da cui scegliere una lettera.
 
@@ -133,4 +133,4 @@ Quando questa opzione è impostata su *Casuale* o *In movimento*, la griglia sul
 
 ![](../../assets/images/image45.webp){ width="187" loading=lazy }
 
-## Domande di abbinamento
+## Domande di Abbinamento { #domande-di-abbinamento }

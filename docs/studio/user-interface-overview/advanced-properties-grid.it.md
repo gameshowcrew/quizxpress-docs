@@ -591,21 +591,21 @@ Queste proprietà vengono mostrate quando è selezionato un Tabellone Trivia. Le
 
 ## Proprietà del Trivia Ladder
 
-Queste proprietà vengono mostrate quando è selezionata una diapositiva Trivia Ladder.
+Queste sono le proprietà mostrate quando si seleziona una diapositiva Trivia Ladder.
 
 | Proprietà | Descrizione |
 |---|---|
-| Background color | Imposta il colore di sfondo della trivia ladder |
-| Background image | Imposta l’immagine di sfondo della scala |
-| Background stretch mode | Modalità di adattamento dell’immagine di sfondo |
-| Border color | Imposta il colore del bordo della trivia ladder |
-| Display mode | Dove mostrare la scala sullo schermo: scorrevole da destra, scorrevole al centro dello schermo, a schermo intero, oppure sempre visibile (sul lato destro dello schermo). |
-| Keypads color | Imposta il colore delle pulsantiere |
-| Safety net color | Imposta il colore dei gradini della rete di sicurezza |
-| Separator color | Imposta il colore dei separatori |
-| Show border | Mostra il bordo della trivia ladder |
-| Step color | Imposta il colore dei gradini |
-| Wrong answer action | Indica che cosa fare quando un giocatore risponde in modo errato: scendere di un gradino, restare sullo stesso gradino, ricominciare dall’inizio della scala, oppure ricadere sulla rete di sicurezza più vicina. |
+| Colore Sfondo | Imposta il colore di sfondo della scaletta Trivia Ladder |
+| Immagine Sfondo | Imposta l’immagine di sfondo della scaletta Trivia Ladder |
+| Adattamento Sfondo | Modalità di estensione dell'immagine di sfondo |
+| Colore Bordo | Imposta il colore del bordo della scaletta Trivia Ladder |
+| Modalità Visualizzazione | Imposta dove mostrare la scaletta sullo schermo: *Mostra a Destra* (scorre dal lato destro), *Mostra al Centro* (scorre al centro dello schermo), *Schermo Intero dopo la domanda* oppure *Sempre Visibile* (sul lato destro dello schermo). |
+| Colore Pulsantiere | Imposta il colore del numero delle pulsantiere dei partecipanti |
+| Colore Traguardo Salvezza | Imposta il colore dei gradini Traguardo Salvezza della scaletta Trivia Ladder |
+| Colore Separatori | Imposta il colore dei separatori della scaletta Trivia Ladder |
+| Mostra Bordo | Visualizza il bordo della scaletta Trivia Ladder |
+| Colore Gradini | Imposta il colore dei gradini della scaletta Trivia Ladder |
+| Azione Risposta Errata | Indica cosa fare quando un giocatore risponde in modo errato: *Un Gradino Indietro*, *Resta Fermo* (sullo stesso gradino), *Torna in Fondo* (riparte dall’inizio della scala) o *Cade nel Traguardo Salvezza* (il più vicino). |
 
 ## Proprietà del Bingo
 

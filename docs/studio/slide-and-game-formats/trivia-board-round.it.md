@@ -4,29 +4,29 @@ Un round Tabellone Trivia consente di creare un tabellone di domande in stile Je
 
 ![](../../assets/images/image68.webp){ width="513" loading=lazy }
 
-Come le normali diapositive del quiz, un Tabellone Trivia può essere completamente personalizzato nello stile (per maggiori dettagli sulle opzioni, fare riferimento alla sezione [Tabellone Trivia properties](../user-interface-overview/advanced-properties-grid.md#proprieta-del-trivia-board)).
+Come le normali diapositive del quiz, un Tabellone Trivia può essere completamente personalizzato nello stile (per maggiori dettagli sulle opzioni, fare riferimento alla sezione [Proprietà del Tabellone Trivia](../user-interface-overview/advanced-properties-grid.md#proprieta-del-trivia-board)).
 
-Durante il quiz, le domande sul tabellone possono essere scelte (con la tastiera, con il mouse o con il telecomando del Quizmaster) oppure estratte a caso; in tal caso un selettore casuale scorre sullo schermo e sceglie una delle caselle.
+Durante il quiz, le domande sul tabellone possono essere scelte (con la tastiera, con il mouse o con la pulsantiera Master) oppure estratte a caso; in tal caso un selettore casuale scorre sullo schermo e sceglie una delle caselle.
 
 ## Come creare un Tabellone Trivia?
 
-Per creare un Tabellone Trivia, iniziare inserendo una diapositiva Tabellone Trivia nel quiz (andare al menu INSERT, fare clic sull’elenco a discesa nella sezione Quiz Slides e scegliere il layout Trivia Board). Il Tabellone Trivia verrà generato automaticamente dalle domande che lo seguono.
+Per creare un Tabellone Trivia, iniziare inserendo una diapositiva Tabellone Trivia nel quiz (andare al menu INSERISCI, fare clic sull’elenco a discesa nella sezione ‘Diapositive Quiz’ e scegliere il layout Tabellone Trivia). Il Tabellone Trivia verrà generato automaticamente dalle domande che lo seguono.
 
 Per suddividere le domande in argomenti e punteggi (o solo in argomenti), assicurarsi di impostare le seguenti proprietà delle domande che seguono il Tabellone Trivia:
 
-- L’argomento (topic)
+- L’argomento
 
 - I punti
 
-Entrambi possono essere inseriti nella scheda QUESTION quando la domanda è selezionata:
+Entrambi possono essere inseriti nella scheda DOMANDA quando la domanda è selezionata:
 
 ![](../../assets/images/image69.webp){ width="604" loading=lazy }
 
-In alternativa, è possibile inserire le proprietà anche nel pannello delle proprietà (se non è visibile, mostrarlo prima selezionando la scheda VIEW e spuntando ‘Properties’).
+In alternativa, è possibile inserire le proprietà anche nel pannello delle proprietà (se non è visibile, mostrarlo prima selezionando la scheda VISTA e spuntando ‘Proprietà’).
 
 Un Tabellone Trivia può essere combinato con altri formati di gioco di QuizXpress. Per creare un Tabellone Trivia (round), QuizXpress deve sapere dove termina un round Tabellone Trivia. Un round Tabellone Trivia termina a uno dei seguenti tipi di diapositiva:
 
-- una diapositiva ‘End of round’ (vedere anche 3.4.3)
+- una diapositiva ‘Fine Round’ (vedere anche [Fine Round](end-of-round.md))
 
 - un’altra diapositiva Tabellone Trivia
 
@@ -36,13 +36,13 @@ Un Tabellone Trivia può essere combinato con altri formati di gioco di QuizXpre
 
 Durante il quiz, tutte le diapositive di un round Tabellone Trivia vengono elaborate e raggruppate per argomento. All’interno di un argomento, le domande sono raggruppate per numero di punti. In questo modo, dietro ogni casella di punti del tabellone possono esserci più domande. Quando le domande dietro una certa casella sono esaurite, la casella diventa grigia e non può più essere scelta.
 
-Le domande senza punti (ad esempio Audience response, Demographic, Wager) vengono ignorate durante la creazione del Tabellone Trivia.
+Le domande senza punti (ad esempio Audience Response, Demografica, Scommessa) vengono ignorate durante la creazione del Tabellone Trivia.
 
-In alternativa, il Quiz Wizard può aiutare a creare un round Tabellone Trivia completo in pochi clic! Avviare la procedura guidata (scheda HOME, quindi ‘Quiz Wizard’) e selezionare ‘create a new round’ seguito da ‘a Trivia Board round’. Quindi inserire gli argomenti, i punti e le altre preferenze.
+In alternativa, il Quiz Wizard può aiutare a creare un round Tabellone Trivia completo in pochi clic! Avviare la procedura guidata (scheda HOME, quindi ‘Quiz Wizard’) e selezionare ‘Crea un nuovo Round’ e poi ‘Un Round Tabellone Trivia (Jeopardy)’. Quindi inserire gli argomenti, i punti e le altre preferenze.
 
 ![](../../assets/images/image70.webp){ width="499" loading=lazy }
 
-Scegliere il tempo per le domande, i punti e lo stile da usare nelle pagine successive, quindi premere ‘Finish’ per creare il tabellone, le domande e la diapositiva finale di fine round. Naturalmente sarà ancora necessario inserire le domande vere e proprie, ma l’argomento e i punti corretti saranno già impostati.
+Scegliere il tempo per le domande, i punti e lo stile da usare nelle pagine successive, quindi premere ‘Fine’ per creare il tabellone, le domande e la diapositiva finale di fine round. Naturalmente sarà ancora necessario inserire le domande vere e proprie, ma l’argomento e i punti corretti saranno già impostati.
 
 ## Anteprima di un Tabellone Trivia
 
@@ -68,7 +68,7 @@ Un design come questi è composto da alcune immagini:
 - **Un’immagine per argomento** per le caselle degli argomenti, ad esempio un’illustrazione con il nome dell’argomento, come negli esempi qui sopra.
 - **Un’immagine di casella** per le caselle dei punti, ad esempio un pulsante o una pennellata. Salvarla in formato PNG con gli angoli trasparenti, in modo che lo sfondo si veda attorno alla casella.
 
-Tutte le impostazioni di design si trovano nella pagina 'Design' del pannello delle proprietà quando il tabellone è selezionato. Tutte le immagini sono memorizzate all’interno del file del quiz, quindi non è necessario copiarle insieme al quiz.
+Tutte le impostazioni di design si trovano nella pagina 'Aspetto' del pannello delle proprietà quando il tabellone è selezionato. Tutte le immagini sono memorizzate all’interno del file del quiz, quindi non è necessario copiarle insieme al quiz.
 
 ![Le proprietà di design del tabellone musicale](../../assets/images/trivia-board-properties-custom.webp){ width="380" loading=lazy }
 
@@ -76,50 +76,50 @@ Il tabellone musicale qui sopra, ad esempio, ha una posizione personalizzata, un
 
 ### Posizione del tabellone
 
-'Board position' stabilisce dove appare il tabellone:
+'Posizione del tabellone' stabilisce dove appare il tabellone:
 
-- **Automatic** riempie lo schermo, come il tabellone classico. Le caselle usano quindi un colore di riempimento invece delle immagini.
-- **Custom** colloca il tabellone dove si trova sulla diapositiva. Trascinare e ridimensionare il tabellone in Studio per adattarlo alla cornice dello sfondo. Le impostazioni delle immagini qui sotto sono disponibili solo con una posizione personalizzata.
+- **Automatica** riempie lo schermo, come il tabellone classico. Le caselle usano quindi un colore di riempimento invece delle immagini.
+- **Personalizzata** colloca il tabellone dove si trova sulla diapositiva. Trascinare e ridimensionare il tabellone in Studio per adattarlo alla cornice dello sfondo. Le impostazioni delle immagini qui sotto sono disponibili solo con una posizione personalizzata.
 
 Sotto 'Layout' è possibile impostare anche:
 
-- **Topic row height**: l’altezza delle caselle degli argomenti rispetto alle caselle dei punti (ad esempio 250% per grandi intestazioni illustrate).
-- **Column spacing** e **Row spacing**: lo spazio tra le caselle.
+- **Altezza riga argomenti**: l’altezza delle caselle degli argomenti rispetto alle caselle dei punti (ad esempio 250% per grandi intestazioni illustrate).
+- **Spaziatura colonne** e **Spaziatura righe**: lo spazio tra le caselle.
 
 ### Immagini delle caselle
 
-- **Tile image** (in 'Topic tiles' e in 'Question tiles') sostituisce il colore di riempimento delle caselle con un’immagine.
-- **Image scaling** stabilisce come l’immagine viene adattata a una casella: 'Stretch' (riempie esattamente la casella), 'Fit' (mantiene la forma dell’immagine), 'Fill' (mantiene la forma e taglia ciò che non entra) o 'Keep corners' (allunga la parte centrale dell’immagine e mantiene gli angoli così come sono, utile per le caselle con cornice).
-- **Vary tiles** specchia l’immagine delle caselle dei punti in modo diverso su ogni casella, così che una casella con, ad esempio, schizzi di vernice non abbia lo stesso aspetto ovunque.
+- **Immagine casella** (in 'Caselle Argomento' e in 'Caselle Domanda') sostituisce il colore di riempimento delle caselle con un’immagine.
+- **Ridimensionamento immagine** stabilisce come l’immagine viene adattata a una casella: 'Estendi' (riempie esattamente la casella), 'Adatta' (mantiene la forma dell’immagine), 'Riempi' (mantiene la forma e taglia ciò che non entra) o 'Mantieni angoli' (allunga la parte centrale dell’immagine e mantiene gli angoli così come sono, utile per le caselle con cornice).
+- **Varia caselle** specchia l’immagine delle caselle dei punti in modo diverso su ogni casella, così che una casella con, ad esempio, schizzi di vernice non abbia lo stesso aspetto ovunque.
 
 ### Immagini degli argomenti
 
-Fare clic sul pulsante accanto a 'Topic images' per dare a ogni argomento del round una propria immagine. La finestra di dialogo elenca gli argomenti delle domande che seguono il tabellone:
+Fare clic sul pulsante accanto a 'Immagini argomenti' per dare a ogni argomento del round una propria immagine. La finestra di dialogo elenca gli argomenti delle domande che seguono il tabellone:
 
-![La finestra di dialogo Topic images](../../assets/images/trivia-board-topic-images-dialog.webp){ width="600" loading=lazy }
+![La finestra di dialogo Immagini argomenti](../../assets/images/trivia-board-topic-images-dialog.webp){ width="600" loading=lazy }
 
 
-- Fare clic su 'Choose…' per scegliere un’immagine per un argomento, oppure trascinare un file immagine sulla sua riga.
-- 'Assign from files…' assegna più immagini in una volta sola: ogni immagine viene assegnata all’argomento con lo stesso nome del file. Maiuscole e minuscole, accenti, spazi, trattini e trattini bassi non hanno importanza, quindi `dutch-pop.png` viene assegnato all’argomento 'Dutch Pop'.
+- Fare clic su 'Scegli…' per scegliere un’immagine per un argomento, oppure trascinare un file immagine sulla sua riga.
+- 'Assegna da file…' assegna più immagini in una volta sola: ogni immagine viene assegnata all’argomento con lo stesso nome del file. Maiuscole e minuscole, accenti, spazi, trattini e trattini bassi non hanno importanza, quindi `dutch-pop.png` viene assegnato all’argomento 'Dutch Pop'.
 - Le immagini degli argomenti che non fanno più parte del round sono elencate in fondo, così da poterle rimuovere.
 
-'Image position' colloca l’immagine dell’argomento su tutta la casella, oppure a sinistra, a destra o sopra il nome dell’argomento. Quando le immagini contengono già il nome dell’argomento (come negli esempi qui sopra), disattivare 'Show topic name'.
+'Posizione immagine' colloca l’immagine dell’argomento su tutta la casella, oppure a sinistra, a destra o sopra il nome dell’argomento. Quando le immagini contengono già il nome dell’argomento (come negli esempi qui sopra), disattivare 'Mostra nome argomento'.
 
 !!! tip
     Le immagini degli argomenti sono associate a un argomento tramite il suo nome. Quando si rinomina un argomento nelle domande, scegliere di nuovo la sua immagine.
 
 ### Testo delle caselle
 
-![Le sezioni Tile text e Tile states del pannello delle proprietà](../../assets/images/trivia-board-properties-tile-text.webp){ width="380" loading=lazy }
+![Le sezioni Testo caselle e Stato caselle del pannello delle proprietà](../../assets/images/trivia-board-properties-tile-text.webp){ width="380" loading=lazy }
 
-- **Same text size for all tiles**: quando è attivata, tutti i nomi degli argomenti hanno la stessa dimensione del testo e tutti i valori dei punti hanno la stessa dimensione del testo: la dimensione più grande alla quale ogni testo entra nella propria casella, ma mai superiore alla dimensione del carattere impostata. I nomi lunghi degli argomenti vengono distribuiti su due righe. Quando è disattivata, ogni testo viene ingrandito quanto consente la propria casella, quindi i testi brevi risultano più grandi di quelli lunghi.
-- **Text effect** aggiunge un’ombra o un contorno attorno al testo delle caselle, nel colore 'Effect color'.
+- **Stessa dimensione del testo per tutte le caselle**: quando è attivata, tutti i nomi degli argomenti hanno la stessa dimensione del testo e tutti i valori dei punti hanno la stessa dimensione del testo: la dimensione più grande alla quale ogni testo entra nella propria casella, ma mai superiore alla dimensione del carattere impostata. I nomi lunghi degli argomenti vengono distribuiti su due righe. Quando è disattivata, ogni testo viene ingrandito quanto consente la propria casella, quindi i testi brevi risultano più grandi di quelli lunghi.
+- **Effetto testo** aggiunge un’ombra o un contorno attorno al testo delle caselle, nel colore 'Colore effetto'.
 
 ### Selezione e caselle giocate
 
-- **Selection highlight** stabilisce come la selezione casuale mostra la casella scelta: 'Fill' copre la casella con il colore di evidenziazione (l’aspetto classico), 'Tint' la colora in parte, 'Outline' e 'Glow' disegnano un bordo colorato e lasciano visibile l’immagine della casella.
-- **Highlight color** imposta il colore della selezione casuale.
-- **Played tiles** stabilisce l’aspetto di una casella dopo che le sue domande sono state giocate: 'Dimmed', 'Hidden' o 'No text' (la casella resta, senza il valore dei punti).
+- **Evidenziazione selezione** stabilisce come la selezione casuale mostra la casella scelta: 'Riempi' copre la casella con il colore di evidenziazione (l’aspetto classico), 'Tinta' la colora in parte, 'Contorno' e 'Bagliore' disegnano un bordo colorato e lasciano visibile l’immagine della casella.
+- **Colore evidenziazione** imposta il colore della selezione casuale.
+- **Caselle giocate** stabilisce l’aspetto di una casella dopo che le sue domande sono state giocate: 'Attenuate', 'Nascoste' o 'Senza testo' (la casella resta, senza il valore dei punti).
 
 ### Video di sfondo
 

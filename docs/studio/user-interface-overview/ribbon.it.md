@@ -4,25 +4,25 @@ L’interfaccia utente di QuizXpress Studio è costruita attorno al concetto di 
 
 La barra multifunzione di QuizXpress Studio è suddivisa in diverse sezioni (schede della barra).
 
-| **File**          | Indicato anche come menu ‘backstage’. Accesso alle funzionalità globali e relative ai file.      |
+| **File** | Chiamato anche menu ‘backstage’. Consente di accedere alle funzionalità globali e a quelle relative ai file. |
 |-------------------|-------------------------------------------------------------------------------------------------|
-| **Home**          | Elementi generali di formattazione e di controllo                                                         |
-| **Inserisci**     | Aggiungere nuovi elementi, come audio e testo, alla diapositiva del quiz                                      |
-| **Domanda**       | Configurare il comportamento di una domanda (punti, tipo di domanda, ecc.)                           |
-| **Design**        | Formattare la diapositiva con stili e layout diversi                                               |
-| **Vista**         | Selezionare cosa visualizzare nell’interfaccia utente di QuizXpress Studio                                  |
-| **Quiz Show**     | Avviare lo show!                                                                            |
-| **Immagine**      | Configurare le immagini (mostrata quando si seleziona un’immagine su una diapositiva)                                  |
-| **Forma**         | Configurare le forme di immagini e testo (mostrata quando si seleziona un’immagine o un testo inserito su una diapositiva) |
-| **Parlato**       | Configurare la sintesi vocale (mostrata quando si seleziona un elemento vocale su una diapositiva)                                  |
-| **Grafico**       | Configurare i grafici (mostrata quando si seleziona un grafico su una diapositiva)                                      |
-| **Audio**         | Configurare un frammento audio (mostrata quando si seleziona un audio su una diapositiva)                                  |
-| **Video**         | Impostare le varie proprietà video (mostrata quando si seleziona un video su una diapositiva)                      |
-| **Tabellone Trivia** | Configurare una diapositiva Tabellone Trivia (scheda contestuale)                                                 |
-| **Trivia Ladder** | Configurare una diapositiva Trivia Ladder (scheda contestuale)                                                 |
-| **Bingo**         | Configurare le proprietà di un round di Bingo                                                      |
-| **Word Game**     | Configurare le proprietà di un Word Game (scheda contestuale)                                       |
-| **Trivia Feud**   | Configurare una diapositiva Trivia Feud (scheda contestuale)                                                 |
+| **Home** | Contiene gli elementi generali di formattazione e di controllo |
+| **Inserisci** | Aggiunge nuovi elementi, come audio e testo, alla diapositiva del quiz |
+| **Domanda** | Configura il comportamento della domanda (punti in palio, tipologia della domanda, ecc.) |
+| **Design** | Personalizza la diapositiva con stili e layout diversi |
+| **Vista** | Seleziona cosa visualizzare nell’interfaccia utente di QuizXpress Studio |
+| **Quiz Show** | Avvia il quiz show, anche in modalità test |
+| **Immagine** | Configura le immagini (visualizzata quando si seleziona un’immagine su una diapositiva) |
+| **Forma** | Configura le forme di immagini e testo (visualizzata quando si seleziona un’immagine o un testo inserito su una diapositiva) |
+| **Parlato** | Configura la sintesi vocale (visualizzata quando si seleziona un elemento parlato su una diapositiva) |
+| **Grafico** | Configura i grafici (visualizzata quando si seleziona un grafico su una diapositiva) |
+| **Audio** | Configura un frammento audio (visualizzata quando si seleziona un audio su una diapositiva) |
+| **Video** | Imposta le varie proprietà del video (visualizzata quando si seleziona un video su una diapositiva) |
+| **Tabellone Trivia** | Configura una diapositiva Tabellone Trivia (scheda contestuale) |
+| **Trivia Ladder** | Configura una diapositiva Trivia Ladder (scheda contestuale) |
+| **Bingo** | Configura le proprietà di un round di Bingo |
+| **Word Game** | Configura le proprietà di un Word Game (scheda contestuale) |
+| **Trivia Feud** | Configura una diapositiva Trivia Feud (scheda contestuale) |
 
 Oltre alle schede globali della barra multifunzione, sempre visibili, esistono le cosiddette ‘schede contestuali’. La loro visibilità dipende dall’elemento selezionato nell’editor. Ad esempio, selezionando un elemento video sulla diapositiva, compare la scheda contestuale VIDEO:
 

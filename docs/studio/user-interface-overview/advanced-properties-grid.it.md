@@ -487,14 +487,14 @@ Queste proprietà vengono visualizzate quando si fa clic su una forma immagine o
 
 ## Proprietà della sintesi vocale
 
-Queste proprietà vengono mostrate facendo clic su un elemento di sintesi vocale in una diapositiva.
+Queste proprietà vengono visualizzate quando si fa clic su un elemento Parlato in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| PreRoll | Indica il numero di secondi di attesa prima che inizi la lettura vocale |
-| Rate | La velocità con cui viene letto il testo dell’elemento vocale |
-| Text | Il testo da leggere |
-| Voice | La voce da usare (sceglierne una tra le voci installate in Windows) |
+| Pausa Intro | Indica il numero di secondi di attesa prima che inizi la lettura del testo. |
+| Velocità | La velocità di lettura del testo dell’elemento parlato |
+| Testo | Il testo da leggere |
+| Voce | La voce da utilizzare (scegliere una delle voci installate in Windows) |
 | Volume | Il volume del testo parlato |
 
 ## Proprietà dei grafici

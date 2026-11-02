@@ -47,4 +47,4 @@ Sullo schermo del quiz l'immagine rivelerà la risposta corretta in questo modo:
 
 !!! note
 
-Quando si usano più aree e l'utente contrassegna più punti di quante siano le aree corrette, il suo punteggio diminuisce (per evitare risposte tirate a caso con molti indicatori).
+    Quando si usano più aree e l'utente contrassegna più punti di quante siano le aree corrette, il suo punteggio diminuisce (per evitare risposte tirate a caso con molti indicatori).

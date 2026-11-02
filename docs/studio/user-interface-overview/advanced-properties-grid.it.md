@@ -1,6 +1,6 @@
 # Advanced properties grid
 
-Il pannello delle proprietà è il luogo in cui è possibile impostare rapidamente tutte le proprietà dettagliate degli elementi selezionati. Ogni elemento (come domanda, risposta, diapositiva, video e immagine) ha proprietà individuali. Non è strettamente necessario utilizzarlo, poiché le impostazioni più importanti sono accessibili dalla barra multifunzione, ma per gli utenti esperti può essere un modo più rapido per portare a termine il lavoro. (alcune proprietà più avanzate o meno note sono accessibili solo dal pannello delle proprietà). Nei capitoli seguenti si trova una spiegazione delle proprietà più importanti. Per visualizzare il pannello delle proprietà, andare al menu VIEW e inserire un segno di spunta davanti a ‘Properties’ (nella sezione ‘Views’).
+Il pannello delle proprietà è il luogo in cui è possibile impostare rapidamente tutte le proprietà dettagliate degli elementi selezionati. Ogni elemento (come domanda, risposta, diapositiva, video e immagine) ha proprietà individuali. Non è strettamente necessario utilizzarlo, poiché le impostazioni più importanti sono accessibili dalla barra multifunzione, ma per gli utenti esperti può essere un modo più rapido per portare a termine il lavoro. (alcune proprietà più avanzate o meno note sono accessibili solo dal pannello delle proprietà). Nei capitoli seguenti si trova una spiegazione delle proprietà più importanti. Per visualizzare il pannello delle proprietà, andare al menu VISTA e inserire un segno di spunta davanti a ‘Proprietà’ (nella sezione ‘Viste’).
 
 QuizXpress mostra queste proprietà nel **pannello delle proprietà**, disponibile per impostazione predefinita, e offre ancora la **griglia delle proprietà classica** utilizzata dalle versioni precedenti. Entrambi mostrano esattamente le stesse proprietà ed è possibile passare dall’uno all’altra in qualsiasi momento, quindi i capitoli seguenti valgono per entrambi.
 
@@ -12,15 +12,15 @@ Invece di un lungo elenco alfabetico, il pannello raggruppa le proprietà dell�
 
 **Che cosa è selezionato**
 
-La parte superiore del pannello indica che cosa si sta modificando: un’icona, il tipo di elemento e una seconda riga con il suo contenuto (il testo di una risposta, il nome file di un’immagine). Quando si selezionano più elementi contemporaneamente — per esempio tutte e quattro le risposte di una domanda — il titolo riporta ‘4 objects selected’ e il pannello mostra le proprietà che hanno in comune. Le proprietà i cui valori differiscono tra gli elementi selezionati sono mostrate vuote o come ‘Mixed’; non appena se ne imposta una, tutti gli elementi selezionati ricevono il nuovo valore.
+La parte superiore del pannello indica che cosa si sta modificando: un’icona, il tipo di elemento e una seconda riga con il suo contenuto (il testo di una risposta, il nome file di un’immagine). Quando si selezionano più elementi contemporaneamente — per esempio tutte e quattro le risposte di una domanda — il titolo riporta ‘4 oggetti selezionati’ e il pannello mostra le proprietà che hanno in comune. Le proprietà i cui valori differiscono tra gli elementi selezionati sono mostrate vuote o come ‘Misto’; non appena se ne imposta una, tutti gli elementi selezionati ricevono il nuovo valore.
 
 **Pagine**
 
-Sotto la casella di ricerca si trova una riga di pagine: *Gameplay*, *Scoring*, *Design*, *Text*, *Media* e *Advanced*. Vengono mostrate solo le pagine che hanno effettivamente proprietà per la selezione corrente, e la pagina più importante per l’elemento selezionato compare per prima — la pagina *Text* per un elemento di testo, *Gameplay* per una diapositiva del quiz. La pagina *Advanced* (la scheda `{}`) raccoglie le proprietà tecniche: metadati, impostazioni dei dispositivi mobili e script. Fare clic su una scheda per cambiare pagina; il pannello ricorda la scelta per ogni tipo di elemento.
+Sotto la casella di ricerca si trova una riga di pagine: *Gioco*, *Punteggio*, *Aspetto*, *Testo*, *Media* e *Avanzate*. Vengono mostrate solo le pagine che hanno effettivamente proprietà per la selezione corrente, e la pagina più importante per l’elemento selezionato compare per prima — la pagina *Testo* per un elemento di testo, *Gioco* per una diapositiva del quiz. La pagina *Avanzate* (la scheda `{}`) raccoglie le proprietà tecniche: metadati, impostazioni dei dispositivi mobili e script. Fare clic su una scheda per cambiare pagina; il pannello ricorda la scelta per ogni tipo di elemento.
 
 **Sezioni e altre opzioni**
 
-Ogni pagina è suddivisa in sezioni come ‘Timing’, ‘Answering’ o ‘Border’. Fare clic sul titolo di una sezione per comprimerla e usare *Expand all sections* / *Collapse all sections* nel menu delle opzioni per espandere o comprimere tutte le sezioni in una volta. Le sezioni che contengono anche proprietà usate raramente mostrano in basso un collegamento **More options**; fare clic su di esso per mostrarle e su **Fewer options** per nasconderle di nuovo. Il pannello ricorda quali sezioni sono state compresse e quali mostrano le opzioni aggiuntive.
+Ogni pagina è suddivisa in sezioni come ‘Tempistica’, ‘Risposte’ o ‘Bordo’. Fare clic sul titolo di una sezione per comprimerla e usare *Espandi tutte le sezioni* / *Comprimi tutte le sezioni* nel menu delle opzioni per espandere o comprimere tutte le sezioni in una volta. Le sezioni che contengono anche proprietà usate raramente mostrano in basso un collegamento **Altre opzioni**; fare clic su di esso per mostrarle e su **Meno opzioni** per nasconderle di nuovo. Il pannello ricorda quali sezioni sono state compresse e quali mostrano le opzioni aggiuntive.
 
 **Trovare una proprietà**
 
@@ -34,11 +34,11 @@ Se non si sa dove si trovi una proprietà, digitare una parola nella casella di 
 
 La maggior parte delle proprietà si spiega da sé: digitare in una casella, azionare un interruttore, scegliere da un elenco a discesa. Alcune meritano di essere segnalate.
 
-I **numeri** possono essere digitati, modificati a passi con le piccole frecce a destra della casella o — spesso più rapidamente — *trascinando il nome della proprietà* a sinistra e a destra. Tenere premuto *Shift* durante il trascinamento per passi più grandi e *Alt* per passi più fini. Le proprietà con un minimo e un massimo sensati, come una trasparenza, hanno un cursore con una casella numerica accanto; i due rimangono sincronizzati.
+I **numeri** possono essere digitati, modificati a passi con le piccole frecce a destra della casella o — spesso più rapidamente — *trascinando il nome della proprietà* a sinistra e a destra. Tenere premuto *Maiusc* durante il trascinamento per passi più grandi e *Alt* per passi più fini. Le proprietà con un minimo e un massimo sensati, come una trasparenza, hanno un cursore con una casella numerica accanto; i due rimangono sincronizzati.
 
 I **caratteri** si impostano con un elenco a discesa che mostra l’anteprima di ogni carattere installato, una casella per la dimensione e pulsanti per grassetto, corsivo e sottolineato.
 
-Le **proprietà raggruppate**, come un gradiente o una dimensione, mostrano un riepilogo su una sola riga. Fare clic sul nome della proprietà per aprire sotto di essa le singole impostazioni (per un gradiente: From, To e Type).
+Le **proprietà raggruppate**, come una sfumatura o una dimensione, mostrano un riepilogo su una sola riga. Fare clic sul nome della proprietà per aprire sotto di essa le singole impostazioni (per una sfumatura: Da, A e Tipo).
 
 ### Colori
 
@@ -46,31 +46,31 @@ Le **proprietà raggruppate**, come un gradiente o una dimensione, mostrano un r
 
 Una proprietà di colore mostra un campione con il suo valore esadecimale. Facendo clic su di esso si ottiene:
 
-- **No color**, per le proprietà che possono essere lasciate vuote (per esempio uno sfondo trasparente).
-- Una **palette** di tonalità in alto e una riga di **Standard colors** sotto di essa.
-- **Recent colors** — i colori usati in precedenza, così riutilizzare un colore su più elementi richiede un solo clic. Vengono ricordati finché QuizXpress Studio è in esecuzione.
-- **Custom color**, che apre un quadrato saturazione/luminosità, una barra della tonalità, una barra dell’opacità e una casella in cui digitare o incollare un valore esadecimale come `#1E4A6B`.
+- **Nessun colore**, per le proprietà che possono essere lasciate vuote (per esempio uno sfondo trasparente).
+- Una **palette** di tonalità in alto e una riga di **Colori standard** sotto di essa.
+- **Colori recenti** — i colori usati in precedenza, così riutilizzare un colore su più elementi richiede un solo clic. Vengono ricordati finché QuizXpress Studio è in esecuzione.
+- **Colore personalizzato**, che apre un quadrato saturazione/luminosità, una barra della tonalità, una barra dell’opacità e una casella in cui digitare o incollare un valore esadecimale come `#1E4A6B`.
 
-Il piccolo contagocce a destra del titolo ‘Custom color’ preleva un colore **da qualsiasi punto dello schermo** — anche dall’esterno di QuizXpress. Facendo clic su di esso lo schermo si blocca; una lente d’ingrandimento segue il mouse e mostra i singoli pixel con il colore sotto il cursore. Fare clic per prendere quel colore, usare i tasti freccia per spostarsi di un pixel alla volta (tenere premuto *Shift* per dieci) oppure premere *Esc* per annullare. Poiché lo schermo non ha trasparenza, viene mantenuta l’opacità del colore che si aveva.
+Il piccolo contagocce a destra del titolo ‘Colore personalizzato’ preleva un colore **da qualsiasi punto dello schermo** — anche dall’esterno di QuizXpress. Facendo clic su di esso lo schermo si blocca; una lente d’ingrandimento segue il mouse e mostra i singoli pixel con il colore sotto il cursore. Fare clic per prendere quel colore, usare i tasti freccia per spostarsi di un pixel alla volta (tenere premuto *Maiusc* per dieci) oppure premere *Esc* per annullare. Poiché lo schermo non ha trasparenza, viene mantenuta l’opacità del colore che si aveva.
 
-### Gradienti
+### Sfumature { #gradienti }
 
 ![](../../assets/images/properties-panel-gradient-presets.webp){ width="313" loading=lazy }
 
-Una proprietà di gradiente mostra un’anteprima del gradiente. Accanto si trova un pulsante a forma di tavolozza che apre un insieme di **gradient presets** già pronti — un clic dà a uno sfondo di diapositiva o a una casella di testo un aspetto rifinito. Per conservare un gradiente creato personalmente, fare clic con il pulsante destro sulla proprietà di gradiente e scegliere *Add to my gradients*; comparirà quindi sotto **My gradients** nel selettore (fino a cinque). Fare clic con il pulsante destro su uno dei propri gradienti nel selettore per rimuoverlo. I propri gradienti vengono conservati tra una sessione e l’altra.
+Una proprietà di sfumatura mostra un’anteprima della sfumatura. Accanto si trova un pulsante a forma di tavolozza che apre un insieme di **Sfumature predefinite** già pronte — un clic dà a uno sfondo di diapositiva o a una casella di testo un aspetto rifinito. Per conservare una sfumatura creata personalmente, fare clic con il pulsante destro sulla proprietà di sfumatura e scegliere *Aggiungi alle mie sfumature*; comparirà quindi sotto **Le mie sfumature** nel selettore (fino a cinque). Fare clic con il pulsante destro su una delle proprie sfumature nel selettore per rimuoverla. Le proprie sfumature vengono conservate tra una sessione e l’altra.
 
 ### Ripristinare, copiare e incollare
 
 Fare clic con il pulsante destro su una qualsiasi proprietà per ottenere:
 
-- **Reset to default** — riporta la proprietà al valore che ha in una nuova diapositiva.
-- **Copy value** e **Paste value** — utili per trasferire un colore, un carattere o un gradiente da un elemento a un altro. *Ctrl+C* e *Ctrl+V* fanno lo stesso per la proprietà in cui si sta lavorando, quindi è possibile copiare un colore qui e incollarlo direttamente in un altro programma come `#1E4A6B`, o viceversa.
+- **Ripristina predefinito** — riporta la proprietà al valore che ha in una nuova diapositiva.
+- **Copia valore** e **Incolla valore** — utili per trasferire un colore, un carattere o una sfumatura da un elemento a un altro. *Ctrl+C* e *Ctrl+V* fanno lo stesso per la proprietà in cui si sta lavorando, quindi è possibile copiare un colore qui e incollarlo direttamente in un altro programma come `#1E4A6B`, o viceversa.
 
 ### Descrizioni
 
 ![](../../assets/images/properties-panel-descriptions.webp){ width="333" loading=lazy }
 
-Passando il mouse sul nome di una proprietà viene mostrato un suggerimento che ne spiega la funzione. Se si preferisce avere questa spiegazione sempre in vista, attivare *Show descriptions* nel menu delle opzioni: in fondo al pannello compare una barra con il nome e la spiegazione della proprietà su cui si trova il mouse.
+Passando il mouse sul nome di una proprietà viene mostrato un suggerimento che ne spiega la funzione. Se si preferisce avere questa spiegazione sempre in vista, attivare *Mostra descrizioni* nel menu delle opzioni: in fondo al pannello compare una barra con il nome e la spiegazione della proprietà su cui si trova il mouse.
 
 ### Opzioni
 
@@ -82,13 +82,13 @@ Il pulsante **…** nell’angolo in alto a destra del pannello contiene le impo
 
 ![](../../assets/images/properties-panel-dark-theme.webp){ width="333" loading=lazy }
 
-*Dark theme* nel menu delle opzioni assegna al pannello una combinazione di colori scuri, più riposante per gli occhi quando si progettano diapositive chiare o si lavora in una stanza poco illuminata. La scelta viene ricordata al successivo avvio di QuizXpress Studio e riguarda solo il pannello delle proprietà.
+*Tema scuro* nel menu delle opzioni assegna al pannello una combinazione di colori scuri, più riposante per gli occhi quando si progettano diapositive chiare o si lavora in una stanza poco illuminata. La scelta viene ricordata al successivo avvio di QuizXpress Studio e riguarda solo il pannello delle proprietà.
 
 ## La griglia delle proprietà classica
 
 ![](../../assets/images/image18.webp){ width="644" loading=lazy }
 
-La griglia utilizzata dalle versioni precedenti di QuizXpress è ancora disponibile. Elenca tutte le proprietà dell’elemento selezionato in gruppi alfabetici ed è il modo più rapido per vedere tutto in una volta. Scegliere *Classic property grid* dal menu **…** del pannello delle proprietà per passare alla griglia e il pulsante *Switch to the new properties panel* a destra della barra degli strumenti della griglia per tornare indietro. QuizXpress ricorda quale dei due si preferisce.
+La griglia utilizzata dalle versioni precedenti di QuizXpress è ancora disponibile. Elenca tutte le proprietà dell’elemento selezionato in gruppi alfabetici ed è il modo più rapido per vedere tutto in una volta. Scegliere *Griglia delle proprietà classica* dal menu **…** del pannello delle proprietà per passare alla griglia e il pulsante *Passa al nuovo pannello delle proprietà* a destra della barra degli strumenti della griglia per tornare indietro. QuizXpress ricorda quale dei due si preferisce.
 
 ## Proprietà delle diapositive del quiz
 
@@ -176,15 +176,15 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Tempo in secondi che ritarda l’esposizione delle risposte. Questa impostazione consente al quizmaster la possibilità di leggere la domanda ad alta voce prima che le vengano mostrate risposte.</td>
 </tr>
 <tr class="odd">
-<td>Ritardo tra le Risposte</td>
+<td>Ritardo tra le Risposte<sup>*</sup></td>
 <td>Questa proprietà viene visualizzata una volta impostata le funzionalità 'Ritardo prima della risposta' e ‘Nascondi e mostra una alla volta’. Essa definisce in secondi, il ritardo che intercorrerà tra la visualizzazione di una risposta e la successiva.</td>
 </tr>
 <tr class="even">
-<td>Gruppo Demografico</td>
+<td>Gruppo Demografico<sup>*</sup></td>
 <td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su ‘**Demografica**’. Definisce un gruppo demografico. Durante l’esecuzione di un quiz, i partecipanti premendo la propria pulsantiera quando è mostrata una diapositiva quiz di tipo demografico, faranno parte del gruppo indicato da questa proprietà. Si prega di fare riferimento alla sezione 5.3.5.5 per ulteriori informazioni sui gruppi demografici.</td>
 </tr>
 <tr class="odd">
-<td>Azione di Fine Round</td>
+<td>Azione di Fine Round<sup>*</sup></td>
 <td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su **'Fine del Round’**. È possibile scegliere per esempio, ‘Escludi un Perdente, nel qual caso è eliminato il partecipante con il minor numero di punti o ‘Quizmaster seleziona i perdenti’, in cui sarà il Quizmaster a scegliere i partecipanti da eliminare, uno ad uno.</td>
 </tr>
 <tr class="even">
@@ -268,7 +268,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Qui puoi modificare l’impostazione che permette ai giocatori di rivedere e cambiare la propria risposta (impostazione definita in “Configurazione quiz” per tutte le diapositive).</td>
 </tr>
 <tr class="even">
-<td>Traguardo Salvezza</td>
+<td>Traguardo Salvezza<sup>*</sup></td>
 <td>Usato per le domande Trivia Ladder. Quando in un round di Trivia Ladder un giocatore risponde in modo errato, torna indietro al Traguardo Salvezza più prossimo sulla scaletta.</td>
 </tr>
 <tr class="odd">
@@ -276,7 +276,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Comportamento personalizzato della diapositiva scritto in JavaScript (uso avanzato)</td>
 </tr>
 <tr class="even">
-<td>Mostra Azioni Risposta</td>
+<td>Mostra Azioni Risposta<sup>*</sup></td>
 <td>Quando è impostato ‘Ritardo Risposte’, questa proprietà compare. Impostandola su ‘Mostra e Nascondi Insieme’, le risposte vengono mostrate tutte insieme una volta trascorso il tempo di ritardo. Impostandola su ‘Nascondi e Mostra una alla volta’, le risposte vengono mostrate una per una una volta trascorso il tempo di ritardo.</td>
 </tr>
 <tr class="odd">
@@ -308,7 +308,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Variazione consentita tra la risposta corretta e le risposte date. Si applica alle domande con risposta di tipo "testuale" con "Valutazione Testo" impostato su "Corrispondenza Approssimata".</td>
 </tr>
 <tr class="even">
-<td>Argomento</td>
+<td>Argomento<sup>*</sup></td>
 <td>L'argomento della domanda. Viene utilizzato per generare automaticamente un Tabellone Trivia precedente.</td>
 </tr>
 <tr class="odd">
@@ -319,20 +319,20 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Tipo</td>
 <td><p>Campo di sola visualizzazione che mostra il tipo di diapositiva:</p>
 <ul>
-<li><p><em>Question</em>: la diapositiva è una normale domanda del quiz.</p></li>
-<li><p><em>Billboard</em>: la diapositiva è solo da visualizzare.</p></li>
-<li><p><em>End of round</em>: la diapositiva indica la fine di un round del quiz. Vengono mostrati i punteggi intermedi e il Quizmaster ha la possibilità di eliminare le squadre. Vedere anche la proprietà: ‘End of Round’.</p></li>
-<li><p><em>Test question</em>: diapositiva usata per dimostrare il sistema ai partecipanti. Non vengono aggiunti né sottratti punti.</p></li>
-<li><p><em>Demographic</em>: questa diapositiva serve a suddividere tutti i partecipanti in gruppi in competizione. Vedere anche la proprietà ‘Demographic group’.</p></li>
-<li><p><em>Last Man Standing</em>: la diapositiva è una domanda del quiz. I partecipanti che rispondono in modo errato alla domanda vengono eliminati dal quiz.</p></li>
+<li><p><em>Domanda</em>: la diapositiva è una normale domanda del quiz.</p></li>
+<li><p><em>Tabellone</em>: la diapositiva è solo da visualizzare.</p></li>
+<li><p><em>Fine Round</em>: la diapositiva indica la fine di un round del quiz. Vengono mostrati i punteggi intermedi e il Quizmaster ha la possibilità di eliminare le squadre. Vedere anche la proprietà: ‘End of Round’.</p></li>
+<li><p><em>Domanda Test</em>: diapositiva usata per dimostrare il sistema ai partecipanti. Non vengono aggiunti né sottratti punti.</p></li>
+<li><p><em>Demografica</em>: questa diapositiva serve a suddividere tutti i partecipanti in gruppi in competizione. Vedere anche la proprietà ‘Demographic group’.</p></li>
+<li><p><em>Ultimo Uomo</em>: la diapositiva è una domanda del quiz. I partecipanti che rispondono in modo errato alla domanda vengono eliminati dal quiz.</p></li>
 <li><p><em>Audience Response</em>: diapositiva per raccogliere semplicemente una risposta dal pubblico senza modificare i punteggi del quiz. I dati delle risposte possono essere mostrati in un grafico.</p></li>
-<li><p><em>Wager</em>: consente al pubblico di puntare una percentuale dei propri punteggi sulla domanda successiva.</p></li>
-<li><p><em>Majority Rules</em>: una diapositiva in cui la risposta corretta dipende da ciò che il pubblico sceglie più spesso</p></li>
-<li><p><em>Minigame</em>: una diapositiva che avvia il Modulo Gioco selezionato</p></li>
+<li><p><em>Scommessa</em>: consente al pubblico di puntare una percentuale dei propri punteggi sulla domanda successiva.</p></li>
+<li><p><em>Regole Maggioranza</em>: una diapositiva in cui la risposta corretta dipende da ciò che il pubblico sceglie più spesso</p></li>
+<li><p><em>Modulo Gioco</em>: una diapositiva che avvia il Modulo Gioco selezionato</p></li>
 <li><p><em>Tabellone Trivia</em>: una diapositiva che avvia un round in cui le domande sono organizzate per Topic/Points e presentate come una griglia</p></li>
 <li><p><em>Trivia Ladder:</em> avvia un round Trivia Ladder in cui i giocatori salgono di un gradino della scala a ogni risposta corretta</p></li>
 <li><p><em>Speed Round:</em> avvia un round in cui un giocatore deve rispondere al maggior numero possibile di domande in un tempo prestabilito.</p></li>
-<li><p><em>Trivia Bingo:</em> avvia un round di Bingo, costruito dalle diapositive del quiz successive oppure come un tradizionale gioco di Bingo a numeri.</p></li>
+<li><p><em>Round Bingo:</em> avvia un round di Bingo, costruito dalle diapositive del quiz successive oppure come un tradizionale gioco di Bingo a numeri.</p></li>
 <li><p><em>Trivia Feud:</em> una diapositiva in cui i giocatori rispondono a una domanda di tipo sondaggio.</p></li>
 </ul></td>
 </tr>

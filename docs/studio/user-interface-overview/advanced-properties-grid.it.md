@@ -360,7 +360,7 @@ Queste proprietà sono mostrate quando si fa clic su una casella della domanda i
 | Testo | Il testo della domanda |
 | Colore Testo | Il colore del testo della domanda |
 | Font Testo | Il font usato per il testo della domanda |
-| Animazione Rivelazione Testo | Come viene rivelato il testo: *Mostra Tutto* (predefinito: viene mostrato direttamente), *Lettera per Lettera* o *Parola per Parola* |
+| Rivelazione Testo | Come viene rivelato il testo: *Mostra Tutto* (predefinito: viene mostrato direttamente), *Lettera per Lettera* o *Parola per Parola* |
 | Ritardo Rivelazione Testo (sec) | Il ritardo, in secondi, dopo il quale il testo viene mostrato. |
 | Velocità Rivelazione Testo | Velocità con cui il testo viene mostrato |
 | Trasparenza | Trasparenza dello sfondo della domanda |

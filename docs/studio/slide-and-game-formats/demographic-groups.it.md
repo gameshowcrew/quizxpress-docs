@@ -1,6 +1,6 @@
 # Demographic groups
 
-QuizXpress offre diversi modi per raggruppare i giocatori affinché possano sfidarsi in squadre (ad esempio: ragazzi contro ragazze). Il tipo di diapositiva "demographic groups" consente di raggruppare i giocatori "al volo" durante lo svolgimento di un quiz.
+QuizXpress offre diversi modi per raggruppare i giocatori affinché possano sfidarsi in squadre (ad esempio: ragazzi contro ragazze). Il tipo di diapositiva ‘Demografica’ consente di raggruppare i giocatori "al volo" durante lo svolgimento di un quiz.
 
 Scegliendo questo tipo di domanda, viene visualizzata una finestra in cui è possibile inserire il nome del gruppo/della squadra. Quando la diapositiva viene mostrata durante un quiz, le pulsantiere premute mentre è visualizzata la diapositiva Demografica vengono registrate per quello specifico gruppo.
 

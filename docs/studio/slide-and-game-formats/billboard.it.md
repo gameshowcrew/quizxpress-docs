@@ -1,8 +1,8 @@
 # Billboard
 
-Una diapositiva di quiz "Billboard" è una diapositiva senza alcuna interazione da parte dei giocatori. È semplicemente una schermata statica, tipicamente usata per annunci o spiegazioni. Una diapositiva Billboard può essere progettata proprio come una normale domanda, utilizzando testi, colori, immagini, suoni e video.
+Una diapositiva ‘Tabellone’ è una diapositiva senza alcuna interazione da parte dei giocatori. È semplicemente una schermata statica, tipicamente usata per annunci o spiegazioni. Una diapositiva Tabellone può essere progettata proprio come una normale domanda, utilizzando testi, colori, immagini, suoni e video.
 
-Applicazioni utili di un billboard sono:
+Applicazioni utili di un Tabellone sono:
 
 - Annunci (round/conclusione dei round/annunci dei punteggi intermedi)
 

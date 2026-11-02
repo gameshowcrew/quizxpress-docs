@@ -20,21 +20,21 @@ Per riempire la scala, creare *dopo* la diapositiva Trivia Ladder tante domande 
 
 Gradino della scala
 
-I numeri delle domande sono mostrati sul lato sinistro della scala. I punti visualizzati a destra del numero della domanda sono definiti dai punti delle rispettive domande del round Trivia Ladder. È anche possibile aggiungere dei premi alla scala al posto dei punti. Sul lato destro di ogni gradino vengono mostrati i keypad che si trovano su quel gradino.
+I numeri delle domande sono mostrati sul lato sinistro della scala. I punti visualizzati a destra del numero della domanda sono definiti dai punti delle rispettive domande del round Trivia Ladder. È anche possibile aggiungere dei premi alla scala al posto dei punti. Sul lato destro di ogni gradino vengono mostrate le pulsantiere che si trovano su quel gradino.
 
 Il separatore più a sinistra (un rombo) indica se la domanda del gradino è stata giocata.
 
-Solo alla fine, quando l’ultima domanda della scala è terminata, ogni giocatore (keypad) riceve i punti del gradino su cui si trova.
+Solo alla fine, quando l’ultima domanda della scala è terminata, ogni giocatore (pulsantiera) riceve i punti del gradino su cui si trova.
 
 I gradini di sicurezza della scala sono in genere colorati in modo diverso (ad esempio in bianco nell’immagine qui sotto) per indicare a quali gradini i giocatori retrocedono quando rispondono in modo errato (nel caso in cui la *wrong answer action* della scala sia impostata su ‘Fall to safety net’).
 
-Come il Trivia Board, un Trivia Ladder può essere combinato con altri formati di gioco di QuizXpress. Per creare un Trivia Ladder (round), QuizXpress deve sapere dove termina un round Trivia Ladder. Un round Trivia Ladder termina a uno dei seguenti tipi di diapositiva:
+Come il Tabellone Trivia, un Trivia Ladder può essere combinato con altri formati di gioco di QuizXpress. Per creare un Trivia Ladder (round), QuizXpress deve sapere dove termina un round Trivia Ladder. Un round Trivia Ladder termina a uno dei seguenti tipi di diapositiva:
 
 - una diapositiva ‘End of round’ (vedere anche 3.4.3)
 
 - un’altra diapositiva Trivia Ladder
 
-- una diapositiva Trivia Board
+- una diapositiva Tabellone Trivia
 
 - la fine del quiz (ultimo round o gioco composto solo da un Trivia Ladder)
 

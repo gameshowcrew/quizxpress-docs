@@ -102,7 +102,7 @@ Le celle vuote fungono da jolly nella valutazione di una dichiarazione di Bingo.
 
 ### Opzioni avanzate
 
-*Auto advance after claim* – quando questa opzione è attiva, il gioco prosegue automaticamente dopo una dichiarazione di Bingo. Quando non è attiva, il gioco attende che il conduttore proceda.
+*Auto advance after claim* – quando questa opzione è attiva, il gioco prosegue automaticamente dopo una dichiarazione di Bingo. Quando non è attiva, il gioco attende che il Quizmaster proceda.
 
 *Virtual caller* – quando è attiva, i numeri estratti vengono pronunciati dal computer (dal sintetizzatore vocale predefinito di Windows).
 

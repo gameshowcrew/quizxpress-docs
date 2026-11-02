@@ -157,7 +157,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="even">
 <td>Categoria</td>
-<td>La categoria della diapositiva quiz attuale. Selezionando una categoria predefinita, si definisce la formattazione grafica della diapositiva. Nota: è possibile creare proprie categorie personalizzate. Per maggiori informazioni, si veda la sezione 3.3</td>
+<td>La categoria della diapositiva quiz attuale. Selezionando una categoria predefinita, si definisce la formattazione grafica della diapositiva. Nota: è possibile creare proprie categorie personalizzate. Per maggiori informazioni, si veda <a href="../../using-categories/">Usare le categorie</a>.</td>
 </tr>
 <tr class="odd">
 <td>Continua dopo una risposta corretta</td>
@@ -181,7 +181,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="even">
 <td>Gruppo Demografico<sup>*</sup></td>
-<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su ‘**Demografica**’. Definisce un gruppo demografico. Durante l’esecuzione di un quiz, i partecipanti premendo la propria pulsantiera quando è mostrata una diapositiva quiz di tipo demografico, faranno parte del gruppo indicato da questa proprietà. Si prega di fare riferimento alla sezione 5.3.5.5 per ulteriori informazioni sui gruppi demografici.</td>
+<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su ‘**Demografica**’. Definisce un gruppo demografico. Durante l’esecuzione di un quiz, i partecipanti premendo la propria pulsantiera quando è mostrata una diapositiva quiz di tipo demografico, faranno parte del gruppo indicato da questa proprietà. Per maggiori informazioni sui gruppi demografici, si veda <a href="../../slide-and-game-formats/demographic-groups/">Gruppi demografici</a>.</td>
 </tr>
 <tr class="odd">
 <td>Azione di Fine Round<sup>*</sup></td>

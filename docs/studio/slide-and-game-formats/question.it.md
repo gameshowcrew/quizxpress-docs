@@ -133,4 +133,4 @@ Quando questa opzione è impostata su *Casuale* o *In movimento*, la griglia sul
 
 ![](../../assets/images/image45.webp){ width="187" loading=lazy }
 
-## Domande di Abbinamento { #domande-di-abbinamento }
+

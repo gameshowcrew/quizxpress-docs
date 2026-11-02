@@ -80,8 +80,8 @@ Scegliendo *Predefinito* per una domanda aperta si ottiene una normale domanda D
 
 ### Input numerico
 
-|     |
-|-----|
+
+
 
 ![](../../assets/images/image39.webp){ width="126" loading=lazy }Per il tipo di input *Numerica*, l’app Smart Buzzer o il sito web buzzerpad presenta ai giocatori una schermata in cui possono inserire un valore numerico.
 

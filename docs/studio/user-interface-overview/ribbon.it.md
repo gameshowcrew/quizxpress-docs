@@ -7,18 +7,18 @@ La barra multifunzione di QuizXpress Studio è suddivisa in diverse sezioni (sch
 | **File**          | Indicato anche come menu ‘backstage’. Accesso alle funzionalità globali e relative ai file.      |
 |-------------------|-------------------------------------------------------------------------------------------------|
 | **Home**          | Elementi generali di formattazione e di controllo                                                         |
-| **Insert**        | Aggiungere nuovi elementi, come audio e testo, alla diapositiva del quiz                                      |
-| **Question**      | Configurare il comportamento di una domanda (punti, tipo di domanda, ecc.)                           |
+| **Inserisci**     | Aggiungere nuovi elementi, come audio e testo, alla diapositiva del quiz                                      |
+| **Domanda**       | Configurare il comportamento di una domanda (punti, tipo di domanda, ecc.)                           |
 | **Design**        | Formattare la diapositiva con stili e layout diversi                                               |
-| **View**          | Selezionare cosa visualizzare nell’interfaccia utente di QuizXpress Studio                                  |
+| **Vista**         | Selezionare cosa visualizzare nell’interfaccia utente di QuizXpress Studio                                  |
 | **Quiz Show**     | Avviare lo show!                                                                            |
-| **Picture**       | Configurare le immagini (mostrata quando si seleziona un’immagine su una diapositiva)                                  |
-| **Shape**         | Configurare le forme di immagini e testo (mostrata quando si seleziona un’immagine o un testo inserito su una diapositiva) |
-| **Speech**        | Configurare la sintesi vocale (mostrata quando si seleziona un elemento vocale su una diapositiva)                                  |
-| **Chart**         | Configurare i grafici (mostrata quando si seleziona un grafico su una diapositiva)                                      |
+| **Immagine**      | Configurare le immagini (mostrata quando si seleziona un’immagine su una diapositiva)                                  |
+| **Forma**         | Configurare le forme di immagini e testo (mostrata quando si seleziona un’immagine o un testo inserito su una diapositiva) |
+| **Parlato**       | Configurare la sintesi vocale (mostrata quando si seleziona un elemento vocale su una diapositiva)                                  |
+| **Grafico**       | Configurare i grafici (mostrata quando si seleziona un grafico su una diapositiva)                                      |
 | **Audio**         | Configurare un frammento audio (mostrata quando si seleziona un audio su una diapositiva)                                  |
 | **Video**         | Impostare le varie proprietà video (mostrata quando si seleziona un video su una diapositiva)                      |
-| **Trivia Board**  | Configurare una diapositiva Tabellone Trivia (scheda contestuale)                                                 |
+| **Tabellone Trivia** | Configurare una diapositiva Tabellone Trivia (scheda contestuale)                                                 |
 | **Trivia Ladder** | Configurare una diapositiva Trivia Ladder (scheda contestuale)                                                 |
 | **Bingo**         | Configurare le proprietà di un round di Bingo                                                      |
 | **Word Game**     | Configurare le proprietà di un Word Game (scheda contestuale)                                       |

@@ -525,33 +525,33 @@ Queste proprietà vengono mostrate quando si fa clic su un grafico in una diapos
 | Font Titolo | Il carattere utilizzato per il titolo del grafico |
 | Visibilità | Indica se il grafico è sempre visibile (con aggiornamenti in tempo reale durante il conto alla rovescia) o solo dopo la chiusura della domanda. |
 
-## Proprietà dei giochi di parole
+## Proprietà dei Word Game { #proprieta-dei-giochi-di-parole }
 
-Queste proprietà vengono mostrate facendo clic su un gioco di parole in una diapositiva
+Queste proprietà vengono mostrate quando si fa clic su un Word Game in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Alignment | Allineamento del testo |
-| Background fill | Il gradiente di riempimento per lo sfondo del gioco di parole. È possibile selezionare un colore di gradiente ‘from’ e un colore di gradiente ‘to’, oltre a un tipo di gradiente. |
-| Center index | Per un gioco a ruota di lettere (word wheel), indica la lettera che compare al centro |
-| Drop shadow | Indica se usare un’ombra esterna per le lettere del gioco di parole |
-| End reveal at | Percentuale del tempo del conto alla rovescia in cui termina la rivelazione |
-| Font | Il carattere usato per il testo |
-| Interval | Per i giochi di parole unscramble e reveal, controlla il tempo tra i passaggi del gioco: lineare, rallentato o molto rallentato. |
-| Layout | Per i giochi di parole reveal o unscramble: griglia di lettere dinamica o griglia di lettere fissa con 52 celle. |
-| Letter background fill | Il gradiente di riempimento per lo sfondo delle caselle delle lettere del gioco di parole. È possibile selezionare un colore di gradiente ‘from’ e un colore di gradiente ‘to’, oltre a un tipo di gradiente. |
-| Letter corner radius | Raggio degli angoli del gioco di parole |
-| Letter spacing | Spazio tra le lettere del gioco di parole |
-| Manual control | Indica se le lettere vengono rivelate automaticamente o se vengono rivelate manualmente dal Quizmaster da QuizXpress Director |
-| Padding | Spaziatura interna attorno alle lettere della griglia |
-| Reverse | Per un gioco a ruota di lettere (word wheel), inverte la direzione delle lettere |
-| Shadow color | Colore dell’ombra esterna delle lettere |
-| Spin | Fa ruotare le lettere della ruota di lettere per una sfida in più |
-| Start angle | Per un gioco a ruota di lettere (word wheel), l’angolo iniziale in cui compare la prima lettera della parola |
-| Start reveal at | Percentuale del tempo del conto alla rovescia in cui inizia la rivelazione |
-| Text | Il testo del gioco di parole |
-| Text color | Il colore del testo |
-| Text transparency | La trasparenza del testo |
+| Allineamento | L’allineamento del testo |
+| Riempimento Sfondo | Il riempimento sfumato per lo sfondo del Word Game. È possibile selezionare un colore di sfumatura ‘Da’ e un colore di sfumatura ‘A’, oltre a un ‘Tipo’ di sfumatura. |
+| Centra Indice | Per il gioco della Word Wheel, indica la lettera che comparirà al centro. |
+| Ombra Esterna | Indica se utilizzare un’ombra per le lettere del Word Game. |
+| Fine Rivelazione a | La percentuale del tempo del conto alla rovescia in cui la rivelazione si conclude |
+| Font | Il carattere utilizzato per il testo |
+| Intervallo | Per i Word Game da decifrare o da svelare, controlla il tempo che intercorre tra le fasi del gioco: *Lineare*, *Rallentato* o *Molto Rallentato*. |
+| Layout | Per i Word Game da svelare o da decifrare: *Griglia Lettere Dinamica* o *Griglia Lettere Fissa (52 celle)*. |
+| Riempimento Sfondo Carattere | Il riempimento sfumato per lo sfondo delle caselle delle lettere del Word Game. È possibile selezionare un colore di sfumatura 'da' e un colore di sfumatura 'a', nonché il tipo di sfumatura. |
+| Raggio Carattere | Il raggio degli angoli delle caselle delle lettere del Word Game |
+| Spaziatura Carattere | Lo spazio tra le lettere del Word Game |
+| Controllo Manuale | Indica se le lettere vengono rivelate automaticamente o manualmente dal Quizmaster da QuizXpress Director. |
+| Spaziatura Interna | Lo spazio interno attorno alle lettere della griglia |
+| Inverti | Nel gioco della Word Wheel, inverte la direzione delle lettere |
+| Colore Ombra | Colore dell'ombra delle lettere |
+| Ruota | Fa girare la Word Wheel per una sfida aggiuntiva |
+| Angolo Inizio | Per il gioco della Word Wheel, l'angolo iniziale in cui compare la prima lettera della parola |
+| Inizio Rivelazione a | La percentuale di tempo del countdown in cui la rivelazione ha inizio |
+| Testo | Il testo del Word Game |
+| Colore Testo | Il colore del testo del Word Game |
+| Trasparenza Testo | La trasparenza del testo del Word Game |
 
 ## Proprietà del Tabellone Trivia { #proprieta-del-trivia-board }
 

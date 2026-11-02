@@ -464,26 +464,26 @@ Queste proprietà sono mostrate quando si clicca su un elemento Video in una dia
 
 ## Proprietà delle forme
 
-Queste proprietà vengono mostrate facendo clic su una forma immagine o su una forma di testo in una diapositiva.
+Queste proprietà vengono visualizzate quando si fa clic su una forma immagine o su una forma testo in una diapositiva.
 
 | Proprietà | Descrizione |
 |---|---|
-| Alignment | L’allineamento del testo della forma di testo |
-| Background transparency | Applicabile alle forme di testo. Imposta la trasparenza del colore usato per lo sfondo (la proprietà Gradient). |
-| Border color | Il colore del bordo di una forma di testo |
-| Border width | Lo spessore del bordo di una forma di testo |
-| Corner radius | Il raggio del bordo di una forma di testo. Permette di ottenere angoli arrotondati. |
-| Drop shadow | Indica se usare un’ombra esterna per una forma di testo |
-| Gradient | Il gradiente di riempimento per lo sfondo di una forma di testo. È possibile selezionare un colore di gradiente ‘from’ e un colore di gradiente ‘to’, oltre a un tipo di gradiente. |
-| Picture | Applicabile alle forme immagine. Una miniatura dell’immagine. Fare clic sul pulsante Sfoglia (…) per cercare un’immagine. |
-| Rotation Angle | L’angolo di rotazione dell’immagine o del testo |
-| Shadow color | Colore dell’ombra esterna di una forma di testo |
-| Stretch | Applicabile alle forme immagine. Allunga l’immagine per coprire l’intera area del riquadro di selezione circostante |
-| Text | Il testo della forma di testo |
-| Text color | Il colore del testo di una forma di testo |
-| Text font | Il carattere usato per la forma di testo |
-| Transparency | Imposta la trasparenza dell’immagine o del testo |
-| Visibility | Indica se una forma (immagine o testo) è sempre visibile, diventa visibile quando una risposta viene rivelata, viene nascosta quando una risposta viene rivelata, oppure è temporizzata (compare in un momento preciso durante il conto alla rovescia). |
+| Allineamento | L'allineamento del testo della forma testo |
+| Trasparenza Sfondo | Applicabile alle forme di testo. Imposta la trasparenza del colore utilizzato per lo sfondo (proprietà Sfumatura). |
+| Colore Bordo | Il colore del bordo di una forma di testo |
+| Spessore Bordo | La larghezza del bordo di una forma di testo |
+| Raggio Angoli | Il raggio del bordo di una forma di testo. Consente di creare angoli arrotondati. |
+| Ombra Esterna | Indica se utilizzare un'ombra esterna in una forma di testo. |
+| Sfumatura | Il riempimento sfumato per lo sfondo della forma di testo. È possibile selezionare un colore di sfumatura ‘Da’ e un colore di sfumatura ‘A’, oltre a un ‘Tipo’ di sfumatura. |
+| Immagine | Applicabile alle forme Immagine. Una miniatura dell'immagine. Fare clic sul pulsante Sfoglia (...) per cercare un'immagine. |
+| Angolo Rotazione | L'angolo di rotazione dell'immagine o del testo |
+| Colore Ombra | Il colore dell'ombra in una forma di testo |
+| Riempi | Applicabile alle forme immagine. Allunga l’immagine per coprire l’intera area del riquadro di selezione circostante (può deformarla). |
+| Testo | Il testo della forma di testo |
+| Colore Testo | Il colore del testo di una forma di testo |
+| Font Testo | Il carattere utilizzato per la forma di testo |
+| Trasparenza | Imposta la trasparenza dell'immagine o del testo |
+| Visibilità | Indica se una forma (immagine o testo) è sempre visibile, diventa visibile quando viene rivelata una risposta, è nascosta quando viene rivelata una risposta o è temporizzata (appare in un determinato momento durante il conto alla rovescia). |
 
 ## Proprietà della sintesi vocale
 

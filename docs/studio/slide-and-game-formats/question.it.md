@@ -105,7 +105,7 @@ Le domande Testuali possono avere anche più risposte. Ad esempio, è possibile 
 
 1) Creare una domanda di testo standard con la risposta corretta: Madonna ![](../../assets/images/image41.webp){ width="602" loading=lazy }
 
-2) Andare nelle proprietà avanzate della diapositiva e cercare ‘Risposte Testuale’.
+2) Andare nelle proprietà avanzate della diapositiva e cercare ‘Risposte Testuali’.
 
 3) Fare clic sui tre puntini \[…\] per aprire l’editor delle risposte testuali e aggiungere il titolo della canzone ‘Holiday’. Se necessario, è anche possibile impostare la corrispondenza approssimativa per ogni risposta o inserire varianti di risposta per ogni risposta corretta, separate da un punto e virgola:
 
@@ -113,11 +113,11 @@ Quando la domanda viene presentata, il giocatore vede la seguente schermata:
 
 ![](../../assets/images/image42.webp){ width="335" loading=lazy }
 
-Per impostazione predefinita, il giocatore vede tanti campi di input quante sono le risposte corrette definite, ma è possibile anche limitare il numero di campi con l’impostazione ‘Limite Risposte Testuale’:
+Per impostazione predefinita, il giocatore vede tanti campi di input quante sono le risposte corrette definite, ma è possibile anche limitare il numero di campi con l’impostazione ‘Limite Risposte Testuali’:
 
 ![](../../assets/images/image43.webp){ width="377" loading=lazy }
 
-Quindi, ad esempio, si potrebbe chiedere ‘Nomina 4 paesi che confinano con la Germania’, impostare ‘Limite Risposte Testuale’ su 4 e inserire tutti i 9 paesi confinanti come risposte corrette.
+Quindi, ad esempio, si potrebbe chiedere ‘Nomina 4 paesi che confinano con la Germania’, impostare ‘Limite Risposte Testuali’ su 4 e inserire tutti i 9 paesi confinanti come risposte corrette.
 
 ### Input a lettera
 

@@ -36,11 +36,11 @@ Quando si crea una domanda a scelta multipla, in QuizXpress Studio è possibile 
 
 QuizXpress supporta la presenza di più risposte corrette. Sono disponibili le seguenti opzioni:
 
-### Single correct
+### Risposta Singola { #single-correct }
 
 È la modalità predefinita, in cui una domanda a scelta multipla ha una sola risposta corretta.
 
-### Multiple correct (one response)
+### Multipla (una Risposta) { #multiple-correct-one-response }
 
 In questa modalità la domanda può avere più risposte corrette, ma i giocatori possono sceglierne una sola. Per ogni risposta è possibile impostare, se applicabile, una diversa correttezza. Lo si può usare per creare domande in cui i giocatori possono ottenere più punti se sono ‘più vicini’ alla risposta corretta, come illustrato nella domanda qui sotto (2000 è la risposta esatta):
 
@@ -54,13 +54,13 @@ Lo si può usare anche per creare domande in stile ‘Family Feud’ come quella
 
 ![](../../assets/images/image35.webp){ loading=lazy }
 
-### Multiple correct (multiple responses)
+### Multipla (Più Risposte) { #multiple-correct-multiple-responses }
 
 In questa modalità la domanda può avere più risposte corrette, ciascuna con una diversa ‘correttezza’, ma ora i giocatori possono selezionare più di una risposta. Quindi, ad esempio, quando le risposte A e C sono entrambe impostate come corrette (ciascuna con il 50% di correttezza), i giocatori possono ottenere il 100% dei punti rispondendo alla domanda con *entrambe* A e C. Se invece rispondessero con A e B, otterrebbero solo il 50% dei punti.
 
 Se i giocatori devono rispondere con tutte le risposte corrette per vincere punti, selezionare la domanda e, nel pannello delle proprietà, impostare ‘Modalità Risposta’ su ‘Risposte Multiple, corrispondenza esatta’.
 
-### Ordered
+### Ordinate { #ordered }
 
 In questa modalità un giocatore deve mettere le risposte nell’ordine corretto. È possibile creare domande come quella mostrata qui sotto (la risposta corretta sarebbe C->A->D->B).
 

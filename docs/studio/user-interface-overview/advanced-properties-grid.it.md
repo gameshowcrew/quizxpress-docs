@@ -92,17 +92,17 @@ La griglia utilizzata dalle versioni precedenti di QuizXpress è ancora disponib
 
 ## Proprietà delle diapositive del quiz
 
-Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le proprietà sono suddivise in gruppi diversi:
+Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositiva. Le proprietà sono suddivise in tre gruppi:
 
-- *Appearance*, definisce come viene visualizzata la domanda.
+- *Aspetto*, definisce come viene visualizzata la domanda.
 
-- *Behavior*, definisce il comportamento della domanda durante lo show.
+- *Comportamento*, definisce il comportamento della domanda durante il game show
 
-- *General*, proprietà generali.
+- *Generale*, definisce le proprietà generali della diapositiva
 
-- *Metadata, metadati per questa diapositiva (Id e Class)*
+- *Metadati*, metadati per questa diapositiva (Id e Classe)
 
-- *Points,* sezione di assegnazione dei punti.
+- *Punti*, Sezione di Assegnazione dei Punti
 
 <table>
 <colgroup>
@@ -123,200 +123,200 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </thead>
 <tbody>
 <tr class="odd">
-<td>Answer time</td>
-<td>La durata del conto alla rovescia in secondi. Specificare il valore 0 per una domanda senza limite di tempo. In tal caso è possibile terminare la domanda premendo la barra spaziatrice. Il conto alla rovescia può essere messo in pausa premendo ‘P’ in QuizXpress Live.</td>
+<td>Tempo Risposta</td>
+<td>La durata del conto alla rovescia in secondi. Specificare un valore di 0 per una domanda senza tempo. In questo caso, è possibile porre fine alla domanda premendo la barra spaziatrice. Il conto alla rovescia può essere interrotto premendo il tasto 'P' in QuizXpress Live. Premendolo nuovamente, il tempo riprenderà a scorrere.</td>
 </tr>
 <tr class="even">
-<td>Auto judge</td>
-<td>Questa impostazione è valida per una domanda a dito più veloce (Voting = no) e a scelta multipla. In questo caso, l’impostazione ‘Auto judge’ indica se una domanda verrà giudicata automaticamente da QuizXpress Live quando su un buzzer/pulsantiere viene premuto un pulsante di scelta multipla (per i buzzer senza scelta multipla l’auto-judge è sempre impostato automaticamente su ‘No’).</td>
+<td>Valutazione Automatica</td>
+<td>Questa impostazione è applicabile per una domanda di tipo “dito più veloce” ('Votazione' = No) e che sia a scelta multipla. Attivando questa impostazione, la domanda sarà automaticamente valutata da QuizXpress Live! (confrontandola con la risposta contrassegnata come quella corretta), quando si preme un pulsante a scelta multipla di una pulsantiera o di uno slammer (per gli slammers a singola scelta, l’impostazione sarà automaticamente impostata su 'No').</td>
 </tr>
 <tr class="odd">
-<td>Auto advance when media ends</td>
-<td>Passa automaticamente alla diapositiva successiva quando termina un video o un suono su un billboard. Questo aiuta a creare quiz che si svolgono da soli. Questa proprietà è disponibile quando sulla diapositiva è presente un elemento multimediale e il Type della diapositiva è billboard.</td>
+<td>Avanzamento Automatico a fine Audio/Video</td>
+<td>Passa automaticamente alla diapositiva successiva quando un video o un audio su un tabellone termina. Utile per creare quiz ad avanzamento automatico. Questa opzione è disponibile solo se sulla diapositiva è presente un elemento multimediale e se il tipo di diapositiva è di tipo **Tabellone**.</td>
 </tr>
 <tr class="even">
-<td>Background image</td>
-<td>L’immagine di sfondo della diapositiva del quiz.</td>
+<td>Immagine Sfondo</td>
+<td>L'immagine di sfondo della diapositiva quiz.</td>
 </tr>
 <tr class="odd">
-<td>Background stretch mode</td>
-<td>Indica come l’immagine di sfondo viene adattata alla diapositiva. Può essere ‘Fill’ per riempire semplicemente l’intera diapositiva con l’immagine (le proporzioni non vengono mantenute) oppure ‘Zoom’ per mantenere le proporzioni corrette perdendo eventualmente alcune parti dell’immagine</td>
+<td>Adattamento Sfondo</td>
+<td>Indica come l'immagine di sfondo verrà adattata sulla diapositiva. Può essere di tipo ‘Riempi’ per riempire l'intera diapositiva con l'immagine (il rapporto di formato non verrà mantenuto) o di tipo ‘Ingrandisci’ per mantenere le proporzioni corrette (ma perdendo alcune parti dell'immagine)</td>
 </tr>
 <tr class="odd">
-<td>Background video</td>
-<td><p>Un video che viene riprodotto dietro la diapositiva durante il quiz. Un’immagine o un video in un segnaposto viene riprodotto sopra di esso. Una volta impostato, sotto compaiono queste impostazioni: <em>Video storage type</em> (embedded or linked), <em>Linked file</em> (per un video collegato), <em>Loop</em> (attivo per impostazione predefinita), <em>Silent</em> (attivo per impostazione predefinita) e, sotto ‘More options’, <em>Sync with quiz</em> (mette in pausa il video quando una squadra preme il buzzer, il conto alla rovescia è in pausa o la domanda termina).</p>
+<td>Video Sfondo</td>
+<td><p>Un video che viene riprodotto dietro la diapositiva durante il quiz. Un’immagine o un video in un segnaposto viene riprodotto sopra di esso. Una volta impostato, sotto compaiono queste impostazioni: <em>Tipo Archivio Video</em> (incorporato o collegato), <em>File Collegato</em> (per un video collegato), <em>Ripeti</em> (attivo per impostazione predefinita), <em>Silenzioso</em> (attivo per impostazione predefinita) e, sotto ‘Altre opzioni’, <em>Sincronizza con il quiz</em> (mette in pausa il video quando una squadra preme il buzzer, il conto alla rovescia è in pausa o la domanda termina).</p>
 <p>Su una categoria, il video di sfondo viene applicato a ogni diapositiva formattata con quella categoria. Vedere <a href="../../backgrounds/">Background video</a>.</p></td>
 </tr>
 <tr class="even">
-<td>Bonus points</td>
-<td>I punti bonus per il 1°, il 2° e il 3° giocatore più veloce a rispondere correttamente.</td>
+<td>Punti Bonus</td>
+<td>I punti bonus per il 1°, 2° e 3° giocatore più veloci a rispondere correttamente</td>
 </tr>
 <tr class="odd">
-<td>Class</td>
+<td>Classe</td>
 <td>Un testo definibile dall’utente per classificare il tipo di diapositiva. Questi dati verranno esportati nel file dei punteggi dell’Analyzer e inviati a MessageBroker, in modo da poter essere usati per attivare un comportamento particolare</td>
 </tr>
 <tr class="even">
-<td>Category</td>
-<td>La categoria di questa diapositiva del quiz. Selezionando una categoria si definisce la formattazione grafica. Nota: è possibile definire categorie personalizzate! Per una spiegazione delle categorie fare riferimento alla sezione 3.3</td>
+<td>Categoria</td>
+<td>La categoria della diapositiva quiz attuale. Selezionando una categoria predefinita, si definisce la formattazione grafica della diapositiva. Nota: è possibile creare proprie categorie personalizzate. Per maggiori informazioni, si veda la sezione 3.3</td>
 </tr>
 <tr class="odd">
-<td>Continue after correct answer</td>
-<td>Quando viene data una risposta corretta a una domanda a dito più veloce (di tipo ‘default’, la risposta viene data a voce e giudicata corretta) il conto alla rovescia continua e gli altri giocatori possono premere (spesso usato per giochi durante un evento che si svolge al di fuori di un quiz).</td>
+<td>Continua dopo una risposta corretta</td>
+<td>Quando viene data una risposta corretta ad una domanda “Dito più Veloce” (di tipo "predefinito", la risposta viene data a voce e giudicata corretta) il conto alla rovescia continua e gli altri giocatori possono premere (spesso usato per giochi durante un evento che si svolge al di fuori di un quiz).</td>
 </tr>
 <tr class="even">
-<td>Correct answer</td>
-<td>La risposta corretta per questa diapositiva. Applicabile solo quando la modalità di input (vedere sotto) è ‘numeric’, ‘letter’ o ‘text’.</td>
+<td>Risposta Corretta</td>
+<td>La risposta corretta per questa diapositiva. Applicabile solo quando la modalità di immissione è di tipo "numerica", “Iniziale" o "testuale".</td>
 </tr>
 <tr class="odd">
-<td>Custom HTML Screen</td>
-<td>Una pagina HTML personalizzata da mostrare sui dispositivi mobili quando questa diapositiva viene caricata <em>(uso avanzato)</em></td>
+<td>Schermata HTML Personalizzata</td>
+<td>Una pagina HTML personalizzata da mostrare sui dispositivi mobili quando questa diapositiva viene caricata (uso avanzato)</td>
 </tr>
 <tr class="even">
-<td>Delay before answer</td>
-<td>Tempo in secondi che trascorre prima che vengano mostrate le risposte. Questo dà al Quizmaster la possibilità di leggere la domanda ad alta voce prima che compaiano le risposte.</td>
+<td>Ritardo Risposte</td>
+<td>Tempo in secondi che ritarda l’esposizione delle risposte. Questa impostazione consente al quizmaster la possibilità di leggere la domanda ad alta voce prima che le vengano mostrate risposte.</td>
 </tr>
 <tr class="odd">
-<td>Delay between answers<sup>*</sup></td>
-<td>Se sono stati impostati sia ‘Delay before answer’ sia ‘hide and show one by one’, questa proprietà compare. Definisce l’intervallo di tempo che trascorre tra una risposta e l’altra che appare.</td>
+<td>Ritardo tra le Risposte</td>
+<td>Questa proprietà viene visualizzata una volta impostata le funzionalità 'Ritardo prima della risposta' e ‘Nascondi e mostra una alla volta’. Essa definisce in secondi, il ritardo che intercorrerà tra la visualizzazione di una risposta e la successiva.</td>
 </tr>
 <tr class="even">
-<td>Demographic group<sup>*</sup></td>
-<td>Questa proprietà può essere impostata quando il <strong>Type</strong> della diapositiva è ‘Demographic’. Definisce un gruppo demografico. Quando il quiz viene eseguito, le persone che premono il buzzer mentre viene mostrata una diapositiva di quiz demografico apparterranno al gruppo indicato da questa proprietà. Fare riferimento anche alla sezione 5.4.5.5 per maggiori informazioni sui gruppi demografici.</td>
+<td>Gruppo Demografico</td>
+<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su ‘**Demografica**’. Definisce un gruppo demografico. Durante l’esecuzione di un quiz, i partecipanti premendo la propria pulsantiera quando è mostrata una diapositiva quiz di tipo demografico, faranno parte del gruppo indicato da questa proprietà. Si prega di fare riferimento alla sezione 5.3.5.5 per ulteriori informazioni sui gruppi demografici.</td>
 </tr>
 <tr class="odd">
-<td>End of round action<sup>*</sup></td>
-<td>Questa proprietà può essere impostata quando il <strong>Type</strong> della diapositiva è ‘End of round’. I valori possibili sono ‘Disable one loser’, nel qual caso il partecipante con meno punti viene eliminato, e ‘Quizmaster selects losers’, nel qual caso il Quizmaster può selezionare uno per uno i partecipanti che verranno eliminati.</td>
+<td>Azione di Fine Round</td>
+<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su **'Fine del Round’**. È possibile scegliere per esempio, ‘Escludi un Perdente, nel qual caso è eliminato il partecipante con il minor numero di punti o ‘Quizmaster seleziona i perdenti’, in cui sarà il Quizmaster a scegliere i partecipanti da eliminare, uno ad uno.</td>
 </tr>
 <tr class="even">
-<td>Evaluation mode</td>
-<td>Indica se la valutazione di una risposta numerica è ‘exact match’ (la risposta data deve corrispondere esattamente alla risposta corretta della domanda) o ‘nearest wins’ (il giocatore più vicino alla risposta vince i punti indicati).</td>
+<td>Modalità Valutazione</td>
+<td>Indica se la valutazione di una risposta numerica è "Corrispondenza Esatta" (la risposta data deve corrispondere esattamente alla risposta corretta della domanda) o "Nearest Wins" (il giocatore che si avvicina di più alla risposta vince i punti in palio).</td>
 </tr>
 <tr class="odd">
-<td>Gradient</td>
-<td>Il gradiente di riempimento per lo sfondo della diapositiva. Questa proprietà si applica solo se non c’è un’immagine di sfondo. È possibile selezionare un colore di gradiente ‘from’ e un colore di gradiente ‘to’, oltre a un tipo di gradiente.</td>
+<td>Sfumatura</td>
+<td>Il riempimento sfumato per lo sfondo della diapositiva. Questa proprietà si applica solo se non è presente alcuna immagine sullo sfondo. Una sfumatura si crea indicando 'Da' che colore 'A' che colore e scegliendo una tipologia ‘Tipo’.</td>
 </tr>
 <tr class="even">
 <td>Id</td>
-<td>Un ID univoco per identificare questa diapositiva (per esempio per l’instradamento statico delle diapositive con la proprietà <em>Next slide</em>)</td>
+<td>Un ID univoco per identificare questa diapositiva (per esempio per l’instradamento statico delle diapositive con la proprietà Diapositiva Successiva)</td>
 </tr>
 <tr class="odd">
-<td>Input type</td>
-<td>Per una domanda aperta è possibile scegliere tra ‘default’ (domanda a dito più veloce) oppure una risposta ‘number’, ‘letter’ o ‘text’. Le ultime tre modalità si applicano solo quando si usano telefoni cellulari (poiché pulsantiere e buzzer non offrono input numerico o testuale).</td>
+<td>Tipologia Input</td>
+<td>In una domanda “aperta” è possibile scegliere tra la modalità "predefinita" (domanda “Dito più Veloce”) o una risposta "Numerica", "Iniziale" o "Testuale". Queste ultime tre modalità si applicano solo quando si utilizzano i Dispositivi Mobili (poiché le Pulsantiere e i Buzzers non offrono la possibilità di inserire numeri o testi).</td>
 </tr>
 <tr class="even">
-<td>Language</td>
+<td>Lingua</td>
 <td>La lingua di visualizzazione (di modifica) corrente della diapositiva per i quiz bilingue.</td>
 </tr>
 <tr class="odd">
-<td>Lock-out on wrong answer</td>
-<td>Imposta la modalità di blocco per una domanda a dito più veloce. Il giocatore viene bloccato in caso di risposta errata, oppure può riprovare.</td>
+<td>Escludi se Sbagliata</td>
+<td>Imposta la modalità di esclusione per una domanda “dito più veloce”. Il giocatore viene escluso dopo una risposta sbagliata oppure il giocatore può riprovare.</td>
 </tr>
 <tr class="even">
-<td>Multiple correct answers</td>
-<td>Indica se questa domanda ha più di una risposta corretta e se le risposte corrette multiple seguono un ordine specifico</td>
+<td>Risposte Corrette Multiple</td>
+<td>Indica se la domanda ha più di una risposta corretta e se più risposte corrette sono da fornire in un ordine specifico</td>
 </tr>
 <tr class="odd">
-<td>Mute countdown sound</td>
-<td>Disattiva il suono del conto alla rovescia per questa domanda</td>
+<td>Disattiva Audio Countdown</td>
+<td>Disattiva il suono del conto alla rovescia per la domanda attuale.</td>
 </tr>
 <tr class="even">
-<td>Next slide</td>
-<td>L’ID della diapositiva da mostrare dopo questa (instradamento statico delle diapositive)</td>
+<td>Diapositiva successiva</td>
+<td>L’ID della diapositiva da mostrare dopo questa (Routing delle diapositive)</td>
 </tr>
 <tr class="odd">
-<td>Notes</td>
-<td>Un testo (suggerimenti) per il Quizmaster che verrà incluso nell’esportazione PDF</td>
+<td>Note</td>
+<td>È possibile inserire un testo per il Quizmaster che sarà incluso nell’esportazione PDF</td>
 </tr>
 <tr class="even">
-<td>Ordered answer mode</td>
-<td>Per le risposte ordinate, è possibile indicare se si vuole che le risposte corrispondano esattamente all’ordine (Exact match) o se anche una risposta parzialmente corretta dà punti (una percentuale dei punti, a seconda di quante risposte sono al posto giusto).</td>
+<td>Modalità Risposta Ordinata</td>
+<td>Per le risposte da ordinare, si può indicare se si vuole che le risposte corrispondano esattamente all'ordine (Corrispondenza esatta) o se anche una risposta parzialmente corretta possa riconoscere dei punti (una percentuale dei punti, a seconda di quante risposte sono nell’ordine giusto).</td>
 </tr>
 <tr class="odd">
-<td>Penalty points end</td>
-<td>Numero di punti sottratti quando un partecipante risponde in modo errato alla fine del conto alla rovescia (interpolazione tra inizio – fine)</td>
+<td>Punti Penalità finali</td>
+<td>Numero di punti sottratti ai partecipanti in caso di risposta errata alla fine del conto alla rovescia. (interpolati tra inizio e fine)</td>
 </tr>
 <tr class="even">
-<td>Penalty points start</td>
-<td>Numero di punti sottratti quando un partecipante risponde in modo errato all’inizio del conto alla rovescia</td>
+<td>Punti Penalità iniziali</td>
+<td>Numero di punti sottratti ai partecipanti in caso di risposta errata all'inizio del conto alla rovescia.</td>
 </tr>
 <tr class="odd">
-<td>Points at end</td>
-<td>Numero di punti aggiunti quando un partecipante risponde correttamente alla fine del conto alla rovescia. Deve essere minore o uguale a ‘points at start time’. I punti vengono interpolati tra l’inizio e la fine del contatore. Quindi, quando i punti alla fine sono inferiori ai punti all’inizio, il numero di punti guadagnabili diminuisce mentre il conto alla rovescia procede. Quando i due valori sono uguali, i punti guadagnabili restano gli stessi per tutta la durata del conto alla rovescia.</td>
+<td>Punti a fine tempo</td>
+<td>Numero di punti assegnati ai partecipanti alla fine del conto alla rovescia. Normalmente devono essere minori o uguali ai 'punti all’inizio del tempo’. I punti sono interpolati tra l'inizio e la fine del contatore. Quando i punti alla fine tempo sono inferiori ai punti all’inizio del tempo, i punti assegnati diminuiscono con il passare del tempo. Quando i due valori sono uguali, i punti che si possono ottenere saranno gli stessi durante tutto il conto alla rovescia.</td>
 </tr>
 <tr class="even">
-<td>Points at start</td>
-<td>Numero di punti aggiunti quando un partecipante risponde correttamente all’inizio del conto alla rovescia.</td>
+<td>Punti a inizio tempo</td>
+<td>Numero di punti che vengono assegnati ai partecipanti all'inizio del conto alla rovescia.</td>
 </tr>
 <tr class="odd">
-<td>Points to lose on no answer</td>
-<td>I punti sottratti quando non viene data alcuna risposta (applicabile solo alle domande a votazione)</td>
+<td>Punti Nessuna Risposta</td>
+<td>I punti che vengono sottratti quando un partecipante non fornisce una risposta (applicabile solo per domande di tipo ‘Votazione’)</td>
 </tr>
 <tr class="even">
-<td>Steal Points</td>
-<td>Quando l’opzione steal points è attiva per una domanda a dito più veloce (buzzer), un giocatore che dà una risposta errata non perde punti. Invece, i punti di penalità configurati per la diapositiva vengono assegnati a tutti gli altri giocatori e la domanda termina immediatamente.</td>
+<td>Ruba punti</td>
+<td>Quando l'opzione Ruba Punti è attiva in una domanda "dito più veloce" (buzzer), il giocatore che dà una risposta errata non perde punti. Al contrario, i punti di penalità configurati per la diapositiva vengono assegnati a tutti gli altri giocatori e la domanda termina immediatamente.</td>
 </tr>
 <tr class="odd">
-<td>Response limit</td>
-<td>Il numero massimo di squadre di cui il sistema accetterà le risposte. Per esempio, se si gioca con 100 squadre, è possibile impostare questo valore a 25 in modo che solo le prime 25 squadre possano rispondere alla domanda.</td>
+<td>Limite Risposte</td>
+<td>È Il numero massimo di squadre/partecipanti per cui il sistema accetterà le risposte. Ad esempio se si gioca con 100 squadre, è possibile impostare questo valore a 25 in modo che solo le prime 25 squadre abbiano diritto di rispondere alla domanda</td>
 </tr>
 <tr class="even">
-<td>Response mode</td>
-<td>Indica se questa domanda accetta una sola risposta per giocatore o più risposte (usato in combinazione con ‘Multiple correct answers’). Impostando questa opzione su ‘multiple responses, exact match’, la risposta multipla deve corrispondere esattamente alle risposte corrette per vincere punti.</td>
+<td>Modalità Risposta</td>
+<td>Indica se la domanda accetta una sola risposta per ogni giocatore o multipla (usato in combinazione con ‘Risposte Corrette Multiple’). Quando si imposta questa opzione su "risposte multiple, corrispondenza esatta", la risposta multipla deve corrispondere esattamente alle risposte corrette per ottenere punti.</td>
 </tr>
 <tr class="odd">
-<td>Revise answer</td>
-<td>Qui è possibile sovrascrivere l’opzione globale che consente ai giocatori di rivedere la propria risposta (impostata globalmente in Quiz Setup per tutte le diapositive).</td>
+<td>Risposta Rivedibile</td>
+<td>Qui puoi modificare l’impostazione che permette ai giocatori di rivedere e cambiare la propria risposta (impostazione definita in “Configurazione quiz” per tutte le diapositive).</td>
 </tr>
 <tr class="even">
-<td>Safety net<sup>*</sup></td>
-<td>Usato per le domande della scala di trivia (trivia ladder). In un round di scala di trivia, quando un giocatore risponde in modo errato, ricade sulla rete di sicurezza più vicina della scala di trivia.</td>
+<td>Traguardo Salvezza</td>
+<td>Usato per le domande Trivia Ladder. Quando in un round di Trivia Ladder un giocatore risponde in modo errato, torna indietro al Traguardo Salvezza più prossimo sulla scaletta.</td>
 </tr>
 <tr class="odd">
 <td>Script</td>
-<td>Comportamento personalizzato della diapositiva scritto in JavaScript <em>(uso avanzato)</em></td>
+<td>Comportamento personalizzato della diapositiva scritto in JavaScript (uso avanzato)</td>
 </tr>
 <tr class="even">
-<td>Show answers action<sup>*</sup></td>
-<td>Quando è stato impostato ‘Delay before answer’, questa proprietà compare. Impostandola su ‘hide and show at once’, le risposte vengono mostrate tutte insieme una volta trascorso il tempo di ritardo. Impostandola su ‘hide and show one by one’, le risposte vengono mostrate una per una una volta trascorso il tempo di ritardo.</td>
+<td>Mostra Azioni Risposta</td>
+<td>Quando è impostato ‘Ritardo Risposte’, questa proprietà compare. Impostandola su ‘Mostra e Nascondi Insieme’, le risposte vengono mostrate tutte insieme una volta trascorso il tempo di ritardo. Impostandola su ‘Nascondi e Mostra una alla volta’, le risposte vengono mostrate una per una una volta trascorso il tempo di ritardo.</td>
 </tr>
 <tr class="odd">
-<td>Show correct answer</td>
-<td>Modalità di visualizzazione della risposta corretta su questa diapositiva. Seguire l’impostazione globale indicata in Quiz Setup, non mostrare mai la risposta corretta, oppure mostrarla sempre.</td>
+<td>Mostra Risposta Corretta</td>
+<td>Modalità per mostrare la risposta corretta nella diapositiva. Segue l'impostazione globale in Quiz Setup, oppure non mostra mai la risposta corretta oppure mostra sempre la risposta corretta</td>
 </tr>
 <tr class="even">
-<td>Shuffle mode</td>
-<td>Determina che cosa succede quando il quiz viene mescolato</td>
+<td>Modalità Mescola</td>
+<td>Determina cosa fare accadere quando il quiz viene mischiato</td>
 </tr>
 <tr class="odd">
-<td>Start timer</td>
-<td>Indica se il timer del conto alla rovescia deve partire automaticamente quando compare la domanda o tramite un’azione manuale.</td>
+<td>Modalità Countdown</td>
+<td>Indica se il conto alla rovescia per la domanda inizierà immediatamente (automatico) o dopo aver premuto la barra spaziatrice (Manuale)</td>
 </tr>
 <tr class="even">
-<td>Steal points</td>
+<td>Ruba punti</td>
 <td>Applicabile alle domande a dito più veloce. Quando è abilitato, tutti gli altri giocatori rubano i punti al giocatore che ha premuto il buzzer quando la risposta fornita è sbagliata.</td>
 </tr>
 <tr class="odd">
-<td>Style</td>
-<td>Lo stile di rendering della domanda. Maggiori informazioni sugli stili si trovano nel capitolo “Styles”.</td>
+<td>Stile</td>
+<td>Lo stile di rendering della diapositiva. È possibile trovare maggiori informazioni sugli stili nel capitolo "Stili"</td>
 </tr>
 <tr class="even">
-<td>Text evaluation</td>
-<td>Indica se la valutazione di una risposta testuale è ‘exact match’ (la risposta data deve corrispondere esattamente alla risposta corretta) o ‘fuzzy match’ (un algoritmo consente una certa percentuale di differenza tra la risposta data e quella corretta, così i giocatori possono commettere piccoli errori di ortografia).</td>
+<td>Valutazione Testo</td>
+<td>Indica se la valutazione di una risposta di testo è a " Corrispondenza Esatta" (la risposta data deve corrispondere esattamente alla risposta corretta della domanda) o a " Corrispondenza Approssimata" (viene utilizzato un algoritmo che consente una certa percentuale di differenza tra la risposta data e la risposta corretta. Questo consente ai giocatori di commettere errori di ortografia).</td>
 </tr>
 <tr class="odd">
-<td>Tolerance</td>
-<td>Variazione consentita tra la risposta corretta e le risposte date. Si applica alle domande con input type ‘text’ e ‘text evaluation’ impostato su ‘fuzzy match’.</td>
+<td>Tolleranza</td>
+<td>Variazione consentita tra la risposta corretta e le risposte date. Si applica alle domande con risposta di tipo "testuale" con "Valutazione Testo" impostato su "Corrispondenza Approssimata".</td>
 </tr>
 <tr class="even">
-<td>Topic<sup>*</sup></td>
-<td>L’argomento della domanda. Viene usato per generare automaticamente un Tabellone Trivia precedente.</td>
+<td>Argomento</td>
+<td>L'argomento della domanda. Viene utilizzato per generare automaticamente un Pannello Trivia precedente.</td>
 </tr>
 <tr class="odd">
-<td>Transition</td>
+<td>Transizione</td>
 <td>L’animazione di transizione specifica quando si passa alla diapositiva successiva (per impostazione predefinita, il sistema seleziona una transizione casuale)</td>
 </tr>
 <tr class="even">
-<td>Type</td>
+<td>Tipo</td>
 <td><p>Campo di sola visualizzazione che mostra il tipo di diapositiva:</p>
 <ul>
 <li><p><em>Question</em>: la diapositiva è una normale domanda del quiz.</p></li>
@@ -337,8 +337,8 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </ul></td>
 </tr>
 <tr class="odd">
-<td>Voting</td>
-<td>Indica se tutti i partecipanti possono rispondere o se può rispondere solo il primo partecipante a premere il buzzer.</td>
+<td>Votazione</td>
+<td>Indica se tutti i partecipanti possono rispondere (‘SI’) o se può rispondere solo il partecipante che preme per primo il pulsante (‘No’).</td>
 </tr>
 </tbody>
 </table>

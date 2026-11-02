@@ -436,7 +436,7 @@ Queste proprietà sono mostrate quando si clicca su un elemento Audio in una dia
 
 | Proprietà | Descrizione |
 |---|---|
-| Minigame title | Per impostazione predefinita il buzzer mobile mostra a schermo il nome del Modulo Gioco. È possibile sostituirlo e fornire un testo personalizzato. Così, invece di vedere “Horse race”, è possibile mostrare qualcosa di più emozionante. |
+| Titolo del Modulo Gioco | Per impostazione predefinita, la pulsantiera/buzzer mobile mostra sullo schermo il nome del Modulo Gioco. Puoi sostituirlo inserendo un testo personalizzato: così, invece di “Corsa di cavalli”, puoi mostrare qualcosa di più coinvolgente. |
 
 ## Proprietà dei video
 

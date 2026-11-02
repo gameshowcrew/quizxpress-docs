@@ -92,7 +92,7 @@ La griglia utilizzata dalle versioni precedenti di QuizXpress è ancora disponib
 
 ## Proprietà delle diapositive del quiz
 
-Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositiva. Le proprietà sono suddivise in tre gruppi:
+Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositiva. Le proprietà sono suddivise in cinque gruppi:
 
 - *Aspetto*, definisce come viene visualizzata la domanda.
 
@@ -145,7 +145,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <tr class="odd">
 <td>Video Sfondo</td>
 <td><p>Un video che viene riprodotto dietro la diapositiva durante il quiz. Un’immagine o un video in un segnaposto viene riprodotto sopra di esso. Una volta impostato, sotto compaiono queste impostazioni: <em>Tipo Archivio Video</em> (incorporato o collegato), <em>File Collegato</em> (per un video collegato), <em>Ripeti</em> (attivo per impostazione predefinita), <em>Silenzioso</em> (attivo per impostazione predefinita) e, sotto ‘Altre opzioni’, <em>Sincronizza con il quiz</em> (mette in pausa il video quando una squadra preme il buzzer, il conto alla rovescia è in pausa o la domanda termina).</p>
-<p>Su una categoria, il video di sfondo viene applicato a ogni diapositiva formattata con quella categoria. Vedere <a href="../../backgrounds/">Background video</a>.</p></td>
+<p>Su una categoria, il video di sfondo viene applicato a ogni diapositiva formattata con quella categoria. Vedere <a href="../../backgrounds/#video-di-sfondo">Video di sfondo</a>.</p></td>
 </tr>
 <tr class="even">
 <td>Punti Bonus</td>
@@ -221,7 +221,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="even">
 <td>Diapositiva successiva</td>
-<td>L’ID della diapositiva da mostrare dopo questa (Routing delle diapositive)</td>
+<td>L’ID della diapositiva da mostrare dopo questa (instradamento statico delle diapositive)</td>
 </tr>
 <tr class="odd">
 <td>Note</td>
@@ -309,7 +309,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="even">
 <td>Argomento</td>
-<td>L'argomento della domanda. Viene utilizzato per generare automaticamente un Pannello Trivia precedente.</td>
+<td>L'argomento della domanda. Viene utilizzato per generare automaticamente un Tabellone Trivia precedente.</td>
 </tr>
 <tr class="odd">
 <td>Transizione</td>

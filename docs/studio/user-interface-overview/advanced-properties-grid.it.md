@@ -613,21 +613,21 @@ Quando si configura il gioco del Bingo, sono disponibili le seguenti proprietà:
 
 | Proprietà | Descrizione |
 |---|---|
-| Auto advance after claim | Quando una richiesta viene gestita sullo schermo e questa opzione è abilitata, il gioco prosegue automaticamente dopo la richiesta. In caso contrario, il gioco attende che il Quizmaster prema Next. |
-| Blanks per row | Il numero di celle vuote per riga sulla cartella del bingo. Può servire ad accelerare il gioco |
-| Center Image | L’immagine centrale (bonus) che compare sulla cartella del Bingo mobile |
-| Claims mode | Indica se viene gestito solo il primo giocatore che dichiara bingo o tutti i giocatori |
-| Countdown time (sec) | Il tempo del conto alla rovescia durante la gestione di una richiesta di bingo sullo schermo. |
-| Enable Virtual Caller | Abilita il sintetizzatore vocale di Windows per chiamare le palline/i colori in un normale gioco del Bingo |
-| False Bingo handling | Come vengono gestiti i falsi bingo (davanti al pubblico, o in silenzio) |
-| False Bingo limit | Quante volte un giocatore può dichiarare un bingo prima di essere escluso |
-| False Bingo mode | Che cosa succede quando un giocatore dichiara un falso Bingo |
-| First Pattern…Fifth Pattern | Gli schemi per cui giocare (in un round si possono giocare fino a 5 schemi) |
-| Game Type | Trivia Bingo, Number (traditional) Bingo o Emoji Bingo. |
-| Pattern penalty points | I punti da perdere per un falso bingo (per schema) |
-| Pattern Points | I punti da vincere per un bingo valido (per schema) |
-| Randomize questions | Quando si gioca a Trivia Bingo, questo flag indica che le domande vengono giocate in ordine casuale |
-| Say Colors | Pronuncia i colori delle colonne insieme ai numeri (per esempio ‘Blue 4’) |
+| Avanzamento Automatico | Se una richiesta di Bingo viene gestita sullo schermo e questa opzione è attiva, il gioco prosegue automaticamente dopo la richiesta. Altrimenti il gioco attende che il Quizmaster prosegua. |
+| Celle vuote per riga | Il numero di celle vuote per riga sulla cartella del Bingo. Questa funzionalità può essere usata per velocizzare il gioco |
+| Immagine Centrale | L'immagine centrale (bonus) che appare sulla cartella del Bingo mobile |
+| Modalità Chiamata | Indica se viene gestito solo il primo giocatore che dichiara Bingo o tutti i giocatori |
+| Tempo Countdown (sec) | Il tempo in secondi del conto alla rovescia quando si gestisce una richiesta di Bingo sullo schermo. |
+| Abilita Annunciatore Virtuale | Abilita il sintetizzatore vocale di Windows per annunciare le palline o i colori quando si gioca al Bingo Standard o all’Emoji Bingo |
+| Gestione Falso Bingo | Come viene gestito un falso Bingo: *Sullo schermo* (davanti al pubblico) o *Silenzioso* |
+| Limitazione Falso Bingo | Quante volte un giocatore può dichiarare un falso Bingo prima di essere escluso |
+| Modalità Falso Bingo | Che cosa succede quando un giocatore dichiara un falso Bingo |
+| Primo Schema … Quinto Schema | Gli schemi da giocare (in un round si possono giocare fino a 5 schemi diversi) |
+| Modalità di Gioco | Permette di scegliere tra *Trivia Bingo*, *Bingo Standard* (con i numeri, tradizionale) o *Emoji Bingo* |
+| Punti Penalità Schema | I punti di penalità per un falso Bingo (per schema) |
+| Punti Schema | I punti in palio per un Bingo valido (per schema) |
+| Casualizza Domande | Quando si gioca a Trivia Bingo, le domande vengono giocate in ordine casuale |
+| Annuncia Colori | Il sintetizzatore vocale annuncia i colori delle colonne insieme ai numeri (per esempio ‘Blu 4’) |
 
 ## Proprietà del Trivia Feud
 

@@ -555,39 +555,39 @@ Queste proprietà vengono mostrate quando si fa clic su un Word Game in una diap
 
 ## Proprietà del Tabellone Trivia { #proprieta-del-trivia-board }
 
-Queste proprietà vengono mostrate quando è selezionato un Tabellone Trivia. Le proprietà contrassegnate con *Custom* vengono mostrate solo quando 'Board position' è Custom; vedere [Progettare il proprio tabellone](../slide-and-game-formats/trivia-board-round.md#progettare-il-proprio-tabellone).
+Queste proprietà vengono mostrate quando è selezionato un Tabellone Trivia. Le proprietà contrassegnate con *Personalizzata* vengono mostrate solo quando ‘Posizione del tabellone’ è impostata su ‘Personalizzata’; vedere [Progettare il proprio tabellone](../slide-and-game-formats/trivia-board-round.md#progettare-il-proprio-tabellone).
 
 | Proprietà | Descrizione |
 |---|---|
-| Auto select | Seleziona automaticamente una tessera a caso con un’animazione quando il tabellone viene selezionato |
-| Animation duration (sec) | Durata in secondi dell’animazione di selezione casuale |
-| Animation interval (sec) | Intervallo tra i cambi di selezione durante l’animazione di selezione casuale |
-| Background color (Topic Tiles) | Imposta il colore di sfondo delle tessere degli argomenti |
-| Background color (Question Tiles) | Imposta il colore di sfondo delle tessere delle domande |
-| Board position | Automatic riempie lo schermo (il tabellone classico). Custom posiziona il tabellone dove si trova nella diapositiva, in modo da poterlo spostare e ridimensionare per adattarlo allo sfondo |
-| Circular tiles (Topic tiles) | Rende le tessere circolari (per impostazione predefinita sono rettangolari) |
-| Column spacing | Lo spazio tra le colonne di tessere |
-| Effect color | Il colore dell’ombra o del contorno del testo |
-| Font (Topic Tiles) | Imposta il carattere delle tessere degli argomenti |
-| Font (Question Tiles) | Imposta il carattere delle tessere delle domande |
-| Highlight color | Il colore della selezione casuale |
-| Image position (Topic Tiles) | *Custom.* Dove va l’immagine dell’argomento: sull’intera tessera, oppure a sinistra, a destra o sopra il nome dell’argomento |
-| Image scaling | *Custom.* Come l’immagine di una tessera viene adattata alla tessera: Stretch, Fit, Fill o Keep corners |
-| Max. questions to play | Il numero massimo di domande da giocare, oppure 0 per tutte le domande |
-| Played tiles | Come appare una tessera dopo che tutte le sue domande sono state giocate: Dimmed, Hidden o No text |
-| Randomize questions | Se a una tessera sono collegate più domande, ne verrà selezionata una a caso. Tuttavia, se l’opzione ‘Randomize questions’ non è abilitata, le domande dietro la tessera verranno presentate nell’ordine in cui compaiono nel quiz. |
-| Row spacing | Lo spazio tra le righe di tessere |
-| Same text size for all tiles | Una dimensione del testo per tutti i nomi degli argomenti e una per tutti i valori dei punti, mai superiore alla dimensione del carattere; i nomi di argomento lunghi vanno a capo su due righe. Quando è disattivato, ogni testo riempie la propria tessera |
-| Selection highlight | Come la selezione casuale evidenzia una tessera: Fill, Tint, Outline o Glow |
-| Show topic name (Topic Tiles) | *Custom.* Mostra il nome dell’argomento sulla tessera; disattivarlo quando le immagini degli argomenti contengono già il nome |
-| Text color (Question Tiles) | Imposta il colore del testo delle tessere delle domande |
-| Text color (Topic Tiles) | Imposta il colore del testo delle tessere degli argomenti |
-| Text effect | Un’ombra o un contorno attorno al testo delle tessere |
-| Tile image | *Custom.* Un’immagine per le tessere degli argomenti o delle domande, al posto del colore di sfondo |
-| Topic images (Topic Tiles) | *Custom.* Un’immagine separata per ogni argomento del tabellone |
-| Topic row height | L’altezza della riga degli argomenti rispetto a una riga di tessere delle domande |
-| Topics only | Mostra solo gli argomenti sul tabellone |
-| Vary tiles (Question Tiles) | *Custom.* Specchia l’immagine della tessera in modo diverso su ogni tessera |
+| Selezione Automatica | Seleziona automaticamente una casella a caso, con un’animazione, quando viene selezionato il tabellone. |
+| Durata Animazione (sec) | Durata, in secondi, dell’animazione di selezione casuale. |
+| Intervallo Animazione (sec) | Intervallo tra i cambi di selezione durante l’animazione di selezione casuale. |
+| Colore Sfondo (Caselle Argomento) | Imposta il colore di sfondo delle caselle degli argomenti |
+| Colore Sfondo (Caselle Domanda) | Imposta il colore di sfondo delle caselle delle domande |
+| Posizione del tabellone | *Automatica* riempie lo schermo (il tabellone classico). *Personalizzata* posiziona il tabellone dove si trova nella diapositiva, così puoi spostarlo e ridimensionarlo per adattarlo allo sfondo. |
+| Caselle Tonde (Caselle Argomento) | Rende circolari le caselle (per impostazione predefinita sono rettangolari) |
+| Spaziatura colonne | Lo spazio tra le colonne di caselle |
+| Colore effetto | Il colore dell’ombra o del contorno del testo |
+| Font (Caselle Argomento) | Imposta il font delle caselle degli argomenti |
+| Font (Caselle Domanda) | Imposta il font delle caselle delle domande |
+| Colore evidenziazione | Il colore della selezione casuale |
+| Posizione immagine (Caselle Argomento) | *Personalizzata.* Dove va l’immagine dell’argomento: sull’intera casella, oppure a sinistra, a destra o sopra il nome dell’argomento |
+| Ridimensionamento immagine | *Personalizzata.* Come l’immagine viene adattata alla casella: *Estendi*, *Adatta*, *Riempi* o *Mantieni angoli* |
+| Numero Massimo Domande | Il numero massimo di domande da giocare, oppure 0 per giocarle tutte |
+| Caselle giocate | Come appare una casella dopo che tutte le sue domande sono state giocate: *Attenuate*, *Nascoste* o *Senza testo* |
+| Selezione Casuale | Se a una casella sono collegate più domande, ne verrà selezionata una a caso. Se l’opzione ‘Selezione Casuale’ non è attiva, le domande collegate alla casella verranno presentate nell’ordine in cui compaiono nel quiz. |
+| Spaziatura righe | Lo spazio tra le righe di caselle |
+| Stessa dimensione del testo per tutte le caselle | Una dimensione del testo per tutti i nomi degli argomenti e una per tutti i valori dei punti, mai superiore alla dimensione del carattere; i nomi di argomento lunghi vanno a capo su due righe. Quando è disattivata, ogni testo riempie la propria casella |
+| Evidenziazione selezione | Come la selezione casuale evidenzia una casella: *Riempi*, *Tinta*, *Contorno* o *Bagliore* |
+| Mostra nome argomento (Caselle Argomento) | *Personalizzata.* Mostra il nome dell’argomento sulla casella; disattivalo quando le immagini degli argomenti contengono già il nome |
+| Colore Testo (Caselle Domanda) | Imposta il colore del testo delle caselle delle domande |
+| Colore Testo (Caselle Argomento) | Imposta il colore del testo delle caselle degli argomenti |
+| Effetto testo | Un’ombra o un contorno attorno al testo delle caselle (*Nessuno*, *Ombra*, *Contorno*) |
+| Immagine casella | *Personalizzata.* Un’immagine per le caselle degli argomenti o delle domande, al posto del colore di sfondo |
+| Immagini argomenti (Caselle Argomento) | *Personalizzata.* Un’immagine diversa per ogni argomento del tabellone |
+| Altezza riga argomenti | L’altezza della riga degli argomenti rispetto a una riga di caselle delle domande |
+| Solo Argomenti | Mostra solo gli argomenti sul tabellone |
+| Varia caselle (Caselle Domanda) | *Personalizzata.* Specchia l’immagine in modo diverso su ogni casella |
 
 ## Proprietà del Trivia Ladder
 

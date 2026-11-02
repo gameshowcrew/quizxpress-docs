@@ -620,7 +620,7 @@ Quando si configura il gioco del Bingo, sono disponibili le seguenti proprietà:
 | Tempo Countdown (sec) | Il tempo in secondi del conto alla rovescia quando si gestisce una richiesta di Bingo sullo schermo. |
 | Abilita Annunciatore Virtuale | Abilita il sintetizzatore vocale di Windows per annunciare le palline o i colori quando si gioca al Bingo Standard o all’Emoji Bingo |
 | Gestione Falso Bingo | Come viene gestito un falso Bingo: *Sullo schermo* (davanti al pubblico) o *Silenzioso* |
-| Limitazione Falso Bingo | Quante volte un giocatore può dichiarare un falso Bingo prima di essere escluso |
+| Limite Falso Bingo sullo Schermo | Il numero massimo di falsi Bingo per schema mostrati sullo schermo prima di passare alla modalità silenziosa. Con 0 non c’è nessun limite. |
 | Modalità Falso Bingo | Che cosa succede quando un giocatore dichiara un falso Bingo |
 | Primo Schema … Quinto Schema | Gli schemi da giocare (in un round si possono giocare fino a 5 schemi diversi) |
 | Modalità di Gioco | Permette di scegliere tra *Trivia Bingo*, *Bingo Standard* (con i numeri, tradizionale) o *Emoji Bingo* |

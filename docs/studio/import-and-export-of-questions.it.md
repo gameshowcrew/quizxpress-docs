@@ -61,7 +61,7 @@ La prima riga è obbligatoria e deve riportare i nomi delle intestazioni indicat
 </tr>
 <tr class="odd">
 <td>BACKGROUND-VIDEO</td>
-<td>Un percorso facoltativo a un video che viene riprodotto dietro la diapositiva (vedere <a href="../backgrounds/">Video di sfondo</a>). Non occupa alcun segnaposto, quindi può essere combinato con immagini (P1-P6) o con un VIDEO. Quando la domanda ha una categoria con un video di sfondo, il video di questa colonna lo sostituisce per tale domanda.</td>
+<td>Un percorso facoltativo a un video che viene riprodotto dietro la diapositiva (vedere <a href="../backgrounds/#video-di-sfondo">Video di sfondo</a>). Non occupa alcun segnaposto, quindi può essere combinato con immagini (P1-P6) o con un VIDEO. Quando la domanda ha una categoria con un video di sfondo, il video di questa colonna lo sostituisce per tale domanda.</td>
 </tr>
 </tbody>
 </table>

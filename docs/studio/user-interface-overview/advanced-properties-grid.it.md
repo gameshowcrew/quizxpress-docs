@@ -369,21 +369,21 @@ Queste proprietà sono mostrate quando si fa clic su una casella della domanda i
 
 Queste proprietà vengono mostrate facendo clic sulla casella di una risposta in una diapositiva
 
-| Proprietà | Descrizione | |
-|---|---|---|
-| Alignment | | L’allineamento del testo della risposta |
-| Correct answer | | Indica se la risposta selezionata è la risposta corretta. Impostare su ‘true’ se la risposta selezionata è quella corretta. |
-| Correctness | | Applicabile alle domande con più risposte corrette, questo valore imposta la correttezza (come percentuale dei punti totali della domanda) della risposta. |
-| Drop shadow | | Indica se sotto il testo della domanda viene applicata un’ombra |
-| Gradient | | Il gradiente di riempimento per lo sfondo della domanda. L’applicabilità di questa proprietà dipende dallo stile utilizzato. |
-| Shadow color | | Il colore dell’ombra esterna |
-| Text | | Il testo della risposta |
-| Text reveal animation | | Come viene rivelato il testo. Show (predefinito: viene mostrato direttamente), Show letter by letter o Show word by word |
-| Text reveal delay (sec) | | Il ritardo dopo il quale il testo viene mostrato |
-| Text reveal speed | | Velocità di rivelazione del testo |
-| Text color | | Il colore del testo della risposta |
-| Text font | | Il carattere del testo della risposta |
-| Transparency | | Trasparenza dello sfondo del pannello della risposta |
+| Proprietà | Descrizione |
+|---|---|
+| Alignment | L’allineamento del testo della risposta |
+| Correct answer | Indica se la risposta selezionata è la risposta corretta. Impostare su ‘true’ se la risposta selezionata è quella corretta. |
+| Correctness | Applicabile alle domande con più risposte corrette, questo valore imposta la correttezza (come percentuale dei punti totali della domanda) della risposta. |
+| Drop shadow | Indica se sotto il testo della domanda viene applicata un’ombra |
+| Gradient | Il gradiente di riempimento per lo sfondo della domanda. L’applicabilità di questa proprietà dipende dallo stile utilizzato. |
+| Shadow color | Il colore dell’ombra esterna |
+| Text | Il testo della risposta |
+| Text reveal animation | Come viene rivelato il testo. Show (predefinito: viene mostrato direttamente), Show letter by letter o Show word by word |
+| Text reveal delay (sec) | Il ritardo dopo il quale il testo viene mostrato |
+| Text reveal speed | Velocità di rivelazione del testo |
+| Text color | Il colore del testo della risposta |
+| Text font | Il carattere del testo della risposta |
+| Transparency | Trasparenza dello sfondo del pannello della risposta |
 
 ## Proprietà delle immagini
 

@@ -2,7 +2,7 @@
 
 In una Domanda di Abbinamento, i giocatori associano etichette di testo a immagini (ad esempio paesi a bandiere o marchi a loghi). Sul buzzer mobile appare così:
 
-| | ![](../../assets/images/image46.webp){ width="159" loading=lazy } | ![](../../assets/images/image47.webp){ width="161" loading=lazy } | ![](../../assets/images/image48.webp){ width="160" loading=lazy } | |
+| ![](../../assets/images/image46.webp){ width="159" loading=lazy } | ![](../../assets/images/image47.webp){ width="161" loading=lazy } | ![](../../assets/images/image48.webp){ width="160" loading=lazy } |
 |--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|--------------------------------------------------------------------------------|
 
 Per creare questo tipo di domanda, selezionare un modello con almeno *tre* segnaposto per immagini e impostare la ‘Tipologia Domanda’ su ‘Domanda di Abbinamento’. Quindi assegnare l'etichetta appropriata a ciascuna immagine:

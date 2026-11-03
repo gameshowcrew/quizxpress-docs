@@ -18,7 +18,7 @@ Questa scheda di Director mostra il lettore multimediale di QuizXpress. Con il l
 
 - Gestire un elenco di file multimediali
 
-- Riprodurre file con un clic dalla [console dei suoni](#la-console-dei-suoni)
+- Riprodurre file con un clic dalla [Sound Board](#la-console-dei-suoni)
 
 Quando si aggiungono file all’elenco, questi vengono in realtà copiati nella cartella locale dei dati dell’applicazione QuizXpress (percorso in Esplora risorse: %AppData%\QuizXpress\Media). In questo modo si evitano problemi se i file originali vengono spostati, eliminati, ecc. Pertanto, se si elimina un file dall’elenco, esso viene eliminato dall’archivio di QuizXpress, ma il file originale resta intatto.
 
@@ -30,13 +30,13 @@ Con molti file multimediali, usare il campo di ricerca sopra l’elenco per trov
 
 ![Elenco multimediale filtrato con il campo di ricerca](../../assets/images/media-player-search.webp){ width="605" loading=lazy }
 
-Mentre si digita nel campo di ricerca, tasti come Spazio, 'C' e 'S' vengono inviati al campo e non attivano le scorciatoie di Director. La ricerca filtra soltanto l’elenco; la console dei suoni conserva tutti i suoi pad.
+Mentre si digita nel campo di ricerca, tasti come Spazio, 'C' e 'S' vengono inviati al campo e non attivano le scorciatoie di Director. La ricerca filtra soltanto l’elenco; la Sound Board conserva tutti i suoi pad.
 
-## La console dei suoni
+## La Sound Board { #la-console-dei-suoni }
 
-Accanto all’elenco, la scheda Media Player dispone di una console dei suoni (sound board): una griglia di pad colorati e luminosi, come i launch pad usati dai DJ. Con un clic su un pad si riproduce il suo audio, video o immagine, così jingle, applausi e musiche di ingresso sono sempre a portata di mano.
+Accanto all’elenco, la scheda Media Player dispone di una Sound Board: una griglia di pad colorati e luminosi, come i launch pad usati dai DJ. Con un clic su un pad si riproduce il suo audio, video o immagine, così jingle, applausi e musiche di ingresso sono sempre a portata di mano.
 
-![Console dei suoni con un pad in riproduzione e un pad in pausa](../../assets/images/media-player-sound-board.webp){ loading=lazy }
+![Sound Board con un pad in riproduzione e un pad in pausa](../../assets/images/media-player-sound-board.webp){ loading=lazy }
 
 - Il pad in riproduzione si illumina e mostra il tempo rimanente e una barra di avanzamento. Un pad in pausa mostra un simbolo di pausa.
 - Fare di nuovo clic su un pad in riproduzione per fermarlo.
@@ -44,23 +44,23 @@ Accanto all’elenco, la scheda Media Player dispone di una console dei suoni (s
 
 Facendo clic su un pad si seleziona anche il suo file nell’elenco, quindi i pulsanti di riproduzione, pausa, stop e riavvolgimento della barra degli strumenti agiscono su quel file.
 
-### Mostrare l’elenco, la console dei suoni o entrambi
+### Mostrare l’elenco, la Sound Board o entrambi { #mostrare-lelenco-la-console-dei-suoni-o-entrambi }
 
-Usare i pulsanti 'List' e 'Sound board' a destra della barra degli strumenti per mostrare l’elenco, la console dei suoni o entrambi affiancati. Almeno uno dei due è sempre visibile. Quando sono mostrati entrambi, trascinare il divisore tra i due per dare più spazio all’uno o all’altro. Director ricorda la scelta effettuata.
+Usare i pulsanti 'List' e 'Sound Board' a destra della barra degli strumenti per mostrare l’elenco, la Sound Board o entrambi affiancati. Almeno uno dei due è sempre visibile. Quando sono mostrati entrambi, trascinare il divisore tra i due per dare più spazio all’uno o all’altro. Director ricorda la scelta effettuata.
 
 ### Collocare i file sui pad
 
-La prima volta che si apre la console dei suoni, viene riempita automaticamente con i file multimediali. Per organizzarla personalmente:
+La prima volta che si apre la Sound Board, viene riempita automaticamente con i file multimediali. Per organizzarla personalmente:
 
 - Trascinare un file dall’elenco su un pad.
 - Trascinare i file direttamente da Esplora risorse di Windows su un pad. Vengono aggiunti all’elenco multimediale (copiati nella cartella multimediale, come con 'Add') e collocati su quel pad. Quando si rilasciano più file, gli altri vanno sui pad vuoti successivi.
 - Trascinare un pad su un altro pad per scambiarli.
 
-Dopo aver modificato personalmente la console, i nuovi file multimediali non vengono più aggiunti automaticamente. Usare 'Fill empty pads with media files' (vedere sotto) per aggiungerli.
+Dopo aver modificato personalmente la Sound Board, i nuovi file multimediali non vengono più aggiunti automaticamente. Usare 'Fill empty pads with media files' (vedere sotto) per aggiungerli.
 
-![Console dei suoni accanto all’elenco, con il menu del pad](../../assets/images/media-player-sound-board-menu.webp){ loading=lazy }
+![Sound Board accanto all’elenco, con il menu del pad](../../assets/images/media-player-sound-board-menu.webp){ loading=lazy }
 
-### Opzioni dei pad e della console
+### Opzioni dei pad e della Sound Board { #opzioni-dei-pad-e-della-console }
 
 Fare clic con il pulsante destro del mouse su un pad per:
 
@@ -70,12 +70,12 @@ Fare clic con il pulsante destro del mouse su un pad per:
 - 'Color': scegliere un colore, oppure 'Automatic' per colorare i pad per colonna.
 - 'Clear pad': rimuovere il file dal pad. Il file resta nell’elenco multimediale.
 
-Lo stesso menu, disponibile anche facendo clic con il pulsante destro sulla console attorno ai pad, offre opzioni per l’intera console:
+Lo stesso menu, disponibile anche facendo clic con il pulsante destro sulla Sound Board attorno ai pad, offre opzioni per l’intera Sound Board:
 
 - 'Grid size': da 3 × 4 fino a 8 × 8 pad. I pad mantengono la loro posizione quando si cambia la dimensione.
 - 'Clicking a playing pad': scegliere se un clic su un pad in riproduzione lo ferma (impostazione predefinita), lo riavvia oppure lo mette in pausa e lo riprende.
-- 'Fill empty pads with media files': colloca sui pad vuoti i file multimediali che non sono ancora sulla console.
-- 'Clear all pads': svuota la console. I file multimediali vengono conservati.
+- 'Fill empty pads with media files': colloca sui pad vuoti i file multimediali che non sono ancora sulla Sound Board.
+- 'Clear all pads': svuota la Sound Board. I file multimediali vengono conservati.
 
 !!! note
-    La console dei suoni è memorizzata su questo computer, accanto alla cartella multimediale (%AppData%\QuizXpress\SoundBoard.xml), quindi sarà ancora presente la prossima volta che si esegue uno show. Quando si elimina un file dall’elenco multimediale, esso viene rimosso anche dai suoi pad.
+    La Sound Board è memorizzata su questo computer, accanto alla cartella multimediale (%AppData%\QuizXpress\SoundBoard.xml), quindi sarà ancora presente la prossima volta che si esegue uno show. Quando si elimina un file dall’elenco multimediale, esso viene rimosso anche dai suoi pad.

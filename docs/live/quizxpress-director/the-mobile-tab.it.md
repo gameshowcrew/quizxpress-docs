@@ -14,7 +14,7 @@ Da qui è possibile:
 
 - **Latency Test: verificare la qualità della connessione di tutti i dispositivi**
 
-- **Pair with Host Remote: mostrare il codice QR da scansionare con l’app Director (telecomando mobile del conduttore del quiz) per aggiungere questo computer all’elenco dei computer controllabili.**
+- **Pair with Host Remote: mostrare il codice QR da scansionare con l’app Director (telecomando mobile del Quizmaster) per aggiungere questo computer all’elenco dei computer controllabili.**
 
 - Settings: aprire la finestra di dialogo delle impostazioni mobili
 
@@ -28,7 +28,7 @@ Il test di latenza viene usato soprattutto in modalità Wi-Fi locale, per verifi
 
 ![](../../assets/images/image456.webp){ loading=lazy }
 
-Quando un dispositivo è molto lento o disconnesso, il grafico diventa rosso e il conduttore del quiz può invitare il giocatore ad avvicinarsi al punto di accesso. Nota: non lasciare il test di latenza in esecuzione durante il quiz, perché il test utilizza banda Wi-Fi e capacità del server.
+Quando un dispositivo è molto lento o disconnesso, il grafico diventa rosso e il Quizmaster può invitare il giocatore ad avvicinarsi al punto di accesso. Nota: non lasciare il test di latenza in esecuzione durante il quiz, perché il test utilizza banda Wi-Fi e capacità del server.
 
 ## Chat istantanea
 
@@ -39,7 +39,7 @@ Dopo aver avviato la chat, i giocatori vedono un pulsante della chat sul proprio
 
 ![](../../assets/images/image458.webp){ width="163" loading=lazy } ![](../../assets/images/image459.webp){ width="166" loading=lazy }
 
-Premendo il pulsante della chat, i giocatori possono inviare messaggi al conduttore del quiz, che sono visibili in una scheda denominata ‘Chat’. Il conduttore del quiz vede tutti i messaggi per utente e può rispondere a ciascun giocatore singolarmente.
+Premendo il pulsante della chat, i giocatori possono inviare messaggi al Quizmaster, che sono visibili in una scheda denominata ‘Chat’. Il Quizmaster vede tutti i messaggi per utente e può rispondere a ciascun giocatore singolarmente.
 
 ![](../../assets/images/image460.webp){ width="416" loading=lazy }
 
@@ -59,9 +59,9 @@ Con l’impostazione ‘Game PIN indicator’ è possibile configurare un indica
 
 ![](../../assets/images/image462.webp){ width="310" loading=lazy }
 
-Sono presenti anche alcune impostazioni per controllare il keypad mobile, ad esempio se debba riprodurre suoni e, per il sito web buzzerpad, un’opzione per impostarlo sul comportamento da keypad semplice, ovvero con la visualizzazione di un keypad a soli 7 pulsanti (modalità legacy). Qui è anche possibile indicare se mostrare le immagini anche sui telefoni cellulari.
+Sono presenti anche alcune impostazioni per controllare la pulsantiera mobile, ad esempio se debba riprodurre suoni e, per il sito web buzzerpad, un’opzione per impostarlo sul comportamento da pulsantiera semplice, ovvero con la visualizzazione di una pulsantiera a soli 7 pulsanti (modalità legacy). Qui è anche possibile indicare se mostrare le immagini anche sui telefoni cellulari.
 
-La sezione QR code display consente di indicare se mostrare un codice QR che rimanda al buzzer web, come indicato in QuizXpress Setup, oppure un link all’app Smart Buzzer negli store di app iOS e Android. Se si mostra l’URL del buzzer web, è possibile specificare parametri aggiuntivi nel campo URL Extension, utili per personalizzare l’aspetto del keypad web. Per maggiori informazioni, consultare [Personalizzare il sito web buzzerpad](../using-mobile-keypads/branding-the-buzzerpad-website.md).
+La sezione QR code display consente di indicare se mostrare un codice QR che rimanda al buzzer web, come indicato in QuizXpress Setup, oppure un link all’app Smart Buzzer negli store di app iOS e Android. Se si mostra l’URL del buzzer web, è possibile specificare parametri aggiuntivi nel campo URL Extension, utili per personalizzare l’aspetto della pulsantiera web. Per maggiori informazioni, consultare [Personalizzare il sito web buzzerpad](../using-mobile-keypads/branding-the-buzzerpad-website.md).
 
 Il cursore Server delay può essere usato per ritardare tutte le azioni inviate ai dispositivi mobili, per ottenere una migliore sincronizzazione con il flusso di trasmissione. Mantenere questo valore a 0 quando non si trasmette in streaming. Ad esempio, se la latenza del flusso YouTube è di circa 3 secondi, è possibile impostare il ritardo a 3 secondi. In questo modo, quando il conto alla rovescia parte nel flusso YouTube dei giocatori, parte anche sul loro dispositivo. Senza il ritardo, il conto alla rovescia sul dispositivo partirebbe 3 secondi prima del timer su YouTube, il che può creare confusione.
 

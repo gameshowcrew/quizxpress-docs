@@ -54,7 +54,7 @@ Con questa sezione è possibile scegliere uno o più fortunati vincitori tra il 
 
 - Stop: ferma immediatamente le luci dei fortunati vincitori; i vincitori sono noti subito.
 
-Il riquadro Winners mostra il o i fortunati vincitori, in modo che il conduttore del quiz possa vedere anche i numeri di keypad dei giocatori che hanno vinto (nota: non coincidono necessariamente con i numeri dei dispositivi Galaxy — i giocatori possono avere un dispositivo Galaxy con un ID diverso).
+Il riquadro Winners mostra il o i fortunati vincitori, in modo che il Quizmaster possa vedere anche i numeri di pulsantiere dei giocatori che hanno vinto (nota: non coincidono necessariamente con i numeri dei dispositivi Galaxy — i giocatori possono avere un dispositivo Galaxy con un ID diverso).
 
 **Reverse Lucky Winner(s)**
 
@@ -78,7 +78,7 @@ L’opzione Reverse Lucky Winner(s) consente di scegliere uno o più vincitori e
 
 - Drop button: elimina il numero di giocatori indicato.
 
-Il riquadro *Remaining* mostra i numeri di keypad ancora in gara per la vittoria.
+Il riquadro *Remaining* mostra i numeri di pulsantiere ancora in gara per la vittoria.
 
 **Lightshow**
 

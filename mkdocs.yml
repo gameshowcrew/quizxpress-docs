@@ -80,6 +80,22 @@ plugins:
             Live: Live
             Advanced: Avanzate
             More: Altro
+            Introduction: Introduzione
+            Installation: Installazione
+            User interface overview: Panoramica dell’interfaccia utente
+            Slide and game formats: Formati di diapositive e giochi
+            Mini games: Moduli Gioco
+            Adding multimedia content: Aggiungere contenuti multimediali
+            Other functionality: Altre funzionalità
+            Using mobile keypads: Utilizzo delle pulsantiere mobili
+            Starting a quiz: Avviare un quiz
+            Scripting: Script
+            AI assistants: Assistenti IA
+            Skinning: Skin Personalizzati
+            Other advanced topics: Altri argomenti avanzati
+            Troubleshooting: Risoluzione dei problemi
+            Hardware installation: Installazione hardware
+            Legal: Note legali
         - locale: es
           name: Español
           build: true

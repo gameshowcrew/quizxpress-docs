@@ -1,4 +1,4 @@
-# Rock Paper Scissors
+# Morra Cinese
 
 Nel Modulo Gioco Rock Paper Scissors, il pubblico gioca contro un avversario virtuale.
 I giocatori scelgono sasso, carta o forbici sul proprio buzzer, sulla propria pulsantiera o sul telefono. La mano del

@@ -1,4 +1,4 @@
-# Card game
+# Card Game
 
 Nel gioco delle carte il pubblico deve sopravvivere a diverse carte prevedendo correttamente la carta successiva (rosso/nero oppure più alta/più bassa) per guadagnare punti.
 

@@ -18,4 +18,4 @@ Con la barra degli strumenti è possibile eseguire le seguenti operazioni:
 
 L’elenco delle domande mostra un’indicazione visiva delle domande già visitate (verde) e della domanda corrente (giallo).
 
-Quando la diapositiva selezionata è una diapositiva di minigioco, è possibile fare doppio clic su quella voce per modificare ‘al volo’ la configurazione memorizzata. Un esempio di utilizzo: un quiz con diversi minigiochi Wheel of Fortune usati per assegnare una serie di premi ai vincitori dei round: una volta assegnato un premio, potrebbe essere opportuno rimuoverlo dalla Wheel of Fortune successiva se si dispone di una sola copia di quel premio.
+Quando la diapositiva selezionata è una diapositiva di Modulo Gioco, è possibile fare doppio clic su quella voce per modificare ‘al volo’ la configurazione memorizzata. Un esempio di utilizzo: un quiz con diversi Moduli Gioco Wheel of Fortune usati per assegnare una serie di premi ai vincitori dei round: una volta assegnato un premio, potrebbe essere opportuno rimuoverlo dalla Wheel of Fortune successiva se si dispone di una sola copia di quel premio.

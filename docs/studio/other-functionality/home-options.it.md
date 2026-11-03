@@ -1,4 +1,4 @@
-# HOME → Options
+# HOME → Opzioni
 
 La finestra di dialogo delle opzioni di QuizXpress Studio si trova in Tools->Options. La finestra ha tre pagine:
 

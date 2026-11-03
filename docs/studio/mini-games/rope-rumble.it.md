@@ -1,4 +1,4 @@
-# Rope Rumble
+# Tiro alla Fune
 
 Rope Rumble è un veloce gioco di tiro alla fune a squadre. I giocatori sono divisi in due squadre, Red e Blue, e competono premendo i propri buzzer per dare potenza al tiratore di fune della propria squadra. Ogni pressione del buzzer aggiunge forza al lato della squadra, creando una sfida emozionante mentre la fune e la bandiera centrale si spostano nell'arena.
 

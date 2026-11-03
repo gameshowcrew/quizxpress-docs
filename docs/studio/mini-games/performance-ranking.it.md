@@ -1,4 +1,4 @@
-# Performance ranking
+# Valutazione Performance
 
 Con il modulo Performance ranking è possibile organizzare gare di talenti e di karaoke. Il pubblico/i giocatori possono valutare l'esibizione di uno degli altri giocatori.
 

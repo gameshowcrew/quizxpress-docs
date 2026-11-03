@@ -1,6 +1,6 @@
 # Controllare il quiz
 
-In diverse fasi di un quiz, il conduttore del quiz deve eseguire (o può scegliere di eseguire) varie azioni, ad esempio:
+In diverse fasi di un quiz, il Quizmaster deve eseguire (o può scegliere di eseguire) varie azioni, ad esempio:
 
 - Mostrare un grafico
 
@@ -10,9 +10,9 @@ In diverse fasi di un quiz, il conduttore del quiz deve eseguire (o può sceglie
 
 - Giudicare le risposte date (corrette/errate)
 
-Queste istruzioni possono essere impartite a QuizXpress Live in diversi modi: tramite la tastiera oppure con un telecomando wireless, come un presentatore wireless per PowerPoint o il telecomando del conduttore del quiz QuizXpress.
+Queste istruzioni possono essere impartite a QuizXpress Live in diversi modi: tramite la tastiera oppure con un telecomando wireless, come un presentatore wireless per PowerPoint o la pulsantiera Master QuizXpress.
 
-Come funzione di apprendimento, dopo ogni domanda possono essere mostrati dei suggerimenti per il conduttore del quiz, da configurare in Quiz Setup. Per saperne di più sui suggerimenti per il conduttore del quiz, consultare [Menu di aiuto del conduttore del quiz](#menu-di-aiuto-del-conduttore-del-quiz).
+Come funzione di apprendimento, dopo ogni domanda possono essere mostrati dei suggerimenti per il Quizmaster, da configurare in Quiz Setup. Per saperne di più sui suggerimenti per il Quizmaster, consultare [Menu di aiuto del Quizmaster](#menu-di-aiuto-del-conduttore-del-quiz).
 
 ## Usare la tastiera
 
@@ -36,11 +36,11 @@ QuizXpress Live può essere utilizzato con la tastiera. Sono disponibili i segue
 </tr>
 <tr class="even">
 <td><p>Schermata di assegnazione dei buzzer: accesso automatico di tutti i buzzer; solo buzzer Reply/QuizXpress.</p>
-<p>Nella schermata del quiz, F1 mostra il menu di aiuto del conduttore del quiz (solo quando il conto alla rovescia è inattivo).</p></td>
+<p>Nella schermata del quiz, F1 mostra il menu di aiuto del Quizmaster (solo quando il conto alla rovescia è inattivo).</p></td>
 <td>F1</td>
 </tr>
 <tr class="odd">
-<td>Schermata di assegnazione dei buzzer: accesso automatico di tutti i buzzer definiti nella stringa dei keypad in Quiz Setup; solo buzzer Reply/QuizXpress</td>
+<td>Schermata di assegnazione dei buzzer: accesso automatico di tutti i buzzer definiti nella stringa delle pulsantiere in Quiz Setup; solo buzzer Reply/QuizXpress</td>
 <td>F2</td>
 </tr>
 <tr class="even">
@@ -122,34 +122,34 @@ QuizXpress Live può essere utilizzato con la tastiera. Sono disponibili i segue
 
 Se si possiede una licenza per l’uso delle app mobili con QuizXpress, è possibile usare l’app Mobile Director per controllare il quiz dal proprio smartphone o tablet. Per maggiori dettagli, consultare [App di telecomando – Mobile Director](using-mobile-keypads/using-the-mobile-apps.md#app-telecomando-mobile-director).
 
-## Usare il telecomando
+## Usare la pulsantiera Master { #usare-il-telecomando }
 
-Il sistema hardware QuizXpress include uno speciale telecomando wireless per il conduttore del quiz, che consente di impartire i comandi più importanti.
+Il sistema hardware QuizXpress include la pulsantiera Master, una speciale pulsantiera wireless per il Quizmaster che consente di impartire i comandi più importanti.
 
-La seguente immagine mostra i comandi disponibili dal telecomando QuizXpress:
+La seguente immagine mostra i comandi disponibili dalla pulsantiera Master:
 
 ![](../assets/images/image437.webp){ width="397" loading=lazy }
 
-*Si noti che la portata del telecomando è diversa da quella dei keypad ed è limitata a circa 10 metri.*
+*Si noti che la portata della pulsantiera Master è diversa da quella delle pulsantiere ed è limitata a circa 10 metri.*
 
 In alternativa, se non si usa l’hardware QuizXpress ma, ad esempio, i buzzer Sony, è possibile usare anche un presentatore generico per PowerPoint — come un presentatore wireless Labtec® 2,4 GHz per notebook, un Logitech R400 o un dispositivo simile — con le seguenti funzioni:
 
 | ![](../assets/images/image438.webp){ loading=lazy } | ![](../assets/images/image439.webp){ width="328" loading=lazy } |
 |------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
-## Menu di aiuto del conduttore del quiz
+## Menu di aiuto del Quizmaster { #menu-di-aiuto-del-conduttore-del-quiz }
 
-Durante lo svolgimento di uno show di quiz in QuizXpress Live sono disponibili più comandi nelle diverse fasi — ad esempio mostrare grafici, passare alla diapositiva successiva, mostrare panoramiche dei punteggi o giudicare le domande. Come visto nelle sezioni precedenti, tutti questi comandi hanno tasti di scelta rapida sulla tastiera e alcuni possono essere comandati anche con un telecomando del conduttore del quiz.
+Durante lo svolgimento di uno show di quiz in QuizXpress Live sono disponibili più comandi nelle diverse fasi — ad esempio mostrare grafici, passare alla diapositiva successiva, mostrare panoramiche dei punteggi o giudicare le domande. Come visto nelle sezioni precedenti, tutti questi comandi hanno tasti di scelta rapida sulla tastiera e alcuni possono essere comandati anche con la pulsantiera Master.
 
-Per guidare gli utenti alle prime armi, durante un quiz possono essere mostrati dei suggerimenti per il conduttore del quiz, che visualizzano tutti i comandi disponibili man mano che diventano applicabili. Quando il conduttore del quiz ha acquisito sicurezza con il sistema, può disattivare questa impostazione in modo che il pubblico non veda più i suggerimenti.
+Per guidare gli utenti alle prime armi, durante un quiz possono essere mostrati dei suggerimenti per il Quizmaster, che visualizzano tutti i comandi disponibili man mano che diventano applicabili. Quando il Quizmaster ha acquisito sicurezza con il sistema, può disattivare questa impostazione in modo che il pubblico non veda più i suggerimenti.
 
-Per impostazione predefinita, i suggerimenti per il conduttore del quiz sono attivati (‘on’) nella scheda ‘Advanced’ dell’applicazione Quiz Setup.
+Per impostazione predefinita, i suggerimenti per il Quizmaster sono attivati (‘on’) nella scheda ‘Advanced’ dell’applicazione Quiz Setup.
 
-Di seguito sono riportati due esempi di suggerimenti per il conduttore del quiz come appaiono in QuizXpress Live durante un quiz.
+Di seguito sono riportati due esempi di suggerimenti per il Quizmaster come appaiono in QuizXpress Live durante un quiz.
 
 ![](../assets/images/image440.webp){ loading=lazy }
 
-Nella schermata dei suggerimenti per il conduttore del quiz qui sopra, mostrata ad esempio al termine di una domanda, vediamo i seguenti pulsanti con i diversi comandi e le relative ‘scorciatoie da tastiera’ facoltative:
+Nella schermata dei suggerimenti per il Quizmaster qui sopra, mostrata ad esempio al termine di una domanda, vediamo i seguenti pulsanti con i diversi comandi e le relative ‘scorciatoie da tastiera’ facoltative:
 
 - **Advance \[Space\]: passare alla diapositiva successiva**
 
@@ -161,7 +161,7 @@ Nella schermata dei suggerimenti per il conduttore del quiz qui sopra, mostrata 
 
 - **Disconnect/Reconnect Base: scollegare/ricollegare la stazione base wireless (ricevitore)**
 
-- **Chart \[C\]: mostrare un grafico di tutte le risposte date (qui disattivato, perché la domanda era di tipo fastest finger)**
+- **Chart \[C\]: mostrare un grafico di tutte le risposte date (qui disattivato, perché la domanda era di tipo Dito più Veloce)**
 
 - **Demographic Chart \[G\]: mostrare le percentuali di risposta per tutti i gruppi (applicabile solo se sono presenti gruppi demografici)**
 

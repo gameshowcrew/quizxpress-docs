@@ -25,6 +25,6 @@ Esistono due modi per aprire la finestra di Director:
 
 Nelle configurazioni con più schermi, Director si apre sullo schermo opposto a quello in cui è in esecuzione lo show di quiz. Quindi, se lo show viene eseguito sul proiettore e il desktop di Windows è stato esteso, Director si aprirà sullo schermo del laptop. È anche possibile impostare esplicitamente lo schermo di destinazione dello show di quiz in Quiz Setup (sezione ‘Screens’).
 
-È sempre possibile chiudere Director se non serve più e tornare a esso in qualsiasi momento con il tasto ‘D’ (nota: se da Director è stato avviato un minigioco, è necessario prima terminare quel gioco, altrimenti se ne perde il controllo).
+È sempre possibile chiudere Director se non serve più e tornare a esso in qualsiasi momento con il tasto ‘D’ (nota: se da Director è stato avviato un Modulo Gioco, è necessario prima terminare quel gioco, altrimenti se ne perde il controllo).
 
 Esiste anche un’app per telefoni cellulari chiamata QuizXpress Director con (quasi) le stesse funzionalità. Consente di controllare il quiz durante lo svolgimento in modo simile al Director per desktop, ma offre la libertà di muoversi e di interagire più liberamente con il pubblico.

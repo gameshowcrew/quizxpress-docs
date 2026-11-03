@@ -8,7 +8,7 @@ Con questa aggiunta, QuizXpress ora supporta:
 
 | **Scenario** |                                                                | **Internet necessario** | **Router Wi-Fi necessario** | **Dispositivo mobile necessario** | **Installazione di un'app mobile necessaria** |
 |--------------|----------------------------------------------------------------|-----------------------|---------------------------|----------------------------|-----------------------------------------|
-| 1            | Keypad wireless basati su RF                                   | No                    | No                        | No                         | No                                      |
+| 1            | Pulsantiere wireless basate su RF                                   | No                    | No                        | No                         | No                                      |
 | 2            | Dispositivi mobili su buzzerpad.com tramite browser web       | Sì                    | No                        | Sì                         | No                                      |
 | 3            | Dispositivo mobile con l'app Smart Buzzer su Wi-Fi locale      | No                    | Sì                        | Sì                         | Sì                                      |
 | 4            | Dispositivo mobile con l'app Smart Buzzer su buzzerpad.com tramite PIN | Sì            | No                        | Sì                         | Sì                                      |
@@ -30,10 +30,10 @@ Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipen
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>1 Keypad RF wireless</strong></td>
+<td><strong>1 Pulsantiere RF wireless</strong></td>
 <td><p>Nessuna dipendenza esterna da internet, Wi-Fi o dispositivi mobili.</p>
 <p>Semplice da usare per i giocatori.</p></td>
-<td>Nessuna capacità di input estesa (solo ABCDEF e fastest finger). Logistica per fornire i keypad ai giocatori e ritirarli al termine.</td>
+<td>Nessuna capacità di input estesa (solo ABCDEF e Dito più Veloce). Logistica per fornire le pulsantiere ai giocatori e ritirarli al termine.</td>
 </tr>
 <tr class="even">
 <td><strong>2 Browser su buzzerpad.com</strong></td>
@@ -57,7 +57,7 @@ Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipen
 </tbody>
 </table>
 
-Il keypad mobile (sia buzzerpad sia l'app Smart Buzzer) offre ottime funzionalità:
+La pulsantiera mobile (sia buzzerpad sia l'app Smart Buzzer) offre ottime funzionalità:
 
 - Le domande sono presentate interamente sul dispositivo mobile, comprese immagini ed effetti.
 
@@ -87,13 +87,13 @@ Oltre alle funzionalità sopra elencate, l'app Smart Buzzer offre alcune funzion
 
 - Punti bonus - il suono del giocatore che ha dato per primo la risposta corretta viene riprodotto quando viene mostrata la schermata dei punti bonus.
 
-- Fastest finger – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
+- Dito più Veloce – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
 
 - Panoramiche dei punteggi intermedi – il suono del giocatore classificato per primo viene riprodotto quando viene mostrata la classifica.
 
 Alcuni esempi di scenari supportati sono:
 
-- Un DJ che presenta un quiz in un pub locale senza copertura 4G. I clienti scaricano l'app una sola volta e si connettono a un router Wi-Fi locale per giocare. Il pub non ha un televisore, quindi il conduttore usa la modalità headless. Il DJ ha personalizzato l'app per adattarla allo stile della propria azienda utilizzando il QuizXpress Branding Designer.
+- Un DJ che presenta un quiz in un pub locale senza copertura 4G. I clienti scaricano l'app una sola volta e si connettono a un router Wi-Fi locale per giocare. Il pub non ha un televisore, quindi il Quizmaster usa la modalità headless. Il DJ ha personalizzato l'app per adattarla allo stile della propria azienda utilizzando il QuizXpress Branding Designer.
 
 - Una grande azienda di eventi che presenta un quiz per un grande gruppo. L'azienda non vuole che il pubblico installi un'app, quindi utilizza buzzerpad.com e un codice PIN per far partecipare le persone. Il quiz è presentato su uno schermo gigante che mostra video, suoni e immagini.
 

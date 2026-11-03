@@ -1,4 +1,4 @@
-# Question
+# Domanda
 
 Questo tipo indica una normale domanda del quiz. Sono possibili le seguenti varianti:
 

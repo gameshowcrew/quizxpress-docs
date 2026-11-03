@@ -28,11 +28,11 @@ Quando è impostata, la schermata del punteggio finale non mostra automaticament
 
 **Use remote control**
 
-Indica se viene utilizzato un telecomando per il conduttore del quiz (per il sistema di buzzer QuizXpress questa opzione è sempre abilitata, poiché il sistema include un telecomando speciale).
+Indica se viene utilizzato un telecomando per il Quizmaster (per il sistema di buzzer QuizXpress questa opzione è sempre abilitata, poiché il sistema include la pulsantiera Master).
 
 **Show correct answer**
 
-Se selezionata (impostazione predefinita), la risposta corretta (indicata da un segno di spunta verde) viene mostrata quando viene valutata una domanda a scelta multipla. Se deselezionata, la risposta corretta non viene mostrata, lasciando che sia il conduttore a comunicarla al pubblico. In alternativa, è possibile usare una forma per sostituire questo comportamento predefinito e indicare personalmente la risposta corretta — ad esempio, mostrando una grande freccia rossa che punta alla risposta giusta.
+Se selezionata (impostazione predefinita), la risposta corretta (indicata da un segno di spunta verde) viene mostrata quando viene valutata una domanda a scelta multipla. Se deselezionata, la risposta corretta non viene mostrata, lasciando che sia il Quizmaster a comunicarla al pubblico. In alternativa, è possibile usare una forma per sostituire questo comportamento predefinito e indicare personalmente la risposta corretta — ad esempio, mostrando una grande freccia rossa che punta alla risposta giusta.
 
 **Randomize Questions**
 
@@ -40,9 +40,9 @@ Se selezionata, le domande di un quiz vengono mostrate in ordine casuale. Quando
 
 ** Show Quizmaster Hints**
 
-Durante l'esecuzione di un game show in QuizXpress Live sono disponibili più comandi nelle diverse fasi — ad esempio, mostrare grafici, passare alla diapositiva successiva, mostrare le panoramiche dei punteggi o giudicare le domande. Tutti questi comandi hanno scorciatoie da tastiera (oppure possono essere azionati con un telecomando per il conduttore del quiz).
+Durante l'esecuzione di un game show in QuizXpress Live sono disponibili più comandi nelle diverse fasi — ad esempio, mostrare grafici, passare alla diapositiva successiva, mostrare le panoramiche dei punteggi o giudicare le domande. Tutti questi comandi hanno scorciatoie da tastiera (oppure possono essere azionati con un telecomando per il Quizmaster).
 
-Per guidare i principianti, durante un quiz possono essere mostrati dei suggerimenti per il conduttore, che visualizzano tutti i comandi disponibili man mano che diventano applicabili. Quando il conduttore del quiz è sicuro nell'uso del sistema, può disattivare questa impostazione (in Quiz Setup) in modo che il pubblico non veda più i suggerimenti. Per impostazione predefinita, i suggerimenti per il conduttore del quiz sono **abilitati**.
+Per guidare i principianti, durante un quiz possono essere mostrati dei suggerimenti per il Quizmaster, che visualizzano tutti i comandi disponibili man mano che diventano applicabili. Quando il Quizmaster è sicuro nell'uso del sistema, può disattivare questa impostazione (in Quiz Setup) in modo che il pubblico non veda più i suggerimenti. Per impostazione predefinita, i suggerimenti per il Quizmaster sono **abilitati**.
 
 **Enable QuizXpress Director**
 
@@ -58,7 +58,7 @@ Quando è abilitata, il sistema disabilita automaticamente i giocatori che non h
 
 **Automatically register all keypads**
 
-Normalmente il pubblico deve registrarsi all'inizio di una sessione. In questo modo il sistema sa quali keypad partecipano e può terminare una domanda una volta ricevute tutte le risposte. Se questo processo di registrazione è scomodo, è possibile impostare questa opzione: il sistema salterà la schermata di registrazione e registrerà tutti i keypad configurati. Ad esempio, se la configurazione dei dispositivi è impostata su ‘1-100’, i keypad da 1 a 100 verranno tutti registrati.
+Normalmente il pubblico deve registrarsi all'inizio di una sessione. In questo modo il sistema sa quali pulsantiere partecipano e può terminare una domanda una volta ricevute tutte le risposte. Se questo processo di registrazione è scomodo, è possibile impostare questa opzione: il sistema salterà la schermata di registrazione e registrerà tutte le pulsantiere configurate. Ad esempio, se la configurazione dei dispositivi è impostata su ‘1-100’, le pulsantiere da 1 a 100 verranno tutte registrate.
 
 **Allow the next in line to answer**
 
@@ -66,7 +66,7 @@ Quando è abilitata, il sistema consente in sequenza a tutti i giocatori che han
 
 **Automatically restart the quiz**
 
-Questa opzione consente di riavviare automaticamente il quiz un certo numero di secondi dopo aver raggiunto la schermata del punteggio finale, permettendo di creare un quiz autonomo che non richiede la presenza di un conduttore del quiz.
+Questa opzione consente di riavviare automaticamente il quiz un certo numero di secondi dopo aver raggiunto la schermata del punteggio finale, permettendo di creare un quiz autonomo che non richiede la presenza di un Quizmaster.
 
 **Highlight the correct answer in the response chart**
 
@@ -82,7 +82,7 @@ Quando si seleziona questa opzione, i giocatori possono modificare la risposta m
 
 **Do not reveal points onscreen during question**
 
-Per impostazione predefinita, il sistema mostra i punti guadagnati o persi per le domande di tipo ‘fastest finger’. Per creare più suspense, è possibile impostare questa opzione in modo che i punti di un giocatore non siano noti fino alla visualizzazione della classifica.
+Per impostazione predefinita, il sistema mostra i punti guadagnati o persi per le domande di tipo ‘Dito più Veloce’. Per creare più suspense, è possibile impostare questa opzione in modo che i punti di un giocatore non siano noti fino alla visualizzazione della classifica.
 
 **Use ‘?’ button on remote to toggle with Microsoft PowerPoint**
 

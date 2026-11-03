@@ -1,6 +1,6 @@
-# La schermata di registrazione di keypad e buzzer
+# La schermata di registrazione di pulsantiere e buzzer
 
-Lo scopo della schermata di registrazione è scoprire quali buzzer/keypad partecipano all'evento quiz. Facendo registrare esplicitamente i partecipanti, il software sa quanti dispositivi sono presenti. Esistono tre diverse «varianti» di schermate di assegnazione dei buzzer:
+Lo scopo della schermata di registrazione è scoprire quali buzzer/pulsantiere partecipano all'evento quiz. Facendo registrare esplicitamente i partecipanti, il software sa quanti dispositivi sono presenti. Esistono tre diverse «varianti» di schermate di assegnazione dei buzzer:
 
 - Schermata Sony Buzzer Assignment
 
@@ -18,9 +18,9 @@ In basso sono presenti due pulsanti: quello a sinistra (la freccia circolare) re
 
 ## Schermata Buzzer Assignment, meno di 100 partecipanti
 
-Ogni keypad Reply/QuizXpress ha un identificativo univoco, utilizzato anche nel software QuizXpress Live per identificare un partecipante (ad esempio, buzzer con ID 1: Squadra 1). Quando partecipano al quiz meno di 100 buzzer (come stabilito dall'impostazione «Keypads» inserita in Quiz Setup), viene mostrata una griglia con tutti gli identificativi dei buzzer.
+Ogni pulsantiera Reply/QuizXpress ha un identificativo univoco, utilizzato anche nel software QuizXpress Live per identificare un partecipante (ad esempio, buzzer con ID 1: Squadra 1). Quando partecipano al quiz meno di 100 buzzer (come stabilito dall'impostazione «Keypads» inserita in Quiz Setup), viene mostrata una griglia con tutti gli identificativi dei buzzer.
 
-Quando viene premuto un tasto del keypad, questo viene registrato come attivo nel sistema QuizXpress Live. Nella griglia compare un segno di spunta in corrispondenza del numero relativo all'ID del buzzer premuto.
+Quando viene premuto un tasto della pulsantiera, questa viene registrata come attiva nel sistema QuizXpress Live. Nella griglia compare un segno di spunta in corrispondenza del numero relativo all'ID del buzzer premuto.
 
 A rigore, non è necessario che i buzzer si registrino esplicitamente. Tuttavia, il software QuizXpress Live deve sapere esattamente quante squadre partecipano, in modo da stabilire quando tutte le squadre hanno risposto a una domanda e interrompere il conto alla rovescia.
 

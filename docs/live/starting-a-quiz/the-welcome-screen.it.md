@@ -18,4 +18,4 @@ Per passare alla schermata successiva (la schermata di registrazione dei buzzer)
 
 !!! note
 
-    Se in basso a destra dello schermo è visibile un'icona lampeggiante di buzzer/keypad, significa che il sistema non ha trovato il ricevitore wireless. In questo caso, verificare che l'hardware sia collegato correttamente e che la configurazione dei buzzer sia impostata correttamente in Quiz Setup.*
+    Se in basso a destra dello schermo è visibile un'icona lampeggiante di buzzer/pulsantiere, significa che il sistema non ha trovato il ricevitore wireless. In questo caso, verificare che l'hardware sia collegato correttamente e che la configurazione dei buzzer sia impostata correttamente in Quiz Setup.*

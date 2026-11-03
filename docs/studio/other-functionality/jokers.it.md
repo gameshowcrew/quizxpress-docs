@@ -1,4 +1,4 @@
-# Jokers
+# Jolly
 
 I giocatori possono usare i Jokers, gettoni che permettono di influenzare l'esito di un quiz! I giocatori possono scegliere di giocare un Joker ogni volta che pensano che darà loro un vantaggio. I Jokers sono disponibili solo quando si gioca con i telefoni cellulari.
 

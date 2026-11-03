@@ -14,7 +14,7 @@ Durante l'installazione di QuizXpress viene installato un insieme di suoni prede
 
 - *Welcome screen music* - la musica riprodotta all'avvio del quiz.
 
-- *Keypad registration screen music* – la musica riprodotta quando viene mostrata la schermata di registrazione dei keypad (questa schermata non viene mostrata per impostazione predefinita quando si usano i telefoni cellulari)
+- *Keypad registration screen music* – la musica riprodotta quando viene mostrata la schermata di registrazione delle pulsantiere (questa schermata non viene mostrata per impostazione predefinita quando si usano i telefoni cellulari)
 
 - *Final score screen music* - la musica riprodotta quando vengono mostrati i punteggi finali.
 
@@ -30,12 +30,12 @@ Durante l'installazione di QuizXpress viene installato un insieme di suoni prede
 
   - Bonus points - il suono del giocatore che è stato il primo a dare la risposta corretta viene riprodotto quando viene mostrata la schermata dei punti bonus.
 
-  - Fastest finger – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
+  - Dito più Veloce – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
 
   - Intermediate score overviews – il suono del giocatore al primo posto viene riprodotto quando si mostra la classifica.
 
-- *Root folder of sound pad jingles (for mobile remote control) – indica una cartella contenente musica o effetti sonori che verranno mostrati nella scheda «Soundboard» dell'app QuizXpress Director. Ciò consente al conduttore del quiz di riprodurre musica o frammenti sonori in qualsiasi momento desiderato.*
+- *Root folder of sound pad jingles (for mobile remote control) – indica una cartella contenente musica o effetti sonori che verranno mostrati nella scheda «Soundboard» dell'app QuizXpress Director. Ciò consente al Quizmaster di riprodurre musica o frammenti sonori in qualsiasi momento desiderato.*
 
-- *Music during ‘Thumbs Up/Thumbs Down’ poll* – dopo che un giocatore è stato il primo a rispondere a una domanda di tipo fastest finger, il conduttore del quiz può chiedere agli altri giocatori se concordano o meno con la risposta data, dando loro la possibilità di vincere (o perdere) anch'essi il 50% dei punti della domanda. Il suono scelto viene riprodotto mentre il sondaggio «Thumbs Up/Thumbs Down» è in corso. Un sondaggio può essere avviato dall'app QuizXpress Director o da Director sul computer.
+- *Music during ‘Thumbs Up/Thumbs Down’ poll* – dopo che un giocatore è stato il primo a rispondere a una domanda di tipo Dito più Veloce, il Quizmaster può chiedere agli altri giocatori se concordano o meno con la risposta data, dando loro la possibilità di vincere (o perdere) anch'essi il 50% dei punti della domanda. Il suono scelto viene riprodotto mentre il sondaggio «Thumbs Up/Thumbs Down» è in corso. Un sondaggio può essere avviato dall'app QuizXpress Director o da Director sul computer.
 
 Ciascuno di questi suoni può essere «cancellato» premendo il pulsante «None»; in tal caso non verrà riprodotto alcun suono.

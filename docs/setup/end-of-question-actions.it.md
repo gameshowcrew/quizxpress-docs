@@ -4,7 +4,7 @@ In questa scheda è possibile definire le azioni che vengono eseguite (e in qual
 
 ![](../assets/images/image345.webp){ width="604" loading=lazy }
 
-Normalmente, se le azioni non vengono sostituite, viene eseguita una sequenza di azioni standard, ad esempio l'evidenziazione della risposta corretta e la visualizzazione delle statistiche nel pannello informativo, ecc. Quando si sostituiscono le azioni standard, le azioni configurate vengono eseguite una alla volta nell'ordine impostato ogni volta che si preme il pulsante OK sul telecomando del conduttore del quiz, si preme la barra spaziatrice in Live o si fa clic sul pulsante ‘Next’ in Director.
+Normalmente, se le azioni non vengono sostituite, viene eseguita una sequenza di azioni standard, ad esempio l'evidenziazione della risposta corretta e la visualizzazione delle statistiche nel pannello informativo, ecc. Quando si sostituiscono le azioni standard, le azioni configurate vengono eseguite una alla volta nell'ordine impostato ogni volta che si preme il pulsante OK sul telecomando del Quizmaster, si preme la barra spaziatrice in Live o si fa clic sul pulsante ‘Next’ in Director.
 
 Sono disponibili le seguenti azioni da configurare:
 

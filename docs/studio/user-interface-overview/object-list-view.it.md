@@ -1,6 +1,6 @@
-# Vista Object List
+# Vista Elenco Oggetti
 
-Il modulo Object List può essere attivato o disattivato nella barra multifunzione View:
+Il modulo Elenco Oggetti può essere attivato o disattivato nella scheda ‘Vista’ della barra multifunzione:
 
 ![](../../assets/images/image19.webp){ width="485" loading=lazy }
 

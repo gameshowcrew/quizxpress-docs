@@ -2,7 +2,7 @@
 
 In uno Speed Round, un giocatore deve rispondere a quante più domande possibile entro un tempo configurabile. Questo giocatore deve essere selezionato manualmente in QuizXpress Director dal Quizmaster.
 
-*Per farlo, andare in QuizXpress Director. Selezionare la squadra che deve giocare lo Speed Round e premere ‘Escludi Altri’. (Ricordarsi di riabilitare gli altri giocatori, o di cambiare l’unico giocatore attivo, a seconda di ciò che si desidera fare, al termine dello Speed Round.)*
+*Per farlo, andare in QuizXpress Director. Selezionare la squadra che deve giocare lo Speed Round e premere ‘Disabilita Altri’. (Ricordarsi di riabilitare gli altri giocatori, o di cambiare l’unico giocatore attivo, a seconda di ciò che si desidera fare, al termine dello Speed Round.)*
 
 ![](../../assets/images/image97.webp){ width="371" loading=lazy }
 

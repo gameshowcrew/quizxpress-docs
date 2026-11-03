@@ -8,6 +8,6 @@ In uno Speed Round, un giocatore deve rispondere a quante più domande possibile
 
 Dopo aver completato una domanda, ne viene presentata una nuova, ma lo stesso timer continua a scorrere. Per aggiungere uno Speed Round al quiz, impostare la prima diapositiva dello Speed Round sul tipo di diapositiva ‘Speed Round’. Il round deve terminare con una diapositiva ‘Fine Round’. Si noti che le diapositive comprese tra l’inizio e la fine del round NON devono essere impostate sul tipo Speed Round. Esistono due modi per giocare uno Speed Round: manualmente o con i buzzer. Quando lo Speed Round è impostato per essere giocato manualmente, il Quizmaster giudica le risposte manualmente (premendo Y per corretta, o N per errata). Quando lo Speed Round è impostato per essere giocato con i buzzer, i giocatori possono usare buzzer/pulsantiere/telefoni per rispondere alle domande.
 
-*L’impostazione manuale/buzzer è la proprietà ‘Speed Round con Buzzer’ nel pannello delle proprietà: se non è spuntata si gioca manualmente, se è spuntata si gioca con i buzzer.*
+*L’impostazione manuale/buzzer è la proprietà ‘Speed Round con Buzzer’ nel pannello delle proprietà, sezione ‘Risposte’: con l’interruttore spento si gioca manualmente, acceso si gioca con i buzzer.*
 
 ![](../../assets/images/image98.webp){ width="284" loading=lazy }

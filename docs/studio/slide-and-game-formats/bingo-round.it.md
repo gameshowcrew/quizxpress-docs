@@ -8,9 +8,9 @@ Selezionando l'elemento delle palline del Bingo nella diapositiva, nella barra m
 
 QuizXpress supporta i seguenti giochi di Bingo:
 
-| | ![](../../assets/images/image100.webp){ width="257" loading=lazy } | ![](../../assets/images/image101.webp){ width="259" loading=lazy } | |
+| ![](../../assets/images/image100.webp){ width="257" loading=lazy } | ![](../../assets/images/image101.webp){ width="259" loading=lazy } |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| | ![](../../assets/images/image102.webp){ width="257" loading=lazy } | ![](../../assets/images/image103.webp){ width="259" loading=lazy } | |
+| ![](../../assets/images/image102.webp){ width="257" loading=lazy }                                                                                       | ![](../../assets/images/image103.webp){ width="259" loading=lazy }                                                                                       |
 
 ## Creare un gioco di Bingo
 
@@ -82,9 +82,9 @@ Durante un round Bingo, sia nel riproduttore dei quiz sia sul telefono cellulare
 
 È possibile creare propri schemi di bingo. Per farlo, scegliere lo schema personalizzato dalla barra multifunzione (ultima voce del selettore degli schemi), dopodiché compare l’editor degli schemi:
 
-| | ![](../../assets/images/image115.webp){ width="203" loading=lazy } | ![](../../assets/images/image116.webp){ width="205" loading=lazy } | |
+| ![](../../assets/images/image115.webp){ width="203" loading=lazy } | ![](../../assets/images/image116.webp){ width="205" loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| | Variante Schema 1 | Variante Schema 2 | |
+| Variante Schema 1                                                            | Variante Schema 2                                                            |
 
 Lo schema si crea facendo clic sulle celle. Uno schema può avere più varianti che danno tutte un bingo valido (in modo analogo, ad esempio, a un Bingo con linea orizzontale, dove ogni linea orizzontale dà un Bingo). Nel riproduttore dei quiz e nell'app mobile le varianti vengono mostrate ai giocatori in un'animazione.
 

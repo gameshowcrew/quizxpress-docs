@@ -1,4 +1,4 @@
-# Formati di diapositive e giochi
+# Format di Gioco supportati
 
 Il sistema supporta diversi format di gioco. I format sono determinati dalla ‘Tipologia Domanda’ selezionata (nella scheda DOMANDA).
 

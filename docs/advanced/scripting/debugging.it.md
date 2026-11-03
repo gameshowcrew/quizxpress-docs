@@ -41,4 +41,4 @@ La visibilità della console è un'opzione. Fare clic con il pulsante destro del
 'Open script console' nello stesso menu apre la console in qualsiasi momento.
 
 !!! tip
-    La console è anche un buon posto per le informazioni destinate al conduttore del quiz. L'esempio [Domande dal web](examples.md#domande-dal-web) scrive nella console la domanda scaricata, con la risposta corretta contrassegnata.
+    La console è anche un buon posto per le informazioni destinate al Quizmaster. L'esempio [Domande dal web](examples.md#domande-dal-web) scrive nella console la domanda scaricata, con la risposta corretta contrassegnata.

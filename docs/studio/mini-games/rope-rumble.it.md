@@ -62,7 +62,7 @@ Determina il modo in cui i giocatori vengono assegnati alle squadre Red e Blue.
 
 - Se attivata, i giocatori vengono divisi in base al Group configurato. Questa opzione è pensata per gli eventi in cui i giocatori sono già stati organizzati in due gruppi.
 
-- Se disattivata, i giocatori vengono divisi in base ai numeri del keypad, con gli ID keypad dispari e pari assegnati a squadre opposte. Questo offre una suddivisione predefinita equilibrata.
+- Se disattivata, i giocatori vengono divisi in base ai numeri della pulsantiera, con gli ID delle pulsantiere dispari e pari assegnati a squadre opposte. Questo offre una suddivisione predefinita equilibrata.
 
 **Background**
 

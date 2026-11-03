@@ -1,6 +1,6 @@
 # Quiz Duel
 
-Quiz Duel è un minigioco di ‘riflessi’ divertente, facile da usare e di ispirazione western. Con grafica divertente ed effetti sonori in stile western, questo gioco darà senz'altro un tocco in più al vostro evento!
+Quiz Duel è un Modulo Gioco di ‘riflessi’ divertente, facile da usare e di ispirazione western. Con grafica divertente ed effetti sonori in stile western, questo gioco darà senz'altro un tocco in più al vostro evento!
 
 ![](../../assets/images/image164.webp){ loading=lazy }
 
@@ -30,4 +30,4 @@ Il gioco offre le seguenti opzioni di configurazione:
 
   - Penalty for missed shots: punti di penalità per i giocatori che sparano senza essere stati selezionati sui cartelli nella modalità Random Duel, o per aver sparato in anticipo in una delle due modalità di duello.
 
-Le schede Text settings e Audio settings permettono di personalizzare il testo e l'audio utilizzati nel minigioco.
+Le schede Text settings e Audio settings permettono di personalizzare il testo e l'audio utilizzati nel Modulo Gioco.

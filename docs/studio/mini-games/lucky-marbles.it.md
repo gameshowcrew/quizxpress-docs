@@ -12,7 +12,7 @@ Il gioco offre le seguenti opzioni di configurazione:
 
 - Number of rounds: quanti round vengono giocati
 
-- Allow players to vote on where to drop the marble: se attivata, il gioco inizia con il pubblico che sceglie dove far cadere la biglia. Il pubblico può continuare a cambiare la propria scelta finché il conduttore del quiz non decide di far cadere la biglia
+- Allow players to vote on where to drop the marble: se attivata, il gioco inizia con il pubblico che sceglie dove far cadere la biglia. Il pubblico può continuare a cambiare la propria scelta finché il Quizmaster non decide di far cadere la biglia
 
 - Random initial spin: quanto ruota la biglia quando cade
 

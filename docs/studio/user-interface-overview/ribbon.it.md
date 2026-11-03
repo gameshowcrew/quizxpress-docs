@@ -18,7 +18,7 @@ La barra multifunzione di QuizXpress Studio è suddivisa in diverse sezioni (sch
 | **Chart**         | Configurare i grafici (mostrata quando si seleziona un grafico su una diapositiva)                                      |
 | **Audio**         | Configurare un frammento audio (mostrata quando si seleziona un audio su una diapositiva)                                  |
 | **Video**         | Impostare le varie proprietà video (mostrata quando si seleziona un video su una diapositiva)                      |
-| **Trivia Board**  | Configurare una diapositiva Trivia Board (scheda contestuale)                                                 |
+| **Trivia Board**  | Configurare una diapositiva Tabellone Trivia (scheda contestuale)                                                 |
 | **Trivia Ladder** | Configurare una diapositiva Trivia Ladder (scheda contestuale)                                                 |
 | **Bingo**         | Configurare le proprietà di un round di Bingo                                                      |
 | **Word Game**     | Configurare le proprietà di un Word Game (scheda contestuale)                                       |

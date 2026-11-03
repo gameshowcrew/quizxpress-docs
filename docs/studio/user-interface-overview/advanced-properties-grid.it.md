@@ -128,7 +128,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="even">
 <td>Auto judge</td>
-<td>Questa impostazione è valida per una domanda a dito più veloce (Voting = no) e a scelta multipla. In questo caso, l’impostazione ‘Auto judge’ indica se una domanda verrà giudicata automaticamente da QuizXpress Live quando su un buzzer/keypad viene premuto un pulsante di scelta multipla (per i buzzer senza scelta multipla l’auto-judge è sempre impostato automaticamente su ‘No’).</td>
+<td>Questa impostazione è valida per una domanda a dito più veloce (Voting = no) e a scelta multipla. In questo caso, l’impostazione ‘Auto judge’ indica se una domanda verrà giudicata automaticamente da QuizXpress Live quando su un buzzer/pulsantiere viene premuto un pulsante di scelta multipla (per i buzzer senza scelta multipla l’auto-judge è sempre impostato automaticamente su ‘No’).</td>
 </tr>
 <tr class="odd">
 <td>Auto advance when media ends</td>
@@ -173,7 +173,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="even">
 <td>Delay before answer</td>
-<td>Tempo in secondi che trascorre prima che vengano mostrate le risposte. Questo dà al conduttore del quiz la possibilità di leggere la domanda ad alta voce prima che compaiano le risposte.</td>
+<td>Tempo in secondi che trascorre prima che vengano mostrate le risposte. Questo dà al Quizmaster la possibilità di leggere la domanda ad alta voce prima che compaiano le risposte.</td>
 </tr>
 <tr class="odd">
 <td>Delay between answers<sup>*</sup></td>
@@ -185,7 +185,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="odd">
 <td>End of round action<sup>*</sup></td>
-<td>Questa proprietà può essere impostata quando il <strong>Type</strong> della diapositiva è ‘End of round’. I valori possibili sono ‘Disable one loser’, nel qual caso il partecipante con meno punti viene eliminato, e ‘Quizmaster selects losers’, nel qual caso il conduttore del quiz può selezionare uno per uno i partecipanti che verranno eliminati.</td>
+<td>Questa proprietà può essere impostata quando il <strong>Type</strong> della diapositiva è ‘End of round’. I valori possibili sono ‘Disable one loser’, nel qual caso il partecipante con meno punti viene eliminato, e ‘Quizmaster selects losers’, nel qual caso il Quizmaster può selezionare uno per uno i partecipanti che verranno eliminati.</td>
 </tr>
 <tr class="even">
 <td>Evaluation mode</td>
@@ -201,7 +201,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="odd">
 <td>Input type</td>
-<td>Per una domanda aperta è possibile scegliere tra ‘default’ (domanda a dito più veloce) oppure una risposta ‘number’, ‘letter’ o ‘text’. Le ultime tre modalità si applicano solo quando si usano telefoni cellulari (poiché keypad e buzzer non offrono input numerico o testuale).</td>
+<td>Per una domanda aperta è possibile scegliere tra ‘default’ (domanda a dito più veloce) oppure una risposta ‘number’, ‘letter’ o ‘text’. Le ultime tre modalità si applicano solo quando si usano telefoni cellulari (poiché pulsantiere e buzzer non offrono input numerico o testuale).</td>
 </tr>
 <tr class="even">
 <td>Language</td>
@@ -225,7 +225,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="odd">
 <td>Notes</td>
-<td>Un testo (suggerimenti) per il conduttore del quiz che verrà incluso nell’esportazione PDF</td>
+<td>Un testo (suggerimenti) per il Quizmaster che verrà incluso nell’esportazione PDF</td>
 </tr>
 <tr class="even">
 <td>Ordered answer mode</td>
@@ -309,7 +309,7 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 </tr>
 <tr class="even">
 <td>Topic<sup>*</sup></td>
-<td>L’argomento della domanda. Viene usato per generare automaticamente un Trivia Board precedente.</td>
+<td>L’argomento della domanda. Viene usato per generare automaticamente un Tabellone Trivia precedente.</td>
 </tr>
 <tr class="odd">
 <td>Transition</td>
@@ -321,15 +321,15 @@ Queste proprietà vengono mostrate facendo clic sullo sfondo di una domanda. Le 
 <ul>
 <li><p><em>Question</em>: la diapositiva è una normale domanda del quiz.</p></li>
 <li><p><em>Billboard</em>: la diapositiva è solo da visualizzare.</p></li>
-<li><p><em>End of round</em>: la diapositiva indica la fine di un round del quiz. Vengono mostrati i punteggi intermedi e il conduttore del quiz ha la possibilità di eliminare le squadre. Vedere anche la proprietà: ‘End of Round’.</p></li>
+<li><p><em>End of round</em>: la diapositiva indica la fine di un round del quiz. Vengono mostrati i punteggi intermedi e il Quizmaster ha la possibilità di eliminare le squadre. Vedere anche la proprietà: ‘End of Round’.</p></li>
 <li><p><em>Test question</em>: diapositiva usata per dimostrare il sistema ai partecipanti. Non vengono aggiunti né sottratti punti.</p></li>
 <li><p><em>Demographic</em>: questa diapositiva serve a suddividere tutti i partecipanti in gruppi in competizione. Vedere anche la proprietà ‘Demographic group’.</p></li>
 <li><p><em>Last Man Standing</em>: la diapositiva è una domanda del quiz. I partecipanti che rispondono in modo errato alla domanda vengono eliminati dal quiz.</p></li>
 <li><p><em>Audience Response</em>: diapositiva per raccogliere semplicemente una risposta dal pubblico senza modificare i punteggi del quiz. I dati delle risposte possono essere mostrati in un grafico.</p></li>
 <li><p><em>Wager</em>: consente al pubblico di puntare una percentuale dei propri punteggi sulla domanda successiva.</p></li>
 <li><p><em>Majority Rules</em>: una diapositiva in cui la risposta corretta dipende da ciò che il pubblico sceglie più spesso</p></li>
-<li><p><em>Minigame</em>: una diapositiva che avvia il minigioco selezionato</p></li>
-<li><p><em>Trivia Board</em>: una diapositiva che avvia un round in cui le domande sono organizzate per Topic/Points e presentate come una griglia</p></li>
+<li><p><em>Minigame</em>: una diapositiva che avvia il Modulo Gioco selezionato</p></li>
+<li><p><em>Tabellone Trivia</em>: una diapositiva che avvia un round in cui le domande sono organizzate per Topic/Points e presentate come una griglia</p></li>
 <li><p><em>Trivia Ladder:</em> avvia un round Trivia Ladder in cui i giocatori salgono di un gradino della scala a ogni risposta corretta</p></li>
 <li><p><em>Speed Round:</em> avvia un round in cui un giocatore deve rispondere al maggior numero possibile di domande in un tempo prestabilito.</p></li>
 <li><p><em>Trivia Bingo:</em> avvia un round di Bingo, costruito dalle diapositive del quiz successive oppure come un tradizionale gioco di Bingo a numeri.</p></li>
@@ -413,7 +413,7 @@ Queste proprietà vengono mostrate facendo clic su un elemento sonoro in una dia
 | Proprietà | Descrizione |
 |---|---|
 | Duration | La durata del suono. Inizialmente viene mostrata la durata completa. |
-| Intro pause | Il tempo di attesa prima che il suono parta. Questo dà al conduttore del quiz la possibilità di leggere prima la domanda. |
+| Intro pause | Il tempo di attesa prima che il suono parta. Questo dà al Quizmaster la possibilità di leggere prima la domanda. |
 | Keep playing | Per impostazione predefinita, la musica inserita in una diapositiva si ferma quando termina il timer del conto alla rovescia. Con questo flag è possibile lasciare la musica in riproduzione fino al passaggio alla diapositiva successiva. |
 | Pitch | L’altezza del suono all’inizio del conto alla rovescia |
 | Remove vocals | Effetto per rimuovere le voci (i risultati possono variare) |
@@ -432,11 +432,11 @@ Queste proprietà vengono mostrate facendo clic su un elemento sonoro in una dia
 | Volume | Il volume al quale riprodurre la musica |
 | Volume fade | Dissolvenza in entrata/uscita all’avvio/arresto della musica |
 
-## Proprietà dei minigiochi
+## Proprietà dei Moduli Gioco { #proprieta-dei-minigiochi }
 
 | Proprietà | Descrizione |
 |---|---|
-| Minigame title | Per impostazione predefinita il buzzer mobile mostra a schermo il nome del minigioco. È possibile sostituirlo e fornire un testo personalizzato. Così, invece di vedere “Horse race”, è possibile mostrare qualcosa di più emozionante. |
+| Minigame title | Per impostazione predefinita il buzzer mobile mostra a schermo il nome del Modulo Gioco. È possibile sostituirlo e fornire un testo personalizzato. Così, invece di vedere “Horse race”, è possibile mostrare qualcosa di più emozionante. |
 
 ## Proprietà dei video
 
@@ -542,7 +542,7 @@ Queste proprietà vengono mostrate facendo clic su un gioco di parole in una dia
 | Letter background fill | Il gradiente di riempimento per lo sfondo delle caselle delle lettere del gioco di parole. È possibile selezionare un colore di gradiente ‘from’ e un colore di gradiente ‘to’, oltre a un tipo di gradiente. |
 | Letter corner radius | Raggio degli angoli del gioco di parole |
 | Letter spacing | Spazio tra le lettere del gioco di parole |
-| Manual control | Indica se le lettere vengono rivelate automaticamente o se vengono rivelate manualmente dal conduttore del quiz da QuizXpress Director |
+| Manual control | Indica se le lettere vengono rivelate automaticamente o se vengono rivelate manualmente dal Quizmaster da QuizXpress Director |
 | Padding | Spaziatura interna attorno alle lettere della griglia |
 | Reverse | Per un gioco a ruota di lettere (word wheel), inverte la direzione delle lettere |
 | Shadow color | Colore dell’ombra esterna delle lettere |
@@ -553,9 +553,9 @@ Queste proprietà vengono mostrate facendo clic su un gioco di parole in una dia
 | Text color | Il colore del testo |
 | Text transparency | La trasparenza del testo |
 
-## Proprietà del Trivia Board
+## Proprietà del Tabellone Trivia { #proprieta-del-trivia-board }
 
-Queste proprietà vengono mostrate quando è selezionato un trivia board. Le proprietà contrassegnate con *Custom* vengono mostrate solo quando 'Board position' è Custom; vedere [Progettare il proprio tabellone](../slide-and-game-formats/trivia-board-round.md#progettare-il-proprio-tabellone).
+Queste proprietà vengono mostrate quando è selezionato un Tabellone Trivia. Le proprietà contrassegnate con *Custom* vengono mostrate solo quando 'Board position' è Custom; vedere [Progettare il proprio tabellone](../slide-and-game-formats/trivia-board-round.md#progettare-il-proprio-tabellone).
 
 | Proprietà | Descrizione |
 |---|---|
@@ -600,7 +600,7 @@ Queste proprietà vengono mostrate quando è selezionata una diapositiva Trivia 
 | Background stretch mode | Modalità di adattamento dell’immagine di sfondo |
 | Border color | Imposta il colore del bordo della trivia ladder |
 | Display mode | Dove mostrare la scala sullo schermo: scorrevole da destra, scorrevole al centro dello schermo, a schermo intero, oppure sempre visibile (sul lato destro dello schermo). |
-| Keypads color | Imposta il colore dei keypad |
+| Keypads color | Imposta il colore delle pulsantiere |
 | Safety net color | Imposta il colore dei gradini della rete di sicurezza |
 | Separator color | Imposta il colore dei separatori |
 | Show border | Mostra il bordo della trivia ladder |
@@ -613,7 +613,7 @@ Quando si configura il gioco del Bingo, sono disponibili le seguenti proprietà:
 
 | Proprietà | Descrizione |
 |---|---|
-| Auto advance after claim | Quando una richiesta viene gestita sullo schermo e questa opzione è abilitata, il gioco prosegue automaticamente dopo la richiesta. In caso contrario, il gioco attende che il conduttore prema Next. |
+| Auto advance after claim | Quando una richiesta viene gestita sullo schermo e questa opzione è abilitata, il gioco prosegue automaticamente dopo la richiesta. In caso contrario, il gioco attende che il Quizmaster prema Next. |
 | Blanks per row | Il numero di celle vuote per riga sulla cartella del bingo. Può servire ad accelerare il gioco |
 | Center Image | L’immagine centrale (bonus) che compare sulla cartella del Bingo mobile |
 | Claims mode | Indica se viene gestito solo il primo giocatore che dichiara bingo o tutti i giocatori |
@@ -687,24 +687,24 @@ Quando si configura una diapositiva Trivia Feud, sono disponibili le seguenti pr
 </tr>
 <tr class="odd">
 <td>Game mode</td>
-<td>Manual, Fastest Finger, Multiplayer</td>
+<td>Manual, Dito più Veloce, Multiplayer</td>
 </tr>
 <tr class="even">
 <td>Hide survey question</td>
-<td>Nasconde la domanda del sondaggio (il conduttore del quiz preferisce leggerla ad alta voce)</td>
+<td>Nasconde la domanda del sondaggio (il Quizmaster preferisce leggerla ad alta voce)</td>
 </tr>
 <tr class="odd">
 <td>Max correct answers</td>
-<td>Il numero massimo di risposte corrette che un giocatore può dare (solo fastest finger).</td>
+<td>Il numero massimo di risposte corrette che un giocatore può dare (solo Dito più Veloce).</td>
 </tr>
 <tr class="even">
 <td>Max incorrect answers</td>
-<td><p>Il numero massimo di risposte errate che un giocatore può dare prima che il conto alla rovescia riprenda (modalità fastest finger)</p>
+<td><p>Il numero massimo di risposte errate che un giocatore può dare prima che il conto alla rovescia riprenda (modalità Dito più Veloce)</p>
 <p>Il numero massimo di risposte errate prima che il turno passi all’altra squadra (modalità manual)</p></td>
 </tr>
 <tr class="odd">
 <td>Penalty points</td>
-<td>Il numero di punti di penalità quando una risposta data è errata (modalità fastest finger)</td>
+<td>Il numero di punti di penalità quando una risposta data è errata (modalità Dito più Veloce)</td>
 </tr>
 <tr class="even">
 <td>Points multiplier</td>
@@ -716,11 +716,11 @@ Quando si configura una diapositiva Trivia Feud, sono disponibili le seguenti pr
 </tr>
 <tr class="even">
 <td>Reveal delay (ms)</td>
-<td>Il ritardo in millisecondi tra la rivelazione di una risposta del sondaggio e l’altra. Consente al conduttore di leggere le risposte una per una mentre vengono mostrate.</td>
+<td>Il ritardo in millisecondi tra la rivelazione di una risposta del sondaggio e l’altra. Consente al Quizmaster di leggere le risposte una per una mentre vengono mostrate.</td>
 </tr>
 <tr class="odd">
 <td>Wrong answer mode</td>
-<td>Quando un giocatore ha dato il numero di risposte errate definito in ‘max incorrect answers’, questa modalità indica se il giocatore viene escluso per questa domanda o può premere di nuovo il buzzer (continuare) (modalità fastest finger)</td>
+<td>Quando un giocatore ha dato il numero di risposte errate definito in ‘max incorrect answers’, questa modalità indica se il giocatore viene escluso per questa domanda o può premere di nuovo il buzzer (continuare) (modalità Dito più Veloce)</td>
 </tr>
 </tbody>
 </table>

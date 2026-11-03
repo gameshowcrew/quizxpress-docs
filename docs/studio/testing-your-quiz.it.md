@@ -12,7 +12,7 @@ Come si può vedere, qui sono disponibili tre opzioni per avviare il player del 
 
 **Run Production: avvia il quiz in modalità produzione. In questa modalità le Test Options vengono ignorate e si usano le impostazioni dello schermo, ecc. configurate globalmente in Quiz Setup. Usare sempre questa modalità quando si presenta il quiz a un pubblico dal vivo.**
 
-In modalità test è possibile risparmiare tempo saltando la schermata di benvenuto e il video del conto alla rovescia con la casella Quickstart. E se non si desidera condurre il quiz di persona, si può usare Simulate Keypads per eseguire automaticamente l’intero quiz, come se ci fossero un pubblico e un conduttore del quiz. Basta mettersi comodi e verificare che ogni diapositiva del quiz si comporti e appaia come previsto.
+In modalità test è possibile risparmiare tempo saltando la schermata di benvenuto e il video del conto alla rovescia con la casella Quickstart. E se non si desidera condurre il quiz di persona, si può usare Simulate Keypads per eseguire automaticamente l’intero quiz, come se ci fossero un pubblico e un Quizmaster. Basta mettersi comodi e verificare che ogni diapositiva del quiz si comporti e appaia come previsto.
 
 !!! note
 

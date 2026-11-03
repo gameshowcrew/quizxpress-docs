@@ -8,7 +8,7 @@ Quando si estraggono dei giocatori, è anche possibile far vincere loro un deter
 
 È possibile specificare quanti elementi estrarre per ogni esecuzione, nonché il numero di esecuzioni che il Randomizer effettuerà. Quando si esegue più di una volta, è possibile scegliere di escludere gli elementi già estratti. È anche possibile mostrare sullo schermo un elenco degli elementi estratti in precedenza.
 
-Quando è in esecuzione, il Randomizer mostra prima un'animazione (sono disponibili due stili configurabili) di tutti i nomi delle squadre, poi estrae e presenta i risultati al comando del conduttore del quiz (barra spaziatrice, oppure tramite il telecomando del conduttore del quiz). Sono disponibili le seguenti opzioni di configurazione:
+Quando è in esecuzione, il Randomizer mostra prima un'animazione (sono disponibili due stili configurabili) di tutti i nomi delle squadre, poi estrae e presenta i risultati al comando del Quizmaster (barra spaziatrice, oppure tramite la pulsantiera Master). Sono disponibili le seguenti opzioni di configurazione:
 
 Per l'animazione, è possibile scegliere tra una griglia colorata statica o un'animazione di nomi di squadre fluttuanti:
 

@@ -20,7 +20,7 @@ Naturalmente può verificarsi un pareggio nella votazione, quando due o più ris
 
 - Randomize, il sistema sceglie casualmente il percorso di una delle risposte più votate
 
-- Prompt, viene mostrata al conduttore (sullo schermo principale) una richiesta di effettuare una scelta
+- Prompt, viene mostrata al Quizmaster (sullo schermo principale) una richiesta di effettuare una scelta
 
 Anche ogni diapositiva ha una propria proprietà "Next slide" che definisce la diapositiva successiva che il sistema presenterà. Se lasciata vuota, viene seguito il flusso predefinito (si passa alla diapositiva successiva in sequenza).
 

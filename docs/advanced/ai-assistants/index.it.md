@@ -2,7 +2,7 @@
 
 Quiz Studio può essere controllato da un assistente IA come [Claude](https://claude.ai). Si dice all'assistente quale quiz si desidera ("crea un round di quiz da pub sugli anni '90 con 10 domande a risposta multipla e un round di immagini"), ed esso apre, costruisce, modifica e salva il quiz nella finestra di Quiz Studio mentre si osserva. Tutto ciò che fa avviene nel Quiz Studio aperto, quindi è possibile esaminare il risultato, modificarlo personalmente e proseguire.
 
-Questo è diverso dall'[AI Quiz Generator](../../studio/quizxpress-and-ai.md), una parte di Studio che genera domande per l'utente. Con un assistente IA si lavora in una conversazione, e l'assistente può fare quasi tutto ciò che si può fare in Studio: creare ogni tipo di diapositiva, modificare testi, risposte, punti, stili e sfondi, aggiungere minigiochi, controllare gli errori del quiz e salvarlo.
+Questo è diverso dall'[AI Quiz Generator](../../studio/quizxpress-and-ai.md), una parte di Studio che genera domande per l'utente. Con un assistente IA si lavora in una conversazione, e l'assistente può fare quasi tutto ciò che si può fare in Studio: creare ogni tipo di diapositiva, modificare testi, risposte, punti, stili e sfondi, aggiungere Moduli Gioco, controllare gli errori del quiz e salvarlo.
 
 ## Come funziona
 

@@ -14,7 +14,7 @@ Impostazione che indica come debba comportarsi il conto alla rovescia per questa
 
 **Lock-out mode for fastest finger question**
 
-Normalmente un giocatore che fornisce una risposta errata viene escluso dalla domanda. Con questa impostazione è possibile modificare tale comportamento in modo che i giocatori possano riprovare con una risposta diversa. Disponibile solo se la diapositiva è di tipo fastest finger.
+Normalmente un giocatore che fornisce una risposta errata viene escluso dalla domanda. Con questa impostazione è possibile modificare tale comportamento in modo che i giocatori possano riprovare con una risposta diversa. Disponibile solo se la diapositiva è di tipo Dito più Veloce.
 
 **Shuffle mode**
 

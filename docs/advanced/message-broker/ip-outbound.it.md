@@ -20,7 +20,7 @@ Attivarlo nella scheda 'IP Outbound' delle [impostazioni di Message Broker](inde
 :   Invia un messaggio heartbeat ogni secondo, in modo che il lato ricevente possa capire che il lettore del quiz è ancora in esecuzione. Usarlo per rilevare una connessione caduta inaspettatamente; una sessione normale inizia sempre con `/start` e termina con `/close`.
 
 **Send input from keypads/buzzers**
-:   Inoltra ogni pressione di tastierino e buzzer. È facoltativo perché può produrre molti messaggi.
+:   Inoltra ogni pressione di pulsantiera e buzzer. È facoltativo perché può produrre molti messaggi.
 
 **Send score changes**
 :   Invia un messaggio ogni volta che cambia il punteggio di un giocatore, ad esempio per pilotare tabelle punteggi esterne.
@@ -38,7 +38,7 @@ Attivarlo nella scheda 'IP Outbound' delle [impostazioni di Message Broker](inde
 :   Invia tutte le squadre in ordine di classifica dopo le variazioni di punteggio. Vedere [Dettagli della diapositiva e classifica](#dettagli-della-diapositiva-e-classifica).
 
 **Send text answers as /textvote**
-:   Le risposte testuali dai tastierini (numeri, lettere, testo libero) vengono inviate come `/textvote` invece di `/buzz`, in modo che l'applicazione possa distinguerle dalla pressione dei pulsanti. Quando è disattivata, entrambe vengono inviate come `/buzz`, come nelle versioni precedenti. Richiede 'Send input from keypads/buzzers'.
+:   Le risposte testuali dalle pulsantiere (numeri, lettere, testo libero) vengono inviate come `/textvote` invece di `/buzz`, in modo che l'applicazione possa distinguerle dalla pressione dei pulsanti. Quando è disattivata, entrambe vengono inviate come `/buzz`, come nelle versioni precedenti. Richiede 'Send input from keypads/buzzers'.
 
 **Protocol**
 :   - **UDP/ASCII:** testo ASCII semplice, parametri separati da spazi.
@@ -68,10 +68,10 @@ Il lato ricevente apre un socket UDP. I messaggi sono stringhe di testo semplice
 | `/heartbeat {counter}` | Inviato ogni secondo con un contatore crescente, ad esempio `/heartbeat 2345`. |
 | `/countdowntick {remainingtimeMs}` | Inviato ogni secondo mentre il conto alla rovescia è in corso, con il tempo rimanente in millisecondi, ad esempio `/countdowntick 23100`. |
 | `/slidechanged {old#} {new#} {questiontype} {slide class} {slide id}` | Viene mostrata una nuova diapositiva. La classe e l'id sono facoltativi e si impostano nei metadati della diapositiva in Studio, così è possibile reagire a una classe o a un id invece che a un numero di diapositiva che cambia quando le diapositive vengono riordinate. Esempio: `/slidechanged 6 7 question MySpecialSlideType banner1`. Con 'Number slides from 1', `0` come vecchio numero significa che non c'era una diapositiva precedente. |
-| `/command {command}` | Un comando dal telecomando del conduttore del quiz: `power`, `scores`, `chart`, `leaderboard`, `groupchart`, `up`, `down`, `pause`, `questionmark`, `next`, `wrong` o `right`. Esempio: `/command up`. |
-| `/buzz {device} {key}` | La pressione di un tasto su un dispositivo, ad esempio `/buzz 10 A`, o `/buzz 8 RED` per il pulsante fastest finger. Anche le risposte testuali vengono inviate come `/buzz`, a meno che 'Send text answers as /textvote' sia attivo. |
+| `/command {command}` | Un comando dalla pulsantiera Master: `power`, `scores`, `chart`, `leaderboard`, `groupchart`, `up`, `down`, `pause`, `questionmark`, `next`, `wrong` o `right`. Esempio: `/command up`. |
+| `/buzz {device} {key}` | La pressione di un tasto su un dispositivo, ad esempio `/buzz 10 A`, o `/buzz 8 RED` per il pulsante Dito più Veloce. Anche le risposte testuali vengono inviate come `/buzz`, a meno che 'Send text answers as /textvote' sia attivo. |
 | `/textvote {device} {text}` | Una risposta testuale da un dispositivo, ad esempio `/textvote 8 Paris`. Solo con 'Send text answers as /textvote'. |
-| `/fastestfinger {device}` | Il dispositivo che è stato il primo in una domanda fastest finger. |
+| `/fastestfinger {device}` | Il dispositivo che è stato il primo in una domanda Dito più Veloce. |
 | `/screenchanged {screentype}` | Il lettore del quiz ha cambiato schermata: `welcomescreen`, `signonscreen`, `countdownscreen`, `quizscreen` o `finalscorescreen`. Esempio: `/screenchanged countdownscreen`. |
 | `/timeout` | La domanda è scaduta senza una risposta corretta. |
 | `/startcountdown` | Il conto alla rovescia della domanda è partito. |

@@ -14,7 +14,7 @@ Opzioni di configurazione disponibili:
 
   - Number of seconds. I punti vengono assegnati in base al numero di secondi dopo i quali un giocatore ha premuto. Più il giocatore è vicino, più punti vince.
 
-  - Custom. Il conduttore del quiz può configurare quali punti vengono assegnati per quali intervalli di tempo.
+  - Custom. Il Quizmaster può configurare quali punti vengono assegnati per quali intervalli di tempo.
 
   - Match Mode. I giocatori vengono classificati in base alla vicinanza al tempo obiettivo. Più alta è la posizione di un giocatore, più punti ottiene.
 
@@ -24,7 +24,7 @@ Opzioni di configurazione disponibili:
 
 - Background video: imposta il video di sfondo del gioco.
 
-- Il conduttore del quiz può scegliere di usare solo l'immagine, solo il video oppure entrambi: l'immagine (prima del conteggio) e il video (dopo il conteggio)
+- Il Quizmaster può scegliere di usare solo l'immagine, solo il video oppure entrambi: l'immagine (prima del conteggio) e il video (dopo il conteggio)
 
 - Voting music imposta la musica riprodotta durante il voto.
 

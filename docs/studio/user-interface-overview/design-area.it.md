@@ -35,6 +35,6 @@ Per inserire una nuova diapositiva, andare al menu INSERT e scegliere uno dei la
 
 ![](../../assets/images/image13.webp){ loading=lazy }
 
-Scegliendo i layout nella riga inferiore è possibile inserire rispettivamente un minigioco, un Trivia Board, un Trivia Ladder, un gioco Trivia Feud o un round di Bingo.
+Scegliendo i layout nella riga inferiore è possibile inserire rispettivamente un Modulo Gioco, un Tabellone Trivia, un Trivia Ladder, un gioco Trivia Feud o un round di Bingo.
 
 È anche possibile cambiare il layout di una diapositiva esistente dal menu DESIGN facendo clic sulla freccia dell’elenco a discesa nella sezione ‘Change Layout’. Compare lo stesso elenco a discesa mostrato sopra, che consente di scegliere un nuovo layout. Gli elementi del layout attuale che si adattano al nuovo layout verranno copiati. Ad esempio, passando da un layout con una domanda, un’immagine e tre risposte a un layout con una domanda, un’immagine e quattro risposte, l’immagine, la domanda e le tre risposte verranno tutte copiate nel nuovo layout.

@@ -1,6 +1,6 @@
 # Manuale d'uso di QuizXpress 8.6
 
-Questo è il manuale d'uso di QuizXpress 8.6, una suite software professionale per creare quiz accattivanti e personalizzati con il proprio marchio, da giocare dal vivo con gruppi (anche numerosi) di persone tramite tastierini wireless, buzzer o dispositivi mobili. Il software può essere utilizzato per molteplici scopi, tra cui:
+Questo è il manuale d'uso di QuizXpress 8.6, una suite software professionale per creare quiz accattivanti e personalizzati con il proprio marchio, da giocare dal vivo con gruppi (anche numerosi) di persone tramite pulsantiere wireless, buzzer o dispositivi mobili. Il software può essere utilizzato per molteplici scopi, tra cui:
 
 - Feste aziendali ed eventi aziendali
 
@@ -34,13 +34,13 @@ Come si vedrà in questo manuale, il software è facile da usare, ha un'interfac
 
 - Gameplay avanzato: QuizXpress supporta molte modalità diverse per le domande, come dito più veloce, ultimo in piedi, domande aperte, domande con risposta del pubblico, domande con puntata, domande a maggioranza, ecc. QuizXpress supporta inoltre la possibilità di dividere il pubblico dal vivo in gruppi demografici in competizione, rendendo il gioco ancora più interessante per il pubblico.
 
-- Supporto per un'ampia gamma di dispositivi hardware wireless, come diversi tipi di tastierini e buzzer, dispositivi mobili, tabelle punteggi e dispositivi LED RGB (ad esempio braccialetti indossabili che forniscono un feedback durante il quiz).
+- Supporto per un'ampia gamma di dispositivi hardware wireless, come diversi tipi di pulsantiere e buzzer, dispositivi mobili, tabelle punteggi e dispositivi LED RGB (ad esempio braccialetti indossabili che forniscono un feedback durante il quiz).
 
-- Un insieme unico di minigiochi/moduli da mescolare ai contenuti del quiz per costruire una serata game show divertente per il pubblico.
+- Un insieme unico di Moduli Gioco/moduli da mescolare ai contenuti del quiz per costruire una serata game show divertente per il pubblico.
 
 - Supporto per il Bingo Trivia, Number ed Emoji (disponibile come modulo opzionale) tramite l'app mobile o l'app per browser QuizXpress Smart Buzzer.
 
-- App mobili gratuite per dispositivi iOS e Android, che consentono tipi di domanda più avanzati con risposte numeriche, a prima lettera o a testo completo, oltre a un tastierino mobile basato sul web per quando installare un'app non è possibile o desiderato.
+- App mobili gratuite per dispositivi iOS e Android, che consentono tipi di domanda più avanzati con risposte numeriche, a prima lettera o a testo completo, oltre a una pulsantiera mobile basata sul web per quando installare un'app non è possibile o desiderato.
 
 - L'app web buzzer di QuizXpress disponibile su [www.buzzerpad.com](http://www.buzzerpad.com) e [www.buzzerpad.eu](http://www.buzzerpad.eu).
 
@@ -48,7 +48,7 @@ Il software è composto dalle seguenti parti:
 
 - *QuizXpress Studio*, il software che aiuta a progettare i quiz in un'interfaccia utente intuitiva
 
-- *QuizXpress Live*, il software che esegue il game show ‘dal vivo’ e si collega ai buzzer/tastierini
+- *QuizXpress Live*, il software che esegue il game show ‘dal vivo’ e si collega ai buzzer/pulsantiere
 
 - *QuizXpress Setup*, il software utilizzato per configurare varie opzioni del game show
 
@@ -58,8 +58,8 @@ Il software è composto dalle seguenti parti:
 
 - *QuizXpress Analyzer,* il software utilizzato per analizzare e visualizzare i dati utili raccolti durante un quiz.
 
-- *Smart Buzzer,* il tastierino mobile, disponibile come app per Android e iOS o eseguibile dal sito web buzzerpad.
+- *Smart Buzzer,* la pulsantiera mobile, disponibile come app per Android e iOS o eseguibile dal sito web buzzerpad.
 
-- *Minigame Launcher,* l'app che consente di eseguire in modalità autonoma qualsiasi minigioco supportato.
+- *Minigame Launcher,* l'app che consente di eseguire in modalità autonoma qualsiasi Modulo Gioco supportato.
 
 Prima di entrare nei dettagli, desideriamo segnalare il nostro canale YouTube, dove si trovano numerosi video didattici su vari argomenti. Iscriversi subito su <https://www.youtube.com/@GameShowCrew>

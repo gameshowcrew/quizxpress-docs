@@ -16,7 +16,7 @@ Procedere come segue per installare i buzzer Fleetwood Reply e configurare QuizX
 
 7.  Nella pagina della scheda ‘Buzzers’ di Quiz Setup, selezionare Fleetwood Reply CRS 940/941.
 
-8.  Scegliere ora il canale che il ricevitore Reply usa per ascoltare i tastierini Reply (buzzer). Per selezionare il canale corretto, guardare sul retro di uno dei tastierini che verranno utilizzati — il canale su cui opera è indicato lì (nota: tutti i buzzer utilizzati devono operare su questo canale).
+8.  Scegliere ora il canale che il ricevitore Reply usa per ascoltare le pulsantiere Reply (buzzer). Per selezionare il canale corretto, guardare sul retro di una delle pulsantiere che verranno utilizzate — il canale su cui opera è indicato lì (nota: tutti i buzzer utilizzati devono operare su questo canale).
 
 9.  Chiudere ora Quiz Setup e avviare QuizXpress Buzzer Test, che si trova nel menu Start sotto QuizXpress. Premendo uno dei buzzer, la casella numerata corrispondente dovrebbe illuminarsi sullo schermo e mostrare la risposta scelta.
 

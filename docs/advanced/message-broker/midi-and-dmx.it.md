@@ -22,28 +22,28 @@ Fare clic sul pulsante 'Add' di sinistra e scegliere il tipo di trigger:
 
 ![Aggiunta di un trigger](../../assets/images/mb-midi-add-trigger.webp){ width="300" loading=lazy }
 
-Alcuni trigger hanno un parametro facoltativo che restringe il momento in cui scattano. In questo esempio, il trigger scatta solo quando il buzzer 2 vince una domanda fastest finger:
+Alcuni trigger hanno un parametro facoltativo che restringe il momento in cui scattano. In questo esempio, il trigger scatta solo quando il buzzer 2 vince una domanda Dito più Veloce:
 
-![Un trigger Fastest Finger filtrato sul buzzer 2](../../assets/images/mb-midi-trigger-fastest-finger.webp){ width="300" loading=lazy }
+![Un trigger Dito più Veloce filtrato sul buzzer 2](../../assets/images/mb-midi-trigger-fastest-finger.webp){ width="300" loading=lazy }
 
 ### Trigger disponibili
 
 | Trigger | Scatta quando… |
 |---|---|
 | Timeout | La domanda corrente scade, ad esempio perché nessuno ha risposto in tempo. |
-| Correct Answer | Il conduttore del quiz giudica corretta una risposta. |
-| Incorrect Answer | Il conduttore del quiz giudica errata una risposta. |
+| Correct Answer | Il Quizmaster giudica corretta una risposta. |
+| Incorrect Answer | Il Quizmaster giudica errata una risposta. |
 | Answer Revealed | La risposta corretta viene mostrata sulla diapositiva. Su una diapositiva Trivia Feud, ogni risposta che viene girata sul tabellone. |
 | Start Countdown | Il conto alla rovescia parte. |
 | End Countdown | Il conto alla rovescia termina. |
-| Pause Countdown | Il conduttore del quiz mette in pausa il conto alla rovescia. |
+| Pause Countdown | Il Quizmaster mette in pausa il conto alla rovescia. |
 | Countdown Tick | Il conto alla rovescia avanza. È possibile filtrare in base al numero di secondi rimasti. |
 | Restart | Il quiz riparte e torna alla schermata di benvenuto. |
-| Fastest Finger | Un giocatore è il primo a rispondere a una domanda fastest finger. È possibile filtrare in base al numero del dispositivo (tastierino o buzzer). |
+| Dito più Veloce | Un giocatore è il primo a rispondere a una domanda Dito più Veloce. È possibile filtrare in base al numero del dispositivo (pulsantiera o buzzer). |
 | Screen Changed | La schermata cambia, ad esempio schermata di benvenuto → schermata di accesso dei buzzer → schermata del quiz → schermata dei punteggi. È possibile filtrare in base al tipo di schermata. |
 | Slide Changed | Il quiz passa a un'altra diapositiva. È possibile filtrare in base al numero della diapositiva di partenza/arrivo o alla classe della diapositiva. I numeri delle diapositive iniziano da 0 (la prima diapositiva è 0), a meno che 'Number slides from 1' sia selezionato nella scheda [IP Outbound](ip-outbound.md#impostazioni). |
-| Remote Command | Arriva un comando dal telecomando del conduttore del quiz. |
-| Receive Keypad | Arriva un segnale da un tastierino o da un buzzer. È possibile filtrare in base al numero del tastierino e al tasto (A = 1, B = 2 e così via; fastest finger = 0). |
+| Remote Command | Arriva un comando dalla pulsantiera Master. |
+| Receive Keypad | Arriva un segnale da una pulsantiera o da un buzzer. È possibile filtrare in base al numero della pulsantiera e al tasto (A = 1, B = 2 e così via; Dito più Veloce = 0). |
 | Claim Bingo | Un giocatore dichiara Bingo. |
 | False Bingo | Un Bingo dichiarato non supera la convalida. |
 | Bingo | Un Bingo dichiarato è valido e il giocatore vince. |

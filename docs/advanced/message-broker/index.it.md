@@ -22,7 +22,7 @@ Questo schema mostra come è collegato tutto:
 
 Message Broker si configura da QuizXpress Director mentre un quiz è in esecuzione. Avviare un quiz, premere il tasto 'D' per aprire [QuizXpress Director](../../live/quizxpress-director/index.md) e passare alla scheda 'Extensions':
 
-![La scheda Extensions in QuizXpress Director](../../assets/images/mb-director-extensions.webp){ loading=lazy }
+![La scheda Moduli in QuizXpress Director](../../assets/images/mb-director-extensions.webp){ loading=lazy }
 
 !!! warning
     Chiudere le impostazioni di Message Broker con 'OK', non con 'Cancel'. 'Cancel' annulla tutte le modifiche.

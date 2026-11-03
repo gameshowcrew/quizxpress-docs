@@ -646,7 +646,7 @@ Quando si configura una diapositiva Trivia Feud, sono disponibili le seguenti pr
 </thead>
 <tbody>
 <tr class="odd">
-<td>Scala Testo Automaticamente</td>
+<td>Adatta Testo</td>
 <td>Ridimensiona il testo delle risposte in modo che si adattino alle caselle (il risultato è una diversa dimensione dei caratteri per le risposte).</td>
 </tr>
 <tr class="even">

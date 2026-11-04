@@ -1,4 +1,6 @@
-# La schermata quiz: Votazione (tutti possono rispondere)
+# Le schermate del quiz
+
+## Votazione { #votazione }
 
 Dopo il video del conto alla rovescia (che può essere disattivato e/o sostituito con un video personalizzato in Quiz Setup), compare la schermata del quiz. Come si vede dalla schermata di esempio qui sotto, ci sono alcune aree che richiedono particolare attenzione, tutte parte di quello che chiamiamo «Information Panel»:
 

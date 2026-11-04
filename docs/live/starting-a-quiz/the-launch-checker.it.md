@@ -1,9 +1,9 @@
 # Il controllo di avvio
 
-Prima dell'inizio dello show, QuizXpress Live verifica diverse condizioni, ad esempio se i video esterni del quiz sono ancora disponibili, se varie directory sono accessibili e se tutti i file audio personalizzati possono essere trovati. In questo modo si evitano sorprese durante il quiz.
+Prima di avviare lo show, QuizXpress Live esegue dei controlli nei confronti di una serie di condizioni, per verificare per esempio se i video collegati al quiz sono ancora disponibili, se le varie directory sono accessibili, se tutti i file audio personalizzati sono stati trovati, ecc. Tale operazione previene spiacevoli inconvenienti di presentazione durante il quiz.
 
-Quando vengono rilevati dei problemi, viene visualizzata la finestra seguente (i messaggi di avviso effettivi possono differire):
+Qualora venissero rilevati dei problemi, viene visualizzata la finestra seguente (i messaggi effettivi potrebbero essere diversi):
 
 ![](../../assets/images/image401.webp){ width="591" loading=lazy }
 
-È possibile decidere se continuare l'esecuzione del quiz (facendo clic su «Ignore») oppure interromperla per risolvere i problemi (facendo clic su «Quit»). Continuare l'esecuzione dello show in presenza di avvisi o errori può causare problemi o comportamenti imprevisti durante il quiz.
+Si può quindi decidere se continuare l'esecuzione del quiz (facendo clic su ‘Ignora’) oppure fermarsi e risolvere i problemi (facendo clic su ‘Esci’). Continuare l'esecuzione del quiz in presenza di avvisi o errori può causare problemi o comportamenti imprevisti durante il quiz.

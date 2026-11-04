@@ -1,4 +1,4 @@
-# La schermata del quiz: voting (tutti rispondono)
+# La schermata del quiz: votazione (tutti rispondono)
 
 Dopo il video del conto alla rovescia (che può essere disattivato e/o sostituito con un video personalizzato in Quiz Setup), compare la schermata del quiz. Come si vede dalla schermata di esempio qui sotto, ci sono alcune aree che richiedono particolare attenzione, tutte parte di quello che chiamiamo «Information Panel»:
 
@@ -62,7 +62,7 @@ Si noti che l'Information Panel in alto mostra il numero di punti ottenibili (ch
 
 - *Quando ‘auto judge’ è ‘false’ nella finestra delle proprietà (equivalente nella barra multifunzione del menu: ‘Judge question’ è impostato su ‘Manual’), i partecipanti devono usare il grande pulsante buzzer per prenotarsi. Il giocatore che ha premuto più velocemente dà quindi la risposta a voce e il Quizmaster la valuta.*
 
-## Billboard
+## Tabellone { #billboard }
 
 Una diapositiva di quiz Billboard è una diapositiva di quiz con cui non è possibile alcuna interazione dei giocatori — è semplicemente una visualizzazione statica. È possibile progettare una diapositiva Billboard proprio come una domanda normale, utilizzando testo, colori, immagini, suoni e video.
 
@@ -74,7 +74,7 @@ Utili applicazioni di una diapositiva Billboard includono:
 
 - Mostrare informazioni di marketing sotto forma di immagini, suoni o video
 
-## End of Round
+## Fine Round { #end-of-round }
 
 In QuizXpress è possibile indicare che una diapositiva di quiz segna la «fine di un round». Per farlo, impostare il tipo di una diapositiva di quiz su ‘End of Round’ in QuizXpress Studio.
 
@@ -112,11 +112,11 @@ Una diapositiva ‘End of Round’ può essere usata anche per i round ‘Last M
 
     I giocatori\le squadre possono anche essere attivati\disattivati da QuizXpress Director. In QuizXpress Director è inoltre possibile aggiungere nuovi giocatori durante un quiz o modificare i punti di una squadra. Per ulteriori informazioni su QuizXpress Director, vedere [QuizXpress Director](../quizxpress-director/index.md).*
 
-## Test Question
+## Domanda Test { #test-question }
 
 Una diapositiva di quiz ‘Test Question’ si comporta come una normale diapositiva di quiz, tranne che non vengono aggiunti/sottratti punti quando la domanda ha ricevuto risposta. Può essere usata per dimostrare come funziona il sistema ed è spesso utilizzata come prima domanda di un quiz per far familiarizzare i giocatori con il sistema.
 
-## Demographic
+## Demografica { #demographic }
 
 Il tipo di diapositiva di quiz ‘Demographic’ consente di dividere tutti i giocatori in gruppi diversi che competono tra loro (esempi di questo tipo di quiz includono «battaglia dei sessi», «marketing contro finanza», ecc.).
 
@@ -126,17 +126,17 @@ Per utilizzare questa funzionalità, impostare il tipo di una diapositiva di qui
 
     In alternativa, è possibile dividere il pubblico in gruppi prima dell'inizio del quiz in QuizXpress Setup. Qui si può definire quali pulsantiere appartengono a quale gruppo. Per ulteriori informazioni, fare riferimento a [Raggruppare le pulsantiere](../../setup/setting-up-teams-the-teams-tab-page.md#raggruppare-i-keypad)*
 
-## Last Man Standing
+## Ultimo Uomo { #last-man-standing }
 
 Una diapositiva di quiz di tipo ‘Last Man Standing’ elimina dal round del quiz ogni giocatore che risponde in modo errato a una domanda. Se dopo l'eliminazione rimane un solo giocatore, questi vince il round e il quiz passa alla prima diapositiva End of Round incontrata, oppure alla fine del quiz. Se invece tutti i giocatori rimasti rispondono in modo errato a una domanda, nessuno di essi viene eliminato.
 
-## Domande di risposta del pubblico
+## Audience Response { #domande-di-risposta-del-pubblico }
 
 Questo è un tipo di domanda che può essere utilizzato per raccogliere dati/statistiche arbitrari dal pubblico. Le risposte date a una domanda di risposta del pubblico vengono registrate ma non hanno alcun impatto sui punteggi. Dopo una domanda di risposta del pubblico, è possibile mostrare un grafico con il tasto «C» per visualizzare la distribuzione delle risposte date.
 
 ![](../../assets/images/image419.webp){ width="604" loading=lazy }
 
-## Domanda Wager
+## Domanda Scommessa { #domanda-wager }
 
 Le domande Wager possono essere usate per far scommettere il pubblico sull'esito della domanda successiva. Consentono di creare domande «in stile Jeopardy» in cui le persone puntano punti in base a quanto ritengono di sapere su un argomento.
 

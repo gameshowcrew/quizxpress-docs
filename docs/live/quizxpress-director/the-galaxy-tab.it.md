@@ -28,7 +28,7 @@ Di seguito si trovano un’immagine della scheda Galaxy di QuizXpress Director e
 
 - Riquadri dei colori FF, A, B, C e D: impostano il colore del pulsante Dito più Veloce (FF) e i colori mostrati per le risposte A, B, C e D
 
-- ‘Timer in Corso’, ‘Timer in Pausa’ e ‘Timer Terminato’: impostano il colore dei dispositivi Galaxy mentre il timer è in corso, quando è in pausa e quando termina
+- ‘Timer in Corso’, ‘Timer in Pausa’ e ‘Timer Concluso’: impostano il colore dei dispositivi Galaxy mentre il timer è in corso, quando è in pausa e quando termina
 
 **Riquadro ‘Colore Unico’**
 

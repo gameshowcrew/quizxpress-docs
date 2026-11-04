@@ -1,4 +1,4 @@
-# La classifica
+# La schermata Classifica Generale
 
 Quando una domanda termina — perché qualcuno ha risposto correttamente (Dito più Veloce), perché tutti hanno dato la propria risposta (voting) o perché il conto alla rovescia è arrivato a zero (time-out) — la schermata del punteggio con la classifica può essere mostrata premendo il tasto «S». Inizialmente la classifica mostra le prime 20 squadre (o meno, se le squadre/i giocatori sono meno); è tuttavia possibile scorrere verso l'alto e verso il basso con i tasti freccia della tastiera o con i pulsanti su/giù della pulsantiera Master.
 
@@ -6,7 +6,7 @@ Quando una domanda termina — perché qualcuno ha risposto correttamente (Dito 
 
 Premendo di nuovo «S» la classifica viene nascosta.
 
-## Schermate di controllo dei punteggi
+## Schermate di controllo Punteggi { #schermate-di-controllo-dei-punteggi }
 
 La classifica principale può essere usata solo per mostrare informazioni, non per modificare qualcosa. In alcuni scenari potrebbe essere necessario anche aggiornare i punteggi — ad esempio quando il pubblico viene sfidato con una prova al di fuori di QuizXpress e, una volta completata la sfida, si desidera registrare i risultati in QuizXpress. A questo scopo sono disponibili quattro schermate aggiuntive, accessibili tramite i tasti «E», «R», «T» e «W». Questi tasti attivano tutti la stessa schermata; tuttavia, il layout cambia a seconda del tasto. (Nota: un modo più comodo per aggiornare i punteggi è utilizzare la scheda Teams in QuizXpress Director.)
 

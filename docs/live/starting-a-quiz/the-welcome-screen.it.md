@@ -1,4 +1,4 @@
-# La schermata Welcome
+# La schermata di Benvenuto
 
 All'avvio dell'applicazione, la prima schermata visualizzata è la schermata Welcome, mostrata nella schermata di esempio qui sotto. Vari elementi della schermata Welcome possono essere personalizzati tramite Quiz Setup; gli elementi personalizzabili sono contrassegnati visivamente nell'immagine.
 

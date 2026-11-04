@@ -132,7 +132,7 @@ Dopo la connessione al quiz in corso, si vedrà l'app QuizXpress Director, che h
 
 La scheda del telecomando consente di controllare il quiz. Sono disponibili i seguenti pulsanti:
 
-- Leaderboard – mostra la classifica attuale. Inizialmente vengono mostrati i primi 22. I pulsanti Up e Down scorrono i punteggi. I pulsanti E, R, T mostrano le schermate dei punteggi estese (vedere [Schermate di controllo dei punteggi](../starting-a-quiz/the-leaderboard.md#schermate-di-controllo-dei-punteggi))
+- Leaderboard – mostra la classifica attuale. Inizialmente vengono mostrati i primi 22. I pulsanti Up e Down scorrono i punteggi. I pulsanti E, R, T mostrano le schermate dei punteggi estese (vedere [Schermate di controllo Punteggi](../starting-a-quiz/the-leaderboard.md#schermate-di-controllo-dei-punteggi))
 
 - Response Grid – mostra una griglia che indica, per ogni giocatore, se ha risposto correttamente, in modo errato o non ha risposto alla domanda a scelta multipla corrente.
 

@@ -1,4 +1,4 @@
-# La schermata del punteggio finale
+# La schermata Classifica Finale
 
 Quando l'ultima diapositiva del quiz è terminata, è il momento di annunciare i risultati finali: parte un rullo di tamburi e le prime tre squadre vengono mostrate una alla volta.
 

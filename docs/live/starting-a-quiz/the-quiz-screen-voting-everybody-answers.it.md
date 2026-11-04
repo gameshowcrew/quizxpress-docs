@@ -1,4 +1,4 @@
-# La schermata del quiz: votazione (tutti rispondono)
+# La schermata quiz: Votazione (tutti possono rispondere)
 
 Dopo il video del conto alla rovescia (che può essere disattivato e/o sostituito con un video personalizzato in Quiz Setup), compare la schermata del quiz. Come si vede dalla schermata di esempio qui sotto, ci sono alcune aree che richiedono particolare attenzione, tutte parte di quello che chiamiamo «Information Panel»:
 
@@ -41,7 +41,7 @@ Quando si utilizzano i Sony Buzzer, QuizXpress Live gestisce una diapositiva di 
 
 Il voting è una delle possibili modalità di una diapositiva di quiz. Le altre varianti sono descritte di seguito.
 
-## Dito più Veloce / Lock-out { #fastest-finger-lock-out }
+## Dito più Veloce { #fastest-finger-lock-out }
 
 Nella sezione precedente abbiamo trattato la schermata di una domanda «voting», alla quale tutti possono rispondere. Con una domanda Dito più Veloce, può rispondere solo la prima persona che preme il proprio buzzer. Se risponde in modo errato, vengono sottratti punti dal suo punteggio e il conto alla rovescia continua. Gli altri giocatori hanno quindi la possibilità di premere il proprio buzzer (il giocatore che ha risposto in modo errato non può più rispondere alla domanda corrente).
 
@@ -136,7 +136,7 @@ Questo è un tipo di domanda che può essere utilizzato per raccogliere dati/sta
 
 ![](../../assets/images/image419.webp){ width="604" loading=lazy }
 
-## Domanda Scommessa { #domanda-wager }
+## Scommessa { #domanda-wager }
 
 Le domande Wager possono essere usate per far scommettere il pubblico sull'esito della domanda successiva. Consentono di creare domande «in stile Jeopardy» in cui le persone puntano punti in base a quanto ritengono di sapere su un argomento.
 

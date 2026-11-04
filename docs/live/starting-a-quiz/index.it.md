@@ -1,4 +1,4 @@
-# Avviare un quiz
+# Avvio di un quiz
 
 Esistono tre modi per eseguire il quiz:
 

@@ -1,6 +1,6 @@
 # La scheda Mobile
 
-La scheda Mobile mostra tutti i dispositivi mobili attualmente connessi.
+La scheda Mobile mostra tutti i dispositivi mobili attualmente connessi. È visibile solo se in Quiz Setup è previsto l’uso di dispositivi mobili.
 
 ![](../../assets/images/image455.webp){ loading=lazy }
 

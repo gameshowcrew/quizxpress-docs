@@ -37,6 +37,8 @@ Il pulsante mostrato in basso è il pulsante «start», che avvia il quiz. Di se
 
 Quando vengono utilizzati più di 100 buzzer, una griglia diventa sempre più difficile da leggere. Per questo motivo, in tal caso QuizXpress Live utilizza una schermata Buzzer Assignment diversa. Vedere sotto per una schermata di esempio.
 
+![](../../assets/images/buzzer-assignment-more-than-100.webp){ width="605" loading=lazy }
+
 Il pulsante mostrato in basso è il pulsante «start», che avvia il quiz.
 
 !!! note

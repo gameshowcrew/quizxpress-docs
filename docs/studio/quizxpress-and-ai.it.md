@@ -93,7 +93,7 @@ La funzionalità IA è accessibile tramite un sistema di crediti a consumo. È p
 
 ## AI roast
 
-Per chi ha voglia di divertirsi, ora è possibile lasciare che l'IA prenda in giro pubblicamente un giocatore dopo una risposta sbagliata durante un quiz. Questa opzione è disponibile in Director (desktop) nella scheda "Players / Teams". Consultare [La vista Teams](../live/quizxpress-director/the-teams-view.md) per ulteriori informazioni.
+Per chi ha voglia di divertirsi, ora è possibile lasciare che l'IA prenda in giro pubblicamente un giocatore dopo una risposta sbagliata durante un quiz. Questa opzione è disponibile in Director (desktop) nella scheda ‘Giocatori / Squadre’. Consultare [La scheda Giocatori / Squadre](../live/quizxpress-director/the-teams-view.md) per ulteriori informazioni.
 
 ## Impostazioni generali per l'IA
 

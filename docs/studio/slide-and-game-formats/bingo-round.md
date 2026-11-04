@@ -124,7 +124,7 @@ You can indicate what needs to happen when a false Bingo claim is made. The opti
 
 In the properties pane two additional settings for false Bingo claims are available:
 
-False Bingo limit – set a limit to the number of false Bingo claims for a player. After the limit has been reached, the player is locked out of the game.
+Onscreen False Bingo limit – the maximum number of false Bingo claims per pattern that is shown live on screen before the game switches to silent handling. Set it to 0 for no limit.
 
 False Bingo handling – determines how false Bingo claims are handled, On-Screen or Silent. In silent mode, only Bingo claims that will result in a valid Bingo are shown in the quiz player.
 

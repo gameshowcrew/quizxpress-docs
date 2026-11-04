@@ -2,7 +2,7 @@
 
 You can insert a real-time response chart into a slide. While the clock counts down, the chart shows a live representation of all the answers given by the audience.
 
-![](../../assets/images/image216.webp){ width="163" loading=lazy }There are two ways to add a chart to a slide:
+![](../../assets/images/image216.webp){ width="163" align=left loading=lazy }There are two ways to add a chart to a slide:
 
 1)  Choose a slide with a picture/video placeholder. Right-click the placeholder and choose Select Chart
 

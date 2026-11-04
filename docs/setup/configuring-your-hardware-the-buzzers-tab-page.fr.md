@@ -116,7 +116,7 @@ Avec le keypad virtuel, il est très facile de tester votre quiz, même si vous 
 
 ### Buzzers Sony Buzz™
 
-![](../assets/images/image313.webp){ width="150" loading=lazy }QuizXpress fonctionne également avec les buzzers Sony Buzz™. Le système fonctionne avec les versions filaire et sans fil de ces buzzers.
+![](../assets/images/image313.webp){ width="150" align=left loading=lazy }QuizXpress fonctionne également avec les buzzers Sony Buzz™. Le système fonctionne avec les versions filaire et sans fil de ces buzzers.
 
 Notez que la version sans fil de ces buzzers est conçue pour fonctionner dans un rayon d'environ 10 mètres (26 pieds) au maximum. L'édition QuizXpress Home fonctionne avec un maximum de 12 unités Sony Buzz sans fil. L'édition QuizXpress Pro n'a pas de limite, bien qu'en pratique pas plus de 16 n'aient été utilisés, en raison de limitations pratiques (un récepteur pour 4 buzzers, et limites de distance).
 

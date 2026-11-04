@@ -8,7 +8,7 @@ The thumbnail panel has a context menu. Right click the thumbnail panel to open 
 
 From here you can copy/paste/delete one or more selected questions, select all slides, select all questions (banners are excluded from the selection when using ‘Select Questions’), or select all slides of a specific type. Note that you can also copy and paste quiz slides between two instances of Studio, allowing you to create ‘libraries’ of questions from which you build your specific quizzes.
 
-In the Options dialog (which you can open from the HOME tab > Options button), you can enable the thumbnail panel to show extra information for each slide, such as the actual question number (as shown in QuizXpress Live). You can find this option on the ‘Other’ tab of the Options dialog:
+In the Options dialog (which you can open from the HOME tab > Options button), you can enable the thumbnail panel to show extra information for each slide, such as the actual question number (as shown in QuizXpress Live). You can find this option on the ‘Other’ tab of the Options dialog.
 
 **Collapse/expand rounds**
 

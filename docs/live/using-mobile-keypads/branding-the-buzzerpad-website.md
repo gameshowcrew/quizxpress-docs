@@ -4,7 +4,7 @@ There are three ways you can create a custom appearance of the QuizXpress buzzer
 
 1)  We can buy a custom domain for you and create a branded version for you behind that domain. Contact us at info@gameshowcrew.com for details and pricing.
 
-2)  You can pass parameters on the URL to customize the appearance and link to that from your own website (you don’t want your customers to have to work with the long link) or use a website like https://tinyurl.com/ to hide the URL parameters. If you are showing a QR code onscreen (press Q when the quiz is running in the quiz player) for easy access of the players to the web buzzer, you can indicate the branding parameters for the QR code in QuizXpress Director. On the Mobile tab, press Settings and in the configuration dialog that is shown, enter the parameters in the URL Extension field. Please refer to 5.7.8.3 for more information.
+2)  You can pass parameters on the URL to customize the appearance and link to that from your own website (you don’t want your customers to have to work with the long link) or use a website like https://tinyurl.com/ to hide the URL parameters. If you are showing a QR code onscreen (press Q when the quiz is running in the quiz player) for easy access of the players to the web buzzer, you can indicate the branding parameters for the QR code in QuizXpress Director. On the Mobile tab, press Settings and in the configuration dialog that is shown, enter the parameters in the URL Extension field. Please refer to [The Mobile tab](../quizxpress-director/the-mobile-tab.md#settings) for more information.
 
 3)  Embed the buzzerpad website in an iFrame and pass the parameters from the iFrame
 

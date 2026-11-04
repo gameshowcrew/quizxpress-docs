@@ -21,8 +21,8 @@ Las distintas disposiciones de pantalla son:
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image421.webp" alt="" width="300" loading="lazy"></th>
-<th><img src="../../../assets/images/image422.webp" alt="" width="296" loading="lazy"></th>
+<th><img src="../../../../assets/images/image421.webp" alt="" width="300" loading="lazy"></th>
+<th><img src="../../../../assets/images/image422.webp" alt="" width="296" loading="lazy"></th>
 </tr>
 </thead>
 <tbody>
@@ -33,8 +33,8 @@ Las distintas disposiciones de pantalla son:
 <p>Esta pantalla muestra la última respuesta, la hora a la que se recibió la respuesta y los puntos de la última pregunta.</p></td>
 </tr>
 <tr class="even">
-<td><img src="../../../assets/images/image423.webp" alt="" width="287" loading="lazy"></td>
-<td><img src="../../../assets/images/image424.webp" alt="" width="288" loading="lazy"></td>
+<td><img src="../../../../assets/images/image423.webp" alt="" width="287" loading="lazy"></td>
+<td><img src="../../../../assets/images/image424.webp" alt="" width="288" loading="lazy"></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Pantalla de puntuación ‘E’</strong></p>

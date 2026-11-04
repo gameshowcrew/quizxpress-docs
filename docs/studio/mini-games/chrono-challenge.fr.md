@@ -38,7 +38,7 @@ Options de configuration disponibles :
 
   - We stopped the clock! Let’s see the results! : le texte affiché lorsque l'horloge a été arrêtée et que les temps de réponse des joueurs vont être évalués.
 
-![](../../assets/images/image159.webp){ width="213" loading=lazy }Au début du jeu, les joueurs sont invités à se préparer à compter !
+![](../../assets/images/image159.webp){ width="213" align=left loading=lazy }Au début du jeu, les joueurs sont invités à se préparer à compter !
 
 ![](../../assets/images/image160.webp){ width="209" loading=lazy }![](../../assets/images/image161.webp){ loading=lazy }
 

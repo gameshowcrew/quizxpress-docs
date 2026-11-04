@@ -17,7 +17,7 @@ L'onglet ‘Target device’ de cette boîte de dialogue vous permet de définir
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image302.webp" alt="" width="236" loading="lazy"></th>
+<th><img src="../../../../assets/images/image302.webp" alt="" width="236" loading="lazy"></th>
 <th><p>Ainsi, par exemple, si vous comptez présenter votre quiz sur un téléviseur grand écran, utilisez le ratio 16:9 par défaut. Pour un ancien vidéoprojecteur, utilisez le ratio 4:3. Vous pouvez modifier le ratio après avoir créé votre quiz, et le système redimensionnera automatiquement toutes vos diapositives.</p>
 <p>L'option Quality contrôle la résolution d'image que QuizXpress utilise en interne pour afficher une diapositive dans Quiz Show (le nombre physique de pixels utilisés pour l'image de la diapositive). Vous pouvez la régler sur ‘High quality’ ou ‘Ultra high quality’ si vous présentez votre quiz sur un appareil haute résolution (comme un écran LCD Full HD) et que vous disposez d'une carte vidéo/d'un PC puissant avec suffisamment de mémoire.</p></th>
 </tr>
@@ -33,7 +33,7 @@ L'onglet ‘Target device’ de cette boîte de dialogue vous permet de définir
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image303.webp" alt="" width="235" loading="lazy"></th>
+<th><img src="../../../../assets/images/image303.webp" alt="" width="235" loading="lazy"></th>
 <th><p>Dans l'onglet ‘Protection’, une date d'expiration peut être définie pour le quiz. Après cette date, le quiz ne peut plus être joué par QuizXpress Live.</p>
 <p>Vous pouvez également protéger votre quiz avec la clé DRM (Digital Rights Management) de votre client cible. Dans ce cas, le contenu du quiz ne peut pas être copié ni exécuté sur une autre machine. La clé DRM de votre client peut être obtenue dans l'onglet ‘Info’ du menu backstage sur son PC (dans la section License Info).</p></th>
 </tr>

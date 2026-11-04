@@ -73,7 +73,7 @@ The Mobile keypad (both buzzerpad and the Smart Buzzer app) has some great featu
 
 - Enhanced experience for ordered questions and questions with multiple correct answers. Users can first order the answers on their device and then send the result to QuizXpress in one go.
 
-- Remote control functionality using the Mobile QuizXpress Director app available for iOS and Android. Please refer to 5.2.4.4 for more information.
+- Remote control functionality using the Mobile QuizXpress Director app available for iOS and Android. Please refer to [Remote control app – Mobile Director](using-the-mobile-apps.md#remote-control-app-mobile-director) for more information.
 
 In addition to the features above, the Smart Buzzer app has some additional features:
 

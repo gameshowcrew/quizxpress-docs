@@ -38,7 +38,7 @@ Opciones de configuración disponibles:
 
   - We stopped the clock! Let’s see the results!: el texto que se muestra cuando se ha detenido el reloj y están a punto de juzgarse los tiempos de respuesta de los jugadores.
 
-![](../../assets/images/image159.webp){ width="213" loading=lazy }Al comienzo del juego se avisa a los jugadores de que se preparen para contar.
+![](../../assets/images/image159.webp){ width="213" align=left loading=lazy }Al comienzo del juego se avisa a los jugadores de que se preparen para contar.
 
 ![](../../assets/images/image160.webp){ width="209" loading=lazy }![](../../assets/images/image161.webp){ loading=lazy }
 

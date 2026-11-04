@@ -2,7 +2,7 @@
 
 Puede insertar en una diapositiva un gráfico de respuestas en tiempo real. Mientras el reloj cuenta atrás, el gráfico muestra una representación en directo de todas las respuestas dadas por el público.
 
-![](../../assets/images/image216.webp){ width="163" loading=lazy }Hay dos maneras de añadir un gráfico a una diapositiva:
+![](../../assets/images/image216.webp){ width="163" align=left loading=lazy }Hay dos maneras de añadir un gráfico a una diapositiva:
 
 1)  Elija una diapositiva con un marcador de posición de imagen/vídeo. Haga clic con el botón derecho en el marcador de posición y elija Select Chart
 

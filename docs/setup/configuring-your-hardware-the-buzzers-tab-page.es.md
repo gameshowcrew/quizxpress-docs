@@ -116,7 +116,7 @@ Con el mando virtual es muy fácil probar su quiz, incluso si no dispone de hard
 
 ### Pulsadores Sony Buzz™
 
-![](../assets/images/image313.webp){ width="150" loading=lazy }QuizXpress también funciona con los pulsadores Sony Buzz™. El sistema funciona tanto con la versión con cable como con la inalámbrica de estos pulsadores.
+![](../assets/images/image313.webp){ width="150" align=left loading=lazy }QuizXpress también funciona con los pulsadores Sony Buzz™. El sistema funciona tanto con la versión con cable como con la inalámbrica de estos pulsadores.
 
 Tenga en cuenta que la versión inalámbrica de estos pulsadores está diseñada para funcionar en un radio máximo aproximado de 10 metros (26 pies). La edición QuizXpress Home funciona con un máximo de 12 unidades Sony Buzz inalámbricas. La edición QuizXpress Pro no tiene límite, aunque en la práctica no se han utilizado más de 16, debido a limitaciones prácticas (un receptor por cada 4 pulsadores y limitaciones de distancia).
 

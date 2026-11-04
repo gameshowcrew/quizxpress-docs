@@ -18,7 +18,7 @@ To avoid problems, you should always test the entire system before use. For larg
 
 The following revision of Sony **wired** buzzers does not work on Windows Vista: SCEH-0005. Please contact us if you need help with these buzzers.
 
-All wireless versions of the Sony buzzers work with Windows. For Windows 7 and higher, it may be necessary to follow a special procedure, depending on the revision of your buzzers. Please consult Appendix C for the procedure to install the latest revision of the Sony buzzers on Windows Vista and Windows 7.
+All wireless versions of the Sony buzzers work with Windows. For Windows 7 and higher, it may be necessary to follow a special procedure, depending on the revision of your buzzers. Please consult [Sony Buzz buzzers on Windows 7 and later](../hardware-installation/sony-buzz-buzzers-on-windows-7-and-later.md) for the procedure to install the latest revision of the Sony buzzers on Windows Vista and Windows 7.
 
 ## Large setups with Sony buzzers
 

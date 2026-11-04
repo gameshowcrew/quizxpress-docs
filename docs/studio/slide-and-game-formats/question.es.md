@@ -83,7 +83,7 @@ Elegir *Default* en una pregunta abierta da como resultado una pregunta normal d
 |     |
 |-----|
 
-![](../../assets/images/image39.webp){ width="126" loading=lazy }Para el tipo de entrada *Number*, la aplicación Smart Buzzer o el sitio web buzzerpad presenta a los jugadores una pantalla en la que pueden introducir un valor numérico.
+![](../../assets/images/image39.webp){ width="126" align=left loading=lazy }Para el tipo de entrada *Number*, la aplicación Smart Buzzer o el sitio web buzzerpad presenta a los jugadores una pantalla en la que pueden introducir un valor numérico.
 
 En las preguntas numéricas, también puede especificar un intervalo como '80-90'. Esto significa que todas las respuestas entre 80 y 90 (ambos inclusive) se juzgan como correctas. O bien puede convertir la pregunta en una pregunta de aproximación (por ejemplo, '¿cuántas canicas hay en el tarro?') en la que solo el jugador con la respuesta más cercana a la correcta obtiene puntos. En este caso, marque la casilla situada antes de 'Nearest wins'. Cuando hay varios ganadores, los jugadores que dieron la respuesta más rápido ganan los puntos.
 

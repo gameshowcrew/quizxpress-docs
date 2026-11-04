@@ -13,4 +13,4 @@ Vous pouvez alors choisir l'une des options suivantes :
 !!! tip
     Pour aligner un seul élément, il suffit de le faire glisser : des [repères intelligents](../user-interface-overview/design-area.md#guides-intelligents) s'affichent lorsqu'il est aligné avec d'autres éléments ou avec la diapositive, et il s'aimante en place.
 
-![](../../assets/images/image293.webp){ width="108" loading=lazy }Le bouton Order permet de classer plusieurs éléments qui se chevauchent selon leur ordre z (profondeur). Vous pouvez amener un élément au premier plan, l'envoyer à l'arrière-plan, l'avancer d'un niveau ou le reculer d'un niveau.
+![](../../assets/images/image293.webp){ width="108" align=left loading=lazy }Le bouton Order permet de classer plusieurs éléments qui se chevauchent selon leur ordre z (profondeur). Vous pouvez amener un élément au premier plan, l'envoyer à l'arrière-plan, l'avancer d'un niveau ou le reculer d'un niveau.

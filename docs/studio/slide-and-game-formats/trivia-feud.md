@@ -112,7 +112,7 @@ When creating the Trivia Feud slide in Fastest Finger mode, you can indicate how
 
 You can change the above settings too in the Advanced properties pane, which you can show by clicking the VIEW tab and putting a checkmark before ‘Properties’. In this pane, you will see all the settings that apply to the Trivia Feud once you click it.
 
-The auto reveal option indicates whether the remaining answers that were not mentioned will be automatically shown once all players are out of the game, or whether the host will manually reveal them one by one by clicking the answers in QuizXpress Director.
+The ‘Reveal mode’ option (‘Automatic’ or ‘Manually’) indicates whether the remaining answers that were not mentioned will be automatically shown once all players are out of the game, or whether the host will manually reveal them one by one by clicking the answers in QuizXpress Director.
 
 ## Multiplayer Mode
 
@@ -132,7 +132,7 @@ In the properties window in Studio (if not visible, show it by clicking the VIEW
 
 **Tolerance** – specifies the tolerance used by QuizXpress for judging the answers given. Setting the tolerance higher allows more spelling mistakes.
 
-**Auto reveal** – indicates whether, at the end of the countdown, the answers will be automatically shown or the host will manually reveal them one by one by clicking the answers in QuizXpress Director.
+**Reveal mode** (Automatic or Manually) – indicates whether, at the end of the countdown, the answers will be automatically shown or the host will manually reveal them one by one by clicking the answers in QuizXpress Director.
 
 In this mode, you can specify multiple correct answers, separated by a semicolon:
 

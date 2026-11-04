@@ -4,7 +4,7 @@ QuizXpress offers a variety of minigames. Minigames will spice up your game show
 
 Minigames can either be started manually (on demand) from within QuizXpress Director (the quizmaster control panel, more about that later), used by inserting a slide of type ‘Minigame’ in the quiz file, or run standalone from the minigame launcher.
 
-![](../../assets/images/image63.webp){ width="109" loading=lazy }To insert a minigame in your quiz, select the ‘minigame’ slide layout from the layout gallery on the INSERT ribbon tab:
+![](../../assets/images/image63.webp){ width="109" align=left loading=lazy }To insert a minigame in your quiz, select the ‘minigame’ slide layout from the layout gallery on the INSERT ribbon tab:
 
 The next step is to pick the game from the list of available games:
 

@@ -39,6 +39,7 @@ extra_css:
 extra_javascript:
   - javascripts/external-links.js
   - javascripts/image-zoom.js
+  - javascripts/anchor-scroll.js
 
 validation:
   links:

@@ -13,4 +13,4 @@ Ahora puede elegir una de las siguientes opciones:
 !!! tip
     Para alinear un solo elemento, basta con arrastrarlo: las [guías inteligentes](../user-interface-overview/design-area.md#guias-inteligentes) indican cuándo está alineado con otros elementos o con la diapositiva, y se ajusta a su posición.
 
-![](../../assets/images/image293.webp){ width="108" loading=lazy }El botón Order le permite ordenar varios elementos superpuestos en el orden z (profundidad). Puede traer un elemento al frente, enviarlo al fondo, adelantarlo un nivel o retrasarlo un nivel.
+![](../../assets/images/image293.webp){ width="108" align=left loading=lazy }El botón Order le permite ordenar varios elementos superpuestos en el orden z (profundidad). Puede traer un elemento al frente, enviarlo al fondo, adelantarlo un nivel o retrasarlo un nivel.

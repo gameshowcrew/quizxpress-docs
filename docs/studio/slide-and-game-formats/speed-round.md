@@ -8,6 +8,6 @@ In a Speed Round, one player needs to answer as many questions as possible withi
 
 After finishing a question, a new one is presented, but the same clock keeps ticking. To add a speed round to your quiz, set the first slide of your Speed Round to the slide type ‘Speed Round’. The round must end with an ‘End of Round’ slide. Note that the slides between the beginning and end of the round must NOT be set to the type Speed Round. There are two ways to play a speed round: manually or with buzzers. When the Speed Round is set to play manually, the host judges the answers manually (the host presses Y for correct, or N for incorrect). When the Speed Round is set to play with buzzers, players can use their buzzers/keypads/phones to answer the questions.
 
-*The setting for manual/buzzers in the properties panel. False means playing manually, True means playing with buzzers.*
+*The setting for manual/buzzers is the property ‘Speed Round with buzzers’ in the ‘Answers’ section of the properties panel: switched off means playing manually, switched on means playing with buzzers.*
 
 ![](../../assets/images/image98.webp){ width="284" loading=lazy }

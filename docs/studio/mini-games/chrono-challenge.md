@@ -38,7 +38,7 @@ Available configuration options:
 
   - We stopped the clock! Let’s see the results!: the text that is shown when the clock has been stopped and the answer times of the players are about to be judged.
 
-![](../../assets/images/image159.webp){ width="213" loading=lazy }At the start of the game, players are notified to get ready to count!
+![](../../assets/images/image159.webp){ width="213" align=left loading=lazy }At the start of the game, players are notified to get ready to count!
 
 ![](../../assets/images/image160.webp){ width="209" loading=lazy }![](../../assets/images/image161.webp){ loading=lazy }
 

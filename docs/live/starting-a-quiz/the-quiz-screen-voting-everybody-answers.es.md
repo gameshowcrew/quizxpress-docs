@@ -26,7 +26,7 @@ Cuando todos los equipos han hecho su elección, el sistema juzga todas las resp
 <li><p>Número de equipos que respondieron incorrectamente</p></li>
 <li><p>Número de equipos que no respondieron en absoluto</p></li>
 </ul></th>
-<th><img src="../../../assets/images/image408.webp" alt="" width="368" loading="lazy"></th>
+<th><img src="../../../../assets/images/image408.webp" alt="" width="368" loading="lazy"></th>
 </tr>
 </thead>
 <tbody>

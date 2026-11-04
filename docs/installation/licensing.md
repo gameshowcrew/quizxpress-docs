@@ -4,7 +4,7 @@ The QuizXpress software suite is protected by a license key. The demo version, w
 
 ## Activation
 
-The activation dialog appears automatically when starting QuizXpress Studio if the license has expired or isn’t present. Alternatively, you can open the dialog manually from the HOME tab by clicking ‘Info’ and then ‘Activate’.
+The activation dialog appears automatically when starting QuizXpress Studio if the license has expired or isn’t present. Alternatively, you can open the dialog manually from the FILE menu by clicking ‘Info’ and then ‘Activate’.
 
 ![](../assets/images/image3.webp){ width="324" loading=lazy }
 

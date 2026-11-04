@@ -13,13 +13,13 @@ To fill the placeholder with a ‘real’ picture, click the placeholder to sele
 
 Here you can click ‘Select Picture’ to open a file browser and select any of the supported image file formats from disk. After that, you can set the picture’s properties and apply effects or static transformations. You can also drag and drop pictures (and videos) directly from Windows Explorer onto a picture placeholder (or onto the slide background to set the background image).
 
-Pictures can also have a textual representation in the form of a label. You can set the label by right clicking the picture and selecting “Set Label” from the menu. One example of where this label is being used is when a picture question is presented on the Smart Buzzer app. If you choose not to have pictures shown on the phone (for Wi-Fi mode, see 4.2.1 and for server mode see 5.7.8.3), the label will be shown on the phone instead.
+Pictures can also have a textual representation in the form of a label. You can set the label by right clicking the picture and selecting “Set Label” from the menu. One example of where this label is being used is when a picture question is presented on the Smart Buzzer app. If you choose not to have pictures shown on the phone (for Wi-Fi mode, see [Setting up the system](../../live/using-mobile-keypads/setting-up-the-system.md) and for server mode see [The Mobile tab](../../live/quizxpress-director/the-mobile-tab.md#settings)), the label will be shown on the phone instead.
 
 Alternatively, you can right-click the placeholder to show the options:
 
 Here you can choose to insert a picture, a video, or a chart. When you have a layout with multiple pictures, the pictures can also act as answers to the question. In that case, you can set a picture as the correct answer, indicate the order of the picture answers for an ordered-answer question, or set the correctness percentage for a question with multiple picture answers.
 
-You can also generate pictures with AI. For more information, please refer to 3.8.4.
+You can also generate pictures with AI. For more information, please refer to [QuizXpress and AI](../quizxpress-and-ai.md).
 
 For more information about other pictures settings please refer to [Picture properties](../user-interface-overview/advanced-properties-grid.md#picture-properties).
 

@@ -157,7 +157,7 @@ These properties are shown by clicking on the background of a question. The prop
 </tr>
 <tr class="even">
 <td>Category</td>
-<td>The category for this quiz slide. By selecting a category, you define the graphical formatting. Note: you can define your own categories! For an explanation of categories please refer to section 3.3</td>
+<td>The category for this quiz slide. By selecting a category, you define the graphical formatting. Note: you can define your own categories! For an explanation of categories please refer to [Using categories](../using-categories.md)</td>
 </tr>
 <tr class="odd">
 <td>Continue after correct answer</td>
@@ -181,7 +181,7 @@ These properties are shown by clicking on the background of a question. The prop
 </tr>
 <tr class="even">
 <td>Demographic group<sup>*</sup></td>
-<td>This property can be set when the <strong>Type</strong> of the slide is set to ‘Demographic’. It defines a demographic group. When the quiz is run, people pressing their buzzer when a demographic quiz slide is shown will belong to the group indicated by this property. Please also refer to section 5.4.5.5 for more information about demographic groups.</td>
+<td>This property can be set when the <strong>Type</strong> of the slide is set to ‘Demographic’. It defines a demographic group. When the quiz is run, people pressing their buzzer when a demographic quiz slide is shown will belong to the group indicated by this property. Please also refer to [Demographic groups](../slide-and-game-formats/demographic-groups.md) for more information about demographic groups.</td>
 </tr>
 <tr class="odd">
 <td>End of round action<sup>*</sup></td>
@@ -291,10 +291,6 @@ These properties are shown by clicking on the background of a question. The prop
 <td>Start timer</td>
 <td>Indicates whether the countdown timer should start automatically when the question appears or by a manual action.</td>
 </tr>
-<tr class="even">
-<td>Steal points</td>
-<td>Applicable for fastest finger questions. When enabled, all other players steal the points from the player buzzing in when the provided answer is wrong.</td>
-</tr>
 <tr class="odd">
 <td>Style</td>
 <td>The render style for the question. You can find more about styles in the chapter “Styles”.</td>
@@ -328,6 +324,7 @@ These properties are shown by clicking on the background of a question. The prop
 <li><p><em>Audience Response</em>: slide to simply collect a response from the audience without changing any quiz scores. The response data can be displayed in a chart.</p></li>
 <li><p><em>Wager</em>: allows the audience to bet a percentage of their scores on the following question.</p></li>
 <li><p><em>Majority Rules</em>: a slide where the correct answer depends on what is chosen most by the audience</p></li>
+<li><p><em>Pairing Question</em>: players match text labels to images (for example countries to flags).</p></li>
 <li><p><em>Minigame</em>: a slide that launches the selected minigame</p></li>
 <li><p><em>Trivia Board</em>: a slide that starts a round where questions are organized per Topic/Points and presented as a grid</p></li>
 <li><p><em>Trivia Ladder:</em> starts a Trivia Ladder round where players move up the ladder for each correct question</p></li>
@@ -369,21 +366,21 @@ These properties are shown when clicking on the question box on a slide
 
 These properties are shown when clicking on an answer box on a slide
 
-| Property                | Description |                                                                                                                                                       |
-|-------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Alignment               |             | The text alignment of the answer text                                                                                                                 |
-| Correct answer          |             | Indicates whether the selected answer is the correct answer. Set to ‘true’ if the selected answer is the correct answer.                              |
-| Correctness             |             | Applicable for questions with multiple correct answers, this value sets the correctness (as a percentage of the total question points) of the answer. |
-| Drop shadow             |             | Indicates whether a shadow is imposed under the question text                                                                                         |
-| Gradient                |             | The gradient fill for the background of the question. Whether this property is applicable depends on the style used.                                  |
-| Shadow color            |             | The color of the drop shadow                                                                                                                          |
-| Text                    |             | The text of the answer                                                                                                                                |
-| Text reveal animation   |             | How is the text revealed. Show (default: shows directly), Show letter by letter or Show word by word                                                  |
-| Text reveal delay (sec) |             | The delay after which the text is shown                                                                                                               |
-| Text reveal speed       |             | Speed of the text reveal                                                                                                                              |
-| Text color              |             | The color of the answer text                                                                                                                          |
-| Text font               |             | The font of the answer text                                                                                                                           |
-| Transparency            |             | Transparency of the background of the answer panel                                                                                                    |
+| Property | Description |
+|-------------------------|------------------------------------------------------------|
+| Alignment | The text alignment of the answer text |
+| Correct answer | Indicates whether the selected answer is the correct answer. Set to ‘true’ if the selected answer is the correct answer. |
+| Correctness | Applicable for questions with multiple correct answers, this value sets the correctness (as a percentage of the total question points) of the answer. |
+| Drop shadow | Indicates whether a shadow is imposed under the answer text |
+| Gradient | The gradient fill for the background of the answer. Whether this property is applicable depends on the style used. |
+| Shadow color | The color of the drop shadow |
+| Text | The text of the answer |
+| Text reveal animation | How is the text revealed. Show (default: shows directly), Show letter by letter or Show word by word |
+| Text reveal delay (sec) | The delay after which the text is shown |
+| Text reveal speed | Speed of the text reveal |
+| Text color | The color of the answer text |
+| Text font | The font of the answer text |
+| Transparency | Transparency of the background of the answer panel |
 
 ## Picture properties
 
@@ -397,7 +394,7 @@ These properties are shown when clicking on a picture box on a slide
 | Corner radius       | Corner radius for the border line to create a rounded border                                                                                                                                                                                                                                                                                                                                                   |
 | Correct answer      | Indicates whether the picture contains the correct answer. This can only be set for pictures when the slide contains only pictures and is a multiple-choice slide.                                                                                                                                                                                                                                             |
 | Drop shadow         | Indicates whether a shadow is imposed under the picture                                                                                                                                                                                                                                                                                                                                                        |
-| Effect              | Sets an effect on the picture. See [Cropping](../adding-multimedia-content/pictures.md#cropping) for a more detailed explanation about effects.                                                                                                                                                                                                                                                                                                              |
+| Effect              | Sets an effect on the picture. See [Applying effects](../adding-multimedia-content/pictures.md#applying-effects) for a more detailed explanation about effects.                                                                                                                                                                                                                                                                                                              |
 | Hidden              | Hide the picture during the quiz                                                                                                                                                                                                                                                                                                                                                                               |
 | Hidden on mobile    | Indicates if a picture shown on a quiz slide should be hidden on the mobile phone. One scenario for using this is when you want to show a different picture on the mobile phone than on the big screen for the audience. For example, you might want the mobile picture to have a different aspect ratio. In that case, you don’t want the picture shown on the big screen to also appear on the mobile phone. |
 | Image               | A thumbnail of the image. Click the browse (…) button of this property to browse for a picture.                                                                                                                                                                                                                                                                                                                |
@@ -460,7 +457,7 @@ These properties are shown when clicking on a video on a slide
 | Start                          | Time to start the video                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
 | Video Height                   | (read-only) height of the video                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 | Video storage type             | Indicates whether the video fragment is embedded or linked. Embedding a video fragment into a quiz means the video fragment is incorporated into the quiz file. Linking a video fragment means a reference is made from the quiz file to a video on the file system. In general, linking videos is recommended. *Note: when linking videos, be sure not to remove the video files from your file system. When moving the quiz to a different computer, the videos must be copied into the same folder as the quiz file.* |
-| (read-only) width of the video | (read only) width of the video                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Width                          | (read-only) width of the video                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
 
 ## Shape properties
 
@@ -491,7 +488,7 @@ These properties are shown when clicking on a speech item on a slide.
 
 | Property | Description                                                        |
 |----------|--------------------------------------------------------------------|
-| PreRoll  | Indicates the number of seconds to wait before the speech starts   |
+| Intro pause | Indicates the number of seconds to wait before the speech starts   |
 | Rate     | The speed at which the text of the speech item is read             |
 | Text     | The text to be read                                                |
 | Voice    | The voice to use (choose one from the installed voices in Windows) |
@@ -601,6 +598,7 @@ These properties are shown when a Trivia Ladder slide is selected.
 | Border color            | Set the color of the trivia ladder border                                                                                                                                                       |
 | Display mode            | Where to show the ladder on the screen: slide in from the right of the screen, slide into the center of the screen, show full screen, or always show it (on the right-hand side of the screen). |
 | Keypads color           | Set the color of the keypads                                                                                                                                                                    |
+| Ladder style            | The visual style of the ladder, for example *MillionairePurple*           |
 | Safety net color        | Set the color of the safety net steps                                                                                                                                                           |
 | Separator color         | Set the color of the separators                                                                                                                                                                 |
 | Show border             | Show the border of the trivia ladder                                                                                                                                                            |
@@ -620,10 +618,10 @@ When configuring your Bingo game, the following properties are available:
 | Countdown time (sec)        | The countdown time when handling a bingo claim onscreen.                                                                                                               |
 | Enable Virtual Caller       | Enable the Windows voice synthesizer to call out the balls/colors for a regular Bingo game                                                                             |
 | False Bingo handling        | How false bingos are handled (in front of the audience, or silently)                                                                                                   |
-| False Bingo limit           | How many times can a player claim a bingo before they are excluded                                                                                                     |
 | False Bingo mode            | What happens when a player claims a false Bingo                                                                                                                        |
 | First Pattern…Fifth Pattern | The patterns to play for (up to 5 patterns can be played in one round)                                                                                                 |
 | Game Type                   | Trivia Bingo, Number (traditional) Bingo, or Emoji Bingo.                                                                                                              |
+| Onscreen False Bingo limit  | The maximum number of false Bingo claims per pattern that is shown live on screen before the game switches to silent handling. 0 means no limit. |
 | Pattern penalty points      | The points to lose for a false bingo (per pattern)                                                                                                                     |
 | Pattern Points              | The points to win for a valid bingo (per pattern)                                                                                                                      |
 | Randomize questions         | When playing Trivia Bingo, this flag indicates that the questions are played in random order                                                                           |

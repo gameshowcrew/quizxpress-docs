@@ -30,7 +30,7 @@ The QuizXpress keypad system comes with a Quizmaster remote which can be used by
 
 Each QuizXpress keypad has a preprogrammed unique id. When using QuizXpress keypads, enter the ids of the devices used for the quiz into the ‘Keypads:’ entry field in Quiz Setup. For example, if you are using keypads 1 to 10, enter the range ‘1-10’. If you are using keypads 1, 2, 3, 4, and 6, enter the text ‘1,2,3,4,6’.
 
-Please refer to Appendix A for more information about the installation of the QuizXpress keypad system.
+Please refer to [QuizXpress keypads and buzzers](../hardware-installation/quizxpress-keypads-and-buzzers.md) for more information about the installation of the QuizXpress keypad system.
 
 !!! note
 
@@ -64,7 +64,7 @@ They provide feedback for various things happening in the quiz, such as:
 
 - Assign a color to each buzzer during breaks or make them flash
 
-You can configure various options for the Galaxy Buzzers on the Galaxy tab in QuizXpress Director (see 5.7.9).
+You can configure various options for the Galaxy Buzzers on the Galaxy tab in QuizXpress Director (see [The Galaxy tab](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### QuizXpress Torches
 
@@ -84,7 +84,7 @@ The Torch Buzzers can:
 
 - can be used to draw someone from the crowd or pick out a lucky winner (or winners)
 
-Basically, the torches are a galaxy device (see 4.1.3) and a buzzer in one. You can configure various options for the Torches on the Galaxy tab in QuizXpress Director (see 5.7.9).
+Basically, the torches are a galaxy device (see [QuizXpress wireless Galaxy RGB devices](#quizxpress-wireless-galaxy-rgb-devices)) and a buzzer in one. You can configure various options for the Torches on the Galaxy tab in QuizXpress Director (see [The Galaxy tab](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Fleetwood Reply systems buzzers
 
@@ -96,7 +96,7 @@ QuizXpress operates with Reply® Mini Model CRS5000 and Reply Worldwide wireless
 
 Each Reply Systems buzzer has a preprogrammed unique id (unlike Sony Buzzers). When using Reply System buzzers, add the ids of the buzzers used for the quiz to the ‘Keypads:’ entry field. For example, if you are using keypads 1 to 10, enter the range ‘1-10’. If you are using keypads 1, 2, 4, and 6, enter the text ‘1,2,4,6’. Also set the channel of the base station by selecting the correct channel from the ‘Channel’ dropdown list.
 
-Please refer to Appendix B for more information about the installation of the Reply system.
+Please refer to [Fleetwood Reply buzzers](../hardware-installation/fleetwood-reply-buzzers.md) for more information about the installation of the Reply system.
 
 !!! note
 
@@ -116,7 +116,7 @@ With the Virtual Keypad, it’s very easy to test your quiz, even if you don’t
 
 ### Sony Buzz™ buzzers
 
-![](../assets/images/image313.webp){ width="150" loading=lazy }QuizXpress also works with Sony Buzz™ buzzers. The system works with both the wired and wireless versions of these buzzers.
+![](../assets/images/image313.webp){ width="150" align=left loading=lazy }QuizXpress also works with Sony Buzz™ buzzers. The system works with both the wired and wireless versions of these buzzers.
 
 Please note that the wireless version of these buzzers is designed to operate within approximately 10 meters (26 feet) maximum. QuizXpress Home edition works with a maximum of 12 wireless Sony Buzz units. The QuizXpress Pro edition has no limit, although in practice no more than 16 have been used, due to practical limitations (one receiver per 4 buzzers, and distance limitations).
 

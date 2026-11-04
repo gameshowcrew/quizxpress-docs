@@ -17,7 +17,7 @@ La pestaña ‘Target device’ de este cuadro de diálogo le permite establecer
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image302.webp" alt="" width="236" loading="lazy"></th>
+<th><img src="../../../../assets/images/image302.webp" alt="" width="236" loading="lazy"></th>
 <th><p>Así, por ejemplo, si piensa ejecutar su quiz en un televisor panorámico, utilice la relación 16:9 predeterminada. Para un proyector más antiguo, utilice la relación 4:3. Puede cambiar la relación después de crear su quiz, y el sistema redimensionará automáticamente todas sus diapositivas.</p>
 <p>La opción Quality controla la resolución de imagen que QuizXpress utiliza internamente al renderizar una diapositiva en Quiz Show (el número físico de píxeles utilizado para la imagen de la diapositiva). Puede establecerla en ‘High quality’ o ‘Ultra high quality’ si presenta su quiz en un dispositivo de alta resolución (como una pantalla LCD Full HD) y dispone de una tarjeta de vídeo o un PC potentes con memoria suficiente.</p></th>
 </tr>
@@ -33,7 +33,7 @@ La pestaña ‘Target device’ de este cuadro de diálogo le permite establecer
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image303.webp" alt="" width="235" loading="lazy"></th>
+<th><img src="../../../../assets/images/image303.webp" alt="" width="235" loading="lazy"></th>
 <th><p>En la pestaña ‘Protection’ se puede establecer una fecha de caducidad para el quiz. Pasada esta fecha, QuizXpress Live ya no podrá reproducir el quiz.</p>
 <p>También puede proteger su quiz con la clave DRM (Digital Rights Management, gestión de derechos digitales) de su cliente de destino. Al hacerlo, el contenido del quiz no se puede copiar ni ejecutar en otro equipo. La clave DRM de su cliente se puede obtener en la pestaña ‘Info’ del menú Backstage de su PC (en la sección License Info).</p></th>
 </tr>

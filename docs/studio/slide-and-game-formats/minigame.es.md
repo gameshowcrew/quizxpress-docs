@@ -4,7 +4,7 @@ QuizXpress ofrece una variedad de minijuegos. Los minijuegos darán un toque esp
 
 Los minijuegos pueden iniciarse manualmente (a petición) desde QuizXpress Director (el panel de control del presentador del quiz, del que hablaremos más adelante), utilizarse insertando una diapositiva de tipo 'Minigame' en el archivo del quiz, o ejecutarse de forma independiente desde el lanzador de minijuegos.
 
-![](../../assets/images/image63.webp){ width="109" loading=lazy }Para insertar un minijuego en su quiz, seleccione el diseño de diapositiva 'minigame' en la galería de diseños de la pestaña de la cinta INSERT:
+![](../../assets/images/image63.webp){ width="109" align=left loading=lazy }Para insertar un minijuego en su quiz, seleccione el diseño de diapositiva 'minigame' en la galería de diseños de la pestaña de la cinta INSERT:
 
 El siguiente paso es elegir el juego de la lista de juegos disponibles:
 

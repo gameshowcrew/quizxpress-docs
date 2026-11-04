@@ -83,7 +83,7 @@ Choisir *Default* pour une question ouverte donne une question classique de type
 |     |
 |-----|
 
-![](../../assets/images/image39.webp){ width="126" loading=lazy }Pour le type de saisie *Number*, l’application Smart Buzzer ou le site web buzzerpad présente aux joueurs un écran où ils peuvent saisir une valeur numérique.
+![](../../assets/images/image39.webp){ width="126" align=left loading=lazy }Pour le type de saisie *Number*, l’application Smart Buzzer ou le site web buzzerpad présente aux joueurs un écran où ils peuvent saisir une valeur numérique.
 
 Pour les questions numériques, vous pouvez aussi spécifier une plage comme ‘80-90’. Cela signifie que toutes les réponses comprises (bornes incluses) entre 80 et 90 sont jugées correctes. Vous pouvez aussi transformer la question en question d’approximation (par exemple ‘combien y a-t-il de billes dans le bocal’) où seul le joueur dont la réponse est la plus proche de la bonne réponse obtient des points. Dans ce cas, cochez ‘Nearest wins’. S’il y a plusieurs gagnants, les joueurs qui ont donné la réponse le plus rapidement remportent les points.
 

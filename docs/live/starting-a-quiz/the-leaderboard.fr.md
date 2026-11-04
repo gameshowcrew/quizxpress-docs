@@ -21,8 +21,8 @@ Les différentes dispositions d'écran sont :
 </colgroup>
 <thead>
 <tr class="header">
-<th><img src="../../../assets/images/image421.webp" alt="" width="300" loading="lazy"></th>
-<th><img src="../../../assets/images/image422.webp" alt="" width="296" loading="lazy"></th>
+<th><img src="../../../../assets/images/image421.webp" alt="" width="300" loading="lazy"></th>
+<th><img src="../../../../assets/images/image422.webp" alt="" width="296" loading="lazy"></th>
 </tr>
 </thead>
 <tbody>
@@ -33,8 +33,8 @@ Les différentes dispositions d'écran sont :
 <p>Cet écran affiche la dernière réponse, l'heure à laquelle la réponse a été reçue et les points de la dernière question.</p></td>
 </tr>
 <tr class="even">
-<td><img src="../../../assets/images/image423.webp" alt="" width="287" loading="lazy"></td>
-<td><img src="../../../assets/images/image424.webp" alt="" width="288" loading="lazy"></td>
+<td><img src="../../../../assets/images/image423.webp" alt="" width="287" loading="lazy"></td>
+<td><img src="../../../../assets/images/image424.webp" alt="" width="288" loading="lazy"></td>
 </tr>
 <tr class="odd">
 <td><p><strong>Écran de score « E »</strong></p>

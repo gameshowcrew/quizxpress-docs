@@ -80,10 +80,7 @@ Choosing *Default* for an open question results in a regular fastest finger ques
 
 ### Number input
 
-|     |
-|-----|
-
-![](../../assets/images/image39.webp){ width="126" loading=lazy }For the *Number* input type, the Smart Buzzer app or buzzerpad website presents a screen to the players where they can enter a numeric value.
+![](../../assets/images/image39.webp){ width="126" align=left loading=lazy }For the *Number* input type, the Smart Buzzer app or buzzerpad website presents a screen to the players where they can enter a numeric value.
 
 For numeric questions, you can also specify a range like ‘80-90’. This means all answers between (inclusive) 80 and 90 are judged as correct. Or you can turn the question into an approximation question (e.g., ‘how many marbles are there in the jar’) where only the player with the answer closest to the correct answer gets points. In this case, put a tick before ‘Nearest wins’. When there are multiple winners, the players who gave the answer quickest win the points.
 
@@ -132,5 +129,3 @@ For first-letter questions you can also show the letter grid on the mobile buzze
 When this option is set to *Shuffle* or *Moving*, the grid on the buzzer has a random layout:
 
 ![](../../assets/images/image45.webp){ width="187" loading=lazy }
-
-## Pairing questions

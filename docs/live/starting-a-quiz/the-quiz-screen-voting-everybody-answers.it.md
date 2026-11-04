@@ -94,6 +94,8 @@ Quando si imposta una diapositiva su ‘End of Round’, è possibile impostare 
 
 Show scoreboard/Show round scores: il sistema mostra la classifica dell'intero quiz oppure del round corrente.
 
+‘Mostra Vincitori e Punteggi di tutti i Round’: il sistema mostra i vincitori e i punteggi di tutti i round.
+
 Reset scores: azzera tutti i punteggi alla fine del round.
 
 Un round è definito come l'insieme delle diapositive comprese tra:

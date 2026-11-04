@@ -185,7 +185,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="odd">
 <td>Azione di Fine Round<sup>*</sup></td>
-<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su **'Fine del Round’**. È possibile scegliere per esempio, ‘Escludi un Perdente, nel qual caso è eliminato il partecipante con il minor numero di punti o ‘Quizmaster seleziona i perdenti’, in cui sarà il Quizmaster a scegliere i partecipanti da eliminare, uno ad uno.</td>
+<td>Questa proprietà può essere impostata quando il Tipo di diapositiva è impostato su **'Fine del Round’**. È possibile scegliere per esempio, ‘Elimina un Giocatore’, nel qual caso è eliminato il partecipante con il minor numero di punti o ‘Elimina Giocatori Manualmente’, in cui sarà il Quizmaster a scegliere i partecipanti da eliminare, uno ad uno.</td>
 </tr>
 <tr class="even">
 <td>Modalità Valutazione</td>

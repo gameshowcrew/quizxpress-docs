@@ -26,7 +26,9 @@ Di seguito si trovano un’immagine della scheda Galaxy di QuizXpress Director e
 
 - Mostra Risposta Scelta: indica se la luce mostrerà il colore della risposta scelta
 
-- Riquadri dei colori A, B, C, D ed E: impostano i colori mostrati per le risposte A, B, C, D ed E
+- Riquadri dei colori FF, A, B, C e D: impostano il colore del pulsante Dito più Veloce (FF) e i colori mostrati per le risposte A, B, C e D
+
+- ‘Timer in Corso’, ‘Timer in Pausa’ e ‘Timer Terminato’: impostano il colore dei dispositivi Galaxy mentre il timer è in corso, quando è in pausa e quando termina
 
 **Riquadro ‘Colore Unico’**
 

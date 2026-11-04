@@ -598,7 +598,7 @@ Queste sono le proprietà mostrate quando si seleziona una diapositiva Trivia La
 | Colore Bordo | Imposta il colore del bordo della scaletta Trivia Ladder |
 | Modalità Visualizzazione | Imposta dove mostrare la scaletta sullo schermo: *Mostra a Destra* (scorre dal lato destro), *Mostra al Centro* (scorre al centro dello schermo), *Schermo Intero dopo la domanda* oppure *Sempre Visibile* (sul lato destro dello schermo). |
 | Colore Pulsantiere | Imposta il colore del numero delle pulsantiere dei partecipanti |
-| Stile della scala | Imposta lo stile grafico della scaletta, per esempio *Millionaire (viola)* |
+| Stile Scala | Imposta lo stile grafico della scaletta, per esempio *Millionaire (viola)* |
 | Colore Traguardo Salvezza | Imposta il colore dei gradini Traguardo Salvezza della scaletta Trivia Ladder |
 | Colore Separatori | Imposta il colore dei separatori della scaletta Trivia Ladder |
 | Mostra Bordo | Visualizza il bordo della scaletta Trivia Ladder |

@@ -2,7 +2,7 @@
 
 È possibile inserire in una diapositiva un grafico delle risposte in tempo reale. Mentre il conto alla rovescia procede, il grafico mostra una rappresentazione in tempo reale di tutte le risposte date dal pubblico.
 
-![](../../assets/images/image216.webp){ width="163" loading=lazy }Ci sono due modi per aggiungere un grafico a una diapositiva:
+![](../../assets/images/image216.webp){ width="163" align=left loading=lazy }Ci sono due modi per aggiungere un grafico a una diapositiva:
 
 1)  Scegliere una diapositiva con un segnaposto per immagine/video. Fare clic con il pulsante destro del mouse sul segnaposto e scegliere Select Chart
 

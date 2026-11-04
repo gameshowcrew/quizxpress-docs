@@ -291,10 +291,6 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Modalità Countdown</td>
 <td>Indica se il conto alla rovescia per la domanda inizierà immediatamente (automatico) o dopo aver premuto la barra spaziatrice (Manuale)</td>
 </tr>
-<tr class="even">
-<td>Ruba punti</td>
-<td>Applicabile alle domande a dito più veloce. Quando è abilitato, tutti gli altri giocatori rubano i punti al giocatore che ha premuto il buzzer quando la risposta fornita è sbagliata.</td>
-</tr>
 <tr class="odd">
 <td>Stile</td>
 <td>Lo stile di rendering della diapositiva. È possibile trovare maggiori informazioni sugli stili nel capitolo "Stili"</td>
@@ -328,6 +324,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <li><p><em>Audience Response</em>: diapositiva per raccogliere semplicemente una risposta dal pubblico senza modificare i punteggi del quiz. I dati delle risposte possono essere mostrati in un grafico.</p></li>
 <li><p><em>Scommessa</em>: consente al pubblico di puntare una percentuale dei propri punteggi sulla domanda successiva.</p></li>
 <li><p><em>Regole Maggioranza</em>: una diapositiva in cui la risposta corretta dipende da ciò che il pubblico sceglie più spesso</p></li>
+<li><p><em>Domanda di Abbinamento</em>: i giocatori abbinano etichette di testo a immagini (per esempio paesi e bandiere).</p></li>
 <li><p><em>Modulo Gioco</em>: una diapositiva che avvia il Modulo Gioco selezionato</p></li>
 <li><p><em>Tabellone Trivia</em>: una diapositiva che avvia un round in cui le domande sono organizzate per Topic/Points e presentate come una griglia</p></li>
 <li><p><em>Trivia Ladder:</em> avvia un round Trivia Ladder in cui i giocatori salgono di un gradino della scala a ogni risposta corretta</p></li>
@@ -601,6 +598,7 @@ Queste sono le proprietà mostrate quando si seleziona una diapositiva Trivia La
 | Colore Bordo | Imposta il colore del bordo della scaletta Trivia Ladder |
 | Modalità Visualizzazione | Imposta dove mostrare la scaletta sullo schermo: *Mostra a Destra* (scorre dal lato destro), *Mostra al Centro* (scorre al centro dello schermo), *Schermo Intero dopo la domanda* oppure *Sempre Visibile* (sul lato destro dello schermo). |
 | Colore Pulsantiere | Imposta il colore del numero delle pulsantiere dei partecipanti |
+| Stile Scala | Imposta lo stile grafico della scaletta, per esempio *Millionaire (viola)* |
 | Colore Traguardo Salvezza | Imposta il colore dei gradini Traguardo Salvezza della scaletta Trivia Ladder |
 | Colore Separatori | Imposta il colore dei separatori della scaletta Trivia Ladder |
 | Mostra Bordo | Visualizza il bordo della scaletta Trivia Ladder |

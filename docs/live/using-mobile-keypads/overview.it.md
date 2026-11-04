@@ -73,7 +73,7 @@ La pulsantiera mobile (sia buzzerpad sia l'app Smart Buzzer) offre ottime funzio
 
 - Esperienza migliorata per le domande di ordinamento e per le domande con più risposte corrette. Gli utenti possono prima ordinare le risposte sul proprio dispositivo e poi inviare il risultato a QuizXpress in un'unica operazione.
 
-- Funzionalità di controllo remoto tramite l'app Mobile QuizXpress Director disponibile per iOS e Android. Per ulteriori informazioni, fare riferimento a 5.2.4.4.
+- Funzionalità di controllo remoto tramite l'app Mobile QuizXpress Director disponibile per iOS e Android. Per ulteriori informazioni, fare riferimento a [App telecomando – Mobile Director](using-the-mobile-apps.md#app-telecomando-mobile-director).
 
 Oltre alle funzionalità sopra elencate, l'app Smart Buzzer offre alcune funzionalità aggiuntive:
 

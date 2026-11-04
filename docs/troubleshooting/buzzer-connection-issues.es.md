@@ -18,7 +18,7 @@ Para evitar problemas, siempre debe probar todo el sistema antes de usarlo. En s
 
 La siguiente revisión de los pulsadores **con cable** Sony no funciona en Windows Vista: SCEH-0005. Póngase en contacto con nosotros si necesita ayuda con estos pulsadores.
 
-Todas las versiones inalámbricas de los pulsadores Sony funcionan con Windows. Para Windows 7 y superiores, puede ser necesario seguir un procedimiento especial, según la revisión de sus pulsadores. Consulte el Apéndice C para conocer el procedimiento de instalación de la última revisión de los pulsadores Sony en Windows Vista y Windows 7.
+Todas las versiones inalámbricas de los pulsadores Sony funcionan con Windows. Para Windows 7 y superiores, puede ser necesario seguir un procedimiento especial, según la revisión de sus pulsadores. Consulte [Pulsadores Sony Buzz en Windows 7 y posteriores](../hardware-installation/sony-buzz-buzzers-on-windows-7-and-later.md) para conocer el procedimiento de instalación de la última revisión de los pulsadores Sony en Windows Vista y Windows 7.
 
 ## Configuraciones grandes con pulsadores Sony
 

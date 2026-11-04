@@ -18,7 +18,7 @@ Pour éviter les problèmes, testez toujours l’ensemble du système avant de l
 
 La révision suivante des buzzers **filaires** Sony ne fonctionne pas sous Windows Vista : SCEH-0005. Contactez-nous si vous avez besoin d’aide avec ces buzzers.
 
-Toutes les versions sans fil des buzzers Sony fonctionnent avec Windows. Pour Windows 7 et versions ultérieures, une procédure particulière peut être nécessaire, selon la révision de vos buzzers. Consultez l’Annexe C pour la procédure d’installation de la dernière révision des buzzers Sony sous Windows Vista et Windows 7.
+Toutes les versions sans fil des buzzers Sony fonctionnent avec Windows. Pour Windows 7 et versions ultérieures, une procédure particulière peut être nécessaire, selon la révision de vos buzzers. Consultez [Buzzers Sony Buzz sous Windows 7 et versions ultérieures](../hardware-installation/sony-buzz-buzzers-on-windows-7-and-later.md) pour la procédure d’installation de la dernière révision des buzzers Sony sous Windows Vista et Windows 7.
 
 ## Grandes installations avec des buzzers Sony
 

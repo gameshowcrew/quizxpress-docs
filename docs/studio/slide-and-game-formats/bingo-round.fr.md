@@ -124,7 +124,7 @@ Vous pouvez indiquer ce qui doit se passer lorsqu'une fausse déclaration de Bin
 
 Dans le volet des propriétés, deux paramètres supplémentaires sont disponibles pour les fausses déclarations de Bingo :
 
-False Bingo limit – définit une limite au nombre de fausses déclarations de Bingo par joueur. Une fois la limite atteinte, le joueur est exclu du jeu.
+Onscreen False Bingo limit – le nombre maximal de fausses déclarations de Bingo par motif affichées en direct à l’écran avant que le jeu ne passe au traitement silencieux. Réglez-le sur 0 pour ne pas avoir de limite.
 
 False Bingo handling – détermine la façon dont les fausses déclarations de Bingo sont traitées : On-Screen ou Silent. En mode silencieux, seules les déclarations de Bingo qui aboutiront à un Bingo valide sont affichées dans le lecteur de quiz.
 

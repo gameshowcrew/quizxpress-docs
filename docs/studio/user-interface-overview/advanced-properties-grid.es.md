@@ -157,7 +157,7 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 </tr>
 <tr class="even">
 <td>Category</td>
-<td>La categoría de esta diapositiva de quiz. Al seleccionar una categoría, define el formato gráfico. Nota: ¡puede definir sus propias categorías! Para una explicación de las categorías, consulte la sección 3.3</td>
+<td>La categoría de esta diapositiva de quiz. Al seleccionar una categoría, define el formato gráfico. Nota: ¡puede definir sus propias categorías! Para una explicación de las categorías, consulte [Usar categorías](../using-categories.md)</td>
 </tr>
 <tr class="odd">
 <td>Continue after correct answer</td>
@@ -181,7 +181,7 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 </tr>
 <tr class="even">
 <td>Demographic group<sup>*</sup></td>
-<td>Esta propiedad se puede establecer cuando el <strong>Type</strong> de la diapositiva es ‘Demographic’. Define un grupo demográfico. Cuando se ejecute el quiz, las personas que pulsen su pulsador cuando se muestre una diapositiva de quiz demográfica pertenecerán al grupo indicado por esta propiedad. Consulte también la sección 5.4.5.5 para obtener más información sobre los grupos demográficos.</td>
+<td>Esta propiedad se puede establecer cuando el <strong>Type</strong> de la diapositiva es ‘Demographic’. Define un grupo demográfico. Cuando se ejecute el quiz, las personas que pulsen su pulsador cuando se muestre una diapositiva de quiz demográfica pertenecerán al grupo indicado por esta propiedad. Consulte también [Grupos demográficos](../slide-and-game-formats/demographic-groups.md) para obtener más información sobre los grupos demográficos.</td>
 </tr>
 <tr class="odd">
 <td>End of round action<sup>*</sup></td>
@@ -291,10 +291,6 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 <td>Start timer</td>
 <td>Indica si el temporizador de cuenta atrás debe iniciarse automáticamente cuando aparece la pregunta o mediante una acción manual.</td>
 </tr>
-<tr class="even">
-<td>Steal points</td>
-<td>Aplicable a las preguntas de dedo más rápido. Cuando está activado, todos los demás jugadores roban los puntos al jugador que pulsó cuando la respuesta dada es incorrecta.</td>
-</tr>
 <tr class="odd">
 <td>Style</td>
 <td>El estilo de representación de la pregunta. Encontrará más información sobre los estilos en el capítulo “Styles”.</td>
@@ -328,6 +324,7 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 <li><p><em>Audience Response</em>: diapositiva para recoger simplemente una respuesta del público sin cambiar ninguna puntuación del quiz. Los datos de respuesta se pueden mostrar en un gráfico.</p></li>
 <li><p><em>Wager</em>: permite al público apostar un porcentaje de sus puntuaciones en la pregunta siguiente.</p></li>
 <li><p><em>Majority Rules</em>: una diapositiva en la que la respuesta correcta depende de la opción elegida por la mayoría del público</p></li>
+<li><p><em>Pairing Question</em>: los jugadores asocian etiquetas de texto con imágenes (por ejemplo, países con banderas).</p></li>
 <li><p><em>Minigame</em>: una diapositiva que inicia el minijuego seleccionado</p></li>
 <li><p><em>Trivia Board</em>: una diapositiva que inicia una ronda en la que las preguntas se organizan por Topic/Points y se presentan como una cuadrícula</p></li>
 <li><p><em>Trivia Ladder:</em> inicia una ronda de Trivia Ladder en la que los jugadores suben por la escalera con cada pregunta correcta</p></li>
@@ -369,21 +366,21 @@ Estas propiedades se muestran al hacer clic en el cuadro de la pregunta de una d
 
 Estas propiedades se muestran al hacer clic en un cuadro de respuesta de una diapositiva
 
-| Propiedad               | Descripción |                                                                                                                                                       |
-|-------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Alignment               |             | La alineación del texto de la respuesta                                                                                                               |
-| Correct answer          |             | Indica si la respuesta seleccionada es la respuesta correcta. Establézcalo en ‘true’ si la respuesta seleccionada es la respuesta correcta.          |
-| Correctness             |             | Aplicable a las preguntas con varias respuestas correctas, este valor establece la corrección (como porcentaje de los puntos totales de la pregunta) de la respuesta. |
-| Drop shadow             |             | Indica si se aplica una sombra debajo del texto de la pregunta                                                                                        |
-| Gradient                |             | El relleno degradado del fondo de la pregunta. Que esta propiedad sea aplicable depende del estilo utilizado.                                         |
-| Shadow color            |             | El color de la sombra                                                                                                                                 |
-| Text                    |             | El texto de la respuesta                                                                                                                              |
-| Text reveal animation   |             | Cómo se revela el texto. Show (predeterminado: se muestra directamente), Show letter by letter o Show word by word                                    |
-| Text reveal delay (sec) |             | El retraso tras el cual se muestra el texto                                                                                                           |
-| Text reveal speed       |             | Velocidad de la revelación del texto                                                                                                                  |
-| Text color              |             | El color del texto de la respuesta                                                                                                                    |
-| Text font               |             | La fuente del texto de la respuesta                                                                                                                   |
-| Transparency            |             | Transparencia del fondo del panel de respuesta                                                                                                        |
+| Propiedad | Descripción |
+|-------------------------|------------------------------------------------------------|
+| Alignment               | La alineación del texto de la respuesta                                                                                                               |
+| Correct answer          | Indica si la respuesta seleccionada es la respuesta correcta. Establézcalo en ‘true’ si la respuesta seleccionada es la respuesta correcta.          |
+| Correctness             | Aplicable a las preguntas con varias respuestas correctas, este valor establece la corrección (como porcentaje de los puntos totales de la pregunta) de la respuesta. |
+| Drop shadow             | Indica si se aplica una sombra debajo del texto de la respuesta                                                                                        |
+| Gradient                | El relleno degradado del fondo de la respuesta. Que esta propiedad sea aplicable depende del estilo utilizado.                                         |
+| Shadow color            | El color de la sombra                                                                                                                                 |
+| Text                    | El texto de la respuesta                                                                                                                              |
+| Text reveal animation   | Cómo se revela el texto. Show (predeterminado: se muestra directamente), Show letter by letter o Show word by word                                    |
+| Text reveal delay (sec) | El retraso tras el cual se muestra el texto                                                                                                           |
+| Text reveal speed       | Velocidad de la revelación del texto                                                                                                                  |
+| Text color              | El color del texto de la respuesta                                                                                                                    |
+| Text font               | La fuente del texto de la respuesta                                                                                                                   |
+| Transparency            | Transparencia del fondo del panel de respuesta                                                                                                        |
 
 ## Propiedades de las imágenes
 
@@ -397,7 +394,7 @@ Estas propiedades se muestran al hacer clic en un cuadro de imagen de una diapos
 | Corner radius       | Radio de las esquinas de la línea del borde para crear un borde redondeado |
 | Correct answer      | Indica si la imagen contiene la respuesta correcta. Solo se puede establecer para imágenes cuando la diapositiva contiene únicamente imágenes y es una diapositiva de opción múltiple. |
 | Drop shadow         | Indica si se aplica una sombra debajo de la imagen |
-| Effect              | Establece un efecto en la imagen. Consulte [Recorte](../adding-multimedia-content/pictures.md#recortar) para obtener una explicación más detallada sobre los efectos. |
+| Effect              | Establece un efecto en la imagen. Consulte [Aplicar efectos](../adding-multimedia-content/pictures.md#aplicar-efectos) para obtener una explicación más detallada sobre los efectos. |
 | Hidden              | Oculta la imagen durante el quiz |
 | Hidden on mobile    | Indica si una imagen mostrada en una diapositiva de quiz debe ocultarse en el teléfono móvil. Un escenario para utilizarlo es cuando desea mostrar una imagen diferente en el teléfono móvil que en la pantalla grande para el público. Por ejemplo, puede que desee que la imagen del móvil tenga una relación de aspecto diferente. En ese caso, no desea que la imagen mostrada en la pantalla grande aparezca también en el teléfono móvil. |
 | Image               | Una miniatura de la imagen. Haga clic en el botón de exploración (…) de esta propiedad para buscar una imagen. |
@@ -460,7 +457,7 @@ Estas propiedades se muestran al hacer clic en un vídeo de una diapositiva
 | Start                          | Momento en que empieza el vídeo |
 | Video Height                   | (solo lectura) altura del vídeo |
 | Video storage type             | Indica si el fragmento de vídeo está incrustado o vinculado. Incrustar un fragmento de vídeo en un quiz significa que el fragmento de vídeo se incorpora al archivo del quiz. Vincular un fragmento de vídeo significa que se establece una referencia desde el archivo del quiz a un vídeo del sistema de archivos. En general, se recomienda vincular los vídeos. *Nota: al vincular vídeos, asegúrese de no eliminar los archivos de vídeo de su sistema de archivos. Al trasladar el quiz a otro ordenador, los vídeos deben copiarse en la misma carpeta que el archivo del quiz.* |
-| (read-only) width of the video | (solo lectura) anchura del vídeo |
+| Width                          | (solo lectura) anchura del vídeo |
 
 ## Propiedades de las formas
 
@@ -491,7 +488,7 @@ Estas propiedades se muestran al hacer clic en un elemento de habla de una diapo
 
 | Propiedad | Descripción                                                              |
 |-----------|--------------------------------------------------------------------------|
-| PreRoll   | Indica el número de segundos de espera antes de que comience el habla    |
+| Intro pause | Indica el número de segundos de espera antes de que comience el habla    |
 | Rate      | La velocidad a la que se lee el texto del elemento de habla              |
 | Text      | El texto que se va a leer                                                |
 | Voice     | La voz que se va a utilizar (elija una de las voces instaladas en Windows) |
@@ -601,6 +598,7 @@ Estas propiedades se muestran cuando se selecciona una diapositiva de Trivia Lad
 | Border color            | Establece el color del borde de la escalera de trivial |
 | Display mode            | Dónde mostrar la escalera en la pantalla: deslizarse desde la derecha de la pantalla, deslizarse hasta el centro de la pantalla, mostrarse a pantalla completa o mostrarse siempre (en el lado derecho de la pantalla). |
 | Keypads color           | Establece el color de los mandos |
+| Ladder style            | El estilo visual de la escalera, por ejemplo *MillionairePurple* |
 | Safety net color        | Establece el color de los peldaños de la red de seguridad |
 | Separator color         | Establece el color de los separadores |
 | Show border             | Muestra el borde de la escalera de trivial |
@@ -620,10 +618,10 @@ Al configurar su juego de Bingo, están disponibles las siguientes propiedades:
 | Countdown time (sec)        | El tiempo de cuenta atrás al gestionar una reclamación de bingo en pantalla. |
 | Enable Virtual Caller       | Activa el sintetizador de voz de Windows para cantar las bolas/colores en un juego de Bingo normal |
 | False Bingo handling        | Cómo se gestionan los bingos falsos (delante del público o en silencio) |
-| False Bingo limit           | Cuántas veces puede un jugador reclamar un bingo antes de ser excluido |
 | False Bingo mode            | Qué ocurre cuando un jugador reclama un Bingo falso |
 | First Pattern…Fifth Pattern | Los patrones por los que se juega (se pueden jugar hasta 5 patrones en una ronda) |
 | Game Type                   | Trivia Bingo, Number (traditional) Bingo o Emoji Bingo. |
+| Onscreen False Bingo limit  | El número máximo de reclamaciones de Bingo falsas por patrón que se muestran en directo en pantalla antes de que el juego pase a la gestión silenciosa. 0 significa sin límite. |
 | Pattern penalty points      | Los puntos que se pierden por un bingo falso (por patrón) |
 | Pattern Points              | Los puntos que se ganan por un bingo válido (por patrón) |
 | Randomize questions         | Al jugar a Trivia Bingo, esta opción indica que las preguntas se juegan en orden aleatorio |

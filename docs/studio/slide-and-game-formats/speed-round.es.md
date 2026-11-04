@@ -8,6 +8,6 @@ En una Speed Round, un jugador debe responder al mayor número posible de pregun
 
 Tras terminar una pregunta, se presenta una nueva, pero el mismo reloj sigue corriendo. Para añadir una ronda de velocidad a su quiz, establezca la primera diapositiva de su Speed Round en el tipo de diapositiva 'Speed Round'. La ronda debe terminar con una diapositiva 'End of Round'. Tenga en cuenta que las diapositivas entre el comienzo y el final de la ronda NO deben establecerse en el tipo Speed Round. Hay dos maneras de jugar una ronda de velocidad: manualmente o con pulsadores. Cuando la Speed Round se juega manualmente, el presentador juzga las respuestas manualmente (pulsa Y si es correcta o N si es incorrecta). Cuando la Speed Round se juega con pulsadores, los jugadores pueden utilizar sus pulsadores/mandos/teléfonos para responder a las preguntas.
 
-*El ajuste manual/pulsadores se encuentra en el panel de propiedades. False significa jugar manualmente, True significa jugar con pulsadores.*
+*El ajuste manual/pulsadores es la propiedad ‘Speed Round with buzzers’ de la sección ‘Answers’ del panel de propiedades: desactivada significa jugar manualmente, activada significa jugar con pulsadores.*
 
 ![](../../assets/images/image98.webp){ width="284" loading=lazy }

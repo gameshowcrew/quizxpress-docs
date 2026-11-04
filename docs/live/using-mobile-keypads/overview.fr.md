@@ -73,7 +73,7 @@ Le keypad mobile (à la fois buzzerpad et l'application Smart Buzzer) offre d'ex
 
 - Expérience améliorée pour les questions d'ordre et les questions à plusieurs bonnes réponses. Les utilisateurs peuvent d'abord ordonner les réponses sur leur appareil, puis envoyer le résultat à QuizXpress en une seule fois.
 
-- Fonction de télécommande grâce à l'application Mobile QuizXpress Director disponible pour iOS et Android. Pour plus d'informations, reportez-vous à 5.2.4.4.
+- Fonction de télécommande grâce à l'application Mobile QuizXpress Director disponible pour iOS et Android. Pour plus d'informations, reportez-vous à [Application de télécommande – Mobile Director](using-the-mobile-apps.md#application-de-telecommande-mobile-director).
 
 En plus des fonctionnalités ci-dessus, l'application Smart Buzzer offre quelques fonctionnalités supplémentaires :
 

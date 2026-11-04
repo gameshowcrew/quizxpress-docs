@@ -4,7 +4,7 @@ El conjunto de software QuizXpress está protegido por una clave de licencia. La
 
 ## Activación
 
-El cuadro de diálogo de activación aparece automáticamente al iniciar QuizXpress Studio si la licencia ha caducado o no existe. También puede abrir el cuadro de diálogo manualmente desde la pestaña HOME haciendo clic en ‘Info’ y después en ‘Activate’.
+El cuadro de diálogo de activación aparece automáticamente al iniciar QuizXpress Studio si la licencia ha caducado o no existe. También puede abrir el cuadro de diálogo manualmente desde el menú FILE haciendo clic en ‘Info’ y después en ‘Activate’.
 
 ![](../assets/images/image3.webp){ width="324" loading=lazy }
 

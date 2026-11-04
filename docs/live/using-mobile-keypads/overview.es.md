@@ -73,7 +73,7 @@ El mando móvil (tanto buzzerpad como la aplicación Smart Buzzer) tiene excelen
 
 - Experiencia mejorada para las preguntas de ordenación y las preguntas con varias respuestas correctas. Los usuarios pueden ordenar primero las respuestas en su dispositivo y después enviar el resultado a QuizXpress de una sola vez.
 
-- Funcionalidad de control remoto mediante la aplicación Mobile QuizXpress Director, disponible para iOS y Android. Consulte el apartado 5.2.4.4 para obtener más información.
+- Funcionalidad de control remoto mediante la aplicación Mobile QuizXpress Director, disponible para iOS y Android. Consulte [Aplicación de control remoto: Mobile Director](using-the-mobile-apps.md#aplicacion-de-control-remoto-mobile-director) para obtener más información.
 
 Además de las funciones anteriores, la aplicación Smart Buzzer ofrece algunas funciones adicionales:
 

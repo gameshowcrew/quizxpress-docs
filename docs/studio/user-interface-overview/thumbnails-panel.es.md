@@ -8,7 +8,7 @@ El panel de miniaturas tiene un menú contextual. Haga clic con el botón derech
 
 Desde aquí puede copiar, pegar o eliminar una o varias preguntas seleccionadas, seleccionar todas las diapositivas, seleccionar todas las preguntas (los banners se excluyen de la selección al usar ‘Select Questions’) o seleccionar todas las diapositivas de un tipo concreto. Tenga en cuenta que también puede copiar y pegar diapositivas de quiz entre dos instancias de Studio, lo que le permite crear ‘bibliotecas’ de preguntas a partir de las cuales construir sus quizzes específicos.
 
-En el cuadro de diálogo Options (que puede abrir desde la pestaña HOME > botón Options), puede activar que el panel de miniaturas muestre información adicional de cada diapositiva, como el número real de la pregunta (tal como se muestra en QuizXpress Live). Encontrará esta opción en la pestaña ‘Other’ del cuadro de diálogo Options:
+En el cuadro de diálogo Options (que puede abrir desde la pestaña HOME > botón Options), puede activar que el panel de miniaturas muestre información adicional de cada diapositiva, como el número real de la pregunta (tal como se muestra en QuizXpress Live). Encontrará esta opción en la pestaña ‘Other’ del cuadro de diálogo Options.
 
 **Contraer/expandir rondas**
 

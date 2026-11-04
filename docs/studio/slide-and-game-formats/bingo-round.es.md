@@ -124,7 +124,7 @@ Puede indicar qué debe ocurrir cuando se hace una reclamación de Bingo falsa. 
 
 En el panel de propiedades hay disponibles dos ajustes adicionales para las reclamaciones de Bingo falsas:
 
-False Bingo limit – establece un límite al número de reclamaciones de Bingo falsas de un jugador. Una vez alcanzado el límite, el jugador queda bloqueado en el juego.
+Onscreen False Bingo limit – el número máximo de reclamaciones de Bingo falsas por patrón que se muestran en directo en pantalla antes de que el juego pase a la gestión silenciosa. Establézcalo en 0 para no tener límite.
 
 False Bingo handling – determina cómo se gestionan las reclamaciones de Bingo falsas, On-Screen o Silent. En el modo silent, solo se muestran en el reproductor del quiz las reclamaciones de Bingo que darán como resultado un Bingo válido.
 

@@ -13,13 +13,13 @@ Para rellenar el marcador de posición con una imagen ‘real’, haga clic en e
 
 Aquí puede hacer clic en ‘Select Picture’ para abrir un explorador de archivos y seleccionar del disco cualquiera de los formatos de archivo de imagen admitidos. Después, puede establecer las propiedades de la imagen y aplicar efectos o transformaciones estáticas. También puede arrastrar y soltar imágenes (y vídeos) directamente desde el Explorador de Windows sobre un marcador de posición de imagen (o sobre el fondo de la diapositiva para establecer la imagen de fondo).
 
-Las imágenes también pueden tener una representación textual en forma de etiqueta. Puede establecer la etiqueta haciendo clic con el botón derecho en la imagen y seleccionando “Set Label” en el menú. Un ejemplo de uso de esta etiqueta es cuando se presenta una pregunta con imagen en la aplicación Smart Buzzer. Si decide no mostrar las imágenes en el teléfono (para el modo Wi-Fi, véase 4.2.1 y para el modo servidor véase 5.7.8.3), en su lugar se mostrará la etiqueta en el teléfono.
+Las imágenes también pueden tener una representación textual en forma de etiqueta. Puede establecer la etiqueta haciendo clic con el botón derecho en la imagen y seleccionando “Set Label” en el menú. Un ejemplo de uso de esta etiqueta es cuando se presenta una pregunta con imagen en la aplicación Smart Buzzer. Si decide no mostrar las imágenes en el teléfono (para el modo Wi-Fi, véase [Configuración del sistema](../../live/using-mobile-keypads/setting-up-the-system.md) y para el modo servidor véase [La pestaña Mobile](../../live/quizxpress-director/the-mobile-tab.md#ajustes)), en su lugar se mostrará la etiqueta en el teléfono.
 
 Como alternativa, puede hacer clic con el botón derecho en el marcador de posición para mostrar las opciones:
 
 Aquí puede elegir insertar una imagen, un vídeo o un gráfico. Cuando tiene un diseño con varias imágenes, estas también pueden actuar como respuestas a la pregunta. En ese caso, puede establecer una imagen como respuesta correcta, indicar el orden de las respuestas con imagen en una pregunta de respuestas ordenadas, o establecer el porcentaje de acierto en una pregunta con varias respuestas con imagen.
 
-También puede generar imágenes con IA. Para obtener más información, consulte 3.8.4.
+También puede generar imágenes con IA. Para obtener más información, consulte [QuizXpress y la IA](../quizxpress-and-ai.md).
 
 Para obtener más información sobre otros ajustes de las imágenes, consulte [Propiedades de la imagen](../user-interface-overview/advanced-properties-grid.md#propiedades-de-las-imagenes).
 

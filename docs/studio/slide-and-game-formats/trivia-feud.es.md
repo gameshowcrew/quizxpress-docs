@@ -112,7 +112,7 @@ Al crear la diapositiva Trivia Feud en modo Fastest Finger, puede indicar cuánt
 
 También puede cambiar los ajustes anteriores en el panel de propiedades avanzadas, que puede mostrar haciendo clic en la pestaña VIEW y marcando la casilla situada antes de 'Properties'. En este panel verá todos los ajustes que se aplican al Trivia Feud una vez que haga clic en él.
 
-La opción auto reveal indica si las respuestas restantes que no se mencionaron se mostrarán automáticamente cuando todos los jugadores estén fuera del juego, o si el presentador las revelará manualmente una por una haciendo clic en las respuestas en QuizXpress Director.
+La opción ‘Reveal mode’ (‘Automatic’ o ‘Manually’) indica si las respuestas restantes que no se mencionaron se mostrarán automáticamente cuando todos los jugadores estén fuera del juego, o si el presentador las revelará manualmente una por una haciendo clic en las respuestas en QuizXpress Director.
 
 ## Modo Multiplayer
 
@@ -132,7 +132,7 @@ En la ventana de propiedades de Studio (si no está visible, muéstrela haciendo
 
 **Tolerance** – especifica la tolerancia que utiliza QuizXpress para juzgar las respuestas dadas. Si se establece una tolerancia mayor, se admiten más errores ortográficos.
 
-**Auto reveal** – indica si, al final de la cuenta atrás, las respuestas se mostrarán automáticamente o si el presentador las revelará manualmente una por una haciendo clic en las respuestas en QuizXpress Director.
+**Reveal mode** (Automatic o Manually) – indica si, al final de la cuenta atrás, las respuestas se mostrarán automáticamente o si el presentador las revelará manualmente una por una haciendo clic en las respuestas en QuizXpress Director.
 
 En este modo, puede especificar varias respuestas correctas, separadas por un punto y coma:
 

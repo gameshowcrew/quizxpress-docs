@@ -8,7 +8,7 @@ Le panneau des miniatures possède un menu contextuel. Faites un clic droit sur 
 
 De là, vous pouvez copier/coller/supprimer une ou plusieurs questions sélectionnées, sélectionner toutes les diapositives, sélectionner toutes les questions (les bannières sont exclues de la sélection lorsque vous utilisez ‘Select Questions’), ou sélectionner toutes les diapositives d’un type précis. Notez que vous pouvez également copier et coller des diapositives de quiz entre deux instances de Studio, ce qui vous permet de créer des « bibliothèques » de questions à partir desquelles vous composez vos quiz spécifiques.
 
-Dans la boîte de dialogue Options (que vous pouvez ouvrir depuis l’onglet HOME > bouton Options), vous pouvez activer l’affichage d’informations supplémentaires pour chaque diapositive dans le panneau des miniatures, comme le numéro réel de la question (tel qu’il apparaît dans QuizXpress Live). Vous trouverez cette option dans l’onglet ‘Other’ de la boîte de dialogue Options :
+Dans la boîte de dialogue Options (que vous pouvez ouvrir depuis l’onglet HOME > bouton Options), vous pouvez activer l’affichage d’informations supplémentaires pour chaque diapositive dans le panneau des miniatures, comme le numéro réel de la question (tel qu’il apparaît dans QuizXpress Live). Vous trouverez cette option dans l’onglet ‘Other’ de la boîte de dialogue Options.
 
 **Réduire/développer les manches**
 

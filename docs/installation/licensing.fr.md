@@ -4,7 +4,7 @@ La suite logicielle QuizXpress est protégée par une clé de licence. La versio
 
 ## Activation
 
-La boîte de dialogue d'activation s'affiche automatiquement au démarrage de QuizXpress Studio si la licence a expiré ou n'est pas présente. Vous pouvez aussi ouvrir la boîte de dialogue manuellement depuis l'onglet HOME en cliquant sur ‘Info’ puis sur ‘Activate’.
+La boîte de dialogue d'activation s'affiche automatiquement au démarrage de QuizXpress Studio si la licence a expiré ou n'est pas présente. Vous pouvez aussi ouvrir la boîte de dialogue manuellement depuis le menu FILE en cliquant sur ‘Info’ puis sur ‘Activate’.
 
 ![](../assets/images/image3.webp){ width="324" loading=lazy }
 

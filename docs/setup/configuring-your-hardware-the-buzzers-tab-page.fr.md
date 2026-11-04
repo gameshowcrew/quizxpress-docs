@@ -30,7 +30,7 @@ Le système de keypads QuizXpress est livré avec une télécommande Quizmaster 
 
 Chaque keypad QuizXpress possède un id unique préprogrammé. Lorsque vous utilisez des keypads QuizXpress, saisissez les ids des appareils utilisés pour le quiz dans le champ « Keypads: » de Quiz Setup. Par exemple, si vous utilisez les keypads 1 à 10, saisissez la plage « 1-10 ». Si vous utilisez les keypads 1, 2, 3, 4 et 6, saisissez le texte « 1,2,3,4,6 ».
 
-Veuillez consulter l'annexe A pour plus d'informations sur l'installation du système de keypads QuizXpress.
+Veuillez consulter [Claviers et buzzers QuizXpress](../hardware-installation/quizxpress-keypads-and-buzzers.md) pour plus d'informations sur l'installation du système de keypads QuizXpress.
 
 !!! note
 
@@ -64,7 +64,7 @@ Ils fournissent un retour visuel pour diverses choses qui se produisent dans le 
 
 - Attribuer une couleur à chaque buzzer pendant les pauses ou les faire clignoter
 
-Vous pouvez configurer diverses options pour les buzzers Galaxy dans l'onglet Galaxy de QuizXpress Director (voir 5.7.9).
+Vous pouvez configurer diverses options pour les buzzers Galaxy dans l'onglet Galaxy de QuizXpress Director (voir [L’onglet Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Torches QuizXpress
 
@@ -84,7 +84,7 @@ Les buzzers Torch peuvent :
 
 - servir à tirer quelqu'un au sort dans la foule ou à désigner un ou plusieurs heureux gagnants
 
-En somme, les torches sont à la fois un appareil Galaxy (voir 4.1.3) et un buzzer. Vous pouvez configurer diverses options pour les Torches dans l'onglet Galaxy de QuizXpress Director (voir 5.7.9).
+En somme, les torches sont à la fois un appareil Galaxy (voir [Appareils sans fil QuizXpress Galaxy RGB](#appareils-sans-fil-quizxpress-galaxy-rgb)) et un buzzer. Vous pouvez configurer diverses options pour les Torches dans l'onglet Galaxy de QuizXpress Director (voir [L’onglet Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Buzzers Fleetwood Reply Systems
 
@@ -96,7 +96,7 @@ QuizXpress fonctionne avec les keypads sans fil Reply® Mini Model CRS5000 et Re
 
 Chaque buzzer Reply Systems possède un id unique préprogrammé (contrairement aux buzzers Sony). Lorsque vous utilisez des buzzers Reply System, ajoutez les ids des buzzers utilisés pour le quiz dans le champ « Keypads: ». Par exemple, si vous utilisez les keypads 1 à 10, saisissez la plage « 1-10 ». Si vous utilisez les keypads 1, 2, 4 et 6, saisissez le texte « 1,2,4,6 ». Définissez aussi le canal de la station de base en sélectionnant le bon canal dans la liste déroulante « Channel ».
 
-Veuillez consulter l'annexe B pour plus d'informations sur l'installation du système Reply.
+Veuillez consulter [Buzzers Fleetwood Reply](../hardware-installation/fleetwood-reply-buzzers.md) pour plus d'informations sur l'installation du système Reply.
 
 !!! note
 

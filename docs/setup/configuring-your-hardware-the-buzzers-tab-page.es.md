@@ -30,7 +30,7 @@ El sistema de mandos de QuizXpress incluye un mando a distancia del presentador 
 
 Cada mando de QuizXpress tiene un identificador único preprogramado. Al utilizar mandos de QuizXpress, introduzca los identificadores de los dispositivos utilizados en el quiz en el campo ‘Keypads:’ de Quiz Setup. Por ejemplo, si utiliza los mandos del 1 al 10, introduzca el intervalo ‘1-10’. Si utiliza los mandos 1, 2, 3, 4 y 6, introduzca el texto ‘1,2,3,4,6’.
 
-Consulte el Apéndice A para obtener más información sobre la instalación del sistema de mandos de QuizXpress.
+Consulte [Mandos y pulsadores QuizXpress](../hardware-installation/quizxpress-keypads-and-buzzers.md) para obtener más información sobre la instalación del sistema de mandos de QuizXpress.
 
 !!! note
 
@@ -64,7 +64,7 @@ Ofrecen respuesta visual sobre diversos acontecimientos del quiz, como:
 
 - Asignar un color a cada pulsador durante los descansos o hacer que parpadeen.
 
-Puede configurar varias opciones de los pulsadores Galaxy en la pestaña Galaxy de QuizXpress Director (véase 5.7.9).
+Puede configurar varias opciones de los pulsadores Galaxy en la pestaña Galaxy de QuizXpress Director (véase [La pestaña Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Linternas QuizXpress
 
@@ -84,7 +84,7 @@ Los pulsadores Torch pueden:
 
 - utilizarse para elegir a alguien del público o seleccionar a un afortunado ganador (o ganadores)
 
-Básicamente, las linternas son un dispositivo Galaxy (véase 4.1.3) y un pulsador en uno. Puede configurar varias opciones de las linternas en la pestaña Galaxy de QuizXpress Director (véase 5.7.9).
+Básicamente, las linternas son un dispositivo Galaxy (véase [Dispositivos inalámbricos QuizXpress Galaxy RGB](#dispositivos-inalambricos-quizxpress-galaxy-rgb)) y un pulsador en uno. Puede configurar varias opciones de las linternas en la pestaña Galaxy de QuizXpress Director (véase [La pestaña Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Pulsadores de Fleetwood Reply Systems
 
@@ -96,7 +96,7 @@ QuizXpress funciona con los mandos inalámbricos Reply® Mini Model CRS5000 y Re
 
 Cada pulsador de Reply Systems tiene un identificador único preprogramado (a diferencia de los pulsadores Sony). Al utilizar pulsadores de Reply Systems, añada los identificadores de los pulsadores utilizados en el quiz al campo ‘Keypads:’. Por ejemplo, si utiliza los mandos del 1 al 10, introduzca el intervalo ‘1-10’. Si utiliza los mandos 1, 2, 4 y 6, introduzca el texto ‘1,2,4,6’. Establezca también el canal de la estación base seleccionando el canal correcto en la lista desplegable ‘Channel’.
 
-Consulte el Apéndice B para obtener más información sobre la instalación del sistema Reply.
+Consulte [Pulsadores Fleetwood Reply](../hardware-installation/fleetwood-reply-buzzers.md) para obtener más información sobre la instalación del sistema Reply.
 
 !!! note
 

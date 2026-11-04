@@ -13,13 +13,13 @@ Pour remplir l'espace réservé avec une ‘vraie’ image, cliquez sur l'espace
 
 Vous pouvez ici cliquer sur ‘Select Picture’ pour ouvrir un explorateur de fichiers et sélectionner sur le disque n'importe quel format de fichier image pris en charge. Ensuite, vous pouvez définir les propriétés de l'image et appliquer des effets ou des transformations statiques. Vous pouvez également glisser-déposer des images (et des vidéos) directement depuis l'Explorateur Windows sur un espace réservé image (ou sur l'arrière-plan de la diapositive pour définir l'image d'arrière-plan).
 
-Les images peuvent aussi avoir une représentation textuelle sous forme de libellé. Vous pouvez définir le libellé en cliquant avec le bouton droit sur l'image et en sélectionnant “Set Label” dans le menu. Ce libellé est utilisé, par exemple, lorsqu'une question avec image est présentée dans l'application Smart Buzzer. Si vous choisissez de ne pas afficher les images sur le téléphone (pour le mode Wi-Fi, voir 4.2.1 et pour le mode serveur, voir 5.7.8.3), le libellé sera affiché à la place sur le téléphone.
+Les images peuvent aussi avoir une représentation textuelle sous forme de libellé. Vous pouvez définir le libellé en cliquant avec le bouton droit sur l'image et en sélectionnant “Set Label” dans le menu. Ce libellé est utilisé, par exemple, lorsqu'une question avec image est présentée dans l'application Smart Buzzer. Si vous choisissez de ne pas afficher les images sur le téléphone (pour le mode Wi-Fi, voir [Configurer le système](../../live/using-mobile-keypads/setting-up-the-system.md) et pour le mode serveur, voir [L’onglet Mobile](../../live/quizxpress-director/the-mobile-tab.md#parametres)), le libellé sera affiché à la place sur le téléphone.
 
 Vous pouvez également cliquer avec le bouton droit sur l'espace réservé pour afficher les options :
 
 Vous pouvez ici choisir d'insérer une image, une vidéo ou un graphique. Lorsque vous avez une mise en page avec plusieurs images, les images peuvent aussi servir de réponses à la question. Dans ce cas, vous pouvez définir une image comme bonne réponse, indiquer l'ordre des images pour une question à réponses ordonnées, ou définir le pourcentage de justesse pour une question avec plusieurs images en réponse.
 
-Vous pouvez aussi générer des images avec l'IA. Pour plus d'informations, reportez-vous à 3.8.4.
+Vous pouvez aussi générer des images avec l'IA. Pour plus d'informations, reportez-vous à [QuizXpress et l'IA](../quizxpress-and-ai.md).
 
 Pour plus d'informations sur les autres paramètres des images, reportez-vous à [Picture properties](../user-interface-overview/advanced-properties-grid.md#proprietes-des-images).
 

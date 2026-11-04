@@ -1,6 +1,6 @@
 # La scheda Galaxy
 
-La scheda Galaxy offre un controllo esteso dei dispositivi LED wireless Galaxy collegati. Questa scheda è visibile solo quando il supporto Galaxy è attivato in Quiz Setup. I dispositivi Galaxy esistono in diverse varianti, come braccialetti, sfere, cubi e QuizXpress Torches.
+La scheda Galaxy offre un controllo esteso dei dispositivi LED wireless Galaxy collegati. Questa scheda è visibile solo se in Quiz Setup è stato scelto un hardware Galaxy; in questo caso, nella scheda Hardware si attiva anche il riquadro ‘Galaxy’. I dispositivi Galaxy esistono in diverse varianti, come braccialetti, sfere, cubi e QuizXpress Torches.
 
 ![](../../assets/images/image464.webp){ width="374" loading=lazy } ![](../../assets/images/image465.webp){ width="103" loading=lazy } ![](../../assets/images/image466.webp){ width="115" loading=lazy }
 

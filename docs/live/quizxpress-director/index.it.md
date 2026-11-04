@@ -18,6 +18,8 @@ Le schede disponibili in Director sono:
 | **Moduli** | Elenco dei moduli aggiuntivi QuizXpress installati e controlli per avviare, arrestare e configurare tali moduli |
 | **Media Player** | Un elenco di file multimediali (audio e video) e controlli per aggiungere, avviare, arrestare o mettere in pausa un file (è anche possibile riavviare un video o un audio della diapositiva corrente, se presente), più una [Sound Board](the-media-player-tab.md#la-console-dei-suoni) per riprodurre i file con un clic |
 | **Mobile** | Un elenco dei dispositivi mobili connessi e vari comandi per gestire le connessioni mobili |
+| **Hardware** | Stato dell’hardware collegato (pulsantiere/buzzer, tabelloni segnapunti, Galaxy), con il pulsante ‘Riconnetti’ per ognuno; per i tabelloni segnapunti anche ‘Mostra ID’, ‘Mostra Punteggio’ e la luminosità |
+| **[Galaxy](the-galaxy-tab.md)** | Controllo dei dispositivi LED Galaxy: colore unico, Lucky Winner(s) e spettacolo di luci *(visibile solo se in Quiz Setup è stato scelto un hardware Galaxy)* |
 
 Esistono due modi per aprire la finestra di Director:
 

@@ -13,13 +13,13 @@ Per riempire il segnaposto con un'immagine ‘vera’, fare clic sul segnaposto 
 
 Qui è possibile fare clic su ‘Select Picture’ per aprire un file browser e selezionare dal disco uno qualsiasi dei formati di file immagine supportati. Successivamente è possibile impostare le proprietà dell'immagine e applicare effetti o trasformazioni statiche. È inoltre possibile trascinare immagini (e video) direttamente da Esplora risorse di Windows su un segnaposto per immagine (o sullo sfondo della diapositiva per impostare l'immagine di sfondo).
 
-Le immagini possono anche avere una rappresentazione testuale sotto forma di etichetta. È possibile impostare l'etichetta facendo clic con il pulsante destro del mouse sull'immagine e selezionando “Set Label” dal menu. Un esempio di utilizzo di questa etichetta è la presentazione di una domanda con immagine nell'app Smart Buzzer. Se si sceglie di non mostrare le immagini sul telefono (per la modalità Wi-Fi, vedere 4.2.1 e per la modalità server vedere 5.7.8.3), sul telefono verrà mostrata invece l'etichetta.
+Le immagini possono anche avere una rappresentazione testuale sotto forma di etichetta. È possibile impostare l'etichetta facendo clic con il pulsante destro del mouse sull'immagine e selezionando “Set Label” dal menu. Un esempio di utilizzo di questa etichetta è la presentazione di una domanda con immagine nell'app Smart Buzzer. Se si sceglie di non mostrare le immagini sul telefono (per la modalità Wi-Fi, vedere [Configurazione del sistema](../../live/using-mobile-keypads/setting-up-the-system.md) e per la modalità server vedere [La scheda Mobile](../../live/quizxpress-director/the-mobile-tab.md#impostazioni)), sul telefono verrà mostrata invece l'etichetta.
 
 In alternativa, è possibile fare clic con il pulsante destro del mouse sul segnaposto per visualizzare le opzioni:
 
 Qui è possibile scegliere di inserire un'immagine, un video o un grafico. Quando si ha un layout con più immagini, le immagini possono anche fungere da risposte alla domanda. In tal caso, è possibile impostare un'immagine come risposta corretta, indicare l'ordine delle immagini per una domanda a risposte ordinate oppure impostare la percentuale di correttezza per una domanda con più immagini come risposte.
 
-È inoltre possibile generare immagini con l'IA. Per ulteriori informazioni, fare riferimento a 3.8.4.
+È inoltre possibile generare immagini con l'IA. Per ulteriori informazioni, fare riferimento a [QuizXpress e l'IA](../quizxpress-and-ai.md).
 
 Per ulteriori informazioni sulle altre impostazioni delle immagini, fare riferimento a [Picture properties](../user-interface-overview/advanced-properties-grid.md#proprieta-delle-immagini).
 

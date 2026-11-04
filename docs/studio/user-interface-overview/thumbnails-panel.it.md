@@ -8,7 +8,7 @@ Il pannello delle miniature dispone di un menu contestuale. Fare clic con il tas
 
 Da qui è possibile copiare/incollare/eliminare una o più domande selezionate, selezionare tutte le diapositive, selezionare tutte le domande (i tabelloni sono esclusi dalla selezione quando si usa ‘Seleziona Domande’) o selezionare tutte le diapositive di un tipo specifico. Si noti che è anche possibile copiare e incollare diapositive del quiz tra due istanze di Studio, il che consente di creare “librerie” di domande da cui costruire i propri quiz specifici.
 
-Nella finestra di dialogo Opzioni (apribile dalla scheda HOME > pulsante Opzioni) è possibile abilitare il pannello delle miniature per mostrare informazioni aggiuntive per ogni diapositiva, come l’effettivo numero della domanda (come mostrato in QuizXpress Live). Questa opzione si trova nella scheda ‘Altro’ della finestra di dialogo Opzioni:
+Nella finestra di dialogo Opzioni (apribile dalla scheda HOME > pulsante Opzioni) è possibile abilitare il pannello delle miniature per mostrare informazioni aggiuntive per ogni diapositiva, come l’effettivo numero della domanda (come mostrato in QuizXpress Live). Questa opzione si trova nella scheda ‘Altro’ della finestra di dialogo Opzioni.
 
 **Comprimere/espandere i round**
 

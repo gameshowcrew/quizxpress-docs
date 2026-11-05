@@ -1,19 +1,19 @@
 # Panoramica
 
-QuizXpress Mobile consente ai giocatori di utilizzare il proprio telefono cellulare come dispositivo di input. I giocatori possono partecipare a un quiz visitando il nostro sito web buzzerpad (è necessaria una connessione internet) e inserendo il codice PIN mostrato a schermo per connettersi.
+QuizXpress Mobile consente ai giocatori di utilizzare i dispositivi mobili come strumento di input. I giocatori possono partecipare a un quiz navigando sul nostro sito web buzzerpad (è necessaria la connessione a Internet) e inserendo il codice PIN visualizzato sullo schermo per connettersi.
 
-QuizXpress Mobile offre anche un modo per giocare con i telefoni cellulari senza connessione internet. In questa soluzione, i giocatori scaricano l'app QuizXpress Smart Buzzer, disponibile per iOS e Android. Un router Wi-Fi viene collegato al computer e tutti i giocatori vi si connettono con il proprio telefono. Dopo l'avvio di un quiz, i giocatori possono connettersi nell'app Smart Buzzer premendo il pulsante *JOIN Wi-Fi Game*. L'app Smart Buzzer supporta anche il gioco tramite internet inserendo un codice PIN.
+QuizXpress Mobile offre anche un modo per giocare con i dispositivi mobili senza che sia disponibile una connessione a Internet. Con questa soluzione, i giocatori scaricano l'app QuizXpress Smart Buzzer, disponibile per iOS e Android. Al computer viene collegato un router Wi-Fi a cui tutti i giocatori si collegano con il proprio dispositivo. Dopo aver avviato un quiz, i giocatori possono connettersi attraverso l'app Smart Buzzer premendo il pulsante ‘Accedi con WiFi locale’. L'app Smart Buzzer supporta anche il gioco via Internet, inserendo un codice PIN.
 
 Con questa aggiunta, QuizXpress ora supporta:
 
-| **Scenario** |                                                                | **Internet necessario** | **Router Wi-Fi necessario** | **Dispositivo mobile necessario** | **Installazione di un'app mobile necessaria** |
+| **Scenario** | | **Connessione Internet** | **Router Wi-Fi** | **Dispositivi Mobili** | **App Smart Buzzer** |
 |--------------|----------------------------------------------------------------|-----------------------|---------------------------|----------------------------|-----------------------------------------|
-| 1            | Pulsantiere wireless basate su RF                                   | No                    | No                        | No                         | No                                      |
+| 1 | Pulsantiere/Buzzer Hardware wireless RF | No | No | No | No |
 | 2            | Dispositivi mobili su buzzerpad.com tramite browser web       | Sì                    | No                        | Sì                         | No                                      |
-| 3            | Dispositivo mobile con l'app Smart Buzzer su Wi-Fi locale      | No                    | Sì                        | Sì                         | Sì                                      |
-| 4            | Dispositivo mobile con l'app Smart Buzzer su buzzerpad.com tramite PIN | Sì            | No                        | Sì                         | Sì                                      |
+| 3 | Dispositivi Mobili con l'app Smart Buzzer su Wi-Fi locale | No | Sì | Sì | Sì |
+| 4 | Dispositivi Mobili con l'app Smart Buzzer su buzzerpad.com tramite PIN | Sì | No | Sì | Sì |
 
-Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipende dalle esigenze specifiche.
+Tutti gli scenari hanno differenti pro e contro e la soluzione preferibile dipende dalle specifiche esigenze.
 
 <table>
 <colgroup>
@@ -30,7 +30,7 @@ Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipen
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>1 Pulsantiere RF wireless</strong></td>
+<td><strong>1 Hardware RF wireless</strong></td>
 <td><p>Nessuna dipendenza esterna da internet, Wi-Fi o dispositivi mobili.</p>
 <p>Semplice da usare per i giocatori.</p></td>
 <td>Nessuna capacità di input estesa (solo ABCDEF e Dito più Veloce). Logistica per fornire le pulsantiere ai giocatori e ritirarli al termine.</td>
@@ -41,14 +41,14 @@ Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipen
 <td>È necessaria una connessione internet</td>
 </tr>
 <tr class="odd">
-<td><strong>3 App su Wi-Fi locale</strong></td>
+<td><strong>3 App Smart Buzzer su Wi-Fi locale</strong></td>
 <td><p>Comunicazione veloce a bassa latenza.</p>
 <p>Supporto della modalità headless (senza schermo centrale).</p>
 <p>Supporto di tipi di input estesi.</p></td>
 <td>Con un'infrastruttura di base (router Wi-Fi standard) sono supportati solo piccoli gruppi di circa 50 giocatori. Nota: se non è disponibile alcuna connessione internet o dati mobili, assicurarsi che i giocatori abbiano già scaricato l'app in anticipo</td>
 </tr>
 <tr class="even">
-<td><strong>4 App con internet completo</strong></td>
+<td><strong>4 App Smart Buzzer con internet disponibile</strong></td>
 <td><p>Supporto di grandi gruppi</p>
 <p>Capacità di input estese</p>
 <p>Nessuna configurazione Wi-Fi locale necessaria</p></td>
@@ -57,44 +57,44 @@ Tutti gli scenari hanno vantaggi e svantaggi diversi, e la scelta migliore dipen
 </tbody>
 </table>
 
-La pulsantiera mobile (sia buzzerpad sia l'app Smart Buzzer) offre ottime funzionalità:
+La pulsantiera mobile (sia buzzerpad sia l’app Smart Buzzer) è dotata di alcune notevoli caratteristiche:
 
-- Le domande sono presentate interamente sul dispositivo mobile, comprese immagini ed effetti.
+- Le domande sono presentate in modo completo sul dispositivo mobile, comprese le immagini e gli effetti.
 
 - Vari tipi di domande specifici per l'uso di un telefono cellulare:
 
-  - Domande numeriche, ad esempio per chiedere il risultato di una formula o un anno storico.
+  - Domande Numeriche, per esempio per chiedere il risultato di una formula o un anno storico.
 
-  - Domande a testo libero (risposta singola o multipla)
+  - Domande Testuali (risposta singola o multipla)
 
-  - Domande sulla prima lettera (A-Z)
+  - Domande Lettera Iniziale (A-Z)
 
 - Punti bonus personalizzabili per le prime 3 squadre più veloci a rispondere correttamente.
 
-- Esperienza migliorata per le domande di ordinamento e per le domande con più risposte corrette. Gli utenti possono prima ordinare le risposte sul proprio dispositivo e poi inviare il risultato a QuizXpress in un'unica operazione.
+- Esperienza migliorata per le domande ordinate e le domande con più risposte corrette. I giocatori possono ordinare prima le risposte sul proprio dispositivo e poi inviare il risultato a QuizXpress in una sola volta.
 
-- Funzionalità di controllo remoto tramite l'app Mobile QuizXpress Director disponibile per iOS e Android. Per ulteriori informazioni, fare riferimento a 5.2.4.4.
+- Funzionalità di controllo remoto tramite l'app Mobile QuizXpress Director disponibile per iOS e Android. Per ulteriori informazioni, consultare [QuizXpress Director App](using-the-mobile-apps.md#app-telecomando-mobile-director).
 
-Oltre alle funzionalità sopra elencate, l'app Smart Buzzer offre alcune funzionalità aggiuntive:
+Oltre alle caratteristiche sopra descritte, l'app Smart Buzzer offre alcune funzioni aggiuntive:
 
-- Branding designer per personalizzare l'app mobile con loghi e colori.
+- ‘Personalizza’ per personalizzare l'app mobile con immagine di benvenuto, immagine di sfondo e logo.
 
-- Supporto della «modalità headless» per presentare un quiz senza schermo centrale.
+- Supporto della ‘Modalità Headless’ per presentare un quiz senza la necessità di uno schermo di proiezione.
 
-- Jingle di squadra selezionabili dall'utente. Se è stato configurato l'uso dei jingle impostando la cartella Jingles nelle impostazioni (fare riferimento a [Configurazione dei suoni – la scheda Sounds](../../setup/configuring-sounds-the-sounds-tab-page.md) ), ai giocatori verrà mostrato un elenco di tutti i frammenti sonori disponibili. Ogni giocatore può scegliere un jingle che verrà utilizzato durante la partita nelle situazioni seguenti:
+- Jingle di squadra selezionabili dall'utente. Se è stato configurato l'uso dei jingle impostando la cartella Jingles nelle impostazioni (fare riferimento a [Configurare i suoni – la scheda Audio](../../setup/configuring-sounds-the-sounds-tab-page.md) ), ai giocatori verrà mostrato un elenco di tutti i frammenti sonori disponibili. Ogni giocatore può scegliere un jingle che verrà utilizzato durante la partita nelle situazioni seguenti:
 
 <!-- -->
 
-- Punti bonus - il suono del giocatore che ha dato per primo la risposta corretta viene riprodotto quando viene mostrata la schermata dei punti bonus.
+- Punti bonus – il suono del giocatore che per primo fornisce la risposta corretta viene riprodotto quando viene mostrata la schermata dei punti bonus.
 
-- Dito più Veloce – viene riprodotto il suono del giocatore che ha premuto per primo, mentre il nome del giocatore compare sullo schermo nel quiz player.
+- Dito più Veloce – viene riprodotto il file audio del giocatore che ha premuto per primo, insieme al suo nome che appare sullo schermo del quiz.
 
-- Panoramiche dei punteggi intermedi – il suono del giocatore classificato per primo viene riprodotto quando viene mostrata la classifica.
+- Punteggi intermedi – il suono del giocatore al primo posto in classifica viene riprodotto quando si mostra la classifica.
 
 Alcuni esempi di scenari supportati sono:
 
-- Un DJ che presenta un quiz in un pub locale senza copertura 4G. I clienti scaricano l'app una sola volta e si connettono a un router Wi-Fi locale per giocare. Il pub non ha un televisore, quindi il Quizmaster usa la modalità headless. Il DJ ha personalizzato l'app per adattarla allo stile della propria azienda utilizzando il QuizXpress Branding Designer.
+- Un DJ che presenta un quiz in un pub locale senza copertura dati. I visitatori scaricano l'app Smart Buzzer e si collegano a un router Wi-Fi locale per giocare. Il pub non ha un televisore o un monitor, quindi il Quizmaster utilizza la Modalità Headless. Il DJ ha personalizzato l'app utilizzando la Personalizzazione App di QuizXpress.
 
-- Una grande azienda di eventi che presenta un quiz per un grande gruppo. L'azienda non vuole che il pubblico installi un'app, quindi utilizza buzzerpad.com e un codice PIN per far partecipare le persone. Il quiz è presentato su uno schermo gigante che mostra video, suoni e immagini.
+- Un’agenzia di eventi che presenta un quiz per un grande gruppo. L'azienda non vuole che il pubblico installi un'app, quindi utilizza il server buzzerpad e un codice PIN per far partecipare le persone. Il quiz viene presentato su un grande schermo che mostra video, suoni e immagini.
 
-- Un'azienda di eventi che trasmette un quiz via internet a migliaia di giocatori, utilizzando un codice PIN in modalità server. L'azienda ha venduto in anticipo i biglietti ai giocatori; i biglietti vengono convalidati quando un giocatore si connette alla partita e inserisce il proprio codice nel popup che compare.
+- Un’agenzia di eventi che trasmette un quiz in streaming su internet a migliaia di giocatori utilizzando un codice PIN in modalità server. La società ha venduto i biglietti ai giocatori anticipatamente. I biglietti vengono convalidati quando il giocatore si connette alla partita e inserisce il proprio codice nel popup che appare.

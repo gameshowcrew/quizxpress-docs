@@ -40,7 +40,7 @@ Come si vedrà in questo manuale, il software è facile da usare, ha un'interfac
 
 - Supporto per il Bingo Trivia, Number ed Emoji (disponibile come modulo opzionale) tramite l'app mobile o l'app per browser QuizXpress Smart Buzzer.
 
-- App mobili gratuite per dispositivi iOS e Android, che consentono tipi di domanda più avanzati con risposte numeriche, a prima lettera o a testo completo, oltre a una pulsantiera mobile basata sul web per quando installare un'app non è possibile o desiderato.
+- App mobili gratuite per dispositivi iOS e Android, che consentono tipi di domanda più avanzati con risposte Numeriche, Testuali o a Lettera Iniziale, oltre a una pulsantiera mobile web based per quando installare un'app non è possibile o desiderato.
 
 - L'app web buzzer di QuizXpress disponibile su [www.buzzerpad.com](http://www.buzzerpad.com) e [www.buzzerpad.eu](http://www.buzzerpad.eu).
 

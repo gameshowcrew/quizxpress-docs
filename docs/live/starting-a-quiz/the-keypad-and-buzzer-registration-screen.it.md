@@ -24,7 +24,7 @@ Quando viene premuto un tasto della pulsantiera/buzzer, questa viene registrata 
 
 Non è strettamente necessario che i buzzer si registrino esplicitamente. Tuttavia, il software QuizXpress Live deve sapere esattamente quante squadre partecipano, in modo da stabilire quando tutte le squadre hanno risposto a una domanda e interrompere il conto alla rovescia.
 
-Il pulsante mostrato in basso è il pulsante «Start», che avvia il quiz. Di seguito sono riportate due schermate di esempio: una mostra la schermata prima che i partecipanti effettuino la registrazione l'altra mostra lo stato dello schermo una volta che tutti i partecipanti hanno eseguito la registrazione.
+Il pulsante mostrato in basso è il pulsante «Start», che avvia il quiz. Di seguito sono riportate due schermate di esempio: una mostra la schermata prima che i partecipanti effettuino la registrazione l'altra mostra lo stato dello schermo una volta che tutti i partecipanti hanno eseguito la registrazione.
 
 | ![](../../assets/images/image404.webp){ loading=lazy } | ![](../../assets/images/image405.webp){ loading=lazy } |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
@@ -35,7 +35,7 @@ Il pulsante mostrato in basso è il pulsante «Start», che avvia il quiz. Di se
 
 ## La schermata di assegnazione con più di 100 partecipanti { #schermata-buzzer-assignment-piu-di-100-partecipanti }
 
-Quando vengono utilizzati più di 100 buzzer, l’utilizzo di una griglia comprometterebbe la sua buona visione e la sua lettura. In questo caso, QuizXpress Live! propone un'altra schermata di assegnazione pulsantiere. Si veda sotto uno screenshot della schermata
+Quando vengono utilizzati più di 100 buzzer, l’utilizzo di una griglia comprometterebbe la sua buona visione e la sua lettura. In questo caso, QuizXpress Live! propone un'altra schermata di assegnazione pulsantiere. Si veda sotto uno screenshot della schermata
 
 ![](../../assets/images/buzzer-assignment-more-than-100.webp){ width="605" loading=lazy }
 

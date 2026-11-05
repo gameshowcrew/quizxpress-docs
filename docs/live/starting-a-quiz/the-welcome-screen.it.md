@@ -1,6 +1,6 @@
 # La schermata di Benvenuto
 
-Quando si avvia un quiz, la prima schermata ad apparire è la schermata di benvenuto mostrata nella schermata di esempio qui sotto. Diversi elementi della schermata di benvenuto possono essere personalizzati utilizzando l’applicazione Quiz Setup. Gli elementi personalizzabili sono contrassegnati visivamente nello screenshot.
+Quando si avvia un quiz, la prima schermata ad apparire è la schermata di benvenuto mostrata nella schermata di esempio qui sotto. Diversi elementi della schermata di benvenuto possono essere personalizzati utilizzando l’applicazione Quiz Setup. Gli elementi personalizzabili sono contrassegnati visivamente nello screenshot.
 
 1. Il testo della banda superiore (intestazione)
 

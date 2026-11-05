@@ -8,7 +8,7 @@ Nella parte inferiore della schermata, sono visualizzati una serie di pulsanti c
 
 In alternativa, quando QuizXpress Director è aperto, i pulsanti non sono visibili nella parte inferiore. In tal caso è possibile scorrere i punteggi con i pulsanti mostrati in Director sul lato sinistro, con la tastiera del computer (spazio/pagina su/pagina giù) o con la pulsantiera Master (hardware o app).
 
-Per aumentare la suspense, è possibile attivare la seguente opzione in Quiz Setup, nella scheda ‘Classifiche’, sezione ‘Classifica Finale’, sotto ‘Classico’:
+Per aumentare la suspense, è possibile attivare la seguente opzione in Quiz Setup, nella scheda ‘Classifiche’, sezione ‘Classifica Finale’, sotto ‘Classica’:
 
 ![](../../assets/images/image435.webp){ width="435" loading=lazy }
 

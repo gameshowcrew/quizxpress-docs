@@ -24,7 +24,7 @@ Quando la partita si svolge con un router Wi-Fi collegato al computer, il pulsan
 
 Quando si gioca senza router Wi-Fi, e quindi ci si connette da remoto tramite internet, il quiz player mostra sullo schermo un PIN. I giocatori possono inserire questo PIN premendo «Join game with PIN».
 
-In alternativa, i giocatori possono connettersi con un codice QR. Quando il quiz è avviato, premere il tasto ‘Q’ sulla tastiera, oppure ‘Mostra Codice QR’ in QuizXpress Director, per mostrare il codice sullo schermo. I giocatori toccano ‘Accedi con QR’ nell'app, inquadrano il codice con la fotocamera del dispositivo e vengono collegati al quiz senza dover inserire il PIN.
+In alternativa, i giocatori possono connettersi con un codice QR. Quando il quiz è avviato, premere il tasto ‘Q’ sulla tastiera, oppure ‘Mostra Codice QR’ in QuizXpress Director, per mostrare il codice sullo schermo. I giocatori inseriscono il proprio nome, toccano ‘Accedi con QR’ nell'app, inquadrano il codice con la fotocamera del dispositivo e vengono collegati al quiz senza dover inserire il PIN.
 
 Dopo l'accesso viene mostrata la schermata di benvenuto configurata nella sezione Branding delle impostazioni (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)).
 

@@ -176,7 +176,7 @@ La scheda Controlli permette di gestire il quiz. Sono disponibili i seguenti pul
 
 - Pulsante **Classifica** – mostra i punteggi intermedi attuali.
 
-- Pulsante **Lente** – passa dai dettagli della domanda corrente all'elenco di tutte le domande
+- Pulsante **Espandi** – espande la domanda, passando dall'elenco di tutte le domande ai dettagli della domanda corrente e viceversa
 
 - Pulsante **Freccia** – fa avanzare alla diapositiva successiva.
 

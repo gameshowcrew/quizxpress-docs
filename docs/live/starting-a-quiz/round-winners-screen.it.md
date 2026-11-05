@@ -1,3 +1,3 @@
 # La schermata Vincitori Round
 
-Quando in un quiz sono presenti dei round (sono presenti diapositive End of Round), premendo Ctrl-E viene mostrato il giocatore vincitore di ciascun round.
+Quando il quiz prevede dei round (sono presenti diapositive Fine Round), premendo Ctrl-E viene mostrato il giocatore vincente di ogni round.

@@ -118,13 +118,13 @@ Una diapositiva "Fine Round" può essere utilizzata anche per i round di tipo "U
 
 ## Domanda Test { #test-question }
 
-Una diapositiva di quiz ‘Test Question’ si comporta come una normale diapositiva di quiz, tranne che non vengono aggiunti/sottratti punti quando la domanda ha ricevuto risposta. Può essere usata per dimostrare come funziona il sistema ed è spesso utilizzata come prima domanda di un quiz per far familiarizzare i giocatori con il sistema.
+La diapositiva quiz “Domanda Test” si comporta esattamente come una diapositiva quiz normale, salvo che non vengono sommati/sottratti punti quando la domanda è stata risposta. Può essere utilizzata per illustrare il funzionamento del sistema ed è spesso utilizzata come domanda rompi-ghiaccio in un quiz per fare familiarizzare i giocatori con il sistema.
 
 ## Demografica { #demographic }
 
-Il tipo di diapositiva di quiz ‘Demographic’ consente di dividere tutti i giocatori in gruppi diversi che competono tra loro (esempi di questo tipo di quiz includono «battaglia dei sessi», «marketing contro finanza», ecc.).
+La diapositiva quiz di tipo 'Demografica' consente di suddividere tutti i giocatori in gruppi diversi in competizione l'uno contro l'altro (esempi di questa tipologia di quiz possono essere “la battaglia dei sessi”, “Amministrazione contro Venditori”, ecc.).
 
-Per utilizzare questa funzionalità, impostare il tipo di una diapositiva di quiz su ‘Demographic’ in QuizXpress Studio. Nella griglia delle proprietà compare quindi un campo di immissione chiamato ‘Demographic group’, in cui è possibile inserire il nome di un gruppo demografico (ad es. ‘Males’). Per il layout della diapositiva di quiz, è necessario selezionare un layout che contenga una domanda e nessuna risposta. Inserire un testo della domanda che indichi ai giocatori che un certo gruppo di persone deve premere il proprio buzzer per diventare membro di un gruppo specifico (ad es. «Premete il buzzer se siete uomini»).
+Per utilizzare questa funzionalità, in QuizXpress Studio selezionare 'Demografica' nel campo 'Tipo' di diapositiva quiz. Verrà visualizzato un campo di immissione nella griglia delle proprietà chiamato ‘Gruppo Demografico’. Qui è possibile inserire un nome di gruppo demografico (ad esempio, " Maschi"). Il layout di questo tipo di diapositiva quiz, deve contenere una domanda e nessuna risposta. Immettere un testo della domanda che indichi ai giocatori del quiz che un certo gruppo di persone deve premere la propria pulsantiera per diventare membro di un gruppo specifico (per esempio: 'Per favore, tutti i giocatori maschi premano la propria pulsantiera).
 
 !!! note
 
@@ -132,22 +132,22 @@ Per utilizzare questa funzionalità, impostare il tipo di una diapositiva di qui
 
 ## Ultimo Uomo { #last-man-standing }
 
-Una diapositiva di quiz di tipo ‘Last Man Standing’ elimina dal round del quiz ogni giocatore che risponde in modo errato a una domanda. Se dopo l'eliminazione rimane un solo giocatore, questi vince il round e il quiz passa alla prima diapositiva End of Round incontrata, oppure alla fine del quiz. Se invece tutti i giocatori rimasti rispondono in modo errato a una domanda, nessuno di essi viene eliminato.
+Una domanda di tipo “Ultimo Uomo” elimina da un round quiz tutti i giocatori/squadre che rispondono ad una domanda in modo errato. Quando resterà in gara un solo giocatore, questo giocatore sarà il vincitore del round ed il quiz avanzerà sino alla prossima diapositiva “Fine del Round” o sino alla fine del quiz qualora non ne trovasse. Nel caso tutti i giocatori rimasti rispondano ad una domanda in modo errato tuttavia, nessuno sarà eliminato.
 
 ## Audience Response { #domande-di-risposta-del-pubblico }
 
-Questo è un tipo di domanda che può essere utilizzato per raccogliere dati/statistiche arbitrari dal pubblico. Le risposte date a una domanda di risposta del pubblico vengono registrate ma non hanno alcun impatto sui punteggi. Dopo una domanda di risposta del pubblico, è possibile mostrare un grafico con il tasto «C» per visualizzare la distribuzione delle risposte date.
+Questo tipo di domanda può essere utilizzato per raccogliere alcuni dati arbitrari o sondaggi dal pubblico. Le risposte date ad una domanda di tipo “Audience Response” sono registrate ma non hanno alcun impatto sui punteggi. Dopo aver concluso una domanda “Audience Response”, premendo il tasto 'C' della tastiera è possibile visualizzare un grafico con la distribuzione delle risposte date.
 
 ![](../../assets/images/image419.webp){ width="604" loading=lazy }
 
 ## Scommessa { #domanda-wager }
 
-Le domande Wager possono essere usate per far scommettere il pubblico sull'esito della domanda successiva. Consentono di creare domande «in stile Jeopardy» in cui le persone puntano punti in base a quanto ritengono di sapere su un argomento.
+La domanda di tipo “Scommessa” può essere usata per proporre ai partecipanti di scommettere sul risultato della domanda successiva. Permettono di creare "domande in stile Jeopardy" dove le persone scommettono punti in base a quanto pensano di saperne su un argomento. Quando si imposta una diapositiva quiz di tipo “Scommessa”, in QuizXpress Studio apparirà come segue:
 
-Quando si imposta una diapositiva di quiz sul tipo ‘Wager’, in QuizXpress Studio appare come segue:
+Quando si imposta una diapositiva di quiz sul tipo ‘Scommessa’, in QuizXpress Studio appare come segue:
 
 ![](../../assets/images/image420.webp){ loading=lazy }
 
-Il testo della domanda viene modificato per impostazione predefinita in «Please place your bet for the next question…», ma il testo può essere cambiato in seguito a piacere. Le risposte a questo tipo di domanda servono a impostare la percentuale del punteggio che il giocatore può vincere o perdere nella domanda successiva. Ad esempio, se il giocatore risponde ‘C’ a questa domanda, significa che punta il 66% del proprio punteggio sulla domanda successiva. Se risponde correttamente alla domanda successiva, il suo punteggio aumenta del 66%. Naturalmente, se si utilizza un layout di diapositiva con cinque risposte, le percentuali sono distribuite su cinque opzioni (0%, 25%, 50%, 75% e 100%). È anche possibile impostare la percentuale manualmente facendo clic su una qualsiasi delle risposte e modificando la proprietà ‘Wager %’.
+Il testo predefinito della domanda è " Scegli quanto desideri scommettere sulla prossima domanda…” ma è possibile modificare il testo a proprio piacimento. Le risposte a questo tipo di domanda sono utilizzate per impostare la percentuale del proprio punteggio che il giocatore può vincere/perdere con la domanda successiva. Per esempio, se il giocatore sceglie 'C' a questa domanda, significa che vuole scommettere il 66% del suo punteggio nella domanda successiva. Se risponde correttamente alla domanda successiva, il suo punteggio aumenterà del 66%. In caso di risposta errata, perderà il 66% del proprio punteggio. Chiaramente, se si utilizza un layout di diapositiva con 5 risposte, le percentuali saranno suddivise automaticamente in 5 (0%, 25%, 50%, 75% e 100%). È comunque possibile impostare la percentuale manualmente facendo clic su una qualsiasi delle risposte e cambiando il valore “Scommessa %” nel pannello delle proprietà.
 
-Le puntate (wager) possono essere usate anche con un numero di punti anziché una percentuale.
+Le domande scommessa possono anche essere utilizzate con una quantità di punti invece di una percentuale.

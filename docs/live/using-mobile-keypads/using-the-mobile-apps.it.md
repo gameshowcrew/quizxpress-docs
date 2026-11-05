@@ -164,7 +164,7 @@ La scheda Controlli permette di gestire il quiz. Sono disponibili i seguenti pul
 
     I pulsanti ERT e il controllo volume sono attualmente disponibili solo su Android. La versione per iOS sarà resa disponibile prossimamente.*
 
-1. La scheda Moduli Gioco consente di avviare al volo i Moduli Gioco. Selezionare un Modulo Gioco e premere il pulsante. Avanzare nel Modulo Gioco facendo clic sul tasto freccia.
+1. La scheda Moduli consente di avviare al volo i Moduli Gioco. Selezionare un Modulo Gioco e premere il pulsante. Avanzare nel Modulo Gioco facendo clic sul tasto freccia.
 
 2. La scheda Domande mostra tutte le domande, le risposte corrette, le note e una miniatura delle diapositive. In basso sono disponibili i seguenti pulsanti:
 

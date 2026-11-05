@@ -17,3 +17,6 @@ In the advanced properties of the question or answer texts, you can tweak the an
 You can use this feature if you want to read the question aloud without revealing it immediately, or to put players on the wrong track by showing the answers directly while the question appears over time (players might choose the wrong answer by making assumptions about the question).
 
 If you want to preview the text reveal, press F5 to show a preview of the slide in fullscreen.
+
+!!! tip
+    To let the question and answers fly in, fade in or bounce in as a whole, see [Entrance animations](entrance-animations.md).

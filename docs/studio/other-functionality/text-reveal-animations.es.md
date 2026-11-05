@@ -17,3 +17,6 @@ En las propiedades avanzadas de los textos de pregunta o respuesta, puede ajusta
 Puede usar esta función si desea leer la pregunta en voz alta sin revelarla de inmediato, o para despistar a los jugadores mostrando las respuestas directamente mientras la pregunta aparece poco a poco (los jugadores podrían elegir la respuesta equivocada haciendo suposiciones sobre la pregunta).
 
 Si desea previsualizar el revelado del texto, pulse F5 para mostrar una vista previa de la diapositiva a pantalla completa.
+
+!!! tip
+    Para que la pregunta y las respuestas entren deslizándose, de forma gradual o rebotando, consulta [Animaciones de entrada](entrance-animations.md).

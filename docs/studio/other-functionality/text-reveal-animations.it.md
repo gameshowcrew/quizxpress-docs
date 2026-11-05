@@ -17,3 +17,6 @@ Nelle proprietà avanzate dei testi della domanda o della risposta è possibile 
 Questa funzione è utile se si desidera leggere la domanda ad alta voce senza rivelarla subito, oppure per trarre in inganno i giocatori mostrando subito le risposte mentre la domanda compare gradualmente (i giocatori potrebbero scegliere la risposta sbagliata facendo supposizioni sulla domanda).
 
 Per visualizzare un'anteprima della comparsa del testo, premere F5 per mostrare l'anteprima della diapositiva a schermo intero.
+
+!!! tip
+    Per far entrare la domanda e le risposte scorrendo, in dissolvenza o rimbalzando, vedi [Animazioni di entrata](entrance-animations.md).

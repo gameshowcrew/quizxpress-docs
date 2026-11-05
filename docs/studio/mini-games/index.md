@@ -36,4 +36,6 @@ Currently 14 mini games are available, of which 3 are freely available in the Qu
 
 - *Randomizer*. Randomly draw one or more players from the audience, one or more numbers or one or more items from a list.
 
+- A [*Website*](website.md) module that shows a website of your choice full screen during the quiz, for example a sponsor page or a live scoreboard. This is a free plugin.
+
 This section will explain more about the configuration options of the mini games. It will show the configuration window for each mini game along with a description of the options.

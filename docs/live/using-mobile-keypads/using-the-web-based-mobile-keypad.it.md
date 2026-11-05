@@ -1,4 +1,4 @@
-# Usare la pulsantiera mobile basata sul web
+# Utilizzo della Pulsantiera Mobile web based
 
 La pulsantiera web può essere utilizzato quando è disponibile una connessione a internet e non si desidera che i giocatori scarichino l'app Smart Buzzer. I giocatori possono semplicemente unirsi al quiz con un normale browser web, seguendo questi passaggi:
 

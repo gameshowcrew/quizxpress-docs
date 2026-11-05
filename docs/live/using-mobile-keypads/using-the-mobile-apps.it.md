@@ -1,4 +1,4 @@
-# Usare le app mobili di QuizXpress
+# Utilizzo delle App Mobili QuizXpress
 
 QuizXpress Mobile offre anche due app, entrambe disponibili per Android e iOS.
 
@@ -14,7 +14,7 @@ Per l'ospite/presentatore del quiz è disponibile un'app separata chiamata *Quiz
 
 Le sezioni seguenti descrivono le app in modo più dettagliato.
 
-## App QuizXpress Smart Buzzer
+## QuizXpress Smart Buzzer App { #app-quizxpress-smart-buzzer }
 
 Quando si avvia l'app, i giocatori vedono l'opzione per unirsi a una partita tramite Wi-Fi locale o tramite PIN.
 
@@ -82,7 +82,7 @@ L'app Smart Buzzer supporta la visualizzazione di immagini «promozionali» dura
 
 ![](../../assets/images/image387.webp){ width="526" loading=lazy }
 
-## Thumbs Up/Thumbs Down
+## Pollice Su/Pollice Giù { #thumbs-upthumbs-down }
 
 Con questa modalità di gioco, i giocatori possono guadagnare punti extra votando la correttezza della risposta verbale di un altro giocatore a una domanda aperta. Questo vale per le situazioni in cui è possibile un'interazione diretta con i giocatori (quindi non per una configurazione in streaming). Funziona nel modo seguente:
 
@@ -104,7 +104,7 @@ Con questa modalità di gioco, i giocatori possono guadagnare punti extra votand
 
 Questa modalità mantiene coinvolti tutti i giocatori in un round Dito più Veloce, poiché non è solo il singolo giocatore più veloce a poter vincere punti: tutti i partecipanti hanno la possibilità di vincerne.
 
-## App telecomando – Mobile Director
+## QuizXpress Director App { #app-telecomando-mobile-director }
 
 Per controllare il quiz dal tablet o dal telefono, è possibile usare l'app telecomando QuizXpress Director per iOS e Android. Dopo aver installato e avviato l'app, si vedrà la schermata seguente:
 

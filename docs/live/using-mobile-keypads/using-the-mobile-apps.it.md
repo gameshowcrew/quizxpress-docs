@@ -110,6 +110,8 @@ Questa modalità mantiene coinvolti tutti i giocatori in un round Dito più Velo
 
 Per controllare il quiz dal tablet o dal telefono, è possibile usare l'app telecomando QuizXpress Director per iOS e Android. Dopo aver installato e avviato l'app, si vedrà la schermata seguente:
 
+![](../../assets/images/director-app-start.webp){ width="226" loading=lazy }
+
 È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante giallo «più» in basso a destra sullo schermo del dispositivo mobile.
 
 Premendo il pulsante, viene mostrato uno scanner di codici QR. Il codice QR da scansionare è visualizzato nella scheda Mobile di QuizXpress Setup (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)). Scansionare il codice qui visualizzato e il nome del computer verrà mostrato nell'app QuizXpress Director. Questa procedura va eseguita una sola volta per registrare il computer nell'app.

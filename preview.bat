@@ -18,8 +18,8 @@ if not exist "%PY%" (
     if not exist "%PY%" goto fail
 )
 
-rem install MkDocs and the theme into .venv when missing
-"%PY%" -c "import mkdocs, material" 2>nul || (
+rem install MkDocs, the theme and the language plugin into .venv when missing
+"%PY%" -c "import mkdocs, material, mkdocs_static_i18n" 2>nul || (
     echo Installing MkDocs ...
     "%PY%" -m pip install --upgrade pip
     "%PY%" -m pip install -r requirements.txt || goto fail

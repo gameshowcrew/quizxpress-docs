@@ -10,4 +10,4 @@ Per uscire dall'applicazione Buzzer Test, premere il tasto *Escape* oppure utili
 
 ![](../assets/images/image348.webp){ width="315" loading=lazy }
 
-Nel modulo delle opzioni, premere il pulsante **Check battery level**, quindi accendere ogni buzzer premendo il grande pulsante a cupola. Il livello della batteria verrà mostrato nella griglia dei buzzer.
+Nel modulo delle opzioni, premere il pulsante 'Controlla Livello Batteria', quindi accendere ogni buzzer premendo il grande pulsante a cupola. Il livello della batteria verrà mostrato nella griglia dei buzzer.

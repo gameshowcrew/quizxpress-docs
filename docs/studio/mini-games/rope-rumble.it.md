@@ -71,7 +71,7 @@ Impostare questo valore su 0 per togliere il limite di tempo.
 
 Determina il modo in cui viene confrontata la forza delle due squadre.
 
-- Per membro (equo con squadre diverse): il valore predefinito. Le pressioni del buzzer di ogni squadra vengono divise per il numero di giocatori della squadra. Ogni giocatore deve partecipare: un giocatore che non preme conta come un giocatore che non tira. La scelta migliore per la maggior parte degli eventi.
+- Per membro (equo): il valore predefinito. Le pressioni del buzzer di ogni squadra vengono divise per il numero di giocatori della squadra. Ogni giocatore deve partecipare: un giocatore che non preme conta come un giocatore che non tira. La scelta migliore per la maggior parte degli eventi.
 
 - Per giocatore attivo: le pressioni del buzzer di ogni squadra vengono divise per il numero dei suoi giocatori che hanno premuto almeno una volta durante il round. I giocatori che non partecipano non indeboliscono la propria squadra. Usare questa opzione quando si prevedono giocatori registrati che non parteciperanno, come posti vuoti o telefoni mai collegati.
 

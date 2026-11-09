@@ -17,23 +17,23 @@ Le pulsantiere QuizXpress sono abbinate a un singolo ricevitore e ogni ricevitor
 | ![](../assets/images/image350.webp){ width="287" loading=lazy } | ![](../assets/images/image351.webp){ width="288" loading=lazy } |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
-Per iniziare a programmare una pulsantiera o un buzzer QuizXpress, collegare il ricevitore al computer e scegliere il tipo di ricevitore nell'elenco a discesa dei ricevitori. Inserire l'intervallo di pulsantiere da programmare e premere Connect. Dovrebbe comparire un segno di spunta verde a indicare che la connessione al ricevitore è riuscita.
+Per iniziare a programmare una pulsantiera o un buzzer QuizXpress, collegare il ricevitore al computer e scegliere il tipo di ricevitore nell'elenco a discesa 'Ricevitore'. Inserire l'intervallo di pulsantiere da programmare e premere 'Connetti'. Dovrebbe comparire un segno di spunta verde a indicare che la connessione al ricevitore è riuscita.
 
-Lo strumento di programmazione consente di programmare il numero (id) di una singola pulsantiera, oppure in modo semiautomatico di un intero set di pulsantiere (è comunque necessario premere i pulsanti «mano» e «B» su ciascuna pulsantiera). Per programmare una singola pulsantiera, impostare il numero richiesto nel campo «Keypad to set», fare clic su «Set» e, entro 4 secondi, premere entrambi i pulsanti «mano» e «B» sulla pulsantiera (vedere l'immagine a destra).
+Lo strumento di programmazione consente di programmare il numero (id) di una singola pulsantiera, oppure in modo semiautomatico di un intero set di pulsantiere (è comunque necessario premere i pulsanti «mano» e «B» su ciascuna pulsantiera). Per programmare una singola pulsantiera, impostare il numero richiesto nel campo 'Pulsantiera da associare', fare clic su 'Imposta Pulsantiera' e, entro 4 secondi, premere entrambi i pulsanti «mano» e «B» sulla pulsantiera (vedere l'immagine a destra).
 
-Le pulsantiere hanno un'associazione univoca con il ricevitore e devono prima essere abbinate a esso. Quando si imposta l'id di una pulsantiera, questa viene anche immediatamente abbinata al ricevitore collegato. Per abbinare la pulsantiera Master, premere il pulsante «Set» sullo strumento di programmazione e premere contemporaneamente i pulsanti Power e Up sulla pulsantiera Master.
+Le pulsantiere hanno un'associazione univoca con il ricevitore e devono prima essere abbinate a esso. Quando si imposta l'id di una pulsantiera, questa viene anche immediatamente abbinata al ricevitore collegato. Per abbinare la pulsantiera Master, premere il pulsante 'Imposta Pulsantiera' sullo strumento di programmazione e premere contemporaneamente i pulsanti Power e Up sulla pulsantiera Master.
 
-Per programmare i buzzer QuizXpress, fare clic sul pulsante «Set Buzzer» dello strumento di programmazione. La spia gialla sul ricevitore si accende. A questo punto premere insieme il pulsante B e il pulsante grande. Tenere premuto il pulsante grande finché non lampeggia. Quando lampeggia, attendere che la spia gialla si spenga, quindi premere il buzzer. Il numero del buzzer apparirà ora nello strumento di programmazione.
+Per programmare i Buzzer QuizXpress Dome, fare clic sul pulsante 'Imposta Buzzer' dello strumento di programmazione. La spia gialla sul ricevitore si accende. A questo punto premere insieme il pulsante B e il pulsante grande. Tenere premuto il pulsante grande finché non lampeggia. Quando lampeggia, attendere che la spia gialla si spenga, quindi premere il buzzer. Il numero del buzzer apparirà ora nello strumento di programmazione.
 
-Per programmare i buzzer QuizXpress Galaxy RGB, seguire gli stessi passaggi descritti sopra per i buzzer, ma invece di premere B e il pulsante grande, premere C e il pulsante grande finché il buzzer non lampeggia.
+Per programmare i Buzzer QuizXpress Galaxy, seguire gli stessi passaggi descritti sopra per i buzzer, ma invece di premere B e il pulsante grande, premere C e il pulsante grande finché il buzzer non lampeggia.
 
-Anche le colonnine buzzer Sparkle e il tavolo buzzer Luminous possono essere programmati. Utilizzano lo stesso ricevitore dei buzzer QuizXpress.
+Anche le colonnine buzzer Sparkle e il tavolo buzzer Luminous possono essere programmati. Utilizzano lo stesso ricevitore dei Buzzer QuizXpress Dome.
 
 Per programmare le colonnine buzzer Sparkle:
 
 - Spegnere il buzzer.
 
-- Premere il pulsante «Set Buzzer» nel QuizXpress Device Programmer.
+- Premere il pulsante 'Imposta Buzzer' nel QuizXpress Device Programmer.
 
 - Premere ora il pulsante del buzzer sullo Sparkle e riaccendere lo Sparkle.
 
@@ -43,7 +43,7 @@ Per programmare i tavoli da quiz Luminous:
 
 - ![](../assets/images/image352.webp){ width="106" loading=lazy }Spegnere il Luminous.
 
-- Premere il pulsante «Set Buzzer» nel QuizXpress Device Programmer.
+- Premere il pulsante 'Imposta Buzzer' nel QuizXpress Device Programmer.
 
 - Premere ora il piccolo pulsante nero accanto al pulsante On/Off del Luminous e riaccendere il Luminous.
 

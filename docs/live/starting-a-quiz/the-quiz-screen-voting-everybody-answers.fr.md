@@ -62,6 +62,20 @@ Notez que l'Information Panel en haut affiche le nombre de points à gagner (qui
 
 - *Lorsque ‘auto judge’ est sur ‘false’ dans la fenêtre des propriétés (équivalent dans le ruban du menu : ‘Judge question’ est défini sur ‘Manual’), les participants doivent utiliser le gros bouton buzzer pour buzzer. Le joueur qui a appuyé le plus vite donne alors la réponse oralement, et l'animateur de quiz l'évalue.*
 
+### Temps de réponse { #time-to-answer }
+
+Vous pouvez limiter le temps dont dispose le joueur qui a buzzé pour donner sa réponse : définissez ‘Temps de réponse’ pour la diapositive dans QuizXpress Studio (voir [Question](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Sans cette option, le joueur dispose d’autant de temps que l’animateur le permet.
+
+Dès qu’un joueur buzze, une barre en haut de l’écran se réduit de droite à gauche en passant du vert à l’orange puis au rouge. Dans QuizXpress Director, le bouton ‘la réponse est mauvaise’ affiche la même barre, pour que vous voyiez le temps restant.
+
+![Barre du temps de réponse en haut de l’écran, trois équipes en attente](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Si vous n’avez pas jugé la réponse lorsque le temps est écoulé, elle compte comme une mauvaise réponse :
+
+- Le joueur perd les ‘Points enlevés en cas de non-réponse’ de la question, et non les points d’une mauvaise réponse.
+- Comme pour toute mauvaise réponse, le joueur est éliminé de la question (sauf si le mode de blocage de la diapositive autorise un nouvel essai, voir [Propriétés avancées de la diapositive](../../studio/advanced-slide-properties.md)).
+- Avec l’option ‘Allow the next in line to answer’ activée dans Quiz Setup ([l’onglet Advanced](../../setup/other-settings-the-advanced-tab-page.md)), le joueur suivant qui a buzzé prend la main, avec une nouvelle barre. Dans l’exemple ci-dessus, ce serait Team 2, puis Team 3.
+
 ## Billboard
 
 Une diapositive de quiz Billboard est une diapositive de quiz avec laquelle aucune interaction des joueurs n'est possible — il s'agit simplement d'un affichage statique. Vous pouvez concevoir une diapositive Billboard comme une question normale, avec du texte, des couleurs, des images, des sons et des vidéos.

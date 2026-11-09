@@ -28,19 +28,9 @@ Verrà riprodotto anche il jingle del vincitore del primo bonus (per ulteriori i
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
-## Tempo per rispondere nelle domande fastest finger
+## Tempo per rispondere nelle domande fastest finger { #time-to-answer-on-fastest-finger-questions }
 
-In una domanda fastest finger è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la slide e impostare ‘Tempo per rispondere’ nel pannello delle proprietà su un numero di secondi. 0, il valore predefinito, significa nessun limite: è il quizmaster a decidere quando valutare la risposta.
-
-Appena un giocatore preme il pulsante, una barra nella parte alta dello schermo si accorcia da destra verso sinistra, passando dal verde all’arancione e poi al rosso. In QuizXpress Director il pulsante ‘La Risposta è Errata’ mostra la stessa barra, così si vede quanto tempo resta.
-
-![Barra del tempo per rispondere in alto sullo schermo, tre squadre in attesa](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
-
-Se la risposta non è ancora stata valutata quando il tempo scade, conta come risposta sbagliata:
-
-- Il giocatore perde i ‘Punti Nessuna Risposta’ della domanda, non i punti di una risposta sbagliata. Questo campo compare in una domanda fastest finger appena si imposta un tempo per rispondere.
-- Come per ogni risposta sbagliata, il giocatore viene escluso (a meno che la modalità di blocco della slide consenta un altro tentativo, vedere [Proprietà avanzate della slide](../advanced-slide-properties.md)).
-- Con l’opzione ‘Allow the next in line to answer’ attivata in Quiz Setup ([la scheda Advanced](../../setup/other-settings-the-advanced-tab-page.md)), tocca al giocatore successivo che ha premuto, con una nuova barra.
+In una domanda fastest finger è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la slide e impostare ‘Tempo per rispondere’ nel pannello delle proprietà su un numero di secondi; 0, il valore predefinito, significa nessun limite. Appena si imposta un tempo compare anche il campo ‘Punti Nessuna Risposta’: sono i punti che un giocatore perde quando il tempo scade. Lo svolgimento durante il quiz è descritto in [Dito più Veloce / Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
 
 ## Domande a scelta multipla
 

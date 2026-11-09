@@ -62,6 +62,20 @@ Si noti che l'Information Panel in alto mostra il numero di punti ottenibili (ch
 
 - *Quando ‘auto judge’ è ‘false’ nella finestra delle proprietà (equivalente nella barra multifunzione del menu: ‘Judge question’ è impostato su ‘Manual’), i partecipanti devono usare il grande pulsante buzzer per prenotarsi. Il giocatore che ha premuto più velocemente dà quindi la risposta a voce e il Quizmaster la valuta.*
 
+### Tempo per rispondere { #time-to-answer }
+
+È possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta: impostare ‘Tempo per rispondere’ per la slide in QuizXpress Studio (vedere [Domanda](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Senza questa impostazione, il giocatore ha tutto il tempo che il Quizmaster concede.
+
+Appena un giocatore preme il pulsante, una barra nella parte alta dello schermo si accorcia da destra verso sinistra, passando dal verde all’arancione e poi al rosso. In QuizXpress Director il pulsante ‘La Risposta è Errata’ mostra la stessa barra, così si vede quanto tempo resta.
+
+![Barra del tempo per rispondere in alto sullo schermo, tre squadre in attesa](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Se la risposta non è ancora stata valutata quando il tempo scade, conta come risposta sbagliata:
+
+- Il giocatore perde i ‘Punti Nessuna Risposta’ della domanda, non i punti di una risposta sbagliata.
+- Come per ogni risposta sbagliata, il giocatore viene escluso (a meno che la modalità di blocco della slide consenta un altro tentativo, vedere [Proprietà avanzate della slide](../../studio/advanced-slide-properties.md)).
+- Con l’opzione ‘Allow the next in line to answer’ attivata in Quiz Setup ([la scheda Advanced](../../setup/other-settings-the-advanced-tab-page.md)), tocca al giocatore successivo che ha premuto, con una nuova barra. Nell’esempio sopra toccherebbe a Team 2, poi a Team 3.
+
 ## Billboard
 
 Una diapositiva di quiz Billboard è una diapositiva di quiz con cui non è possibile alcuna interazione dei giocatori — è semplicemente una visualizzazione statica. È possibile progettare una diapositiva Billboard proprio come una domanda normale, utilizzando testo, colori, immagini, suoni e video.

@@ -28,19 +28,9 @@ También se reproducirá el jingle del ganador del primer puesto de los puntos d
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
-## Tiempo para responder en preguntas fastest finger
+## Tiempo para responder en preguntas fastest finger { #time-to-answer-on-fastest-finger-questions }
 
-En una pregunta fastest finger puede limitar el tiempo que tiene el jugador que pulsó primero para dar su respuesta. Seleccione la diapositiva e indique en ‘Tiempo para responder’, en el panel de propiedades, un número de segundos. 0, el valor predeterminado, significa sin límite: el quizmaster decide cuándo evaluar la respuesta.
-
-En cuanto un jugador pulsa, una barra en la parte superior de la pantalla se acorta de derecha a izquierda, pasando de verde a naranja y luego a rojo. En QuizXpress Director el botón ‘La respuesta es incorrecta’ muestra la misma barra, para que vea cuánto tiempo queda.
-
-![Barra del tiempo para responder en la parte superior de la pantalla, tres equipos en espera](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
-
-Si todavía no ha evaluado la respuesta cuando se acaba el tiempo, cuenta como respuesta incorrecta:
-
-- El jugador pierde los ‘Puntos que se pierden si no hay respuesta’ de la pregunta, no los puntos de una respuesta incorrecta. Este campo aparece en una pregunta fastest finger en cuanto se indica un tiempo para responder.
-- Como con cualquier respuesta incorrecta, el jugador queda bloqueado (salvo que el modo de bloqueo de la diapositiva permita otro intento, consulte [Propiedades avanzadas de la diapositiva](../advanced-slide-properties.md)).
-- Con la opción ‘Allow the next in line to answer’ activada en Quiz Setup ([la pestaña Advanced](../../setup/other-settings-the-advanced-tab-page.md)), le toca al siguiente jugador que pulsó, con una nueva barra.
+En una pregunta fastest finger puede limitar el tiempo que tiene el jugador que pulsó primero para dar su respuesta. Seleccione la diapositiva e indique en ‘Tiempo para responder’, en el panel de propiedades, un número de segundos; 0, el valor predeterminado, significa sin límite. En cuanto se indica un tiempo aparece también el campo ‘Puntos que se pierden si no hay respuesta’: son los puntos que pierde un jugador cuando se acaba el tiempo. El desarrollo durante el quiz se describe en [Fastest Finger/ Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
 
 ## Preguntas de opción múltiple
 

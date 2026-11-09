@@ -249,7 +249,7 @@ Ces propriétés s’affichent en cliquant sur l’arrière-plan d’une questio
 </tr>
 <tr class="odd">
 <td>Points to lose on no answer</td>
-<td>Les points retirés lorsqu’aucune réponse n’est donnée (applicable uniquement aux questions de vote)</td>
+<td>Les points retirés lorsqu’aucune réponse n’est donnée. S’applique aux questions de vote, et aux questions « fastest finger » avec un ‘Time to answer’ : le joueur perd alors ces points si le temps est écoulé avant que la réponse soit jugée.</td>
 </tr>
 <tr class="even">
 <td>Steal Points</td>
@@ -300,6 +300,10 @@ Ces propriétés s’affichent en cliquant sur l’arrière-plan d’une questio
 <td>Indique si l’évaluation d’une réponse textuelle est ‘exact match’ (la réponse donnée doit correspondre exactement à la bonne réponse) ou ‘fuzzy match’ (un algorithme autorise un certain pourcentage de différence entre la réponse donnée et la bonne réponse, de sorte que les joueurs peuvent faire de petites fautes d’orthographe).</td>
 </tr>
 <tr class="odd">
+<td>Time to answer</td>
+<td>Uniquement pour les questions « fastest finger » : le nombre de secondes dont dispose le joueur qui a buzzé pour répondre (0 = pas de limite). Une barre en haut de l’écran montre le temps qui s’écoule ; si l’animateur n’a pas jugé la réponse d’ici là, elle compte comme mauvaise avec les ‘Points to lose on no answer’. Voir <a href="../../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers/#time-to-answer">Temps de réponse</a>.</td>
+</tr>
+<tr class="even">
 <td>Tolerance</td>
 <td>Variation autorisée entre la bonne réponse et les réponses données. S’applique aux questions dont l’input type est ‘text’ avec ‘text evaluation’ réglé sur ‘fuzzy match’.</td>
 </tr>

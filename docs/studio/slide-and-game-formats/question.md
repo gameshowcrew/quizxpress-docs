@@ -28,6 +28,20 @@ The jingle of the number one bonus point winner will also be played (for more in
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Time to answer on fastest finger questions
+
+On a fastest finger question you can limit how long the player who buzzed in has to give their answer. Select the slide and set ‘Time to answer’ (Answering section of the properties panel) to a number of seconds. 0, the default, means there is no limit and the quizmaster decides when to judge.
+
+As soon as a player buzzes in, a bar along the top of the screen runs down from right to left, going from green via amber to red. In QuizXpress Director the ‘Answer is Wrong’ button shows the same bar, so you can see how much time is left.
+
+![Time to answer bar at the top of the screen, three teams in line](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+If you haven’t judged the answer when the time runs out, it counts as a wrong answer:
+
+- The player loses the ‘Points to lose on no answer’ of the question, not the points for a wrong answer. This field is shown for a fastest finger question once a time to answer is set.
+- As with any wrong answer, the player is locked out (unless the slide’s lock-out mode allows another try, see [Advanced slide properties](../advanced-slide-properties.md)).
+- With ‘Allow the next in line to answer’ switched on in Quiz Setup ([the Advanced tab page](../../setup/other-settings-the-advanced-tab-page.md)), the next player who buzzed gets a turn, with a new bar.
+
 ## Multiple choice questions
 
 When creating a multiple-choice question, you can indicate in QuizXpress Studio which one of the answers is the correct one. If you do this, QuizXpress can judge given answers by teams for correctness when playing a quiz. You can indicate which answer is the correct one by first selecting one of the answers with the mouse and then putting a checkmark before ‘Correct Answer’ in the Properties Pane. You can also use the context menu by first selecting the answer, then right-clicking and choosing ‘Set correct answer’. Next to this, you can set correct answers for multiple-choice questions in the ‘Table Mode’ representation of the questions (click the VIEW tab and then ‘Table Mode’). In the last column of the grid, you can indicate the correct answer for (single-answer) multiple-choice questions.

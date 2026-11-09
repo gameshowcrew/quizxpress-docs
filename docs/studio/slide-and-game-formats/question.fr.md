@@ -28,6 +28,20 @@ Le jingle du joueur arrivé premier au bonus sera également joué (pour plus d�
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Temps de réponse pour les questions « fastest finger »
+
+Pour une question « fastest finger », vous pouvez limiter le temps dont dispose le joueur qui a buzzé pour donner sa réponse. Sélectionnez la diapositive et indiquez un nombre de secondes pour ‘Temps de réponse’ dans le panneau des propriétés. 0, la valeur par défaut, signifie qu’il n’y a pas de limite et que le quizmaster décide quand juger la réponse.
+
+Dès qu’un joueur buzze, une barre en haut de l’écran se réduit de droite à gauche en passant du vert à l’orange puis au rouge. Dans QuizXpress Director, le bouton ‘la réponse est mauvaise’ affiche la même barre, pour que vous voyiez le temps restant.
+
+![Barre du temps de réponse en haut de l’écran, trois équipes en attente](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Si vous n’avez pas jugé la réponse lorsque le temps est écoulé, elle compte comme une mauvaise réponse :
+
+- Le joueur perd les ‘Points enlevés en cas de non-réponse’ de la question, et non les points d’une mauvaise réponse. Ce champ est affiché pour une question « fastest finger » dès qu’un temps de réponse est défini.
+- Comme pour toute mauvaise réponse, le joueur est éliminé de la question (sauf si le mode de blocage de la diapositive autorise un nouvel essai, voir [Propriétés avancées de la diapositive](../advanced-slide-properties.md)).
+- Avec l’option ‘Allow the next in line to answer’ activée dans Quiz Setup ([l’onglet Advanced](../../setup/other-settings-the-advanced-tab-page.md)), le joueur suivant qui a buzzé prend la main, avec une nouvelle barre.
+
 ## Questions à choix multiples
 
 Lorsque vous créez une question à choix multiples, vous pouvez indiquer dans QuizXpress Studio laquelle des réponses est la bonne. Si vous le faites, QuizXpress peut juger l’exactitude des réponses données par les équipes pendant le quiz. Vous pouvez indiquer quelle réponse est la bonne en sélectionnant d’abord l’une des réponses avec la souris, puis en cochant ‘Correct Answer’ dans le panneau de propriétés. Vous pouvez aussi utiliser le menu contextuel en sélectionnant d’abord la réponse, puis en faisant un clic droit et en choisissant ‘Set correct answer’. De plus, vous pouvez définir les bonnes réponses des questions à choix multiples dans la représentation ‘Table Mode’ des questions (cliquez sur l’onglet VIEW puis sur ‘Table Mode’). Dans la dernière colonne de la grille, vous pouvez indiquer la bonne réponse pour les questions à choix multiples (à réponse unique).

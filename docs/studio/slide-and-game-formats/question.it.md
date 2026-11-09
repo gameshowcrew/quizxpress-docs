@@ -28,6 +28,20 @@ Verrà riprodotto anche il jingle del vincitore del primo bonus (per ulteriori i
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Tempo per rispondere nelle domande fastest finger
+
+In una domanda fastest finger è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la slide e impostare ‘Tempo per rispondere’ nel pannello delle proprietà su un numero di secondi. 0, il valore predefinito, significa nessun limite: è il quizmaster a decidere quando valutare la risposta.
+
+Appena un giocatore preme il pulsante, una barra nella parte alta dello schermo si accorcia da destra verso sinistra, passando dal verde all’arancione e poi al rosso. In QuizXpress Director il pulsante ‘La Risposta è Errata’ mostra la stessa barra, così si vede quanto tempo resta.
+
+![Barra del tempo per rispondere in alto sullo schermo, tre squadre in attesa](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Se la risposta non è ancora stata valutata quando il tempo scade, conta come risposta sbagliata:
+
+- Il giocatore perde i ‘Punti Nessuna Risposta’ della domanda, non i punti di una risposta sbagliata. Questo campo compare in una domanda fastest finger appena si imposta un tempo per rispondere.
+- Come per ogni risposta sbagliata, il giocatore viene escluso (a meno che la modalità di blocco della slide consenta un altro tentativo, vedere [Proprietà avanzate della slide](../advanced-slide-properties.md)).
+- Con l’opzione ‘Allow the next in line to answer’ attivata in Quiz Setup ([la scheda Advanced](../../setup/other-settings-the-advanced-tab-page.md)), tocca al giocatore successivo che ha premuto, con una nuova barra.
+
 ## Domande a scelta multipla
 
 Quando si crea una domanda a scelta multipla, in QuizXpress Studio è possibile indicare quale delle risposte è quella corretta. In questo caso, QuizXpress può giudicare automaticamente la correttezza delle risposte date dalle squadre durante il quiz. Per indicare quale risposta è quella corretta, selezionare prima una delle risposte con il mouse e poi spuntare ‘Risposta Corretta’ nel pannello delle proprietà. È possibile anche usare il menu contestuale selezionando prima la risposta, quindi facendo clic con il pulsante destro e scegliendo ‘Imposta Risposta Corretta’. Inoltre, è possibile impostare le risposte corrette delle domande a scelta multipla nella ‘Modalità Tabella’ (fare clic sulla scheda VISTA e poi su ‘Modalità Tabella’). Nell’ultima colonna della griglia è possibile indicare la risposta corretta per le domande a scelta multipla (a risposta singola).

@@ -30,7 +30,7 @@ Il sistema di pulsantiere QuizXpress include una pulsantiera Master che il Quizm
 
 Ogni pulsantiera QuizXpress ha un id univoco preprogrammato. Quando si usano le pulsantiere QuizXpress, inserire gli id dei dispositivi utilizzati per il quiz nel campo «Keypads:» in Quiz Setup. Ad esempio, se si usano le pulsantiere da 1 a 10, inserire l'intervallo «1-10». Se si usano le pulsantiere 1, 2, 3, 4 e 6, inserire il testo «1,2,3,4,6».
 
-Per maggiori informazioni sull'installazione del sistema di pulsantiere QuizXpress, fare riferimento all'Appendice A.
+Per maggiori informazioni sull'installazione del sistema di pulsantiere QuizXpress, fare riferimento a [Pulsantiere e buzzer QuizXpress](../hardware-installation/quizxpress-keypads-and-buzzers.md).
 
 !!! note
 
@@ -64,7 +64,7 @@ Forniscono un riscontro visivo per diversi eventi che avvengono nel quiz, ad ese
 
 - Assegnare un colore a ciascun buzzer durante le pause o farli lampeggiare
 
-È possibile configurare varie opzioni per i buzzer Galaxy nella scheda Galaxy di QuizXpress Director (vedere 5.7.9).
+È possibile configurare varie opzioni per i buzzer Galaxy nella scheda Galaxy di QuizXpress Director (vedere [La scheda Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Torce QuizXpress
 
@@ -84,7 +84,7 @@ I buzzer Torch possono:
 
 - essere usati per estrarre qualcuno dal pubblico o scegliere un fortunato vincitore (o più vincitori)
 
-In pratica, le torce sono un dispositivo Galaxy (vedere 4.1.3) e un buzzer in uno. È possibile configurare varie opzioni per le Torce nella scheda Galaxy di QuizXpress Director (vedere 5.7.9).
+In pratica, le torce sono un dispositivo Galaxy (vedere [Dispositivi wireless QuizXpress Galaxy RGB](#dispositivi-wireless-quizxpress-galaxy-rgb)) e un buzzer in uno. È possibile configurare varie opzioni per le Torce nella scheda Galaxy di QuizXpress Director (vedere [La scheda Galaxy](../live/quizxpress-director/the-galaxy-tab.md)).
 
 ### Buzzer Fleetwood Reply Systems
 
@@ -96,7 +96,7 @@ QuizXpress funziona con le pulsantiere wireless Reply® Mini Model CRS5000 e Rep
 
 Ogni buzzer Reply Systems ha un id univoco preprogrammato (a differenza dei buzzer Sony). Quando si usano i buzzer Reply System, aggiungere gli id dei buzzer utilizzati per il quiz nel campo «Keypads:». Ad esempio, se si usano le pulsantiere da 1 a 10, inserire l'intervallo «1-10». Se si usano le pulsantiere 1, 2, 4 e 6, inserire il testo «1,2,4,6». Impostare inoltre il canale della base selezionando il canale corretto dall'elenco a discesa «Channel».
 
-Per maggiori informazioni sull'installazione del sistema Reply, fare riferimento all'Appendice B.
+Per maggiori informazioni sull'installazione del sistema Reply, fare riferimento a [Buzzer Fleetwood Reply](../hardware-installation/fleetwood-reply-buzzers.md).
 
 !!! note
 
@@ -116,7 +116,7 @@ Con la pulsantiera virtuale è molto semplice testare il proprio quiz, anche sen
 
 ### Buzzer Sony Buzz™
 
-![](../assets/images/image313.webp){ width="150" loading=lazy }QuizXpress funziona anche con i buzzer Sony Buzz™. Il sistema funziona sia con la versione cablata sia con quella wireless di questi buzzer.
+![](../assets/images/image313.webp){ width="150" align=left loading=lazy }QuizXpress funziona anche con i buzzer Sony Buzz™. Il sistema funziona sia con la versione cablata sia con quella wireless di questi buzzer.
 
 Si noti che la versione wireless di questi buzzer è progettata per funzionare entro circa 10 metri (26 piedi) al massimo. L'edizione QuizXpress Home funziona con un massimo di 12 unità Sony Buzz wireless. L'edizione QuizXpress Pro non ha limiti, anche se in pratica non ne sono stati usati più di 16, a causa di limitazioni pratiche (un ricevitore ogni 4 buzzer e limiti di distanza).
 

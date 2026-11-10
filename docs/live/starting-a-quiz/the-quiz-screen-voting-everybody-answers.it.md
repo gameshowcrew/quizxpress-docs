@@ -66,7 +66,7 @@ Si noti che il pannello informazioni nella parte superiore mostra il numero di p
 
 ### Tempo per rispondere { #time-to-answer }
 
-È possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta: impostare ‘Tempo per rispondere’ per la diapositiva in QuizXpress Studio (vedere [Domanda](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Senza questa impostazione, il giocatore ha tutto il tempo che il Quizmaster concede.
+È possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta: impostare ‘Tempo Risposta’ per la diapositiva in QuizXpress Studio (vedere [Domanda](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Senza questa impostazione, il giocatore ha tutto il tempo che il Quizmaster concede.
 
 Appena un giocatore preme il pulsante, una barra nella parte alta dello schermo si accorcia da destra verso sinistra, passando dal verde all’arancione e poi al rosso. In QuizXpress Director il pulsante ‘La Risposta è Errata’ mostra la stessa barra, così si vede quanto tempo resta.
 

@@ -137,7 +137,7 @@ Il bonus viene aggiunto al punteggio della squadra. In Analyzer, i risultati di 
 
 ## Scegliere la diapositiva successiva
 
-`onNextSlide(currentSlideNumber)` decide quale diapositiva viene dopo, quando la diapositiva non ha un 'Next slide' impostato. Restituire un numero di diapositiva (a partire da 0), un id di diapositiva come `'#final'`, o una diapositiva da `qx.slides`. Non restituire nulla per passare semplicemente alla diapositiva successiva.
+`onNextSlide(currentSlideNumber)` decide quale diapositiva viene dopo, quando la diapositiva non ha una 'Diapositiva Successiva' impostata. Restituire un numero di diapositiva (a partire da 0), un id di diapositiva come `'#final'`, o una diapositiva da `qx.slides`. Non restituire nulla per passare semplicemente alla diapositiva successiva.
 
 ```javascript
 function onNextSlide(currentSlideNumber) {
@@ -147,4 +147,4 @@ function onNextSlide(currentSlideNumber) {
 }
 ```
 
-Assegnare alle diapositive un id o una classe nella sezione 'Metadata' delle proprietà della diapositiva, in modo che lo script possa trovarle. L'esempio [Ordine casuale delle domande](examples.md#quiz-di-esempio) sceglie a caso la domanda successiva.
+Assegnare alle diapositive un id o una classe nella sezione 'Metadati' delle proprietà della diapositiva, in modo che lo script possa trovarle. L'esempio [Ordine casuale delle domande](examples.md#quiz-di-esempio) sceglie a caso la domanda successiva.

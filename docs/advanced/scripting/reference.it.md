@@ -39,7 +39,7 @@ QuizXpress chiama queste funzioni quando esistono nello script di una diapositiv
 | Gestore | Chiamato quando… |
 |---|---|
 | `onCommandNext()` | Viene dato il comando 'next' (pulsante, tasto o telecomando). Restituire `true` se lo script ha gestito il comando e QuizXpress deve ignorarlo; restituire `false` per lasciare che QuizXpress lo gestisca come al solito. |
-| `onNextSlide(currentSlideNumber)` | QuizXpress sta per passare alla diapositiva successiva, e la diapositiva non ha un 'Next slide' impostato. Restituire la diapositiva a cui andare: un numero (il numero della diapositiva, a partire da 0), una stringa con l'id della diapositiva (ad esempio `'#final'`), o una diapositiva da `qx.slides`. Non restituire nulla per passare alla diapositiva successiva. |
+| `onNextSlide(currentSlideNumber)` | QuizXpress sta per passare alla diapositiva successiva, e la diapositiva non ha una 'Diapositiva Successiva' impostata. Restituire la diapositiva a cui andare: un numero (il numero della diapositiva, a partire da 0), una stringa con l'id della diapositiva (ad esempio `'#final'`), o una diapositiva da `qx.slides`. Non restituire nulla per passare alla diapositiva successiva. |
 
 ## qx
 
@@ -51,7 +51,7 @@ L'oggetto globale `qx` è il punto di ingresso a QuizXpress.
 | `qx.slides` | Tutte le diapositive del quiz. | `let final = qx.slides.find(s => s.id === 'final');` |
 | `qx.teams` | Tutte le squadre, come [giocatori](#player). | `let votedA = qx.teams.filter(t => t.lastVote === 'A').length;` |
 | `qx.leaderBoard` | Tutte le squadre ordinate per punteggio, la prima in testa. | `let leader = qx.leaderBoard[0];` |
-| `qx.roundLeaderBoard` | I punteggi del round corrente (dall'ultima diapositiva End of Round). Ogni voce ha `team` (un [giocatore](#player)) e `roundScore`. | `let best = qx.roundLeaderBoard[0].team.name;` |
+| `qx.roundLeaderBoard` | I punteggi del round corrente (dall'ultima diapositiva Fine Round). Ogni voce ha `team` (un [giocatore](#player)) e `roundScore`. | `let best = qx.roundLeaderBoard[0].team.name;` |
 | `qx.groups` | I nomi dei gruppi demografici. | |
 | `qx["name"]` | Legge o imposta un valore globale con nome, mantenuto tra le diapositive e mostrato su una diapositiva con `[jsvar.name]`. | `qx["roundname"] = "Geography";` |
 | `qx.utils.message(text)` | Scrive una riga nel file di log di QuizXpress Live. | |
@@ -78,8 +78,8 @@ La diapositiva corrente (`qx.slide`, o l'argomento `slide` di un gestore), e le 
 | `slide.pointsAtEnd` | Punti alla fine della domanda. |
 | `slide.penaltyPointsAtStart` | Punti di penalità (risposta sbagliata) all'inizio. |
 | `slide.penaltyPointsAtEnd` | Punti di penalità alla fine. |
-| `slide.id` | L'id della diapositiva (sezione 'Metadata' delle proprietà della diapositiva). |
-| `slide.class` | La classe della diapositiva (sezione 'Metadata' delle proprietà della diapositiva). |
+| `slide.id` | L'id della diapositiva (sezione 'Metadati' delle proprietà della diapositiva). |
+| `slide.class` | La classe della diapositiva (sezione 'Metadati' delle proprietà della diapositiva). |
 | `slide["fieldName"]` | Legge un [campo diapositiva personalizzato](../custom-data-fields.md), ad esempio `slide["DasLightScene"]`. |
 | `slide.setQuestion(text)` | Sostituisce il testo della domanda, solo per questo show. |
 | `slide.setAnswers(answers)` | Sostituisce le risposte in ordine (A, B, C…), solo per questo show. Al massimo tante risposte quante ne ha la diapositiva. |

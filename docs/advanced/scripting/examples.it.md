@@ -2,7 +2,7 @@
 
 ## Quiz di esempio
 
-I nostri [script di esempio su GitHub](https://github.com/gameshowcrew/samples/tree/main/script) sono quiz pronti all'uso, ciascuno con il proprio script in un file separato e una spiegazione. Anche l'editor di script rimanda a essi: 'Example scripts on GitHub' in alto a destra. Dal più semplice al più elaborato:
+I nostri [script di esempio su GitHub](https://github.com/gameshowcrew/samples/tree/main/script) sono quiz pronti all'uso, ciascuno con il proprio script in un file separato e una spiegazione. Anche l'editor di script rimanda a essi: 'Script di esempio su GitHub' in alto a destra. Dal più semplice al più elaborato:
 
 | Esempio | Cosa mostra | Funzioni di script |
 |---|---|---|

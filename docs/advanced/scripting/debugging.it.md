@@ -17,10 +17,10 @@ console.error('Something went wrong');
 
 ## In Quiz Studio
 
-La console si trova sotto l'editor di script. Fare clic su 'Test' per eseguire lo script: il suo output appare nella console, seguito da 'Test run finished'. Quando lo script fallisce, la console mostra l'errore e l'editor evidenzia la riga. Fare doppio clic su un messaggio per passare alla sua riga nello script.
+La console si trova sotto l'editor di script. Fare clic su 'Test' per eseguire lo script: il suo output appare nella console, seguito da 'Test Completato'. Quando lo script fallisce, la console mostra l'errore e l'editor evidenzia la riga. Fare doppio clic su un messaggio per passare alla sua riga nello script.
 
-- 'Clear' svuota la console, 'Copy' copia tutti i messaggi, ad esempio per chiedere aiuto a un assistente IA.
-- 'Errors' e 'Warnings' indicano quanti ce ne sono.
+- 'Cancella' svuota la console, 'Copia' copia tutti i messaggi, ad esempio per chiedere aiuto a un assistente IA.
+- 'Errori' e 'Avvisi' indicano quanti ce ne sono.
 - I messaggi che si ripetono, ad esempio quelli di un timer, vengono raggruppati in una sola riga con un contatore.
 
 ## Durante uno show
@@ -29,16 +29,16 @@ Un errore di script non interrompe mai lo show: QuizXpress lo segnala e prosegue
 
 Non appena uno script scrive nella console o fallisce, il Director mostra un pulsante 'Script' tra i pulsanti dei comandi, con il numero di errori. Fare clic sul pulsante per aprire la console di script.
 
-La visibilità della console è un'opzione. Fare clic con il pulsante destro del mouse sui pulsanti dei comandi del Director e scegliere 'Script errors':
+La visibilità della console è un'opzione. Fare clic con il pulsante destro del mouse sui pulsanti dei comandi del Director e scegliere 'Errori degli Script':
 
 | Opzione | Cosa fa |
 |---|---|
-| 'Automatic (open the console when testing from Quiz Studio)' | Quando si testa il quiz da Quiz Studio, la console si apre al primo errore. In uno show reale compare solo il pulsante. È l'impostazione predefinita. |
-| 'Show a button with the number of errors' | Solo il pulsante. |
-| 'Open the console on the first error' | La console si apre al primo errore, anche in uno show reale. |
-| 'Do not show' | Né pulsante né console. |
+| 'Automatico (apri la console durante i test da Quiz Studio)' | Quando si testa il quiz da Quiz Studio, la console si apre al primo errore. In uno show reale compare solo il pulsante. È l'impostazione predefinita. |
+| 'Mostra un pulsante con il numero di errori' | Solo il pulsante. |
+| 'Apri la console al primo errore' | La console si apre al primo errore, anche in uno show reale. |
+| 'Non Mostrare' | Né pulsante né console. |
 
-'Open script console' nello stesso menu apre la console in qualsiasi momento.
+'Apri Console Script' nello stesso menu apre la console in qualsiasi momento.
 
 !!! tip
     La console è anche un buon posto per le informazioni destinate al Quizmaster. L'esempio [Domande dal web](examples.md#domande-dal-web) scrive nella console la domanda scaricata, con la risposta corretta contrassegnata.

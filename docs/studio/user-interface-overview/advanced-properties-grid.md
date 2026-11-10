@@ -249,7 +249,7 @@ These properties are shown by clicking on the background of a question. The prop
 </tr>
 <tr class="odd">
 <td>Points to lose on no answer</td>
-<td>The points that are subtracted when no answer is given (only applicable for voting questions)</td>
+<td>The points that are subtracted when no answer is given. Applies to voting questions, and to fastest finger questions with a ‘Time to answer’: there the player loses these points when the time runs out before the answer is judged.</td>
 </tr>
 <tr class="even">
 <td>Steal Points</td>
@@ -300,6 +300,10 @@ These properties are shown by clicking on the background of a question. The prop
 <td>Indicates whether the evaluation of a text answer is ‘exact match’ (the given answer must match the correct answer exactly) or ‘fuzzy match’ (an algorithm allows a certain percentage of difference between the given answer and the correct answer, so players can make small spelling mistakes).</td>
 </tr>
 <tr class="odd">
+<td>Time to answer</td>
+<td>Fastest finger questions only: the number of seconds the player who buzzed in has to answer (0 = no limit). A bar at the top of the screen shows the time running out; when the quizmaster has not judged the answer by then, it counts as wrong with the ‘Points to lose on no answer’. See <a href="../../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers/#time-to-answer">Time to answer</a>.</td>
+</tr>
+<tr class="even">
 <td>Tolerance</td>
 <td>Allowed variation between the correct answer and given answers. Applies to questions with input type ‘text’ with ‘text evaluation’ set to ‘fuzzy match’.</td>
 </tr>

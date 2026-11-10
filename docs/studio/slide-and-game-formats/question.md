@@ -28,6 +28,10 @@ The jingle of the number one bonus point winner will also be played (for more in
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Time to answer on fastest finger questions { #time-to-answer-on-fastest-finger-questions }
+
+On a fastest finger question you can limit how long the player who buzzed in has to give their answer. Select the slide and set ‘Time to answer’ (Answering section of the properties panel) to a number of seconds; 0, the default, means no limit. Once a time is set, the ‘Points to lose on no answer’ field is shown as well: those are the points a player loses when the time runs out. What happens during the quiz is described under [Fastest Finger/ Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
+
 ## Multiple choice questions
 
 When creating a multiple-choice question, you can indicate in QuizXpress Studio which one of the answers is the correct one. If you do this, QuizXpress can judge given answers by teams for correctness when playing a quiz. You can indicate which answer is the correct one by first selecting one of the answers with the mouse and then putting a checkmark before ‘Correct Answer’ in the Properties Pane. You can also use the context menu by first selecting the answer, then right-clicking and choosing ‘Set correct answer’. Next to this, you can set correct answers for multiple-choice questions in the ‘Table Mode’ representation of the questions (click the VIEW tab and then ‘Table Mode’). In the last column of the grid, you can indicate the correct answer for (single-answer) multiple-choice questions.

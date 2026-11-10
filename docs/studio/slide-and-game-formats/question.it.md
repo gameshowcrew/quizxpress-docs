@@ -28,6 +28,10 @@ Verrà riprodotto anche il jingle del vincitore del primo bonus (per ulteriori i
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Tempo per rispondere nelle domande Dito più Veloce { #time-to-answer-on-fastest-finger-questions }
+
+In una domanda Dito più Veloce è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la diapositiva e impostare ‘Tempo per rispondere’ nel pannello delle proprietà su un numero di secondi; 0, il valore predefinito, significa nessun limite. Appena si imposta un tempo compare anche il campo ‘Punti Nessuna Risposta’: sono i punti che un giocatore perde quando il tempo scade. Lo svolgimento durante il quiz è descritto in [Dito più Veloce](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
+
 ## Domande a scelta multipla
 
 Quando si crea una domanda a scelta multipla, in QuizXpress Studio è possibile indicare quale delle risposte è quella corretta. In questo caso, QuizXpress può giudicare automaticamente la correttezza delle risposte date dalle squadre durante il quiz. Per indicare quale risposta è quella corretta, selezionare prima una delle risposte con il mouse e poi spuntare ‘Risposta Corretta’ nel pannello delle proprietà. È possibile anche usare il menu contestuale selezionando prima la risposta, quindi facendo clic con il pulsante destro e scegliendo ‘Imposta Risposta Corretta’. Inoltre, è possibile impostare le risposte corrette delle domande a scelta multipla nella ‘Modalità Tabella’ (fare clic sulla scheda VISTA e poi su ‘Modalità Tabella’). Nell’ultima colonna della griglia è possibile indicare la risposta corretta per le domande a scelta multipla (a risposta singola).

@@ -183,6 +183,7 @@ nav:
     - studio/mini-games/performance-ranking.md
     - studio/mini-games/clock-and-slideshow-module.md
     - studio/mini-games/the-randomizer-module.md
+    - studio/mini-games/website.md
   - studio/the-message-broker-module.md
   - Adding multimedia content:
     - studio/adding-multimedia-content/index.md
@@ -204,6 +205,7 @@ nav:
     - studio/other-functionality/undo-and-redo.md
     - studio/other-functionality/slide-routing.md
     - studio/other-functionality/text-reveal-animations.md
+    - studio/other-functionality/entrance-animations.md
     - studio/other-functionality/jokers.md
     - studio/other-functionality/text-casing.md
     - studio/other-functionality/find-text-in-questions-and-answers.md

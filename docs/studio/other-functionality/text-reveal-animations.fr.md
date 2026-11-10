@@ -17,3 +17,6 @@ Dans les propriétés avancées des textes de question ou de réponse, vous pouv
 Vous pouvez utiliser cette fonction si vous souhaitez lire la question à voix haute sans la révéler immédiatement, ou pour mettre les joueurs sur une fausse piste en affichant directement les réponses pendant que la question apparaît progressivement (les joueurs risquent de choisir la mauvaise réponse en faisant des suppositions sur la question).
 
 Si vous voulez prévisualiser l'apparition du texte, appuyez sur F5 pour afficher un aperçu de la diapositive en plein écran.
+
+!!! tip
+    Pour faire entrer la question et les réponses en glissant, en fondu ou en rebondissant, voir [Animations d'entrée](entrance-animations.md).

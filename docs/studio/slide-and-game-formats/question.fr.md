@@ -28,6 +28,10 @@ Le jingle du joueur arrivé premier au bonus sera également joué (pour plus d�
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Temps de réponse pour les questions « fastest finger » { #time-to-answer-on-fastest-finger-questions }
+
+Pour une question « fastest finger », vous pouvez limiter le temps dont dispose le joueur qui a buzzé pour donner sa réponse. Sélectionnez la diapositive et indiquez un nombre de secondes pour ‘Temps de réponse’ dans le panneau des propriétés ; 0, la valeur par défaut, signifie pas de limite. Dès qu’un temps est défini, le champ ‘Points enlevés en cas de non-réponse’ est affiché aussi : ce sont les points qu’un joueur perd lorsque le temps est écoulé. Le déroulement pendant le quiz est décrit sous [Fastest Finger/ Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
+
 ## Questions à choix multiples
 
 Lorsque vous créez une question à choix multiples, vous pouvez indiquer dans QuizXpress Studio laquelle des réponses est la bonne. Si vous le faites, QuizXpress peut juger l’exactitude des réponses données par les équipes pendant le quiz. Vous pouvez indiquer quelle réponse est la bonne en sélectionnant d’abord l’une des réponses avec la souris, puis en cochant ‘Correct Answer’ dans le panneau de propriétés. Vous pouvez aussi utiliser le menu contextuel en sélectionnant d’abord la réponse, puis en faisant un clic droit et en choisissant ‘Set correct answer’. De plus, vous pouvez définir les bonnes réponses des questions à choix multiples dans la représentation ‘Table Mode’ des questions (cliquez sur l’onglet VIEW puis sur ‘Table Mode’). Dans la dernière colonne de la grille, vous pouvez indiquer la bonne réponse pour les questions à choix multiples (à réponse unique).

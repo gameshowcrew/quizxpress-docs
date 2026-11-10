@@ -28,6 +28,10 @@ También se reproducirá el jingle del ganador del primer puesto de los puntos d
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
+## Tiempo para responder en preguntas fastest finger { #time-to-answer-on-fastest-finger-questions }
+
+En una pregunta fastest finger puede limitar el tiempo que tiene el jugador que pulsó primero para dar su respuesta. Seleccione la diapositiva e indique en ‘Tiempo para responder’, en el panel de propiedades, un número de segundos; 0, el valor predeterminado, significa sin límite. En cuanto se indica un tiempo aparece también el campo ‘Puntos que se pierden si no hay respuesta’: son los puntos que pierde un jugador cuando se acaba el tiempo. El desarrollo durante el quiz se describe en [Fastest Finger/ Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
+
 ## Preguntas de opción múltiple
 
 Al crear una pregunta de opción múltiple, puede indicar en QuizXpress Studio cuál de las respuestas es la correcta. Si lo hace, QuizXpress puede juzgar si las respuestas dadas por los equipos son correctas al jugar un quiz. Puede indicar cuál es la respuesta correcta seleccionando primero una de las respuestas con el ratón y marcando después la casilla situada antes de 'Correct Answer' en el panel Properties. También puede utilizar el menú contextual: seleccione primero la respuesta, haga clic con el botón derecho y elija 'Set correct answer'. Además, puede establecer las respuestas correctas de las preguntas de opción múltiple en la representación 'Table Mode' de las preguntas (haga clic en la pestaña VIEW y después en 'Table Mode'). En la última columna de la cuadrícula puede indicar la respuesta correcta de las preguntas de opción múltiple (de respuesta única).

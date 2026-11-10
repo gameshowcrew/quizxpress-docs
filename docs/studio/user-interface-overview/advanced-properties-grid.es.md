@@ -249,7 +249,7 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 </tr>
 <tr class="odd">
 <td>Points to lose on no answer</td>
-<td>Los puntos que se restan cuando no se da ninguna respuesta (solo aplicable a las preguntas de votación)</td>
+<td>Los puntos que se restan cuando no se da ninguna respuesta. Se aplica a las preguntas de votación y a las preguntas fastest finger con un ‘Time to answer’: el jugador pierde estos puntos si el tiempo se acaba antes de que se evalúe la respuesta.</td>
 </tr>
 <tr class="even">
 <td>Steal Points</td>
@@ -300,6 +300,10 @@ Estas propiedades se muestran al hacer clic en el fondo de una pregunta. Las pro
 <td>Indica si la evaluación de una respuesta de texto es ‘exact match’ (la respuesta dada debe coincidir exactamente con la respuesta correcta) o ‘fuzzy match’ (un algoritmo permite un cierto porcentaje de diferencia entre la respuesta dada y la respuesta correcta, de modo que los jugadores pueden cometer pequeños errores ortográficos).</td>
 </tr>
 <tr class="odd">
+<td>Time to answer</td>
+<td>Solo para preguntas fastest finger: el número de segundos que tiene el jugador que pulsó primero para responder (0 = sin límite). Una barra en la parte superior de la pantalla muestra cómo se agota el tiempo; si el presentador no ha evaluado la respuesta para entonces, cuenta como incorrecta con los ‘Points to lose on no answer’. Consulte <a href="../../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers/#time-to-answer">Tiempo para responder</a>.</td>
+</tr>
+<tr class="even">
 <td>Tolerance</td>
 <td>Variación permitida entre la respuesta correcta y las respuestas dadas. Se aplica a las preguntas con input type ‘text’ y ‘text evaluation’ establecido en ‘fuzzy match’.</td>
 </tr>

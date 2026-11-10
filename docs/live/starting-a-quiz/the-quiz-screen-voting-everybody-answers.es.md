@@ -62,6 +62,20 @@ Tenga en cuenta que el Information Panel de la parte superior muestra el número
 
 - *Cuando ‘auto judge’ es ‘false’ en la ventana de propiedades (equivalente en la cinta de menú: ‘Judge question’ está establecido en ‘Manual’), los participantes deben utilizar el botón grande del pulsador para intervenir. El jugador que pulsó más rápido da entonces la respuesta verbalmente y el presentador del quiz la juzga.*
 
+### Tiempo para responder { #time-to-answer }
+
+Puede limitar el tiempo que tiene el jugador que pulsó primero para dar su respuesta: indique ‘Tiempo para responder’ para la diapositiva en QuizXpress Studio (consulte [Pregunta](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Sin esta opción, el jugador tiene todo el tiempo que el presentador le permita.
+
+En cuanto un jugador pulsa, una barra en la parte superior de la pantalla se acorta de derecha a izquierda, pasando de verde a naranja y luego a rojo. En QuizXpress Director el botón ‘La respuesta es incorrecta’ muestra la misma barra, para que vea cuánto tiempo queda.
+
+![Barra del tiempo para responder en la parte superior de la pantalla, tres equipos en espera](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Si todavía no ha evaluado la respuesta cuando se acaba el tiempo, cuenta como respuesta incorrecta:
+
+- El jugador pierde los ‘Puntos que se pierden si no hay respuesta’ de la pregunta, no los puntos de una respuesta incorrecta.
+- Como con cualquier respuesta incorrecta, el jugador queda bloqueado (salvo que el modo de bloqueo de la diapositiva permita otro intento, consulte [Propiedades avanzadas de la diapositiva](../../studio/advanced-slide-properties.md)).
+- Con la opción ‘Allow the next in line to answer’ activada en Quiz Setup ([la pestaña Advanced](../../setup/other-settings-the-advanced-tab-page.md)), le toca al siguiente jugador que pulsó, con una nueva barra. En el ejemplo anterior sería Team 2 y después Team 3.
+
 ## Billboard
 
 Una diapositiva de quiz Billboard es una diapositiva de quiz con la que no es posible ninguna interacción del jugador: es simplemente una pantalla estática. Puede diseñar una diapositiva Billboard igual que una pregunta normal, utilizando texto, colores, imágenes, sonidos y vídeos.

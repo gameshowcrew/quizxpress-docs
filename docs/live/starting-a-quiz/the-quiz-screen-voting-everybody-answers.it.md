@@ -64,6 +64,20 @@ Si noti che il pannello informazioni nella parte superiore mostra il numero di p
 
 - Quando l’opzione “Giudica Domanda” è impostata su 'Manualmente' i partecipanti devono utilizzare il pulsante grande del buzzer per prenotare la risposta. Il giocatore che ha premuto più velocemente darà verbalmente la risposta e il Quizmaster giudicherà la risposta.
 
+### Tempo per rispondere { #time-to-answer }
+
+È possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta: impostare ‘Tempo per rispondere’ per la diapositiva in QuizXpress Studio (vedere [Domanda](../../studio/slide-and-game-formats/question.md#time-to-answer-on-fastest-finger-questions)). Senza questa impostazione, il giocatore ha tutto il tempo che il Quizmaster concede.
+
+Appena un giocatore preme il pulsante, una barra nella parte alta dello schermo si accorcia da destra verso sinistra, passando dal verde all’arancione e poi al rosso. In QuizXpress Director il pulsante ‘La Risposta è Errata’ mostra la stessa barra, così si vede quanto tempo resta.
+
+![Barra del tempo per rispondere in alto sullo schermo, tre squadre in attesa](../../assets/images/time-to-answer-bar.webp){ loading=lazy }
+
+Se la risposta non è ancora stata valutata quando il tempo scade, conta come risposta sbagliata:
+
+- Il giocatore perde i ‘Punti Nessuna Risposta’ della domanda, non i punti di una risposta sbagliata.
+- Come per ogni risposta sbagliata, il giocatore viene escluso (a meno che la modalità di blocco della diapositiva consenta un altro tentativo, vedere [Proprietà avanzate della slide](../../studio/advanced-slide-properties.md)).
+- Con l’opzione ‘Domande Dito più Veloce: in caso di risposta errata, consenti la risposta al giocatore successivo nella prenotazione’ attivata in Quiz Setup ([la scheda Advanced](../../setup/other-settings-the-advanced-tab-page.md)), tocca al giocatore successivo che ha premuto, con una nuova barra. Nell’esempio sopra toccherebbe a Team 2, poi a Team 3.
+
 ## Tabellone { #billboard }
 
 Una diapositiva di tipo “Tabellone” è una diapositiva quiz dove non è possibile alcuna interazione da parte dei giocatori. È semplicemente una visualizzazione statica. È possibile progettare una diapositiva “Tabellone”, esattamente come si progetta una diapositiva domanda normale, facendo uso di testi, colori, immagini, file audio e video.

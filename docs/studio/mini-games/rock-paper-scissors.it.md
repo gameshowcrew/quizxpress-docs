@@ -37,12 +37,12 @@ prima della chiusura della votazione, vengono eliminati.
 
 Aprire le impostazioni del gioco per scegliere una modalità di gioco:
 
-- **'Rounds'**: si gioca un numero stabilito di round. 'Number of rounds' deve essere almeno **1**.
-- **'Last man standing'**: si continua finché non rimane esattamente un giocatore, oppure tutti
-  sono stati eliminati. In questa modalità 'Number of rounds' è disattivato.
+- **'Rounds'**: si gioca un numero stabilito di round. 'Numero Round' deve essere almeno **1**.
+- **'Ultimo Uomo'**: si continua finché non rimane esattamente un giocatore, oppure tutti
+  sono stati eliminati. In questa modalità 'Numero Round' è disattivato.
 
-'Points for survivors' imposta il bonus assegnato ai giocatori che sopravvivono al gioco.
-'Points for every right answer' imposta i punti assegnati per aver battuto il computer in
+'Punti per i Sopravvissuti' imposta il bonus assegnato ai giocatori che sopravvivono al gioco.
+'Punti per ogni Risposta Esatta' imposta i punti assegnati per aver battuto il computer in
 un round. Una risposta in pareggio mantiene il giocatore in gioco senza assegnare questi punti del round.
 
 ### La sorpresa del dito
@@ -59,9 +59,9 @@ Impostare la probabilità su **0** per disattivare questa sorpresa.
 
 Scegliere uno stile di mano utilizzando le anteprime nelle impostazioni:
 
-- **White**: un classico guanto bianco da cartone animato.
+- **Bianca**: un classico guanto bianco da cartone animato.
 - **Neon**: una mano viola luminosa con tocchi di azzurro e rosa.
-- **Comic**: una mano rossa decisa in stile fumetto.
+- **Fumetto**: una mano rossa decisa in stile fumetto.
 - **Robot**: una mano robotica spigolosa.
 
 Lo stile selezionato viene usato per l'animazione principale, le immagini di scelta
@@ -70,16 +70,16 @@ si adattano allo stile della mano.
 
 ### Sfondo
 
-Lo sfondo predefinito è uno studio da gameshow al neon animato. Usare il selettore 'Background image'
+Lo sfondo predefinito è uno studio da gameshow al neon animato. Usare il selettore 'Immagine Sfondo'
 per scegliere una propria immagine fissa. Rimuovere l'immagine personalizzata per tornare allo
 studio predefinito.
 
 ### Colori di voto dei giocatori
 
-Scegliere i colori per sasso, carta e forbici in 'Player voting colors'. I
+Scegliere i colori per sasso, carta e forbici in 'Colore Votazione Giocatori'. I
 colori predefiniti sono grigio, verde chiaro e rosso.
 
-Attivare 'Show player voting colors while voting' per mostrare la scelta di ogni giocatore mentre
+Attivare 'Mostra i colori di voto dei giocatori durante la votazione' per mostrare la scelta di ogni giocatore mentre
 la votazione è ancora aperta. Quando questa opzione è disattivata, le tessere indicano che il giocatore ha votato
 e la sua scelta viene mostrata dopo che il computer ha rivelato la sua mano.
 
@@ -98,7 +98,7 @@ la disposizione viene ricalcolata e i numeri ricompaiono quando c'è spazio suff
 le icone di scelta ritornano quando il gruppo si riduce.
 
 I giocatori eliminati vengono rimossi automaticamente dopo l'animazione di eliminazione. Non esiste
-una modalità di visualizzazione dei giocatori separata né un'impostazione 'Hide expelled players' da selezionare.
+una modalità di visualizzazione dei giocatori separata né un'impostazione 'Nascondi Giocatori Eliminati' da selezionare.
 
 ## Audio
 
@@ -106,7 +106,7 @@ Il gioco include musica di sottofondo ed effetti per i movimenti della mano, la 
 e la scomparsa dei giocatori eliminati. La musica di sottofondo parte all'apertura del
 gioco e suona durante la votazione. Si interrompe quando inizia l'animazione della mano.
 
-In 'Sound', usare 'Music during voting' per scegliere una propria musica. Il pulsante di riproduzione
+In 'Audio', usare 'Audio durante la Votazione' per scegliere una propria musica. Il pulsante di riproduzione
 consente di ascoltare in anteprima la selezione; il pulsante di cancellazione ripristina la musica predefinita del gioco.
 
 !!! note
@@ -115,10 +115,10 @@ consente di ascoltare in anteprima la selezione; il pulsante di cancellazione ri
 
 ## Messaggi personalizzati
 
-Attivare 'Use custom texts' per sostituire i messaggi predefiniti:
+Attivare 'Usa Testi Personalizzati' per sostituire i messaggi predefiniti:
 
-- **'Voting text'**: il titolo mostrato mentre i giocatori scelgono.
-- **'Winner'**: il messaggio mostrato quando rimane un solo giocatore.
-- **'All out'**: il messaggio mostrato quando tutti sono stati eliminati.
+- **'Testo Votazione'**: il titolo mostrato mentre i giocatori scelgono.
+- **'Vincitore'**: il messaggio mostrato quando rimane un solo giocatore.
+- **'Tutti Eliminati'**: il messaggio mostrato quando tutti sono stati eliminati.
 
 Usare il pulsante di reimpostazione per ripristinare i messaggi predefiniti.

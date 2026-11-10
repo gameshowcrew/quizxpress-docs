@@ -2,17 +2,17 @@
 
 Nel gioco della corsa di cavalli, ogni giocatore scommette su un cavallo utilizzando il proprio dispositivo portatile, dopodiché si svolge una corsa con un esito casuale. I punti vengono assegnati in base all'esito della corsa.
 
-Il modulo Virtual Horserace dispone delle seguenti opzioni di configurazione:
+Il modulo Corsa dei Cavalli dispone delle seguenti opzioni di configurazione:
 
-- Background image: selezionare l'immagine di sfondo mostrata sulla schermata in cui i giocatori scelgono il cavallo vincente
+- Immagine Sfondo: selezionare l'immagine di sfondo mostrata sulla schermata in cui i giocatori scelgono il cavallo vincente
 
 - Header: testo mostrato sulla schermata in cui i giocatori scelgono il cavallo vincente. Number of horses: scegliere il numero di cavalli che partecipano alla corsa
 
 - Track: scegliere diverse lunghezze di pista che durano circa 30, 50 o 90 secondi
 
-- Points to win: punti che si possono vincere per le diverse posizioni in classifica
+- Punti in Palio: punti che si possono vincere per le diverse posizioni in classifica
 
-- Distant finish – close finish: scegliere qui se i cavalli devono arrivare vicini o distanziati
+- Arrivo Distanziato – Arrivo Ravvicinato: scegliere qui se i cavalli devono arrivare vicini o distanziati
 
 - Show mini map during the race with horse positions: mostra una piccola panoramica nell'angolo in alto a destra durante una corsa di cavalli, con le posizioni dei cavalli
 

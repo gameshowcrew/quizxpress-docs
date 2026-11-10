@@ -2,9 +2,9 @@
 
 QuizXpress offre una grande varietà di Moduli Gioco. I Moduli Gioco, che sono giochi di fortuna o di abilità, daranno più sapore al vostro game show o alla vostra serata quiz, offrendo qualcosa di diverso dalle domande di cultura generale! Con i giochi è possibile vincere o perdere punti.
 
-I Moduli Gioco possono essere inclusi in un quiz, avviati al volo da QuizXpress Director oppure eseguiti in modo autonomo tramite il launcher dei Moduli Gioco. Per ulteriori informazioni, consultare [Majority Rules](../slide-and-game-formats/majority-rules.md).
+I Moduli Gioco possono essere inclusi in un quiz, avviati al volo da QuizXpress Director oppure eseguiti in modo autonomo tramite il launcher dei Moduli Gioco. Per ulteriori informazioni, consultare [Regole della Maggioranza](../slide-and-game-formats/majority-rules.md).
 
-I Moduli Gioco si possono acquistare nel nostro negozio online, dopodiché si riceve un aggiornamento della licenza. I Moduli Gioco sono un acquisto una tantum; restano parte della licenza al rinnovo, senza costi aggiuntivi. *Si noti che i Moduli Gioco non sono disponibili nella licenza QuizXpress home.*
+I Moduli Gioco si possono acquistare nel nostro negozio online, dopodiché si riceve un aggiornamento della licenza. I Moduli Gioco sono un acquisto una tantum; restano parte della licenza al rinnovo, senza costi aggiuntivi. *Si noti che i Moduli Gioco non sono disponibili nella licenza QuizXpress Home.*
 
 Attualmente sono disponibili 14 Moduli Gioco, di cui 3 sono liberamente disponibili nell'installazione di QuizXpress.
 

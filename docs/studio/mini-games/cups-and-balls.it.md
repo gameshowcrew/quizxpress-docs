@@ -16,15 +16,15 @@ Opzioni di configurazione disponibili:
 
 - Speed: la velocità della mescolata
 
-- Prize type: indica se si può vincere un premio o dei punti
+- Tipologia Premio: indica se si può vincere un premio o dei punti
 
-- Points won: il numero di punti che un giocatore vince se risponde correttamente (se il ‘Prize type’ è ‘Points’)
+- Punti Vinti: il numero di punti che un giocatore vince se risponde correttamente (se il ‘Tipologia Premio’ è ‘Points’)
 
-- Points won: il numero di punti che un giocatore perde se risponde in modo errato (se il ‘Prize type’ è ‘Points’)
+- Punti Vinti: il numero di punti che un giocatore perde se risponde in modo errato (se il ‘Tipologia Premio’ è ‘Points’)
 
-- Prize text: testo mostrato quando si vince un premio
+- Testo Premio: testo mostrato quando si vince un premio
 
-- Prize image: immagine del premio vinto. Le immagini possono essere selezionate o eliminate con i due pulsanti accanto all'immagine.
+- Immagine Premio: immagine del premio vinto. Le immagini possono essere selezionate o eliminate con i due pulsanti accanto all'immagine.
 
 - Participants: possono giocare tutti i giocatori, solo i giocatori meglio classificati oppure solo i giocatori selezionati (la selezione si effettua prima dell'inizio del gioco, sullo schermo del Director).
 

@@ -22,7 +22,7 @@ Un'altra funzione è la possibilità di usare squadre anonime. In questo caso l'
 
 Nella scheda Teams è possibile definire i nomi delle squadre/giocatori e definire dei gruppi. Questa scheda non è disponibile quando si usa solo Mobile; quando Mobile viene usato in combinazione con pulsantiere o buzzer, la pagina viene comunque mostrata.
 
-Per tutti i tipi di buzzer tranne i buzzer Sony, il numero di squadre deriva dalla stringa ‘Keypads’ inserita nella scheda ‘Buzzers’. Ad esempio, quando si usa la stringa 1-50, la scheda ‘Teams’ mostra un elenco di pulsantiere da 1 a 50 e i nomi predefiniti delle squadre *Team 1 … Team 50*. I nomi delle squadre possono essere modificati nella seconda colonna dell'elenco.
+Per tutti i tipi di buzzer tranne i buzzer Sony, il numero di squadre deriva dalla stringa ‘Keypads’ inserita nella scheda ‘Buzzers’. Ad esempio, quando si usa la stringa 1-50, la scheda ‘Teams’ mostra un elenco di pulsantiere da 1 a 50 e i nomi predefiniti delle squadre *Squadra 1 … Team 50*. I nomi delle squadre possono essere modificati nella seconda colonna dell'elenco.
 
 Come spiegato sopra, per cambiare il numero di squadre è necessario modificare la stringa ‘Keypads’ nella scheda ‘Buzzers’.
 
@@ -32,11 +32,11 @@ Come spiegato sopra, per cambiare il numero di squadre è necessario modificare 
 
 Come si può vedere nell'immagine seguente, sono disponibili vari altri comandi:
 
-- Generate Names: consente di generare rapidamente nomi di squadre usando un certo schema, seguito da un indice. Ad esempio, è possibile generare rapidamente nomi come team 1…team 50, player 1…player 50, participant 1…participant 50
+- Genera Nomi: consente di generare rapidamente nomi di squadre usando un certo schema, seguito da un indice. Ad esempio, è possibile generare rapidamente nomi come squadra 1…squadra 50, giocatore 1…giocatore 50, partecipante 1…partecipante 50
 
 - Import: importa l'elenco dei nomi delle squadre da Excel o da un file di testo. Per Excel, inserire i nomi nella prima colonna del primo foglio; per un file di testo, inserire ogni nome su una nuova riga.
 
-- Save to PDF: per ottenere una panoramica delle squadre assegnate a ciascuna pulsantiera, esportare l'elenco in PDF premendo il pulsante ‘Save to PDF’
+- Salva in PDF: per ottenere una panoramica delle squadre assegnate a ciascuna pulsantiera, esportare l'elenco in PDF premendo il pulsante ‘Salva in PDF’
 
 - Groups: è possibile dividere le squadre in gruppi. Maggiori informazioni nella sezione seguente.
 
@@ -46,11 +46,11 @@ Come si può vedere nell'immagine seguente, sono disponibili vari altri comandi:
 
 È possibile dividere le squadre in gruppi in Quiz Setup (in alternativa, è possibile dividere le squadre in gruppi anche durante l'esecuzione di un quiz. Per maggiori informazioni, fare riferimento a [Demografica](../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#demographic) relativo alle diapositive demografiche del quiz.
 
-Facendo clic sul pulsante ‘Groups’ viene mostrato un elenco in cui è possibile inserire i nomi dei gruppi e il relativo insieme di pulsantiere. Vedere l'immagine seguente:
+Facendo clic sul pulsante ‘Gruppi’ viene mostrato un elenco in cui è possibile inserire i nomi dei gruppi e il relativo insieme di pulsantiere. Vedere l'immagine seguente:
 
 ![](../assets/images/image332.webp){ width="605" loading=lazy }
 
-Premendo il pulsante ‘Add’ compare una finestra in cui è possibile inserire sia il nome del gruppo sia le pulsantiere corrispondenti (inserendo una stringa di pulsantiere). È inoltre possibile rimuovere i gruppi.
+Premendo il pulsante ‘Aggiungi’ compare una finestra in cui è possibile inserire sia il nome del gruppo sia le pulsantiere corrispondenti (inserendo una stringa di pulsantiere). È inoltre possibile rimuovere i gruppi.
 
 Quando si inserisce l'intervallo di pulsantiere per un gruppo (ad esempio ‘1, 2, 3, 10-20’), viene eseguito un controllo per verificare che l'intervallo rientri nell'intervallo di pulsantiere definito nella scheda ‘Buzzers’. In caso contrario, viene mostrato un messaggio di errore.
 

@@ -12,7 +12,7 @@ Facendo clic sull'opzione a schermo intero, le diapositive vengono mostrate a sc
 
 !!! note
 
-    quando si fa clic sull'opzione Full screen slides, compare una seconda opzione, ‘Legacy mode’. Questa supporta la vecchia impostazione Full screen, che funzionava in modo leggermente diverso. In precedenza, l'opzione delle diapositive a schermo intero faceva sovrapporre la barra dell'orologio al testo della domanda. Per risolvere il problema, gli elementi delle diapositive (il testo della domanda e le risposte) dovevano essere spostati verso il basso per adattarsi alla visualizzazione a schermo intero. Se si hanno quiz con un layout progettato per la vecchia opzione Full screen, selezionare la casella ‘Legacy mode’.
+    quando si fa clic sull'opzione Full screen slides, compare una seconda opzione, ‘Modalità Legacy’. Questa supporta la vecchia impostazione Full screen, che funzionava in modo leggermente diverso. In precedenza, l'opzione delle diapositive a schermo intero faceva sovrapporre la barra dell'orologio al testo della domanda. Per risolvere il problema, gli elementi delle diapositive (il testo della domanda e le risposte) dovevano essere spostati verso il basso per adattarsi alla visualizzazione a schermo intero. Se si hanno quiz con un layout progettato per la vecchia opzione Full screen, selezionare la casella ‘Legacy mode’.
 
 **Show 3-2-1 Quiz countdown screen**
 
@@ -22,7 +22,7 @@ Indica se prima dell'inizio del quiz viene mostrata un'animazione di conto alla 
 
 Quando questa opzione è selezionata, ogni singolo voto viene mostrato per le domande in cui la votazione è impostata su ‘True’. Se l'opzione non è selezionata, viene mostrato solo un contatore con il numero totale di voti ricevuti. Per un esempio, vedere le immagini mostrate alla fine di 5.4.5. Questo vale solo quando i giocatori sono meno di 20.
 
-**Show top three teams using space on end score screen:**
+**Mostra primi 3 classificati usando la Barra Spaziatrice:**
 
 Quando è impostata, la schermata del punteggio finale non mostra automaticamente i primi 3 giocatori ma attende che venga premuta la barra spaziatrice. Premendo più volte la barra spaziatrice vengono mostrati in sequenza il 3<sup>o</sup>, il 2<sup>o</sup> e il 1<sup>o</sup> posto. Successivamente viene mostrata la classifica completa.
 
@@ -30,13 +30,13 @@ Quando è impostata, la schermata del punteggio finale non mostra automaticament
 
 Indica se viene utilizzato un telecomando per il Quizmaster (per il sistema di buzzer QuizXpress questa opzione è sempre abilitata, poiché il sistema include la pulsantiera Master).
 
-**Show correct answer**
+**Mostra Risposta Corretta**
 
 Se selezionata (impostazione predefinita), la risposta corretta (indicata da un segno di spunta verde) viene mostrata quando viene valutata una domanda a scelta multipla. Se deselezionata, la risposta corretta non viene mostrata, lasciando che sia il Quizmaster a comunicarla al pubblico. In alternativa, è possibile usare una forma per sostituire questo comportamento predefinito e indicare personalmente la risposta corretta — ad esempio, mostrando una grande freccia rossa che punta alla risposta giusta.
 
-**Randomize Questions**
+**Domande Casuali**
 
-Se selezionata, le domande di un quiz vengono mostrate in ordine casuale. Quando sono presenti dei round, le domande all'interno di ciascun round vengono mescolate. Indicando una percentuale, è possibile far sì che QuizXpress mostri solo una parte delle domande (in ordine casuale). Il modo in cui le diapositive vengono mescolate è controllato dall'opzione ‘Shuffle mode’, che può essere impostata per ogni diapositiva.
+Se selezionata, le domande di un quiz vengono mostrate in ordine casuale. Quando sono presenti dei round, le domande all'interno di ciascun round vengono mescolate. Indicando una percentuale, è possibile far sì che QuizXpress mostri solo una parte delle domande (in ordine casuale). Il modo in cui le diapositive vengono mescolate è controllato dall'opzione ‘Modalità Mescola’, che può essere impostata per ogni diapositiva.
 
 ** Show Quizmaster Hints**
 
@@ -48,7 +48,7 @@ Per guidare i principianti, durante un quiz possono essere mostrati dei suggerim
 
 Quando questa opzione è selezionata, Director si apre immediatamente all'avvio di QX Live. Se questa opzione non è impostata, è comunque possibile aprire Director in qualsiasi momento con il tasto ‘D’ *(nota: questa opzione è disponibile solo nell'edizione Ultimate)*.
 
-**Automatically advance to the next question**
+**Avanza automaticamente alla domanda successiva**
 
 Con questa opzione è possibile far passare Live alla domanda successiva senza intervento. Quindi, se si ha una serie di domande a scelta multipla da proporre al pubblico senza essere presenti, questa è l'opzione da usare. È inoltre possibile impostare il tempo tra le domande.
 
@@ -64,23 +64,23 @@ Normalmente il pubblico deve registrarsi all'inizio di una sessione. In questo m
 
 Quando è abilitata, il sistema consente in sequenza a tutti i giocatori che hanno risposto a una domanda aperta (entro 2 secondi dalla prima risposta) di fornire una risposta, finché non viene data una risposta corretta. Se non è abilitata, solo il primo giocatore può rispondere, dopodiché il sistema riapre la possibilità di rispondere a tutti i giocatori (tranne quelli che hanno già dato una risposta errata).
 
-**Automatically restart the quiz**
+**Riavvia automaticamente il quiz**
 
 Questa opzione consente di riavviare automaticamente il quiz un certo numero di secondi dopo aver raggiunto la schermata del punteggio finale, permettendo di creare un quiz autonomo che non richiede la presenza di un Quizmaster.
 
-**Highlight the correct answer in the response chart**
+**Evidenzia Risposta Corretta nel grafico dei risultati ( C )**
 
 Se non si desidera che la risposta corretta venga evidenziata nel grafico delle risposte, disattivare questa impostazione. Può essere utile, ad esempio, quando si vuole prima verificare con il pubblico quante risposte ci sono state per ciascuna opzione, senza evidenziare quella corretta.
 
-**Always run the countdown timer for the full time**
+**Esegui il countdown fino alla fine del tempo disponibile**
 
 Se si desidera che l'orologio scorra per l'intero tempo specificato, indipendentemente dal fatto che tutti abbiano già risposto, selezionare questa opzione (quando l'opzione è disattivata, l'orologio si ferma non appena tutti hanno risposto). Se si preferisce un tempo di conto alla rovescia costante, selezionare questa opzione.
 
-**Allow players to revise their answer**
+**Consenti di rivedere la risposta data**
 
 Quando si seleziona questa opzione, i giocatori possono modificare la risposta mentre il conto alla rovescia è in corso.
 
-**Do not reveal points onscreen during question**
+**Non mostrare i punteggi durante le domande**
 
 Per impostazione predefinita, il sistema mostra i punti guadagnati o persi per le domande di tipo ‘Dito più Veloce’. Per creare più suspense, è possibile impostare questa opzione in modo che i punti di un giocatore non siano noti fino alla visualizzazione della classifica.
 
@@ -88,6 +88,6 @@ Per impostazione predefinita, il sistema mostra i punti guadagnati o persi per l
 
 Per gli utenti che desiderano combinare QuizXpress con presentazioni PowerPoint, questa funzione consente di passare dalla schermata di PowerPoint a QuizXpress usando il pulsante ‘?’ del telecomando per presentazioni.
 
-**Remove top panel when answering to avoid overlapping**
+**Rimuovi il pannello superiore quando si risponde per evitare sovrapposizioni**
 
 In determinate situazioni (domanda aperta, votazione con feedback individuale), la diapositiva si sposta verso l'alto quando un giocatore preme il buzzer, sovrapponendosi al pannello superiore. Questa impostazione fa scomparire temporaneamente il pannello superiore per evitare la sovrapposizione.

@@ -136,7 +136,7 @@ Oltre ai buzzer con pulsanti a scelta multipla, QuizXpress supporta anche buzzer
 
 ### Buzzer QuizXpress Cube
 
-| ![](../assets/images/image316.webp){ width="146" loading=lazy } | I cubi buzzer sono dispositivi ricaricabili con un potente LED RGB e un solo pulsante. Con questo tipo di buzzer è possibile eseguire solo domande di tipo Dito più Veloce, poiché non ci sono pulsanti a scelta multipla. Molto adatti per le finali. Per usare questo tipo di buzzer, è sufficiente selezionare «QuizXpress Buzzers» come tipo di dispositivo. |
+| ![](../assets/images/image316.webp){ width="146" loading=lazy } | I cubi buzzer sono dispositivi ricaricabili con un potente LED RGB e un solo pulsante. Con questo tipo di buzzer è possibile eseguire solo domande di tipo Dito più Veloce, poiché non ci sono pulsanti a scelta multipla. Molto adatti per le finali. Per usare questo tipo di buzzer, è sufficiente selezionare «Buzzer QuizXpress Dome» come tipo di dispositivo. |
 |--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 
 I cubi hanno tre colori diversi. La tabella seguente elenca i colori dei buzzer e il loro significato:
@@ -174,7 +174,7 @@ I dispositivi Galaxy contengono LED RGB, il che significa che possono assumere q
 | Domanda – voto ricevuto                     | Viola                                                                    |
 | Domanda – risposta errata                   | Rosso                                                                    |
 | Domanda – risposta corretta                 | Verde                                                                    |
-| Last man standing – fuori dal gioco         | Rosso; rimane rosso fino al termine del round last-man-standing          |
+| Ultimo Uomo – fuori dal gioco         | Rosso; rimane rosso fino al termine del round last-man-standing          |
 | Schermata dei punteggi finali               | Vincitore: oro; 2<sup>o</sup> posto: argento; 3<sup>o</sup> posto: bronzo |
 
 ## Tabelle punteggi wireless QuizXpress

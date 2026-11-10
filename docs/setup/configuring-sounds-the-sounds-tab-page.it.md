@@ -4,7 +4,7 @@ Nella pagina delle impostazioni audio è possibile definire varie impostazioni p
 
 Selezionando la categoria «buzzer sounds», è possibile assegnare un suono al buzzer di una squadra specifica nell'elenco. È anche possibile aggiungere suoni personali e assegnarli a giocatori/squadre. Questo non vale però quando si usano i telefoni cellulari: per questi si applica il meccanismo dei «jingle», spiegato più avanti.
 
-Selezionando la categoria «Right Answer», l'elenco sul lato destro viene popolato con i suoni riprodotti in modo casuale durante il quiz quando una squadra dà una risposta corretta. Un suono può essere incluso o escluso inserendo o rimuovendo il segno di spunta accanto ad esso. Lo stesso vale per i suoni «Incorrect Answer».
+Selezionando la categoria «Right Answer», l'elenco sul lato destro viene popolato con i suoni riprodotti in modo casuale durante il quiz quando una squadra dà una risposta corretta. Un suono può essere incluso o escluso inserendo o rimuovendo il segno di spunta accanto ad esso. Lo stesso vale per i suoni «Risposta Sbagliata».
 
 Durante l'installazione di QuizXpress viene installato un insieme di suoni predefiniti tra cui scegliere.
 
@@ -12,15 +12,15 @@ Durante l'installazione di QuizXpress viene installato un insieme di suoni prede
 
 È possibile impostare i seguenti suoni/brani musicali:
 
-- *Welcome screen music* - la musica riprodotta all'avvio del quiz.
+- *Audio Schermata di Benvenuto* - la musica riprodotta all'avvio del quiz.
 
-- *Keypad registration screen music* – la musica riprodotta quando viene mostrata la schermata di registrazione delle pulsantiere (questa schermata non viene mostrata per impostazione predefinita quando si usano i telefoni cellulari)
+- *Audio Schermata Registrazione* – la musica riprodotta quando viene mostrata la schermata di registrazione delle pulsantiere (questa schermata non viene mostrata per impostazione predefinita quando si usano i telefoni cellulari)
 
-- *Final score screen music* - la musica riprodotta quando vengono mostrati i punteggi finali.
+- *Audio Classifica Finale* - la musica riprodotta quando vengono mostrati i punteggi finali.
 
-- *Countdown sound* – il suono riprodotto durante il conto alla rovescia.
+- *Audio Countdown* – il suono riprodotto durante il conto alla rovescia.
 
-- *Background music* – la musica che riempie tutti i momenti altrimenti silenziosi.
+- *Musica di Sottofondo* – la musica che riempie tutti i momenti altrimenti silenziosi.
 
 > ![](../assets/images/image338.webp){ width="605" loading=lazy }
 

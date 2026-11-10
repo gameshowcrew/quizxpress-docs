@@ -4,7 +4,7 @@ QuizXpress offre una varietà di Moduli Gioco. I Moduli Gioco daranno più brio 
 
 I Moduli Gioco possono essere avviati manualmente (su richiesta) da QuizXpress Director (il pannello di controllo del Quizmaster, di cui si parlerà più avanti), utilizzati inserendo nel file del quiz una diapositiva di tipo ‘Modulo Gioco’, oppure eseguiti in modalità autonoma dal programma di avvio dei Moduli Gioco.
 
-![](../../assets/images/image63.webp){ width="109" loading=lazy }Per inserire un Modulo Gioco nel quiz, selezionare il layout di diapositiva ‘Modulo Gioco’ dalla galleria dei layout nella scheda INSERISCI della barra multifunzione:
+![](../../assets/images/image63.webp){ width="109" align=left loading=lazy }Per inserire un Modulo Gioco nel quiz, selezionare il layout di diapositiva ‘Modulo Gioco’ dalla galleria dei layout nella scheda INSERISCI della barra multifunzione:
 
 Il passo successivo consiste nello scegliere il gioco dall'elenco dei giochi disponibili:
 

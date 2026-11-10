@@ -13,4 +13,4 @@ La sezione di allineamento e dimensione dispone di vari strumenti che consentono
 !!! tip
     Per allineare un singolo elemento, è sufficiente trascinarlo: le [Guide Smart](../user-interface-overview/design-area.md#guide-intelligenti) vengono mostrate quando è allineato con altri elementi o con la diapositiva, e si aggancia in posizione.
 
-![](../../assets/images/image293.webp){ width="108" loading=lazy }Il pulsante Order consente di ordinare più elementi sovrapposti secondo l'ordine z (profondità). È possibile portare un elemento in primo piano, inviarlo in secondo piano, portarlo avanti di un livello o inviarlo indietro di un livello.
+![](../../assets/images/image293.webp){ width="108" align=left loading=lazy }Il pulsante Order consente di ordinare più elementi sovrapposti secondo l'ordine z (profondità). È possibile portare un elemento in primo piano, inviarlo in secondo piano, portarlo avanti di un livello o inviarlo indietro di un livello.

@@ -132,7 +132,7 @@ Nella finestra delle proprietà di Studio (se non è visibile, mostrarla facendo
 
 **Tolleranza**: specifica la tolleranza utilizzata da QuizXpress per giudicare le risposte date. Una tolleranza più alta ammette più errori di ortografia.
 
-**Modalità Rivelazione**: indica se, al termine del conto alla rovescia, le risposte verranno mostrate automaticamente oppure se il Quizmaster le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
+**Modalità Rivelazione** (Automatico o Manualmente): indica se, al termine del conto alla rovescia, le risposte verranno mostrate automaticamente oppure se il Quizmaster le rivelerà manualmente una per una facendo clic sulle risposte in QuizXpress Director.
 
 In questa modalità è possibile specificare più risposte corrette, separate da un punto e virgola:
 

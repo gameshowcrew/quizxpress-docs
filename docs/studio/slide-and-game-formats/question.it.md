@@ -87,7 +87,7 @@ Scegliendo *Predefinito* per una domanda aperta si ottiene una normale domanda D
 
 
 
-![](../../assets/images/image39.webp){ width="126" loading=lazy }Per il tipo di input *Numerica*, l’app Smart Buzzer o il sito web buzzerpad presenta ai giocatori una schermata in cui possono inserire un valore numerico.
+![](../../assets/images/image39.webp){ width="126" align=left loading=lazy }Per il tipo di input *Numerica*, l’app Smart Buzzer o il sito web buzzerpad presenta ai giocatori una schermata in cui possono inserire un valore numerico.
 
 Per le domande numeriche è possibile specificare anche un intervallo come ‘80-90’. Ciò significa che tutte le risposte comprese (estremi inclusi) tra 80 e 90 sono giudicate corrette. Oppure è possibile trasformare la domanda in una domanda di approssimazione (ad es. ‘quante biglie ci sono nel barattolo’) in cui solo il giocatore con la risposta più vicina a quella corretta ottiene punti. In questo caso, spuntare ‘Nearest Wins (approssimazione)’. Quando ci sono più vincitori, i giocatori che hanno dato la risposta più rapidamente vincono i punti.
 

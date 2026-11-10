@@ -249,7 +249,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="odd">
 <td>Punti Nessuna Risposta</td>
-<td>I punti che vengono sottratti quando un partecipante non fornisce una risposta. Si applica alle domande di tipo ‘Votazione’ e alle domande Dito più Veloce con un ‘Tempo per rispondere’: in questo caso il giocatore perde questi punti quando il tempo scade prima che la risposta sia valutata.</td>
+<td>I punti che vengono sottratti quando un partecipante non fornisce una risposta. Si applica alle domande di tipo ‘Votazione’ e alle domande Dito più Veloce con un ‘Tempo Risposta’: in questo caso il giocatore perde questi punti quando il tempo scade prima che la risposta sia valutata.</td>
 </tr>
 <tr class="even">
 <td>Ruba punti</td>
@@ -304,7 +304,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 <td>Indica se la valutazione di una risposta di testo è a " Corrispondenza Esatta" (la risposta data deve corrispondere esattamente alla risposta corretta della domanda) o a " Corrispondenza Approssimata" (viene utilizzato un algoritmo che consente una certa percentuale di differenza tra la risposta data e la risposta corretta. Questo consente ai giocatori di commettere errori di ortografia).</td>
 </tr>
 <tr class="odd">
-<td>Tempo per rispondere</td>
+<td>Tempo Risposta</td>
 <td>Solo per le domande Dito più Veloce: il numero di secondi a disposizione del giocatore che ha premuto per primo per rispondere (0 = nessun limite). Una barra nella parte alta dello schermo mostra il tempo che scorre; se il Quizmaster non ha valutato la risposta entro quel tempo, la risposta conta come errata, con i ‘Punti Nessuna Risposta’. Vedere <a href="../../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers/#time-to-answer">Tempo per rispondere</a>.</td>
 </tr>
 <tr class="even">

@@ -36,4 +36,6 @@ Attualmente sono disponibili 14 Moduli Gioco, di cui 3 sono liberamente disponib
 
 - *Randomizer*. Estrae a sorte uno o più giocatori dal pubblico, uno o più numeri oppure uno o più elementi da un elenco.
 
+- Un modulo [*Sito Web*](website.md) che mostra a schermo intero un sito web a scelta durante il quiz, per esempio la pagina di uno sponsor o una classifica in tempo reale. Si tratta di un plugin gratuito.
+
 Questa sezione illustra le opzioni di configurazione dei Moduli Gioco. Mostra la finestra di configurazione di ciascun Modulo Gioco insieme a una descrizione delle opzioni.

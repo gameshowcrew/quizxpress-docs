@@ -2,15 +2,15 @@
 
 Esistono tre modi per creare un aspetto personalizzato del sito web buzzerpad di QuizXpress:
 
-1)  Possiamo acquistare un dominio personalizzato per voi e creare una versione con il vostro marchio su quel dominio. Contattateci all'indirizzo info@gameshowcrew.com per dettagli e prezzi.
+1) Possiamo acquistare un dominio personalizzato e creare una versione con il proprio marchio su quel dominio. Per dettagli e prezzi, scrivere a info@quizxpress.it.
 
-2)  È possibile passare dei parametri nell'URL per personalizzare l'aspetto e inserire il collegamento dal proprio sito web (per evitare che i clienti debbano usare il link lungo) oppure usare un sito come https://tinyurl.com/ per nascondere i parametri dell'URL. Se si mostra a schermo un QR code (premere Q mentre il quiz è in esecuzione nel riproduttore dei quiz) per consentire ai giocatori di accedere facilmente al buzzer web, è possibile indicare i parametri di personalizzazione per il QR code in QuizXpress Director. Nella scheda Mobile, premere ‘Impostazioni’ e, nella finestra di configurazione che appare, inserire i parametri nel campo ‘Estensione URL (parametri)’. Per ulteriori informazioni, fare riferimento a [La scheda Mobile](../quizxpress-director/the-mobile-tab.md#impostazioni).
+2) È possibile passare dei parametri nell'URL per personalizzare l'aspetto e inserire il collegamento dal proprio sito web (per evitare che i clienti debbano usare il link lungo) oppure usare un sito come https://tinyurl.com/ per nascondere i parametri dell'URL. Se si mostra a schermo un QR code (premere Q mentre il quiz è in esecuzione nel riproduttore dei quiz) per consentire ai giocatori di accedere facilmente al buzzer web, è possibile indicare i parametri di personalizzazione per il QR code in QuizXpress Director. Nella scheda Mobile, premere ‘Impostazioni’ e, nella finestra di configurazione che appare, inserire i parametri nel campo ‘Estensione URL (parametri)’. Per ulteriori informazioni, fare riferimento a [La scheda Mobile](../quizxpress-director/the-mobile-tab.md#impostazioni).
 
 3)  Incorporare il sito web buzzerpad in un iFrame e passare i parametri dal
 
 > riferimento dell'iFrame. Questo consente anche di aggiungere il proprio stream di trasmissione (come YouTube) nella stessa
 >
-> pagina. Per ulteriori informazioni, non esitate a contattarci all'indirizzo info@gameshowcrew.com.
+> pagina. Per ulteriori informazioni, scrivere a info@quizxpress.it.
 
 Personalizzazione con i parametri URL
 

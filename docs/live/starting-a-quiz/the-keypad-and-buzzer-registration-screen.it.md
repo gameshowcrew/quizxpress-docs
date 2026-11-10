@@ -1,44 +1,46 @@
-# La schermata di registrazione di pulsantiere e buzzer
+# La schermata di assegnazione delle pulsantiere
 
-Lo scopo della schermata di registrazione è scoprire quali buzzer/pulsantiere partecipano all'evento quiz. Facendo registrare esplicitamente i partecipanti, il software sa quanti dispositivi sono presenti. Esistono tre diverse «varianti» di schermate di assegnazione dei buzzer:
+Lo scopo della schermata di registrazione è quello di verificare quali pulsantiere/buzzer partecipano all'evento quiz. Registrando esplicitamente i dispositivi, il software consentirà di sapere quanti dispositivi sono presenti. Esistono tre diverse tipologie di schermata di assegnazione:
 
-- Schermata Sony Buzzer Assignment
+- Schermata di assegnazione buzzer Sony
 
-- Schermata Buzzer Assignment per meno di 100 partecipanti
+- Schermata di assegnazione fino a 100 partecipanti
 
-- Schermata Buzzer Assignment per più di 100 squadre
+- Schermata di assegnazione con più di 100 partecipanti
 
-## Schermata Sony Buzzer Assignment
+## Schermata di assegnazione buzzer Sony { #schermata-sony-buzzer-assignment }
 
-Quando si utilizzano buzzer Sony, i nomi possono essere inseriti nel programma Quiz Setup per ogni partecipante/squadra. Poiché un buzzer Sony non ha un identificativo esplicito, non è possibile collegare il nome di una squadra a un buzzer specifico quando si definiscono i nomi delle squadre in Quiz Setup. La schermata Buzzer Assignment risolve il problema: mostra i nomi delle squadre uno alla volta e, quando una squadra vede il proprio nome comparire davanti al «Buzzer Assignment Carousel», deve premere il buzzer per registrarsi alla partecipazione al quiz. Di seguito è riportata una schermata di esempio della schermata Sony Buzzer Assignment.
+Quando si utilizzano i buzzer Sony, i nomi di ogni partecipante/Squadra possono essere inseriti con l’applicazione Quiz Setup. Dato che i buzzer Sony non hanno un numero di identificazione univoco, non è possibile collegare il nome della squadra ad un buzzer specifico in QuizXpress Setup. La schermata di Assegnazione Buzzer risolve esattamente questo. Essa mostra i nomi delle squadre uno per volta. Quando una squadra vede comparire il proprio nome sul fronte del ‘Carosello di assegnazione', deve premere il proprio buzzer per registrarsi ed avere diritto di partecipare al quiz. Qui sotto è possibile vedere uno screenshot della schermata di Assegnazione Buzzer Sony.
 
 ![](../../assets/images/image403.webp){ width="605" loading=lazy }
 
-In basso sono presenti due pulsanti: quello a sinistra (la freccia circolare) reimposta i dati in modo che l'assegnazione dei buzzer ricominci; il pulsante più a destra è il pulsante «start», che avvia il quiz.
+In basso sono visibili due pulsanti: quello a sinistra (freccia circolare) resetta l'assegnazione dai buzzer consentendo di ripetere l’operazione di assegnazione da capo. Può accadere infatti che qualche partecipante prema erroneamente il buzzer durante l'assegnazione mentre non è il proprio turno. Il pulsante più a destra invece, è il tasto 'Start', che avvia il quiz.
 
-## Schermata Buzzer Assignment, meno di 100 partecipanti
+## La schermata di assegnazione fino a 100 partecipanti { #schermata-buzzer-assignment-meno-di-100-partecipanti }
 
-Ogni pulsantiera Reply/QuizXpress ha un identificativo univoco, utilizzato anche nel software QuizXpress Live per identificare un partecipante (ad esempio, buzzer con ID 1: Squadra 1). Quando partecipano al quiz meno di 100 buzzer (come stabilito dall'impostazione «Keypads» inserita in Quiz Setup), viene mostrata una griglia con tutti gli identificativi dei buzzer.
+Ogni pulsantiera/buzzer QuizXpress ha un identificativo univoco, utilizzato anche nel software QuizXpress Live per identificare un partecipante (ad esempio, buzzer con ID 1 = Squadra 1). Quando partecipano al quiz meno di 100 buzzer (come stabilito dall'impostazione «Keypads» inserita in Quiz Setup), viene mostrata una griglia con tutti gli identificativi dei buzzer.
 
-Quando viene premuto un tasto della pulsantiera, questa viene registrata come attiva nel sistema QuizXpress Live. Nella griglia compare un segno di spunta in corrispondenza del numero relativo all'ID del buzzer premuto.
+Quando viene premuto un tasto della pulsantiera/buzzer, questa viene registrata come attiva nel sistema QuizXpress Live. Nella griglia compare un segno di spunta in corrispondenza del numero relativo all'ID del buzzer premuto.
 
-A rigore, non è necessario che i buzzer si registrino esplicitamente. Tuttavia, il software QuizXpress Live deve sapere esattamente quante squadre partecipano, in modo da stabilire quando tutte le squadre hanno risposto a una domanda e interrompere il conto alla rovescia.
+Non è strettamente necessario che i buzzer si registrino esplicitamente. Tuttavia, il software QuizXpress Live deve sapere esattamente quante squadre partecipano, in modo da stabilire quando tutte le squadre hanno risposto a una domanda e interrompere il conto alla rovescia.
 
-Il pulsante mostrato in basso è il pulsante «start», che avvia il quiz. Di seguito sono riportate due schermate di esempio: una mostra la schermata prima che qualcuno si sia registrato, l'altra mostra lo stato della schermata dopo che tutti si sono registrati.
+Il pulsante mostrato in basso è il pulsante «Start», che avvia il quiz. Di seguito sono riportate due schermate di esempio: una mostra la schermata prima che i partecipanti effettuino la registrazione l'altra mostra lo stato dello schermo una volta che tutti i partecipanti hanno eseguito la registrazione.
 
 | ![](../../assets/images/image404.webp){ loading=lazy } | ![](../../assets/images/image405.webp){ loading=lazy } |
 |--------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 
 !!! note
 
-    a scopo di test, è possibile assegnare tutti i 100 buzzer in una sola volta premendo F1, oppure tutti i buzzer configurati in Quiz Setup premendo F2.*
+    In alternativa, è possibile assegnare 100 pulsantiere in una sola volta premendo il tasto F1 o tutte le pulsantiere configurate in Quiz Setup con il tasto F2*
 
-## Schermata Buzzer Assignment, più di 100 partecipanti
+## La schermata di assegnazione con più di 100 partecipanti { #schermata-buzzer-assignment-piu-di-100-partecipanti }
 
-Quando vengono utilizzati più di 100 buzzer, una griglia diventa sempre più difficile da leggere. Per questo motivo, in tal caso QuizXpress Live utilizza una schermata Buzzer Assignment diversa. Vedere sotto per una schermata di esempio.
+Quando vengono utilizzati più di 100 buzzer, l’utilizzo di una griglia comprometterebbe la sua buona visione e la sua lettura. In questo caso, QuizXpress Live! propone un'altra schermata di assegnazione pulsantiere. Si veda sotto uno screenshot della schermata
 
-Il pulsante mostrato in basso è il pulsante «start», che avvia il quiz.
+![](../../assets/images/buzzer-assignment-more-than-100.webp){ width="605" loading=lazy }
+
+Il pulsante visualizzato nella parte inferiore destra dello schermo è il pulsante 'Start', che avvia il quiz.
 
 !!! note
 
-    nessuna schermata di assegnazione dei buzzer viene mostrata quando si utilizzano buzzer di tipo Keyboard o Game port, poiché questi sistemi hanno un'assegnazione fissa.*
+    nessuna schermata di assegnazione viene visualizzata quando si utilizza una Tastiera o Pulsantiere tipo Game Port, in quanto questi sistemi hanno una assegnazione fissa.

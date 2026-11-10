@@ -1,4 +1,4 @@
-# Schermata del grafico
+# La schermata Grafico
 
 Al termine di una domanda, premendo ‘C’ viene mostrato un grafico delle risposte scelte, con il numero di persone che hanno scelto ciascuna risposta.
 

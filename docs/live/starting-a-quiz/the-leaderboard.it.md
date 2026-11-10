@@ -1,18 +1,18 @@
-# La classifica
+# La schermata Classifica Generale
 
-Quando una domanda termina — perché qualcuno ha risposto correttamente (Dito più Veloce), perché tutti hanno dato la propria risposta (voting) o perché il conto alla rovescia è arrivato a zero (time-out) — la schermata del punteggio con la classifica può essere mostrata premendo il tasto «S». Inizialmente la classifica mostra le prime 20 squadre (o meno, se le squadre/i giocatori sono meno); è tuttavia possibile scorrere verso l'alto e verso il basso con i tasti freccia della tastiera o con i pulsanti su/giù della pulsantiera Master.
+Quando una domanda è stata conclusa, o quando qualcuno ha risposto correttamente (Dito più Veloce), o tutte le persone hanno dato le loro risposte (Votazione), o il contatore conto alla rovescia raggiunge lo zero, premendo il tasto 'S' della tastiera può essere visualizzata la schermata della “Classifica Generale”. Inizialmente la classifica mostra le prime 20 squadre (inutile dire che se ci sono meno squadre/giocatori, verranno mostrati meno pannelli), tuttavia è possibile scorrere su e giù utilizzando i tasti freccia sulla tastiera oppure i tasti su/giù della pulsantiera del quizmaster.
 
-È possibile aprire questa schermata anche con Shift-S: in tal caso la classifica mostra inizialmente le posizioni più basse, creando maggiore suspense. Quando in un quiz sono presenti dei round (sono presenti diapositive End of Round), premendo Ctrl-S vengono mostrati i punteggi dei giocatori nel round corrente. Shift-Ctrl-S mostra i punteggi del round in ordine inverso (dal più basso al più alto). Premendo Ctrl-E viene mostrato il vincitore di ogni round.
+È possibile aprire questa schermata anche con i tasti Shift-S: in questo caso la classifica visualizzerà inizialmente le posizioni più basse, creando maggiore suspense. Quando esistono dei round all’interno di un quiz (sono presenti diapositive di tipo Fine Round), premendo i tasti Ctrl-S mostrerà i punteggi dei giocatori del round attuale. La combinazione Shift-Ctrl-S mostrerà i punteggi del round in ordine inverso (il più basso al più alto). Premendo Ctrl-E viene visualizzato il vincitore di ogni round.
 
-Premendo di nuovo «S» la classifica viene nascosta.
+Premendo di nuovo ‘S’ la classifica viene nascosta.
 
-## Schermate di controllo dei punteggi
+## Schermate di controllo Punteggi { #schermate-di-controllo-dei-punteggi }
 
-La classifica principale può essere usata solo per mostrare informazioni, non per modificare qualcosa. In alcuni scenari potrebbe essere necessario anche aggiornare i punteggi — ad esempio quando il pubblico viene sfidato con una prova al di fuori di QuizXpress e, una volta completata la sfida, si desidera registrare i risultati in QuizXpress. A questo scopo sono disponibili quattro schermate aggiuntive, accessibili tramite i tasti «E», «R», «T» e «W». Questi tasti attivano tutti la stessa schermata; tuttavia, il layout cambia a seconda del tasto. (Nota: un modo più comodo per aggiornare i punteggi è utilizzare la scheda Teams in QuizXpress Director.)
+La schermata “Classifica Generale” può essere utilizzata esclusivamente per visualizzare le informazioni delle squadre e del loro punteggio, senza potere effettuare alcuna modifica. In alcune particolari situazioni, potrebbe essere necessario aggiornare anche i punteggi. Un esempio è quando i partecipanti sono coinvolti in una prova/sfida al di fuori di QuizXpress. Una volta completata la prova/sfida esterna, sarebbe bello se i risultati potessero essere registrati in QuizXpress. A tal fine, sono disponibili quattro schermate aggiuntive, accessibili attraverso i tasti 'E', 'R', 'T' e 'W'. Queste chiavi in sostanza, attivano la stessa schermata ma il layout è differente per ogni tasto premuto. (Nota: un modo più conveniente per aggiornare i punteggi è quello di utilizzare la scheda Giocatori/Squadre in QuizXpress Director). Le schermate di controllo punteggi (ad eccezione delle schermate tipo “E” e "W") mostrano anche altre informazioni oltre ai punteggi.
 
 Le schermate di controllo dei punteggi (tranne la schermata «W») mostrano anche più informazioni dei soli punteggi.
 
-I diversi layout delle schermate sono:
+I differenti layout di schermata sono raffigurati di seguito:
 
 <table>
 <colgroup>
@@ -45,26 +45,26 @@ I diversi layout delle schermate sono:
 </tbody>
 </table>
 
-Per scorrere l'elenco delle squadre è possibile:
+Per scorrere l'elenco dei gruppi, è possibile:
 
-- Usare la rotellina del mouse.
+- Utilizzare la rotellina del mouse
 
-- Usare i tasti freccia su/giù.
+- Utilizzare i tasti freccia Su/Giù
 
 - Usare i tasti pagina su/pagina giù.
 
-La barra degli strumenti nella parte superiore dello schermo consente di apportare modifiche alla squadra selezionata. Sono disponibili le seguenti funzioni:
+La barra degli strumenti nella parte superiore della schermata consente di apportare modifiche per la squadra selezionata. Sono disponibili le seguenti funzionalità:
 
-| ![](../../assets/images/image425.webp){ .inline-icon width="38" } | Disattivare (mettere in pausa) la squadra/il giocatore. Quando un giocatore è disattivato, non può più rispondere alle domande                    |
+| ![](../../assets/images/image425.webp){ .inline-icon width="38" } | Disattiva (mette in pausa) la squadra/il giocatore. Quando un giocatore è disattivato, non può più rispondere alle domande |
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](../../assets/images/image426.webp){ .inline-icon width="39" } | Riprendere la partecipazione del giocatore/della squadra                                                                                          |
-| ![](../../assets/images/image427.webp){ .inline-icon width="38" } | Diminuire il punteggio di un punto                                                                                                                |
-| ![](../../assets/images/image428.webp){ .inline-icon width="39" } | Aumentare il punteggio di un punto                                                                                                                |
-| ![](../../assets/images/image429.webp){ .inline-icon width="40" } | Azzerare tutti i punteggi a 0                                                                                                                     |
-| ![](../../assets/images/image430.webp){ .inline-icon width="38" } | Attivare/disattivare lo scorrimento automatico dell'elenco dei punteggi (utile se il quiz prevede una pausa e si desidera mostrare continuamente i punteggi di tutti i giocatori) |
-| ![](../../assets/images/image431.webp){ .inline-icon width="39" } | Chiudere la schermata e confermare le modifiche (equivale a premere il tasto «Enter»). Se sono stati modificati i punteggi, le modifiche verranno applicate. |
-| ![](../../assets/images/image432.webp){ .inline-icon width="40" } | Chiudere la schermata e annullare le modifiche (equivale a premere il tasto «Escape»).                                                            |
+| ![](../../assets/images/image426.webp){ .inline-icon width="39" } | Riabilita la partecipazione del giocatore/della squadra |
+| ![](../../assets/images/image427.webp){ .inline-icon width="38" } | Decrementa il punteggio di un punto |
+| ![](../../assets/images/image428.webp){ .inline-icon width="39" } | Incrementa il punteggio di un punto |
+| ![](../../assets/images/image429.webp){ .inline-icon width="40" } | Azzera tutti i punteggi a 0 |
+| ![](../../assets/images/image430.webp){ .inline-icon width="38" } | Attiva/disattiva lo scorrimento automatico della classifica (utile se il quiz prevede una pausa e si desidera mostrare continuamente i punteggi di tutti i giocatori) |
+| ![](../../assets/images/image431.webp){ .inline-icon width="39" } | Chiude la schermata e conferma le modifiche (equivale a premere il tasto «Invio»). Se sono stati modificati i punteggi, le modifiche verranno applicate. |
+| ![](../../assets/images/image432.webp){ .inline-icon width="40" } | Chiude la schermata e annulla le modifiche (equivale a premere il tasto «Esc»). |
 
 !!! note
 
-    un modo più comodo per modificare i punti e attivare/disattivare le squadre è utilizzare QuizXpress Director o l'app mobile Director.
+    un modo più pratico per modificare i punti e abilitare/disabilitare le squadre è l'utilizzo di QuizXpress Director da PC o dell’app QuizXpress Director da dispositivo mobile.

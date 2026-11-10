@@ -28,9 +28,9 @@ Verrà riprodotto anche il jingle del vincitore del primo bonus (per ulteriori i
 
 ![](../../assets/images/image32.webp){ width="275" loading=lazy }
 
-## Tempo per rispondere nelle domande fastest finger { #time-to-answer-on-fastest-finger-questions }
+## Tempo per rispondere nelle domande Dito più Veloce { #time-to-answer-on-fastest-finger-questions }
 
-In una domanda fastest finger è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la slide e impostare ‘Tempo per rispondere’ nel pannello delle proprietà su un numero di secondi; 0, il valore predefinito, significa nessun limite. Appena si imposta un tempo compare anche il campo ‘Punti Nessuna Risposta’: sono i punti che un giocatore perde quando il tempo scade. Lo svolgimento durante il quiz è descritto in [Dito più Veloce / Lock-out](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
+In una domanda Dito più Veloce è possibile limitare il tempo a disposizione del giocatore che ha premuto per primo per dare la risposta. Selezionare la diapositiva e impostare ‘Tempo Risposta Buzzer’ nel pannello delle proprietà su un numero di secondi; 0, il valore predefinito, significa nessun limite. Appena si imposta un tempo compare anche il campo ‘Punti Nessuna Risposta’: sono i punti che un giocatore perde quando il tempo scade. Lo svolgimento durante il quiz è descritto in [Dito più Veloce](../../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#time-to-answer).
 
 ## Domande a scelta multipla
 

@@ -42,15 +42,15 @@ Per maggiori informazioni sull'installazione del sistema di pulsantiere QuizXpre
 
 Il sistema di pulsantiere QuizXpress Plus è simile alle pulsantiere QuizXpress Basic, ma ha una portata maggiore, è quattro volte più veloce e può gestire fino a 2000 pulsantiere su un solo ricevitore. Con il sistema Plus si ottiene una portata di circa 350 metri grazie alle 4 antenne del ricevitore e una velocità di interrogazione di 400 pulsantiere al secondo (il sistema Basic ne gestisce 100 al secondo).
 
-### Buzzer QuizXpress
+### Buzzer QuizXpress Dome { #buzzer-quizxpress }
 
 ![](../assets/images/image310.webp){ width="154" loading=lazy }
 
-Con i buzzer QuizXpress si ottiene la combinazione di un grande pulsante da battere e 4 pulsanti a scelta multipla. Il pulsante ha una luce che lampeggia quando il buzzer è il primo a essere premuto. I buzzer sono wireless e hanno una portata di 60 metri. Sono alimentati da 2 batterie Duracell D.
+Con i Buzzer QuizXpress Dome si ottiene la combinazione di un grande pulsante da battere e 4 pulsanti a scelta multipla. Il pulsante ha una luce che lampeggia quando il buzzer è il primo a essere premuto. I buzzer sono wireless e hanno una portata di 60 metri. Sono alimentati da 2 batterie Duracell D.
 
-### Buzzer QuizXpress Galaxy RGB
+### Buzzer QuizXpress Galaxy { #buzzer-quizxpress-galaxy-rgb }
 
-I buzzer QuizXpress Galaxy RGB sono buzzer interattivi, ricaricabili e wireless, con un pulsante Dito più Veloce e 4 pulsanti a scelta multipla in 64 colori.
+I Buzzer QuizXpress Galaxy sono buzzer interattivi, ricaricabili e wireless, con un pulsante Dito più Veloce e 4 pulsanti a scelta multipla in 64 colori.
 
 Forniscono un riscontro visivo per diversi eventi che avvengono nel quiz, ad esempio:
 
@@ -128,7 +128,7 @@ Un ricevitore USB viene utilizzato per 4 buzzer Sony wireless, quindi tenere pre
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Tavoli da palco illuminati QuizXpress Luminous                                                                                                                         | Colonnine buzzer QuizXpress Sparkle                                                                                                                                        |
 
-Luminous e Sparkle funzionano esattamente come i buzzer QuizXpress, quindi è questo il tipo di dispositivo da selezionare in Quiz Setup. Si noti che la colonnina buzzer Sparkle non ha pulsanti a scelta multipla, quindi può essere usato con *domande aperte* o con domande a scelta multipla impostate su «manual judgment» (in questo caso il giocatore comunica a voce al Quizmaster quale risposta a scelta multipla è corretta, e il Quizmaster giudica la risposta data). Il tavolo da palco sincronizza automaticamente le proprie luci con il buzzer abbinato.
+Luminous e Sparkle funzionano esattamente come i Buzzer QuizXpress Dome, quindi è questo il tipo di dispositivo da selezionare in Quiz Setup. Si noti che la colonnina buzzer Sparkle non ha pulsanti a scelta multipla, quindi può essere usato con *domande aperte* o con domande a scelta multipla impostate su «manual judgment» (in questo caso il giocatore comunica a voce al Quizmaster quale risposta a scelta multipla è corretta, e il Quizmaster giudica la risposta data). Il tavolo da palco sincronizza automaticamente le proprie luci con il buzzer abbinato.
 
 ## Sistemi di buzzer a pulsante singolo
 

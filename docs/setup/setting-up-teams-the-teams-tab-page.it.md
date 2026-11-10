@@ -44,7 +44,7 @@ Come si può vedere nell'immagine seguente, sono disponibili vari altri comandi:
 
 ### Raggruppare le pulsantiere { #raggruppare-i-keypad }
 
-È possibile dividere le squadre in gruppi in Quiz Setup (in alternativa, è possibile dividere le squadre in gruppi anche durante l'esecuzione di un quiz. Per maggiori informazioni, fare riferimento a [Demographic](../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#demographic) relativo alle diapositive demografiche del quiz.
+È possibile dividere le squadre in gruppi in Quiz Setup (in alternativa, è possibile dividere le squadre in gruppi anche durante l'esecuzione di un quiz. Per maggiori informazioni, fare riferimento a [Demografica](../live/starting-a-quiz/the-quiz-screen-voting-everybody-answers.md#demographic) relativo alle diapositive demografiche del quiz.
 
 Facendo clic sul pulsante ‘Groups’ viene mostrato un elenco in cui è possibile inserire i nomi dei gruppi e il relativo insieme di pulsantiere. Vedere l'immagine seguente:
 

@@ -120,7 +120,7 @@ QuizXpress Live può essere utilizzato con la tastiera. Sono disponibili i segue
 
 ## Usare il telefono cellulare o il tablet
 
-Se si possiede una licenza per l’uso delle app mobili con QuizXpress, è possibile usare l’app Mobile Director per controllare il quiz dal proprio smartphone o tablet. Per maggiori dettagli, consultare [App di telecomando – Mobile Director](using-mobile-keypads/using-the-mobile-apps.md#app-telecomando-mobile-director).
+Se si possiede una licenza per l’uso delle app mobili con QuizXpress, è possibile usare l’app Mobile Director per controllare il quiz dal proprio smartphone o tablet. Per maggiori dettagli, consultare [QuizXpress Director App](using-mobile-keypads/using-the-mobile-apps.md#app-telecomando-mobile-director).
 
 ## Usare la pulsantiera Master { #usare-il-telecomando }
 

@@ -177,7 +177,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="odd">
 <td>Ritardo tra le Risposte<sup>*</sup></td>
-<td>Questa proprietà viene visualizzata una volta impostata le funzionalità 'Ritardo prima della risposta' e ‘Nascondi e mostra una alla volta’. Essa definisce in secondi, il ritardo che intercorrerà tra la visualizzazione di una risposta e la successiva.</td>
+<td>Questa proprietà viene visualizzata una volta impostate le funzionalità ‘Ritardo Risposte’ e ‘Nascondi e Mostra una alla Volta’. Essa definisce in secondi, il ritardo che intercorrerà tra la visualizzazione di una risposta e la successiva.</td>
 </tr>
 <tr class="even">
 <td>Gruppo Demografico<sup>*</sup></td>
@@ -277,7 +277,7 @@ Queste proprietà vengono visualizzate facendo clic sullo sfondo della diapositi
 </tr>
 <tr class="even">
 <td>Mostra Azioni Risposta<sup>*</sup></td>
-<td>Quando è impostato ‘Ritardo Risposte’, questa proprietà compare. Impostandola su ‘Mostra e Nascondi Insieme’, le risposte vengono mostrate tutte insieme una volta trascorso il tempo di ritardo. Impostandola su ‘Nascondi e Mostra una alla volta’, le risposte vengono mostrate una per una una volta trascorso il tempo di ritardo.</td>
+<td>Quando è impostato ‘Ritardo Risposte’, questa proprietà compare. Impostandola su ‘Nascondi e Mostra Insieme’, le risposte vengono mostrate tutte insieme una volta trascorso il tempo di ritardo. Impostandola su ‘Nascondi e Mostra una alla Volta’, le risposte vengono mostrate una per una una volta trascorso il tempo di ritardo.</td>
 </tr>
 <tr class="odd">
 <td>Mostra Risposta Corretta</td>

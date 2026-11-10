@@ -42,7 +42,7 @@ Selezionare l'icona del suono sulla diapositiva, quindi utilizzare uno di questi
 La parte che verrà riprodotta è evidenziata in blu. Per modificarla:
 
 - **Trascinare sulla forma d'onda** per selezionare una nuova parte, oppure trascinare i marcatori all'inizio e alla fine della selezione.
-- **Digitare i tempi** nelle caselle ‘Start’ e ‘Fine’. È possibile inserire secondi (`75`), minuti e secondi (`1:15`) oppure ore, minuti e secondi (`0:01:15`), con decimali se lo si desidera (`1:15.5`). ‘Length’ indica per quanto tempo viene riprodotta la parte selezionata.
+- **Digitare i tempi** nelle caselle ‘Inizio’ e ‘Fine’. È possibile inserire secondi (`75`), minuti e secondi (`1:15`) oppure ore, minuti e secondi (`0:01:15`), con decimali se lo si desidera (`1:15.5`). ‘Durata’ indica per quanto tempo viene riprodotta la parte selezionata.
 - **Impostare l'inizio o la fine durante l'ascolto**: fare clic su ‘Imposta Inizio (I)’ o ‘Imposta Fine (O)’, oppure premere I oppure O sulla tastiera, nell'esatto momento in cui si sente il punto giusto. Quando non è in corso alcuna riproduzione, questi pulsanti utilizzano la posizione del cursore.
 - **‘Traccia Intera’** seleziona di nuovo l'intero suono.
 

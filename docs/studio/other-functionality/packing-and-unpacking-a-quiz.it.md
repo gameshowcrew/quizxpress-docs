@@ -27,7 +27,7 @@ Al termine, una barra verde mostra quanto tempo è stato necessario e quanto era
 
 Spesso durante il quiz viene riprodotta solo una piccola parte di una canzone o di un videoclip, ad esempio 20 secondi di una canzone di 4 minuti. Con ‘Taglia solo parte da riprodurre’ (separatamente per ‘Audio’ e ‘Video’), il quiz compresso conserva solo quella parte. Questo può far risparmiare molto spazio, soprattutto nei round musicali e nei bingo musicali.
 
-- La parte conservata va da ‘Start’ a ‘Fine’ del suono o del video, e include la parte ‘Replay’ quando il suono o il video viene riprodotto di nuovo dopo la risposta.
+- La parte conservata va dall'‘Inizio’ alla ‘Fine’ del suono o del video, e include la parte ‘Replay’ quando il suono o il video viene riprodotto di nuovo dopo la risposta.
 - ‘Margine’ aggiunge alcuni secondi prima e dopo quella parte (1 secondo per impostazione predefinita), in modo da avere un po' di margine se in seguito si desidera modificare i tempi.
 - I tempi di inizio, fine e riproduzione ripetuta nel quiz compresso vengono regolati automaticamente, quindi il quiz viene riprodotto esattamente come prima.
 - Un suono o un video che viene riprodotto fino alla fine mantiene la sua fine. Un video in loop che viene riprodotto fino alla fine mantiene anche il suo inizio, perché ricomincia dall'inizio del file.

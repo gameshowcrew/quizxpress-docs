@@ -18,7 +18,7 @@ Viene così visualizzata la finestra di dialogo di configurazione di quel Modulo
 
 Per provare il Modulo Gioco, è possibile eseguire il quiz completo oppure usare la funzione di anteprima di Studio premendo F5 (oppure facendo clic con il pulsante destro del mouse sul Modulo Gioco e scegliendo ‘Anteprima’). Il Modulo Gioco viene avviato in una finestra separata. Usare la barra spaziatrice per spostarsi tra le diverse schermate.
 
-In alternativa, è possibile avviare i Moduli Gioco al volo durante un quiz da QuizXpress Director. Consultare [La vista Round scores](../../live/quizxpress-director/the-round-scores-view.md) per ulteriori informazioni.
+In alternativa, è possibile avviare i Moduli Gioco al volo durante un quiz da QuizXpress Director. Consultare [La scheda Moduli](../../live/quizxpress-director/the-extensions-view-mini-games-and-plugins.md) per ulteriori informazioni.
 
 Infine, è possibile avviare un Modulo Gioco in modalità autonoma (senza eseguire un quiz nel riproduttore dei quiz) dal programma di avvio dei Moduli Gioco. Il programma di avvio dei Moduli Gioco può essere aperto dal menu Start di Windows (sezione QuizXpress) oppure da Studio.
 

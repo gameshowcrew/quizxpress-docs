@@ -1,26 +1,28 @@
 # La scheda Mobile
 
-La scheda Mobile mostra tutti i dispositivi mobili attualmente connessi.
+La scheda Mobile mostra tutti i dispositivi mobili attualmente connessi. È visibile solo se in Quiz Setup è previsto l’uso di dispositivi mobili.
 
 ![](../../assets/images/image455.webp){ loading=lazy }
 
 Da qui è possibile:
 
-- Select Jingle: forzare la **selezione del jingle** per tutti i giocatori che usano l’app Smart Buzzer
+- Aggiorna: aggiorna l’elenco dei dispositivi connessi
 
-- **Send Message:** inviare un messaggio al giocatore o ai giocatori selezionati
+- Seleziona Jingle: forza la **selezione del jingle** per tutti i giocatori che usano l’app Smart Buzzer
 
-- **Blacklist Player: bloccare definitivamente il giocatore selezionato in modo che non possa più rientrare nel quiz**
+- **Invia Messaggio:** invia un messaggio al giocatore o ai giocatori selezionati
 
-- **Latency Test: verificare la qualità della connessione di tutti i dispositivi**
+- **Lista Nera: blocca definitivamente il giocatore selezionato in modo che non possa più rientrare nel quiz**
 
-- **Pair with Host Remote: mostrare il codice QR da scansionare con l’app Director (telecomando mobile del Quizmaster) per aggiungere questo computer all’elenco dei computer controllabili.**
+- **Test Latenza: verifica la qualità della connessione di tutti i dispositivi**
 
-- Settings: aprire la finestra di dialogo delle impostazioni mobili
+- **Abbina App Director: mostra il codice QR da scansionare con l’app Director (il telecomando mobile del Quizmaster) per aggiungere questo computer all’elenco dei computer controllabili.**
 
-- Chat: aprire una sessione di chat per chattare con tutti i giocatori
+- Impostazioni: apre la finestra ‘Impostazioni Dispositivi Mobili’
 
-- Sulla destra è visibile il PIN corrente (quando si opera in modalità server)
+- Chat: apre una sessione di chat per chattare con tutti i giocatori
+
+- Sulla destra è visibile il ‘PIN Sessione’ (quando si opera in modalità server)
 
 ## Test di latenza
 
@@ -49,29 +51,29 @@ Premendo il pulsante della chat, i giocatori possono inviare messaggi al Quizmas
 
 ## Impostazioni
 
-Alcune impostazioni avanzate si trovano sotto il pulsante *Settings*:
+Alcune impostazioni avanzate si trovano sotto il pulsante *Impostazioni*:
 
 ![](../../assets/images/image461.webp){ width="332" loading=lazy }
 
-Le caselle di controllo in alto controllano messaggi di conferma facoltativi inviati ai dispositivi connessi. Questi messaggi aiutano gli utenti a capire cosa sta succedendo. La prima opzione restituisce al dispositivo ogni risposta ricevuta, con un messaggio del tipo ‘We received answer D’. La seconda opzione invia un avviso solo quando non è stata ricevuta alcuna risposta oppure la risposta non è stata elaborata in tempo (ad esempio a causa della latenza del flusso video). La terza opzione invia al dispositivo, dopo ogni domanda, un messaggio con i punti vinti/persi, e l’ultima opzione consente di controllare se il dispositivo mostra che il giocatore ha risposto correttamente o in modo errato.
+Le caselle di controllo del riquadro ‘Messaggi’ controllano messaggi di conferma facoltativi inviati ai dispositivi connessi. Questi messaggi aiutano gli utenti a capire cosa sta succedendo. La prima opzione restituisce al dispositivo ogni risposta ricevuta, con un messaggio del tipo ‘Abbiamo ricevuto la risposta D’. La seconda opzione invia un avviso solo quando non è stata ricevuta alcuna risposta oppure la risposta non è stata elaborata in tempo (ad esempio a causa della latenza del flusso video). La terza opzione invia al dispositivo, dopo ogni domanda, un messaggio con i punti vinti/persi, e l’ultima opzione mostra al giocatore se ha risposto correttamente o erroneamente dopo ogni domanda.
 
-Con l’impostazione ‘Game PIN indicator’ è possibile configurare un indicatore del PIN da mostrare in quattro posizioni diverse della schermata del quiz durante il quiz. Questa impostazione non si applica in modalità Wi-Fi, poiché in tale modalità non viene usato alcun PIN. L’indicatore del PIN appare così:
+Con l’impostazione ‘Indicatore PIN di Gioco’ è possibile configurare un indicatore del PIN da mostrare durante il quiz in quattro posizioni diverse della schermata del quiz. Questa impostazione non si applica in modalità Wi-Fi, poiché in tale modalità non viene usato alcun PIN. L’indicatore del PIN appare così:
 
 ![](../../assets/images/image462.webp){ width="310" loading=lazy }
 
-Sono presenti anche alcune impostazioni per controllare la pulsantiera mobile, ad esempio se debba riprodurre suoni e, per il sito web buzzerpad, un’opzione per impostarlo sul comportamento da pulsantiera semplice, ovvero con la visualizzazione di una pulsantiera a soli 7 pulsanti (modalità legacy). Qui è anche possibile indicare se mostrare le immagini anche sui telefoni cellulari.
+Nel riquadro ‘Dispositivo Mobile’ ci sono alcune impostazioni per controllare la pulsantiera mobile, ad esempio ‘Disabilita Audio’ e, per il sito web buzzerpad, l’opzione ‘Usa Layout Pulsantiera Semplificato’, che consente di impostare il layout semplificato, ovvero di visualizzare una pulsantiera a 7 pulsanti (modalità legacy) anziché quella estesa. Con ‘Mostra immagini’ si indica se mostrare le immagini anche sui telefoni cellulari.
 
-La sezione QR code display consente di indicare se mostrare un codice QR che rimanda al buzzer web, come indicato in QuizXpress Setup, oppure un link all’app Smart Buzzer negli store di app iOS e Android. Se si mostra l’URL del buzzer web, è possibile specificare parametri aggiuntivi nel campo URL Extension, utili per personalizzare l’aspetto della pulsantiera web. Per maggiori informazioni, consultare [Personalizzare il sito web buzzerpad](../using-mobile-keypads/branding-the-buzzerpad-website.md).
+Il riquadro ‘Impostazioni Visualizzazione Codice QR’ consente di indicare se mostrare un codice QR che rimanda al buzzer web, come indicato in QuizXpress Setup, oppure (‘Mostra link agli app store per dispositivi mobili’) un link all’app Smart Buzzer negli store di app iOS e Android. Se si mostra l’URL del buzzer web, è possibile specificare parametri aggiuntivi nel campo ‘Estensione URL (parametri)’, utili per personalizzare l’aspetto della pulsantiera web. Per maggiori informazioni, consultare [Personalizzare il sito web buzzerpad](../using-mobile-keypads/branding-the-buzzerpad-website.md).
 
-Il cursore Server delay può essere usato per ritardare tutte le azioni inviate ai dispositivi mobili, per ottenere una migliore sincronizzazione con il flusso di trasmissione. Mantenere questo valore a 0 quando non si trasmette in streaming. Ad esempio, se la latenza del flusso YouTube è di circa 3 secondi, è possibile impostare il ritardo a 3 secondi. In questo modo, quando il conto alla rovescia parte nel flusso YouTube dei giocatori, parte anche sul loro dispositivo. Senza il ritardo, il conto alla rovescia sul dispositivo partirebbe 3 secondi prima del timer su YouTube, il che può creare confusione.
+Il cursore ‘Ritardo Server’ può essere usato per ritardare tutte le azioni inviate ai dispositivi mobili, per ottenere una migliore sincronizzazione con il flusso di trasmissione. Mantenere questo valore a 0 quando non si trasmette in streaming. Ad esempio, se la latenza del flusso YouTube è di circa 3 secondi, è possibile impostare il ritardo a 3 secondi. In questo modo, quando il conto alla rovescia parte nel flusso YouTube dei giocatori, parte anche sul loro dispositivo. Senza il ritardo, il conto alla rovescia sul dispositivo partirebbe 3 secondi prima del timer su YouTube, il che può creare confusione.
 
-Quando l’opzione ‘Extend answer time’ è selezionata, il sistema continua ad accettare i voti anche dopo la scadenza del conto alla rovescia, per il tempo impostato nel cursore ‘Server delay’. Ciò può servire a compensare la latenza dello streaming. Ad esempio, se il flusso ha un ritardo di 5 secondi, i giocatori all’altro capo del flusso vedono ancora scorrere l’orologio per 5 secondi dopo che si è già fermato in studio. Quindi, con questa opzione attiva, il sistema accetta ancora i voti in questi ultimi 5 secondi, evitando che i giocatori perdano una domanda.
+Quando l’opzione ‘Estendi il tempo di risposta di … secondi’ è selezionata, il sistema continua ad accettare i voti anche dopo la scadenza del conto alla rovescia, per il tempo impostato nel cursore ‘Ritardo Server’. Ciò può servire a compensare la latenza dello streaming. Ad esempio, se il flusso ha un ritardo di 5 secondi, i giocatori all’altro capo del flusso vedono ancora scorrere l’orologio per 5 secondi dopo che si è già fermato in studio. Quindi, con questa opzione attiva, il sistema accetta ancora i voti in questi ultimi 5 secondi, evitando che i giocatori perdano una domanda.
 
-**Change mobile device range on the fly**
+**Cambia l’intervallo dei dispositivi mobili durante il quiz**
 
 Si immagini di aver avviato un quiz online in cui si attendono fino a 20 giocatori (intervallo di dispositivi “1-20”) e che, 10 minuti dopo l’inizio dell’introduzione, altri 15 giocatori vogliano unirsi. In precedenza sarebbe stato necessario riavviare il quiz e far registrare di nuovo tutti con il nuovo PIN, ecc. Per evitarlo, ora è possibile aggiornare l’intervallo dei dispositivi mobili mentre il quiz è in corso.
 
-A tal fine, aprire Director nel lettore del quiz, andare alla scheda Mobile e fare clic sul pulsante Settings. Quindi fare clic sul pulsante Change device range e immettere il nuovo intervallo:
+A tal fine, aprire Director nel riproduttore del quiz, andare alla scheda Mobile e fare clic sul pulsante ‘Impostazioni’. Quindi fare clic sul pulsante ‘Cambia Intervallo Dispositivi’ e immettere il nuovo intervallo:
 
 ![](../../assets/images/image463.webp){ loading=lazy }
 

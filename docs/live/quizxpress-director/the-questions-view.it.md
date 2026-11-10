@@ -1,21 +1,21 @@
-# La vista Questions
+# La scheda Domande
 
-La scheda ‘Questions’ offre una panoramica di tutte le domande del quiz caricato. È possibile vedere le miniature di tutte le diapositive e, selezionando una domanda, nel riquadro a destra vengono mostrati la domanda, le risposte e la documentazione (si noti che non si tratta di una rappresentazione grafica completa).
+La scheda ‘Domande’ offre una panoramica di tutte le domande del quiz caricato. È possibile vedere le miniature di tutte le diapositive e, selezionando una domanda, nel riquadro a destra vengono mostrati la domanda, le risposte e la documentazione (si noti che non si tratta di una rappresentazione grafica completa).
 
 ![](../../assets/images/image442.webp){ width="582" loading=lazy }
 
 Con la barra degli strumenti è possibile eseguire le seguenti operazioni:
 
-- **Go to question: passare a una domanda specifica (possibile solo quando nessuna domanda è in conto alla rovescia). Per farlo, fare clic su un’altra domanda nell’elenco, quindi su ‘Go to question’.**
+- **Vai alla Domanda: passare a una domanda specifica (possibile solo quando nessuna domanda è attiva o in fase di avvio). Per utilizzarlo, fare clic su un’altra domanda nell’elenco, quindi su ‘Vai alla Domanda’.**
 
-- **Go to end: passare alla fine del quiz (possibile solo quando nessuna domanda è in conto alla rovescia). Facendo clic su questo pulsante viene mostrata la panoramica dei punteggi finali.**
+- **Vai alla Fine: saltare alla fine del quiz (possibile solo quando nessuna domanda è attiva o in fase di avvio). Facendo clic su questo pulsante viene mostrata la schermata dei punteggi finali.**
 
-- **Edit question: modifica immediata della domanda selezionata (correggere l’ortografia, cambiare la risposta corretta, ecc.)**
+- **Modifica Domanda: modificare ‘al volo’ la domanda selezionata (correggere l’ortografia, cambiare la risposta corretta, ecc.)**
 
-- **Edit timing**: regolare i tempi delle domande (durata del conto alla rovescia)
+- **Modifica Tempo**: regolare i tempi delle domande (durata countdown)
 
-- **Layout Horizontal/Vertical: passare da una disposizione orizzontale a una verticale**
+- **Layout Orizzontale/Verticale: passare da una disposizione orizzontale a una verticale**
 
-L’elenco delle domande mostra un’indicazione visiva delle domande già visitate (verde) e della domanda corrente (giallo).
+L’elenco delle domande mostra un’indicazione visiva delle domande già svolte (verde) e della domanda corrente (giallo).
 
-Quando la diapositiva selezionata è una diapositiva di Modulo Gioco, è possibile fare doppio clic su quella voce per modificare ‘al volo’ la configurazione memorizzata. Un esempio di utilizzo: un quiz con diversi Moduli Gioco Wheel of Fortune usati per assegnare una serie di premi ai vincitori dei round: una volta assegnato un premio, potrebbe essere opportuno rimuoverlo dalla Wheel of Fortune successiva se si dispone di una sola copia di quel premio.
+Quando la diapositiva selezionata è una diapositiva di Modulo Gioco, è possibile fare doppio clic su quella voce per modificare ‘al volo’ la configurazione memorizzata. Un esempio in cui poterla adottare è quando il quiz presenta diverse sessioni del Modulo Ruota della Fortuna usate per distribuire una serie di premi ai vincitori del round. Quando un premio è stato assegnato, è possibile rimuoverlo dalla Ruota della Fortuna successiva se si dispone di un solo pezzo per esempio.

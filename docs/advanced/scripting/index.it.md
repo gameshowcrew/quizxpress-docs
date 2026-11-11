@@ -30,11 +30,11 @@ L'editor assiste durante la digitazione:
 - **Suggerimenti**: digitare un punto dopo `qx`, `slide` o un giocatore, oppure premere Ctrl+Spazio, e un elenco mostra cosa si può usare, con una breve spiegazione. Tra le parentesi di una funzione, un suggerimento a comparsa mostra i suoi argomenti.
 - **Controllo della sintassi**: un errore di battitura, come una parentesi mancante, viene sottolineato con una linea rossa ondulata, e l'errore è mostrato accanto al pulsante 'Test'. Fare clic sull'errore per passare alla sua riga.
 - **Console**: sotto l'editor, la console mostra l'output di `console.log()` e gli errori di un'esecuzione di test. Vedere [Test e debug](debugging.md).
-- **'Example scripts on GitHub'**, in alto a destra, apre la nostra raccolta di quiz di esempio pronti all'uso con i relativi script.
+- **'Script di esempio su GitHub'**, in alto a destra, apre la nostra raccolta di quiz di esempio pronti all'uso con i relativi script.
 
 I pulsanti:
 
-- **'Save'** memorizza lo script nella diapositiva, e quindi nel quiz.
+- **'Salva'** memorizza lo script nella diapositiva, e quindi nel quiz.
 - **'Test'** esegue lo script come fa QuizXpress Live quando mostra la diapositiva: il codice esterno alle funzioni e poi `onLoadSlide()`. Viene eseguito in una sandbox con questa diapositiva e dieci squadre di esempio, e non tocca il quiz. Gli altri gestori non vengono chiamati, perché nella sandbox non accade nulla.
 
 ![Test di uno script: l'output appare nella console](../../assets/images/js-test-console.webp){ loading=lazy }

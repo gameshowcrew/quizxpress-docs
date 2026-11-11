@@ -16,4 +16,4 @@ Per l'animazione, è possibile scegliere tra una griglia colorata statica o un'a
 
 È possibile estrarre da un sottoinsieme dell'intero pubblico (tramite una finestra di selezione) oppure includere tutto il pubblico (nessuna selezione manuale necessaria)
 
-Nella sezione ‘Appearance’ è possibile configurare l'immagine di sfondo da mostrare. La sezione ‘Music’ consente di specificare suoni diversi per l'animazione e per il momento in cui è stata effettuata la selezione.
+Nella sezione ‘Aspetto’ è possibile configurare l'immagine di sfondo da mostrare. La sezione ‘Audio’ consente di specificare suoni diversi per l'animazione e per il momento in cui è stata effettuata la selezione.

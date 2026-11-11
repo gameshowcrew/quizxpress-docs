@@ -6,23 +6,23 @@ Opzioni di configurazione disponibili:
 
 ![](../../assets/images/image137.webp){ width="255" loading=lazy }
 
-- Game Mode: scegliere tra previsione rosso/nero o più alta/più bassa
+- Modalità di Gioco: scegliere tra previsione rosso/nero o più alta/più bassa
 
-- Points for survivors: quanti punti vincono i giocatori sopravvissuti fino alla fine
+- Punti per i Sopravvissuti: quanti punti vincono i giocatori sopravvissuti fino alla fine
 
-- Number of cards: quante carte ci sono sul tavolo
+- Numero Carte: quante carte ci sono sul tavolo
 
-- Last player standing is the winner: con questa opzione vince l'ultimo giocatore sopravvissuto, anche se non tutte le carte sono state girate
+- Fai vincere l'ultimo giocatore Sopravvissuto: con questa opzione vince l'ultimo giocatore sopravvissuto, anche se non tutte le carte sono state girate
 
-- Hide expelled players: nasconde dalla griglia dei giocatori quelli che non sono più in gioco.
+- Nascondi Giocatori Eliminati: nasconde dalla griglia dei giocatori quelli che non sono più in gioco.
 
-- Background image: scegliere un'immagine di sfondo mostrata durante il gioco
+- Immagine Sfondo: scegliere un'immagine di sfondo mostrata durante il gioco
 
-- Music during voting: scegliere la musica riprodotta mentre tutti i giocatori effettuano le proprie puntate
+- Audio durante la Votazione: scegliere la musica riprodotta mentre tutti i giocatori effettuano le proprie puntate
 
 - Back of cards: l'immagine da utilizzare sul retro della carta (utilizzare 357 x 500 pixel). Utilizzarla per personalizzare il gioco con il proprio marchio.
 
-- Use custom texts: sostituire i testi predefiniti mostrati ai giocatori con testi personalizzati.
+- Usa Testi Personalizzati: sostituire i testi predefiniti mostrati ai giocatori con testi personalizzati.
 
 Di seguito è riportata un'immagine del gioco delle carte in azione.
 

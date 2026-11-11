@@ -8,15 +8,15 @@ La finestra di dialogo delle opzioni di QuizXpress Studio si trova in Tools->Opt
 | ![](../../assets/images/image296.webp){ width="265" loading=lazy } | ![](../../assets/images/image297.webp){ width="261" loading=lazy } |
 | Dati dell'autore del quiz                                                       | Altre impostazioni                                                              |
 
-***Scheda Slide preferences:***
+***Scheda Preferenze Diapositiva:***
 
-Questa pagina consente di impostare varie proprietà utilizzate come valori predefiniti per ogni nuova diapositiva creata. Ad esempio, impostare qui ‘Answer time’ su 40 secondi garantisce che il tempo di risposta di ogni nuova diapositiva sia impostato su 40 secondi. Nota: le modifiche apportate qui si applicano solo alle nuove diapositive, non a quelle esistenti!
+Questa pagina consente di impostare varie proprietà utilizzate come valori predefiniti per ogni nuova diapositiva creata. Ad esempio, impostare qui ‘Tempo di Risposta’ su 40 secondi garantisce che il tempo di risposta di ogni nuova diapositiva sia impostato su 40 secondi. Nota: le modifiche apportate qui si applicano solo alle nuove diapositive, non a quelle esistenti!
 
 ***Scheda Language:***
 
 Questa scheda consente di impostare la lingua dell'interfaccia utente di QuizXpress Studio e di tutti gli altri strumenti QuizXpress (memorizzata nel file delle impostazioni di QuizXpress).
 
-***Scheda Author*:**
+***Scheda Autore*:**
 
 Qui è possibile impostare i propri dati che verranno incorporati nel quiz come autore originale del quiz.
 

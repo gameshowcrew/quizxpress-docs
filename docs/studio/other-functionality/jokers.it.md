@@ -24,25 +24,25 @@ Per ogni tipo è possibile configurare quanto segue:
 
 - Multiplier: quante volte vengono moltiplicati i punti vinti
 
-- Handle on screen: il lettore di quiz mostra che è stato giocato un joker
+- Gestisci sullo Schermo: il lettore di quiz mostra che è stato giocato un joker
 
 Free Ride
 
 - Available: quante volte il joker può essere usato da un giocatore
 
-- Handle on screen: il lettore di quiz mostra che è stato giocato un joker
+- Gestisci sullo Schermo: il lettore di quiz mostra che è stato giocato un joker
 
 **Time Warp**
 
 - Available: quante volte il joker può essere usato da un giocatore
 
-- What is the remaining time when the joker has been used: qual è il tempo rimanente quando il joker è stato usato
+- ‘Tempo Rimanente’: il tempo rimanente quando il joker è stato usato
 
 !!! note
 
     Time Warp viene sempre mostrato sullo schermo, poiché riguarda tutti i giocatori
 
-Show team playing the joker: mostra il nome della squadra nell'indicatore del joker visualizzato sullo schermo nel lettore di quiz quando un giocatore gioca un joker.
+Mostra Squadra che usa il Jolly: mostra il nome della squadra nell'indicatore del joker visualizzato sullo schermo nel lettore di quiz quando un giocatore gioca un joker.
 
 I joker sono abilitati automaticamente su tutte le diapositive di tipo Question. Se ci sono domande per le quali non si desidera che vengano usati i Jokers, è possibile disabilitarli esplicitamente nelle proprietà della diapositiva:
 

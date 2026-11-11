@@ -4,4 +4,4 @@
 
 ![](../../assets/images/image291.webp){ width="301" loading=lazy }
 
-Inserendo del testo e premendo ‘Find Next’ è possibile scorrere gli elementi trovati.
+Inserendo del testo e premendo ‘Trova Successivo’ è possibile scorrere gli elementi trovati.

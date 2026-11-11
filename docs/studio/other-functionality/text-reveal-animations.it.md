@@ -4,9 +4,9 @@ Per tutti gli elementi di domanda e risposta è possibile definire come appaiono
 
 - Show direct/None (predefinito)
 
-- Word by Word
+- Parola per Parola
 
-- Letter by Letter
+- Lettera per Lettera
 
 ![](../../assets/images/image285.webp){ width="563" loading=lazy }
 

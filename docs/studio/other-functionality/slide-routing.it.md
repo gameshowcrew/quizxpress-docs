@@ -8,13 +8,13 @@ Per definire un percorso, assegnare un Id alla diapositiva di destinazione nelle
 
 ![](../../assets/images/image281.webp){ loading=lazy }
 
-Quindi, fare riferimento a questo Id nella proprietà "Next slide" della risposta o dell'immagine in una diapositiva Audience Response/Majority Rules:
+Quindi, fare riferimento a questo Id nella proprietà "Diapositiva Successiva" della risposta o dell'immagine in una diapositiva Audience Response/Regole Maggioranza:
 
 ![](../../assets/images/image282.webp){ loading=lazy }
 
 L'esempio precedente mostra una diapositiva Audience Response con 4 immagini. Quando l'opzione A (Parigi) ottiene il maggior numero di voti, il sistema passa alla diapositiva con Id "Paris".
 
-Naturalmente può verificarsi un pareggio nella votazione, quando due o più risposte ottengono lo stesso numero di voti. Il comportamento in questo caso può essere definito nelle proprietà della diapositiva (quando l'instradamento è attivo su quella diapositiva) con la proprietà "Next slide tie mode". Le opzioni sono tre:
+Naturalmente può verificarsi un pareggio nella votazione, quando due o più risposte ottengono lo stesso numero di voti. Il comportamento in questo caso può essere definito nelle proprietà della diapositiva (quando l'instradamento è attivo su quella diapositiva) con la proprietà "Modalità Pareggio diapositiva successiva". Le opzioni sono tre:
 
 - Re-vote, la diapositiva viene ricaricata e la votazione viene ripetuta finché una risposta non ottiene la maggioranza
 
@@ -22,8 +22,8 @@ Naturalmente può verificarsi un pareggio nella votazione, quando due o più ris
 
 - Prompt, viene mostrata al Quizmaster (sullo schermo principale) una richiesta di effettuare una scelta
 
-Anche ogni diapositiva ha una propria proprietà "Next slide" che definisce la diapositiva successiva che il sistema presenterà. Se lasciata vuota, viene seguito il flusso predefinito (si passa alla diapositiva successiva in sequenza).
+Anche ogni diapositiva ha una propria proprietà "Diapositiva Successiva" che definisce la diapositiva successiva che il sistema presenterà. Se lasciata vuota, viene seguito il flusso predefinito (si passa alla diapositiva successiva in sequenza).
 
-Per passare a una diapositiva diversa da quella successiva predefinita, compilare la proprietà "Next slide" della diapositiva stessa. Un esempio è quando si è alla fine di un round e si vuole tornare a una diapositiva di selezione del round. Applicando questo all'esempio precedente, l'ultima diapositiva del round Parigi può rimandare alla diapositiva di votazione.
+Per passare a una diapositiva diversa da quella successiva predefinita, compilare la proprietà "Diapositiva Successiva" della diapositiva stessa. Un esempio è quando si è alla fine di un round e si vuole tornare a una diapositiva di selezione del round. Applicando questo all'esempio precedente, l'ultima diapositiva del round Parigi può rimandare alla diapositiva di votazione.
 
 ![](../../assets/images/image283.webp){ width="298" loading=lazy } ![](../../assets/images/image284.webp){ width="271" loading=lazy }

@@ -8,7 +8,7 @@ Normalmente, se le azioni non vengono sostituite, viene eseguita una sequenza di
 
 Sono disponibili le seguenti azioni da configurare:
 
-**Show correct answer**
+**Mostra Risposta Corretta**
 
 Questa azione evidenzia la risposta corretta sulla diapositiva e mostra un indicatore — di solito un segno di spunta, anche se può variare in base allo stile della diapositiva. È possibile saltare questa azione se si desidera mostrare la risposta corretta in un altro modo (ad esempio, con una forma o un elemento di testo sulla diapositiva).
 
@@ -22,10 +22,10 @@ Mostra il grafico delle risposte nella barra informativa superiore.
 
 Apre la classifica (panoramica dei primi 20, normalmente aperta con il tasto ‘S’)
 
-**Show response chart**
+**Mostra Grafico Risposte**
 
 Mostra la schermata con il grafico a barre delle risposte.
 
-**Go to next slide**
+**Vai alla Prossima Diapositiva**
 
 Passa alla diapositiva successiva; questa azione è sempre attiva e viene sempre eseguita per ultima.

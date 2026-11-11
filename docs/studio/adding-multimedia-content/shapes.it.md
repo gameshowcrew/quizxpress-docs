@@ -2,22 +2,22 @@
 
 È possibile aggiungere alla diapositiva forme o immagini arbitrarie. Le forme possono essere utilizzate per vari scopi, ad esempio:
 
-- Si può inserire una grande freccia per evidenziare un dettaglio di un'immagine sulla quale si interroga il pubblico. Impostando l'opzione Visibility su ‘Visible after answers’, la forma diventa visibile solo al termine del conto alla rovescia della domanda.
+- Si può inserire una grande freccia per evidenziare un dettaglio di un'immagine sulla quale si interroga il pubblico. Impostando l'opzione Visibility su ‘Mostra dopo le risposte’, la forma diventa visibile solo al termine del conto alla rovescia della domanda.
 
-- Si può nascondere parte di un'immagine su una diapositiva sovrapponendovi una forma. Impostando l'opzione Visibility su ‘Hide after answers’, la forma viene nascosta al termine del conto alla rovescia, rivelando ciò che si trova dietro.
+- Si può nascondere parte di un'immagine su una diapositiva sovrapponendovi una forma. Impostando l'opzione Visibility su ‘Nascondi dopo le risposte’, la forma viene nascosta al termine del conto alla rovescia, rivelando ciò che si trova dietro.
 
-Per inserire una forma, utilizzare il comando *Insert->Shape* nel riquadro delle attività (questo comando diventa visibile dopo aver selezionato lo sfondo della diapositiva). Viene quindi richiesto di selezionare un file di forma. Per impostazione predefinita, la finestra di selezione file filtra i file *\*.emf* o *\*.wmf*. Questi tipi di file utilizzano un formato « vettoriale » (a differenza dei formati bitmap) che mantiene un aspetto nitido anche dopo il ridimensionamento. Le forme possono anche utilizzare come origine qualsiasi formato di immagine supportato (png, jpg, bmp, ecc.); è possibile selezionare questi altri formati nella finestra di selezione file. Si noti che i file immagine non si ridimensionano bene e il risultato può apparire pixelato se vengono ingranditi.
+Per inserire una forma, utilizzare il comando *INSERISCI->FORMA* nel riquadro delle attività (questo comando diventa visibile dopo aver selezionato lo sfondo della diapositiva). Viene quindi richiesto di selezionare un file di forma. Per impostazione predefinita, la finestra di selezione file filtra i file *\*.emf* o *\*.wmf*. Questi tipi di file utilizzano un formato « vettoriale » (a differenza dei formati bitmap) che mantiene un aspetto nitido anche dopo il ridimensionamento. Le forme possono anche utilizzare come origine qualsiasi formato di immagine supportato (png, jpg, bmp, ecc.); è possibile selezionare questi altri formati nella finestra di selezione file. Si noti che i file immagine non si ridimensionano bene e il risultato può apparire pixelato se vengono ingranditi.
 
 L'elemento forma ha le seguenti proprietà:
 
 | Property       | Description                                                                                                                                                                                     |
 |----------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Picture        | L'immagine di origine della forma. Il pulsante … consente di selezionare un'altra origine                                                                                                       |
-| Rotation Angle | L'angolo di rotazione facoltativo della forma                                                                                                                                                   |
+| Angolo Rotazione | L'angolo di rotazione facoltativo della forma                                                                                                                                                   |
 | Transparency   | Trasparenza della forma                                                                                                                                                                         |
-| Visibility     | Condizione di visibilità. Può essere impostata su ‘Always visible’, ‘Visible after answers’ (nasconde la forma fino al termine della domanda) o ‘Hide after answers’ (mostra la forma fino al termine della domanda). |
+| Visibility     | Condizione di visibilità. Può essere impostata su ‘Sempre Visibile’, ‘Mostra dopo le risposte’ (nasconde la forma fino al termine della domanda) o ‘Nascondi dopo le risposte’ (mostra la forma fino al termine della domanda). |
 
-Per eliminare una forma, selezionarla e premere il tasto Canc. QuizXpress include alcune forme di esempio predefinite. È anche possibile creare forme personalizzate, ad esempio con Microsoft PowerPoint, salvando una forma di PowerPoint come immagine (fare clic con il pulsante destro del mouse sulla forma, selezionare ‘Save as picture’ e scegliere *wmf* o *emf* come formato di file).
+Per eliminare una forma, selezionarla e premere il tasto Canc. QuizXpress include alcune forme di esempio predefinite. È anche possibile creare forme personalizzate, ad esempio con Microsoft PowerPoint, salvando una forma di PowerPoint come immagine (fare clic con il pulsante destro del mouse sulla forma, selezionare ‘Salva con Nome IMMAGINE’ e scegliere *wmf* o *emf* come formato di file).
 
 ## Forme di testo
 
@@ -26,15 +26,15 @@ Per eliminare una forma, selezionarla e premere il tasto Canc. QuizXpress includ
 | Property                | Description                                                                           |
 |-------------------------|---------------------------------------------------------------------------------------|
 | Background transparency | Trasparenza del pannello di sfondo. Per impostazione predefinita lo sfondo è completamente trasparente. |
-| Border color            | Colore del bordo attorno al pannello                                                  |
-| Border width            | Spessore della linea attorno al pannello                                              |
-| Corner radius           | Raggio degli angoli del pannello di sfondo                                            |
+| Colore Bordo            | Colore del bordo attorno al pannello                                                  |
+| Spessore Bordo            | Spessore della linea attorno al pannello                                              |
+| Raggio Angoli           | Raggio degli angoli del pannello di sfondo                                            |
 | Gradient                | Riempimento sfumato dello sfondo                                                      |
 | Alignment               | Allineamento del testo (sinistra, centro, destra)                                     |
-| Drop shadow             | Ombra esterna del testo                                                               |
-| Shadow color            | Colore dell'ombra esterna                                                             |
+| Ombra Testo             | Ombra esterna del testo                                                               |
+| Colore Ombra            | Colore dell'ombra esterna                                                             |
 | Text                    | Il testo stesso                                                                       |
-| Text color              | Colore del testo                                                                      |
+| Colore Testo              | Colore del testo                                                                      |
 | Font                    | Carattere utilizzato per disegnare il testo                                           |
 
 Con queste proprietà è possibile creare pannelli di testo come questo:
@@ -54,7 +54,7 @@ Di seguito sono riportati alcuni esempi di schermate con un design personalizzat
 | ![](../../assets/images/image199.webp){ loading=lazy }  | ![](../../assets/images/image200.webp){ loading=lazy } |
 |                                                                                 |                                                                                 |
 
-Quando si modificano elementi di testo nell'editor di testo (fare doppio clic su un testo o su una forma di testo per aprirlo), un pulsante ‘Insert Symbol’ consente di inserire un simbolo di testo. È anche possibile digitare i simboli manualmente. La finestra di dialogo Insert Symbol elenca tutti i simboli con una spiegazione per ciascuno.
+Quando si modificano elementi di testo nell'editor di testo (fare doppio clic su un testo o su una forma di testo per aprirlo), un pulsante ‘Inserisci Simbolo’ consente di inserire un simbolo di testo. È anche possibile digitare i simboli manualmente. La finestra di dialogo Insert Symbol elenca tutti i simboli con una spiegazione per ciascuno.
 
 ![](../../assets/images/image201.webp){ width="544" loading=lazy }
 
@@ -77,12 +77,12 @@ I simboli di testo sono un ottimo modo per rendere più dinamiche le diapositive
 
 ## Forme temporizzate
 
-È anche possibile mostrare e nascondere forme ed elementi di testo nel tempo impostando le proprietà delle forme temporizzate nella scheda contestuale della barra multifunzione SHAPE TOOLS. Questo consente, ad esempio, di creare un « suggerimento » che compare dopo un certo tempo durante il conto alla rovescia, come mostrato nell'esempio seguente:
+È anche possibile mostrare e nascondere forme ed elementi di testo nel tempo impostando le proprietà delle forme temporizzate nella scheda contestuale della barra multifunzione STRUMENTI FORMA. Questo consente, ad esempio, di creare un « suggerimento » che compare dopo un certo tempo durante il conto alla rovescia, come mostrato nell'esempio seguente:
 
 ![](../../assets/images/image202.webp){ loading=lazy }
 
 In questo esempio, l'elemento di testo con pannello compare dopo che è trascorso il 40% del tempo del conto alla rovescia.
 
-Se si lascia la percentuale ‘Hide at:’ allo 0%, il suggerimento rimane visibile fino alla fine del conto alla rovescia.
+Se si lascia la percentuale ‘Nascondi a:’ allo 0%, il suggerimento rimane visibile fino alla fine del conto alla rovescia.
 
 In alternativa è possibile, ad esempio, rimuovere nel tempo gli elementi che coprono parti di una foto.

@@ -4,7 +4,7 @@
 
 ![](../../assets/images/image216.webp){ width="163" align=left loading=lazy }Ci sono due modi per aggiungere un grafico a una diapositiva:
 
-1)  Scegliere una diapositiva con un segnaposto per immagine/video. Fare clic con il pulsante destro del mouse sul segnaposto e scegliere Select Chart
+1)  Scegliere una diapositiva con un segnaposto per immagine/video. Fare clic con il pulsante destro del mouse sul segnaposto e scegliere Seleziona Grafico
 
 2)  Selezionare la scheda della barra multifunzione INSERT e fare clic sul pulsante ‘Chart’ ![](../../assets/images/image217.webp){ width="228" loading=lazy }
 
@@ -16,9 +16,9 @@ La scheda offre le seguenti opzioni:
 
 - Delete: elimina il grafico dalla diapositiva
 
-- Type: scegliere uno dei seguenti tipi di grafico: Bar, Column, Pie, Donut
+- Type: scegliere uno dei seguenti tipi di grafico: Bar, Column, Pie, Ciambella
 
-- Set colors: Chart color (parte esterna del grafico), Area color (parte interna del grafico), Title color (colore del testo del titolo sopra il grafico)
+- Set colors: Colore Grafico (parte esterna del grafico), Colore Area (parte interna del grafico), Colore Titolo (colore del testo del titolo sopra il grafico)
 
 - Font buttons: impostano il carattere del titolo e delle etichette.
 
@@ -26,11 +26,11 @@ La scheda offre le seguenti opzioni:
 
 - Shadow: aggiunge un'ombra al grafico
 
-- Enable 3D: rende il grafico tridimensionale. Facoltativamente, è possibile impostare la profondità e l'angolo del grafico 3D
+- Abilita 3D: rende il grafico tridimensionale. Facoltativamente, è possibile impostare la profondità e l'angolo del grafico 3D
 
 - Mode: consente di scegliere se mostrare nel grafico la distribuzione delle risposte oppure la distribuzione corrette/errate/senza risposta
 
-- Data visibility: indica se si desidera vedere i risultati in tempo reale o se i risultati devono essere mostrati dopo che tutti i giocatori hanno risposto.
+- Visibilità Dati: indica se si desidera vedere i risultati in tempo reale o se i risultati devono essere mostrati dopo che tutti i giocatori hanno risposto.
 
 Nel riquadro delle proprietà è possibile configurare alcuni altri aspetti del grafico, come il testo e l'allineamento del titolo, il colore delle etichette (un'etichetta contiene il numero di risposte per un segmento) e il colore degli assi.
 

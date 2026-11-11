@@ -8,15 +8,15 @@ Qui si inserisce il testo da visualizzare e si selezionano il tipo di gioco e le
 
 Esistono quattro giochi diversi:
 
-| *Word Reveal* (mostrato qui nel formato a griglia fissa di 52 lettere). Le lettere compaiono nel tempo, partendo da una griglia vuota | ![](../../assets/images/image222.webp){ width="279" loading=lazy } |
+| *Rivelazione di Parole* (mostrato qui nel formato a griglia fissa di 52 lettere). Le lettere compaiono nel tempo, partendo da una griglia vuota | ![](../../assets/images/image222.webp){ width="279" loading=lazy } |
 |--------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
-| *Word Scramble* (anagramma). La parola o la frase si riordina nel tempo                                                        | ![](../../assets/images/image223.webp){ width="388" loading=lazy } |
-| *Letter Grid. Le parole sono nascoste in una griglia di lettere casuale. Al termine della domanda, le parole vengono evidenziate.* | ![](../../assets/images/image224.webp){ width="122" loading=lazy }  |
+| *Anagramma di Parole* (anagramma). La parola o la frase si riordina nel tempo                                                        | ![](../../assets/images/image223.webp){ width="388" loading=lazy } |
+| *Ricerca di Parole. Le parole sono nascoste in una griglia di lettere casuale. Al termine della domanda, le parole vengono evidenziate.* | ![](../../assets/images/image224.webp){ width="122" loading=lazy }  |
 | *Word Wheel. La parola è presentata come una ruota (facoltativamente rotante). Una lettera viene rimossa a caso e posizionata al centro.* | ![](../../assets/images/image225.webp){ width="126" loading=lazy } |
 
-Sia Word Reveal sia Word Scramble possono essere presentati visivamente come una normale griglia su più righe (griglia di lettere dinamica) oppure su un tabellone fisso di 52 caselle (come nel gioco televisivo La Ruota della Fortuna©). Si noti che per questi due elementi spetta all'utente suddividere la frase su più righe premendo Invio per andare a capo.
+Sia Rivelazione di Parole sia Anagramma di Parole possono essere presentati visivamente come una normale griglia su più righe (griglia di lettere dinamica) oppure su un tabellone fisso di 52 caselle (come nel gioco televisivo La Ruota della Fortuna©). Si noti che per questi due elementi spetta all'utente suddividere la frase su più righe premendo Invio per andare a capo.
 
-Con Word Reveal è possibile scegliere di controllare manualmente la rivelazione da QuizXpress Director. Durante l'esecuzione di un quiz, quando viene mostrata la diapositiva compare la scheda ‘Reveal Word Game’ in QuizXpress Director. Qui è possibile rivelare manualmente una lettera citata da un giocatore premendo il pulsante corrispondente, oppure rivelare una vocale, una consonante, una parola o l'intera frase (all).
+Con Rivelazione di Parole è possibile scegliere di controllare manualmente la rivelazione da QuizXpress Director. Durante l'esecuzione di un quiz, quando viene mostrata la diapositiva compare la scheda ‘Rivelazione Word Game’ in QuizXpress Director. Qui è possibile rivelare manualmente una lettera citata da un giocatore premendo il pulsante corrispondente, oppure rivelare una vocale, una consonante, una parola o l'intera frase (all).
 
 Se la lettera fa parte della frase, viene rivelata nel lettore del quiz. Dopo aver premuto una lettera, Director mostra anche se è presente nella frase (lettera verde) o no (lettera rossa).
 
@@ -24,7 +24,7 @@ Se la lettera fa parte della frase, viene rivelata nel lettore del quiz. Dopo av
 
 Se un giocatore tenta di indovinare la parola, è possibile giudicarla premendo il pulsante corretto o errato, dopodiché sullo schermo del lettore del quiz compare per il pubblico un grande segno di spunta verde o una croce rossa.
 
-Il lettore del quiz mostra la griglia di lettere con le lettere rivelate. Può anche mostrare una panoramica delle lettere non ancora scelte (abilitando l'opzione ‘Show alphabet strip’ nelle proprietà avanzate di QuizXpress Studio).
+Il lettore del quiz mostra la griglia di lettere con le lettere rivelate. Può anche mostrare una panoramica delle lettere non ancora scelte (abilitando l'opzione ‘Mostra Barra Alfabeto’ nelle proprietà avanzate di QuizXpress Studio).
 
 ![](../../assets/images/image227.webp){ loading=lazy }
 
@@ -42,7 +42,7 @@ I punti vinti o persi vengono mostrati nel lettore del quiz.
 |---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | **Acquisto di una vocale**                                                      | **Consonante corretta**                                                         | **Consonante errata**                                                           |
 
-Per i giochi automatici Word Reveal e Word Scramble è possibile configurare la tempistica di rivelazione/riordino. Per impostazione predefinita ogni passaggio richiede lo stesso tempo, il che significa che, nel gioco di rivelazione, le lettere compaiono a intervalli fissi. Questo può andare bene per una singola parola, ma per una frase più lunga si potrebbe preferire uno schema diverso, ad esempio mostrando più lettere all'inizio e poi rallentando. È possibile scegliere l'opzione preferita nella sezione ‘Reveal timing’.
+Per i giochi automatici Rivelazione di Parole e Anagramma di Parole è possibile configurare la tempistica di rivelazione/riordino. Per impostazione predefinita ogni passaggio richiede lo stesso tempo, il che significa che, nel gioco di rivelazione, le lettere compaiono a intervalli fissi. Questo può andare bene per una singola parola, ma per una frase più lunga si potrebbe preferire uno schema diverso, ad esempio mostrando più lettere all'inizio e poi rallentando. È possibile scegliere l'opzione preferita nella sezione ‘Rivelazione Tempistica’.
 
 Una volta inserito l'elemento Word Game nella diapositiva, è possibile configurarlo ulteriormente: fare clic sull'elemento Word Game, quindi modificarne le impostazioni nella barra multifunzione Word Game nella parte superiore di Studio, oppure nella griglia delle proprietà avanzate visualizzata a destra in QuizXpress Studio.
 
@@ -50,4 +50,4 @@ Una volta inserito l'elemento Word Game nella diapositiva, è possibile configur
 
 Questo elemento può essere usato per diversi tipi di domande. Ad esempio, una domanda Dito più Veloce in cui il giocatore che prenota la risposta con il buzzer indovina la frase corretta in base alle lettere rivelate finora, oppure indica una lettera da rivelare e poi tenta di indovinare la frase. Oppure si può usare una domanda a risposta testuale libera con QuizXpress mobile, in cui tutti i giocatori possono digitare la risposta corretta. Combinandola con punti decrescenti, i giocatori più veloci ottengono più punti. In alternativa, si può dare a ogni giocatore il suo turno e fargli vincere punti usando la modalità di rivelazione manuale in combinazione con i punti. Colore, carattere, dimensione delle lettere, spaziatura e così via possono essere tutti modificati nella barra multifunzione o nella griglia delle proprietà avanzate.
 
-L'elemento Word Game segue la proprietà ‘Show correct answer’ della diapositiva. Se impostata su ‘Do not show’, il Word Game non rivela la risposta corretta al termine della domanda. Se impostata su ‘Global’ (impostazione predefinita), il Word Game segue l'impostazione ‘Show correct answer on quiz slides’ di Quiz Setup.
+L'elemento Word Game segue la proprietà ‘Mostra Risposta Corretta’ della diapositiva. Se impostata su ‘Non Mostrare’, il Word Game non rivela la risposta corretta al termine della domanda. Se impostata su ‘Globale’ (impostazione predefinita), il Word Game segue l'impostazione ‘Mostra risposta corretta sulla diapositiva Quiz’ di Quiz Setup.

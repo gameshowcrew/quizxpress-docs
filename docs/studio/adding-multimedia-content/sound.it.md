@@ -1,6 +1,6 @@
 # Suono
 
-Gli spezzoni sonori possono essere usati per domande come « Chi ha scritto questa canzone? », « Quale uccello sta cantando qui? » o « Che rumore è questo? ». Per rendere le cose più interessanti, è possibile variare la velocità del suono nel tempo impostando le proprietà ‘Speed from’ (percentuale di velocità di riproduzione all'inizio del suono) e ‘Speed to’ (velocità di riproduzione alla fine dello spezzone sonoro). Allo stesso modo è possibile variare l'intonazione del suono.
+Gli spezzoni sonori possono essere usati per domande come « Chi ha scritto questa canzone? », « Quale uccello sta cantando qui? » o « Che rumore è questo? ». Per rendere le cose più interessanti, è possibile variare la velocità del suono nel tempo impostando le proprietà ‘Velocità da’ (percentuale di velocità di riproduzione all'inizio del suono) e ‘Velocità a’ (velocità di riproduzione alla fine dello spezzone sonoro). Allo stesso modo è possibile variare l'intonazione del suono.
 
 ## Inserire un file audio
 
@@ -24,16 +24,16 @@ L'editor di ritaglio non modifica il file audio stesso. Imposta soltanto l'ora d
 
 Selezionare l'icona del suono sulla diapositiva, quindi utilizzare uno di questi metodi:
 
-- Fare clic sul pulsante ‘Trim’ nel gruppo ‘Timing’ della scheda AUDIO della barra multifunzione, accanto ai tempi di inizio e di fine. La piccola freccia nell'angolo in basso a destra del gruppo ‘Timing’ apre lo stesso editor.
+- Fare clic sul pulsante ‘Taglia’ nel gruppo ‘Tempistica’ della scheda AUDIO della barra multifunzione, accanto ai tempi di inizio e di fine. La piccola freccia nell'angolo in basso a destra del gruppo ‘Tempistica’ apre lo stesso editor.
 
     ![Il pulsante Trim nella scheda AUDIO della barra multifunzione](../../assets/images/sound-ribbon-trim-button.webp){ width="420" loading=lazy }
 
-- Fare clic con il pulsante destro del mouse sull'icona del suono sulla diapositiva e scegliere ‘Trim sound...’.
+- Fare clic con il pulsante destro del mouse sull'icona del suono sulla diapositiva e scegliere ‘Taglia Suono...’.
 
-    ![Trim sound nel menu contestuale del suono](../../assets/images/sound-context-menu-trim.webp){ width="240" loading=lazy }
+    ![Taglia Suono nel menu contestuale del suono](../../assets/images/sound-context-menu-trim.webp){ width="240" loading=lazy }
 
 !!! note
-    Non è possibile ritagliare i brani Spotify, i file MIDI o un file audio collegato che non può essere trovato. In questi casi il pulsante ‘Trim’ è disattivato.
+    Non è possibile ritagliare i brani Spotify, i file MIDI o un file audio collegato che non può essere trovato. In questi casi il pulsante ‘Taglia’ è disattivato.
 
 ### Scegliere la parte da riprodurre
 
@@ -42,23 +42,23 @@ Selezionare l'icona del suono sulla diapositiva, quindi utilizzare uno di questi
 La parte che verrà riprodotta è evidenziata in blu. Per modificarla:
 
 - **Trascinare sulla forma d'onda** per selezionare una nuova parte, oppure trascinare i marcatori all'inizio e alla fine della selezione.
-- **Digitare i tempi** nelle caselle ‘Start’ e ‘End’. È possibile inserire secondi (`75`), minuti e secondi (`1:15`) oppure ore, minuti e secondi (`0:01:15`), con decimali se lo si desidera (`1:15.5`). ‘Length’ indica per quanto tempo viene riprodotta la parte selezionata.
-- **Impostare l'inizio o la fine durante l'ascolto**: fare clic su ‘Set start (I)’ o ‘Set end (O)’, oppure premere I oppure O sulla tastiera, nell'esatto momento in cui si sente il punto giusto. Quando non è in corso alcuna riproduzione, questi pulsanti utilizzano la posizione del cursore.
-- **‘Whole track’** seleziona di nuovo l'intero suono.
+- **Digitare i tempi** nelle caselle ‘Inizio’ e ‘Fine’. È possibile inserire secondi (`75`), minuti e secondi (`1:15`) oppure ore, minuti e secondi (`0:01:15`), con decimali se lo si desidera (`1:15.5`). ‘Durata’ indica per quanto tempo viene riprodotta la parte selezionata.
+- **Impostare l'inizio o la fine durante l'ascolto**: fare clic su ‘Imposta Inizio (I)’ o ‘Imposta Fine (O)’, oppure premere I oppure O sulla tastiera, nell'esatto momento in cui si sente il punto giusto. Quando non è in corso alcuna riproduzione, questi pulsanti utilizzano la posizione del cursore.
+- **‘Traccia Intera’** seleziona di nuovo l'intero suono.
 
 Fare clic in un punto qualsiasi della forma d'onda per posizionare il cursore (la linea arancione).
 
 Per ascoltare:
 
-- ‘Play selection’ (o la barra spaziatrice) riproduce la parte selezionata. Premere di nuovo la barra spaziatrice per interrompere.
-- ‘Play from cursor’ riproduce dal cursore fino alla fine del suono.
+- ‘Riproduci Selezione’ (o la barra spaziatrice) riproduce la parte selezionata. Premere di nuovo la barra spaziatrice per interrompere.
+- ‘Riproduci dal Cursore’ riproduce dal cursore fino alla fine del suono.
 - Mentre il suono è in riproduzione, fare clic sulla forma d'onda per passare a quel punto.
 
 Il display accanto ai pulsanti mostra la posizione corrente e la durata totale del suono.
 
-Per un lavoro preciso, ingrandire con la rotellina del mouse e utilizzare Maiusc + rotellina del mouse o la barra di scorrimento sotto la forma d'onda per spostarsi a sinistra e a destra. ‘Zoom to fit’ mostra di nuovo l'intero suono.
+Per un lavoro preciso, ingrandire con la rotellina del mouse e utilizzare Maiusc + rotellina del mouse o la barra di scorrimento sotto la forma d'onda per spostarsi a sinistra e a destra. ‘Adatta Zoom’ mostra di nuovo l'intero suono.
 
-Fare clic su ‘OK’ per applicare i nuovi tempi di inizio e di fine, oppure su ‘Cancel’ per lasciare il suono com'era. È possibile annullare un ritaglio in un solo passaggio con Annulla. Se il [volume del suono è stato normalizzato](#normalizzare-il-volume), QuizXpress misura di nuovo la nuova parte in modo che mantenga lo stesso livello sonoro.
+Fare clic su ‘OK’ per applicare i nuovi tempi di inizio e di fine, oppure su ‘Annulla’ per lasciare il suono com'era. È possibile annullare un ritaglio in un solo passaggio con Annulla. Se il [volume del suono è stato normalizzato](#normalizzare-il-volume), QuizXpress misura di nuovo la nuova parte in modo che mantenga lo stesso livello sonoro.
 
 ### Impostare la parte di replay
 
@@ -66,14 +66,14 @@ Nello stesso editor è possibile scegliere la parte che viene riprodotta di nuov
 
 ![L'editor di ritaglio con la parte di replay](../../assets/images/sound-trim-editor-replay.webp){ loading=lazy }
 
-1. Selezionare ‘Replay after the answer is revealed’. L'editor passa a ‘Replay’ e la selezione diventa verde.
+1. Selezionare ‘Riproduci di nuovo dopo aver rivelato la risposta’. L'editor passa a ‘Replay’ e la selezione diventa verde.
 2. Selezionare la parte di replay nello stesso modo descritto sopra.
-3. Facoltativamente, inserire un ‘Delay (s)’: il numero di secondi da attendere dopo la rivelazione della risposta prima che inizi il replay.
+3. Facoltativamente, inserire un ‘Ritardo (s)’: il numero di secondi da attendere dopo la rivelazione della risposta prima che inizi il replay.
 
-Utilizzare i pulsanti ‘Playback’ e ‘Replay’ in alto a sinistra per passare da una parte all'altra. La parte che non si sta modificando viene mostrata come una barra lungo il bordo inferiore della forma d'onda (blu per la riproduzione, verde per il replay), in modo da vedere il rapporto tra le due.
+Utilizzare i pulsanti ‘Riproduzione’ e ‘Replay’ in alto a sinistra per passare da una parte all'altra. La parte che non si sta modificando viene mostrata come una barra lungo il bordo inferiore della forma d'onda (blu per la riproduzione, verde per il replay), in modo da vedere il rapporto tra le due.
 
 !!! note
-    Il replay non è disponibile quando l'opzione ‘Keep playing’ del suono è attiva, perché in tal caso il suono non si interrompe mai.
+    Il replay non è disponibile quando l'opzione ‘Continua Riproduzione’ del suono è attiva, perché in tal caso il suono non si interrompe mai.
 
 ## Replay
 
@@ -87,30 +87,30 @@ Spesso si desidera riprodurre di nuovo (parte del) brano dopo la fine della doma
 
 Canzoni e clip sonori provenienti da fonti diverse raramente hanno lo stesso volume: una vecchia registrazione o un brano classico può essere molto più silenzioso di una canzone pop moderna, così i giocatori fanno fatica a sentire una domanda e vengono assordati dalla successiva. La normalizzazione del volume risolve il problema. QuizXpress misura il volume reale di ogni suono e lo regola in modo che tutti i suoni vengano riprodotti con lo stesso volume, sia in Quiz Studio sia durante lo show.
 
-La normalizzazione non modifica i file audio. Imposta il ‘Loudness gain’ del suono (vedere [sotto](#la-proprieta-loudness-gain)), quindi è sempre possibile modificarlo o annullarlo. Viene misurata solo la parte del suono che viene riprodotta: quella compresa tra l'ora di inizio e quella di fine.
+La normalizzazione non modifica i file audio. Imposta la ‘Correzione Loudness’ del suono (vedere [sotto](#la-proprieta-loudness-gain)), quindi è sempre possibile modificarlo o annullarlo. Viene misurata solo la parte del suono che viene riprodotta: quella compresa tra l'ora di inizio e quella di fine.
 
 È possibile normalizzare tutti i suoni del quiz in una volta sola, oppure un singolo suono.
 
 ### Tutti i suoni del quiz
 
-Fare clic su ‘Normalize volume’ nel gruppo ‘Tools’ della scheda HOME della barra multifunzione.
+Fare clic su ‘Normalizza Volume’ nel gruppo ‘Strumenti’ della scheda HOME della barra multifunzione.
 
-![Normalize volume nella scheda HOME della barra multifunzione](../../assets/images/normalize-home-tools.webp){ width="220" loading=lazy }
+![Normalizza Volume nella scheda HOME della barra multifunzione](../../assets/images/normalize-home-tools.webp){ width="220" loading=lazy }
 
-Si apre la finestra ‘Normalize sound volume’, che inizia subito a misurare tutti i suoni del quiz. Le canzoni lunghe richiedono alcuni secondi ciascuna.
+Si apre la finestra ‘Normalizza Volume file audio’, che inizia subito a misurare tutti i suoni del quiz. Le canzoni lunghe richiedono alcuni secondi ciascuna.
 
-![La finestra Normalize sound volume](../../assets/images/normalize-dialog.webp){ loading=lazy }
+![La finestra Normalizza Volume file audio](../../assets/images/normalize-dialog.webp){ loading=lazy }
 
 Per ogni suono vengono mostrati:
 
-- **Slide** e **Sound**: dove si trova il suono e di che cosa si tratta (il nome del file, oppure il testo della domanda per un suono incorporato).
-- **Source**: se il suono è incorporato nel quiz o collegato, e il relativo tipo di file.
+- **Diapositiva** e **Audio**: dove si trova il suono e di che cosa si tratta (il nome del file, oppure il testo della domanda per un suono incorporato).
+- **Origine**: se il suono è incorporato nel quiz o collegato, e il relativo tipo di file.
 - **Loudness**: il volume del suono, in LUFS (Loudness Units relative to Full Scale, la misura usata da servizi di streaming ed emittenti). Più vicino a 0 significa più forte: −8 LUFS è una canzone pop forte, −22 LUFS una registrazione silenziosa.
-- **Peak**: il momento più forte del suono, in dBFS. 0 dBFS è il massimo che un file audio può memorizzare.
-- **Change**: di quanto QuizXpress alzerà (+) o abbasserà (−) il suono, in dB.
-- **Status**: tutto ciò che vale la pena sapere sul suono (vedere la tabella seguente).
+- **Picco**: il momento più forte del suono, in dBFS. 0 dBFS è il massimo che un file audio può memorizzare.
+- **Cambia**: di quanto QuizXpress alzerà (+) o abbasserà (−) il suono, in dB.
+- **Stato**: tutto ciò che vale la pena sapere sul suono (vedere la tabella seguente).
 
-Scegliere il ‘Target loudness’:
+Scegliere il ‘Loudness Target’:
 
 | Target | Use it when |
 |---|---|
@@ -118,41 +118,41 @@ Scegliere il ‘Target loudness’:
 | Quieter (−18 LUFS) | Si desidera un po' più di margine, ad esempio quando i suoni vengono riprodotti sopra una musica di sottofondo. |
 | Broadcast (−23 LUFS) | Si desidera il livello usato da televisione e radio europee (EBU R128). Decisamente più silenzioso; alzare il volume dell'impianto audio di conseguenza. |
 
-La modifica del target aggiorna subito la colonna ‘Change’; i suoni non vengono misurati di nuovo. Quiz Studio ricorda il target scelto e lo utilizza anche per normalizzare i singoli suoni.
+La modifica del target aggiorna subito la colonna ‘Cambia’; i suoni non vengono misurati di nuovo. Quiz Studio ricorda il target scelto e lo utilizza anche per normalizzare i singoli suoni.
 
-Se prima di aprire la finestra sono state selezionate alcune diapositive, l'elenco ‘Sounds’ consente di scegliere tra ‘All sounds in the quiz’ e ‘Sounds on the selected slides’.
+Se prima di aprire la finestra sono state selezionate alcune diapositive, l'elenco ‘Audio’ consente di scegliere tra ‘Tutti i suoni del quiz’ e ‘Audio delle diapositive selezionate’.
 
-Tutti i suoni che cambieranno sono selezionati. Deselezionare un suono per lasciarlo com'è. La riga in basso mostra quanti suoni verranno regolati. Fare clic su ‘Apply’ per impostare i nuovi loudness gain. È possibile annullare l'intera normalizzazione in un solo passaggio con Annulla.
+Tutti i suoni che cambieranno sono selezionati. Deselezionare un suono per lasciarlo com'è. La riga in basso mostra quanti suoni verranno regolati. Fare clic su ‘Applica’ per impostare i nuovi valori di ‘Correzione Loudness’. È possibile annullare l'intera normalizzazione in un solo passaggio con Annulla.
 
 | Status | Meaning |
 |---|---|
-| Limited to avoid clipping | Il suono è silenzioso ma ha già picchi elevati. QuizXpress lo alza solo fin dove possibile senza distorsione (i picchi restano sotto −1 dBFS), quindi può rimanere un po' più silenzioso degli altri. |
-| Already at target | Il suono è già al volume target e non viene modificato. |
+| Limitato per evitare la distorsione | Il suono è silenzioso ma ha già picchi elevati. QuizXpress lo alza solo fin dove possibile senza distorsione (i picchi restano sotto −1 dBFS), quindi può rimanere un po' più silenzioso degli altri. |
+| Già a Target | Il suono è già al volume target e non viene modificato. |
 | Silent | Nella parte riprodotta non c'è alcun suono (controllare l'ora di inizio e di fine). |
-| Skipped: MIDI has no audio to measure | I file MIDI non possono essere misurati e mantengono il proprio volume. |
-| Skipped: Spotify track | I brani Spotify non possono essere misurati e mantengono il proprio volume. |
-| Sound file is missing | Un file audio collegato non può essere trovato. [Correggere il collegamento](../other-functionality/fixing-broken-links.md) e riprovare. |
+| Saltato: il MIDI non contiene audio da misurare | I file MIDI non possono essere misurati e mantengono il proprio volume. |
+| Saltato: Brano Spotify | I brani Spotify non possono essere misurati e mantengono il proprio volume. |
+| Il file audio non è stato trovato | Un file audio collegato non può essere trovato. [Correggere il collegamento](../other-functionality/fixing-broken-links.md) e riprovare. |
 
 ### Un singolo suono
 
-Per normalizzare un solo suono, ad esempio dopo averlo sostituito, selezionare l'icona del suono sulla diapositiva e fare clic su ‘Normalize’ nel gruppo ‘Effects’ della scheda AUDIO della barra multifunzione, oppure fare clic con il pulsante destro del mouse sull'icona del suono e scegliere ‘Normalize volume’. La descrizione comandi del pulsante mostra il volume target che verrà utilizzato: quello scelto per ultimo nella finestra ‘Normalize sound volume’.
+Per normalizzare un solo suono, ad esempio dopo averlo sostituito, selezionare l'icona del suono sulla diapositiva e fare clic su ‘Normalizza’ nel gruppo ‘Effetti’ della scheda AUDIO della barra multifunzione, oppure fare clic con il pulsante destro del mouse sull'icona del suono e scegliere ‘Normalizza Volume’. La descrizione comandi del pulsante mostra il volume target che verrà utilizzato: quello scelto per ultimo nella finestra ‘Normalizza Volume file audio’.
 
 ![Il pulsante Normalize nella scheda AUDIO della barra multifunzione](../../assets/images/normalize-sound-button.webp){ width="720" loading=lazy }
 
-QuizXpress misura il suono e imposta subito il relativo loudness gain, senza aprire alcuna finestra. Una barra sotto la barra multifunzione mostra il risultato, con un collegamento ‘Undo’ per annullarlo:
+QuizXpress misura il suono e imposta subito la relativa ‘Correzione Loudness’, senza aprire alcuna finestra. Una barra sotto la barra multifunzione mostra il risultato, con un collegamento ‘Annulla’ per annullarlo:
 
 ![Il risultato della normalizzazione di un singolo suono](../../assets/images/normalize-sound-result.webp){ width="720" loading=lazy }
 
-### La proprietà ‘Loudness gain’
+### La proprietà ‘Correzione Loudness’ { #la-proprieta-loudness-gain }
 
-Il risultato della normalizzazione viene memorizzato nella proprietà ‘Loudness gain’ del suono, nella sezione ‘Audio’ del pannello delle proprietà. 0 dB lascia il suono invariato; l'intervallo va da −30 a +20 dB. È anche possibile regolarla con precisione manualmente.
+Il risultato della normalizzazione viene memorizzato nella proprietà ‘Correzione Loudness’ del suono, nella sezione ‘Audio’ del pannello delle proprietà. 0 dB lascia il suono invariato; l'intervallo va da −30 a +20 dB. È anche possibile regolarla con precisione manualmente.
 
-![Loudness gain nel pannello delle proprietà](../../assets/images/normalize-loudness-gain.webp){ width="250" loading=lazy }
+![Correzione Loudness nel pannello delle proprietà](../../assets/images/normalize-loudness-gain.webp){ width="250" loading=lazy }
 
-Il loudness gain si aggiunge al ‘Volume’ del suono. A differenza del volume, che può solo rendere un suono più silenzioso, il loudness gain può anche rendere più forte un suono silenzioso.
+La ‘Correzione Loudness’ si aggiunge al ‘Volume’ del suono. A differenza del volume, che può solo rendere un suono più silenzioso, la ‘Correzione Loudness’ può anche rendere più forte un suono silenzioso.
 
 !!! tip
-    Normalizzare dopo aver ritagliato un suono, perché è la parte riprodotta a determinarne il volume. Se un suono è già stato normalizzato e se ne modifica l'ora di inizio o di fine nell'[editor di ritaglio](#ritagliare-un-suono), QuizXpress misura la nuova parte e regola automaticamente il loudness gain.
+    Normalizzare dopo aver ritagliato un suono, perché è la parte riprodotta a determinarne il volume. Se un suono è già stato normalizzato e se ne modifica l'ora di inizio o di fine nell'[editor di ritaglio](#ritagliare-un-suono), QuizXpress misura la nuova parte e regola automaticamente la ‘Correzione Loudness’.
 
 ## Importazione di playlist Spotify ™
 
@@ -170,19 +170,19 @@ Le diapositive create e le impostazioni di gioco possono essere ritoccate dopo l
 
 Quando si riproducono i suoni sono possibili vari effetti:
 
-- **Aumentare la velocità del suono** – si ottiene assegnando lo stesso valore alle proprietà ‘speed percentage’ e ‘target speed percentage’ del suono nel Property Editor. Questo valore deve essere superiore a 100 per accelerare il suono. Per visualizzare le proprietà di un suono, fare clic con il pulsante sinistro del mouse sull'icona del suono nell'area di progettazione.
+- **Aumentare la velocità del suono** – si ottiene assegnando lo stesso valore alle proprietà ‘Percentuale Velocità’ e ‘Percentuale Velocità Target’ del suono nel Property Editor. Questo valore deve essere superiore a 100 per accelerare il suono. Per visualizzare le proprietà di un suono, fare clic con il pulsante sinistro del mouse sull'icona del suono nell'area di progettazione.
 
 - **Rallentare la velocità del suono** – si ottiene assegnando a entrambe le proprietà sopra menzionate un valore inferiore a 100. Anche in questo caso, assegnare lo stesso valore a entrambe; il motivo è spiegato più avanti.
 
-- **Da velocità lenta a velocità normale** – per ottenerlo, inserire un valore inferiore a 100 per la proprietà ‘speed percentage’ del suono. In questo modo il suono inizia a essere riprodotto rallentato. Lasciare invariata la proprietà ‘target speed percentage’; il suo valore predefinito è 100, cioè velocità normale. Di conseguenza, QuizXpress riprodurrà il suono prima lentamente, ma con il passare del tempo raggiungerà la velocità target di 100 (velocità normale).
+- **Da velocità lenta a velocità normale** – per ottenerlo, inserire un valore inferiore a 100 per la proprietà ‘Percentuale Velocità’ del suono. In questo modo il suono inizia a essere riprodotto rallentato. Lasciare invariata la proprietà ‘Percentuale Velocità Target’; il suo valore predefinito è 100, cioè velocità normale. Di conseguenza, QuizXpress riprodurrà il suono prima lentamente, ma con il passare del tempo raggiungerà la velocità target di 100 (velocità normale).
 
-- **Da velocità elevata a velocità normale** – per ottenerlo, selezionare un valore superiore a 100 per la proprietà ‘speed percentage’. Lasciare invariata la proprietà ‘target speed percentage’.
+- **Da velocità elevata a velocità normale** – per ottenerlo, selezionare un valore superiore a 100 per la proprietà ‘Percentuale Velocità’. Lasciare invariata la proprietà ‘Percentuale Velocità Target’.
 
-- **Reverse** – riproduce lo spezzone sonoro al contrario, sfidando i giocatori a riconoscere la canzone (selezionare la casella Reverse audio nella barra multifunzione del suono)
+- **Inverti** – riproduce lo spezzone sonoro al contrario, sfidando i giocatori a riconoscere la canzone (selezionare la casella Inverti Audio nella barra multifunzione del suono)
 
-È possibile ascoltare questi effetti sonori mentre si crea la domanda che contiene il suono. Per ascoltare il suono e i suoi effetti, fare clic sul pulsante ‘Play’ nella barra multifunzione, oppure selezionare ‘Play’ dal menu contestuale del suono.
+È possibile ascoltare questi effetti sonori mentre si crea la domanda che contiene il suono. Per ascoltare il suono e i suoi effetti, fare clic sul pulsante ‘Riproduci’ nella barra multifunzione, oppure selezionare ‘Riproduci’ dal menu contestuale del suono.
 
-Se non si desidera che il suono parta subito all'inizio della domanda, utilizzare la proprietà ‘Intro Pause’ del suono per ritardare la riproduzione (questo dà ai partecipanti la possibilità di leggere prima la domanda, oppure al Quizmaster la possibilità di leggerla prima ad alta voce).
+Se non si desidera che il suono parta subito all'inizio della domanda, utilizzare la proprietà ‘Pausa Intro’ del suono per ritardare la riproduzione (questo dà ai partecipanti la possibilità di leggere prima la domanda, oppure al Quizmaster la possibilità di leggerla prima ad alta voce).
 
 !!! note
 

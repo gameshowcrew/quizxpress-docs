@@ -44,6 +44,42 @@ Como alternativa, ¡el Quiz Wizard puede ayudarle a crear una ronda Trivia Board
 
 Elija el tiempo de pregunta, los puntos y el estilo que se utilizarán en las páginas siguientes y pulse 'Finish' para que se creen el tablero, las preguntas y la diapositiva de fin de ronda de cierre. Por supuesto, aún tendrá que rellenar las preguntas propiamente dichas, pero el tema y los puntos correctos ya estarán establecidos.
 
+## Carteles antes y después de una pregunta
+
+Un clic en una casilla reproduce la pregunta que hay detrás y después vuelve a mostrar el tablero. Los carteles (y los minijuegos) pueden reproducirse junto con una pregunta: antes de ella, como intro, o después, como cierre. Por ejemplo: un cartel que anuncia el tema, la pregunta y un cartel con una curiosidad, y de vuelta al tablero.
+
+Seleccione el cartel y configure 'Tablero de preguntas' en la sección 'Metadatos' de la página 'Avanzado' del panel de propiedades:
+
+- **Automático**: se reproduce después de la pregunta justo anterior, como en versiones anteriores. Todos los carteles y minijuegos que siguen directamente a una pregunta se reproducen con ella, hasta un cartel de otro tema. Un cartel con un tema también es una casilla propia.
+- **Intro de la siguiente pregunta**: se reproduce primero cuando se hace clic en la casilla de la siguiente pregunta.
+- **Cierre de la pregunta anterior**: se reproduce después de la pregunta anterior, antes de que vuelva el tablero.
+- **Casilla propia**: solo se reproduce como casilla propia. Asígnele un tema, y puntos para su fila en el tablero.
+
+![El ajuste Tablero de preguntas de un cartel](../../assets/images/trivia-board-billboard-properties.webp){ width="380" loading=lazy }
+
+Una intro o un cierre no necesita tema: es la pregunta la que decide dónde está la casilla en el tablero. 'Se juega como' indica lo que hace la diapositiva seleccionada, por ejemplo "History · 100, paso 3 de 3, cierre de la diapositiva 5".
+
+### Ver lo que reproduce una casilla
+
+Las miniaturas lo muestran en cada ronda Trivia Board:
+
+- Una barra del color del tema acompaña a las diapositivas que reproduce un clic, con la casilla ("History · 100") encima. Haga clic en el nombre de la casilla para seleccionar esas diapositivas y moverlas o copiarlas juntas.
+- Una diapositiva que nunca se reproduce desde el tablero tiene un contorno naranja discontinuo y una señal de advertencia. Sitúe el puntero sobre la miniatura para ver el motivo y dónde se reproduce una diapositiva.
+- Para ocultarlo, haga clic con el botón derecho en las miniaturas y desmarque 'Mostrar casillas del tablero de preguntas'.
+
+![Miniaturas de una ronda Trivia Board](../../assets/images/trivia-board-tile-thumbnails.webp){ width="280" loading=lazy }
+
+En la vista previa del tablero (F5), una casilla muestra en su esquina un punto por diapositiva, un grupo por clic: ●●● es un clic de tres diapositivas, ● ●● dos clics de una y dos diapositivas. Una casilla con un solo clic de una sola diapositiva no tiene puntos. Sitúe el puntero sobre una casilla para ver sus diapositivas. Si algo no está bien, se añade un ! naranja.
+
+![La vista previa del tablero con las diapositivas de una casilla](../../assets/images/trivia-board-preview-tile-slides.webp){ loading=lazy }
+
+También puede jugar el tablero en la vista previa, como en Quiz Show. Haga clic en una casilla para ver sus diapositivas: Espacio, → o un clic del ratón muestra la siguiente diapositiva, ← la anterior, y después de la última diapositiva vuelve el tablero. Pulse Esc para volver al tablero enseguida. Las casillas jugadas se atenúan o se ocultan (el ajuste 'Casillas jugadas'), y R vuelve a jugar el tablero desde el principio.
+
+Al guardar el quiz, Studio avisa de los carteles que nunca se reproducen y de las diapositivas que pueden reproducirse dos veces (por ejemplo, un cartel con un tema que también se reproduce después de una pregunta).
+
+!!! note
+    Las versiones anteriores de QuizXpress pueden abrir un quiz con estos ajustes, pero reproducen cada cartel como 'Automático'.
+
 ## Vista previa de un Trivia Board
 
 La diapositiva Trivia Board de QuizXpress Studio muestra el tablero tal como se verá durante el programa: los temas y los valores de puntos reales de la ronda, dispuestos con sus ajustes de diseño (posición, espaciado, imágenes y texto). Mediante las opciones de estilo del Trivia Board, así como el fondo, puede determinar el aspecto del tablero.

@@ -44,6 +44,42 @@ Alternatively, the Quiz Wizard can help you create a complete Trivia Board round
 
 Choose the question time, points, and style used on the next pages, and press ‘Finish’ to create the board, questions, and closing end-of-round slide for you. Of course, you will still need to fill in the actual questions, but the correct topic and points will already be set for you.
 
+## Billboards before and after a question
+
+A click on a tile plays the question behind it and then shows the board again. Billboards (and minigames) can play along with a question: before it as an intro, or after it as an outro. For example: a billboard that announces the topic, the question, and a billboard with a fun fact, then back to the board.
+
+Select the billboard and set 'Trivia board' in the 'Metadata' section of the 'Advanced' page of the properties pane:
+
+- **Automatic**: plays after the question just before it, as in earlier versions. All billboards and minigames right after a question play with it, up to a billboard of another topic. A billboard with a topic is also a tile of its own.
+- **Intro to next question**: plays first when the tile of the next question is clicked.
+- **Outro of previous question**: plays after the previous question, before the board comes back.
+- **Own tile**: only plays as a tile of its own. Give it a topic, and points for its row on the board.
+
+![The Trivia board setting of a billboard](../../assets/images/trivia-board-billboard-properties.webp){ width="380" loading=lazy }
+
+An intro or outro doesn't need a topic: the question decides where the tile is on the board. 'Plays as' tells what the selected slide does, for example "History · 100, step 3 of 3, outro of slide 5".
+
+### See what a tile plays
+
+The thumbnails show it for every Trivia Board round:
+
+- A bar in the colour of the topic runs along the slides that one click plays, with the tile ("History · 100") above them. Click the tile name to select those slides, to move or copy them together.
+- A slide that never plays from the board has a dashed orange outline and a warning sign. Point at the thumbnail to see why, and where a slide plays.
+- To hide this, right-click the thumbnails and untick 'Show trivia board tiles'.
+
+![Thumbnails of a Trivia Board round](../../assets/images/trivia-board-tile-thumbnails.webp){ width="280" loading=lazy }
+
+In the preview of the board (F5), a tile shows a dot per slide in its corner, one group per click: ●●● is one click of three slides, ● ●● two clicks of one and two slides. A tile with one click of one slide has no dots. Point at a tile to see its slides. When something in them is wrong, an orange ! is added.
+
+![The preview of the board with the slides of a tile](../../assets/images/trivia-board-preview-tile-slides.webp){ loading=lazy }
+
+You can also play the board in the preview, as in Quiz Show. Click a tile to see its slides: Space, → or a mouse click shows the next slide, ← the previous one, and after the last slide the board comes back. Press Esc to go back to the board at once. Played tiles are dimmed or hidden (the 'Played tiles' setting), and R plays the board again from the start.
+
+When you save the quiz, Studio warns about billboards that never play, and about slides that can play twice (for example a billboard with a topic that also plays after a question).
+
+!!! note
+    Older versions of QuizXpress can open a quiz with these settings, but play every billboard as 'Automatic'.
+
 ## Preview a Trivia Board
 
 The Trivia Board slide in QuizXpress Studio shows the board as it will look during the show: the real topics and point values of the round, laid out with your design settings (position, spacing, images and text). By setting the styling options of the Trivia Board as well as the background you can determine the looks of the board.

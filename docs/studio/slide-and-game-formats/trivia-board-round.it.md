@@ -44,6 +44,42 @@ In alternativa, il Quiz Wizard può aiutare a creare un round Tabellone Trivia c
 
 Scegliere il tempo per le domande, i punti e lo stile da usare nelle pagine successive, quindi premere ‘Fine’ per creare il tabellone, le domande e la diapositiva finale di fine round. Naturalmente sarà ancora necessario inserire le domande vere e proprie, ma l’argomento e i punti corretti saranno già impostati.
 
+## Tabelloni prima e dopo una domanda
+
+Un clic su una casella fa giocare la domanda che c’è dietro, poi il tabellone ricompare. I tabelloni (diapositive di tipo Tabellone) e i mini giochi possono essere giocati insieme a una domanda: prima, come intro, oppure dopo, come chiusura. Ad esempio: un tabellone che annuncia l’argomento, la domanda e un tabellone con una curiosità, poi di nuovo il Tabellone Trivia.
+
+Selezionare il tabellone e impostare 'Tabellone Trivia' nella sezione 'Metadati' della pagina 'Avanzate' del pannello delle proprietà:
+
+- **Automatico**: viene giocato dopo la domanda subito prima, come nelle versioni precedenti. Tutti i tabelloni e mini giochi subito dopo una domanda vengono giocati con essa, fino a un tabellone di un altro argomento. Un tabellone con un argomento è anche una casella a sé.
+- **Intro della domanda successiva**: viene giocato per primo quando si clicca sulla casella della domanda successiva.
+- **Chiusura della domanda precedente**: viene giocato dopo la domanda precedente, prima che ricompaia il Tabellone Trivia.
+- **Casella propria**: viene giocato solo come casella a sé. Assegnargli un argomento, e dei punti per la sua riga sul Tabellone Trivia.
+
+![L’impostazione Tabellone Trivia di un tabellone](../../assets/images/trivia-board-billboard-properties.webp){ width="380" loading=lazy }
+
+Un’intro o una chiusura non ha bisogno di un argomento: è la domanda a decidere dove si trova la casella sul Tabellone Trivia. 'Si gioca come' indica cosa fa la diapositiva selezionata, ad esempio "History · 100, passo 3 di 3, chiusura della diapositiva 5".
+
+### Vedere cosa gioca una casella
+
+Le miniature lo mostrano per ogni round Tabellone Trivia:
+
+- Una barra del colore dell’argomento affianca le diapositive che un clic fa giocare, con la casella ("History · 100") sopra. Cliccare sul nome della casella per selezionare quelle diapositive, così da spostarle o copiarle insieme.
+- Una diapositiva che non viene mai giocata dal Tabellone Trivia ha un bordo arancione tratteggiato e un segnale di avviso. Posizionare il puntatore sulla miniatura per vedere il motivo, e dove viene giocata una diapositiva.
+- Per nasconderlo, fare clic con il pulsante destro sulle miniature e togliere la spunta da 'Mostra caselle del Tabellone Trivia'.
+
+![Miniature di un round Tabellone Trivia](../../assets/images/trivia-board-tile-thumbnails.webp){ width="280" loading=lazy }
+
+Nell’anteprima del Tabellone Trivia (F5), una casella mostra nell’angolo un punto per diapositiva, un gruppo per clic: ●●● è un clic di tre diapositive, ● ●● due clic di una e due diapositive. Una casella con un solo clic di una sola diapositiva non ha punti. Posizionare il puntatore su una casella per vedere le sue diapositive. Se qualcosa non va, si aggiunge un ! arancione.
+
+![L’anteprima del Tabellone Trivia con le diapositive di una casella](../../assets/images/trivia-board-preview-tile-slides.webp){ loading=lazy }
+
+Il Tabellone Trivia si può anche giocare nell’anteprima, come in Quiz Show. Cliccare su una casella per vedere le sue diapositive: Spazio, → o un clic del mouse mostra la diapositiva successiva, ← quella precedente, e dopo l’ultima diapositiva ricompare il Tabellone Trivia. Premere Esc per tornare subito al Tabellone Trivia. Le caselle giocate vengono attenuate o nascoste (l’impostazione 'Caselle giocate') e R fa ripartire il Tabellone Trivia dall’inizio.
+
+Quando si salva il quiz, Studio avvisa dei tabelloni che non vengono mai giocati e delle diapositive che possono essere giocate due volte (ad esempio un tabellone con un argomento che viene giocato anche dopo una domanda).
+
+!!! note
+    Le versioni precedenti di QuizXpress possono aprire un quiz con queste impostazioni, ma giocano ogni tabellone come 'Automatico'.
+
 ## Anteprima di un Tabellone Trivia
 
 La diapositiva Tabellone Trivia in QuizXpress Studio mostra il tabellone così come apparirà durante lo show: gli argomenti e i valori di punti reali del round, disposti secondo le impostazioni di design (posizione, spaziatura, immagini e testo). Impostando le opzioni di stile del Tabellone Trivia e lo sfondo è possibile determinare l’aspetto del tabellone.

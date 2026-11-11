@@ -44,6 +44,42 @@ Vous pouvez aussi utiliser le Quiz Wizard pour créer une manche Trivia Board co
 
 Choisissez le temps de réponse, les points et le style utilisés dans les pages suivantes, puis appuyez sur ‘Finish’ pour créer le tableau, les questions et la diapositive de fin de manche. Bien sûr, vous devrez encore saisir les questions elles-mêmes, mais le thème et les points corrects seront déjà définis pour vous.
 
+## Panneaux avant et après une question
+
+Un clic sur une case joue la question qui se trouve derrière, puis le tableau réapparaît. Des panneaux (et des mini-jeux) peuvent être joués avec une question : avant elle comme intro, ou après elle comme conclusion. Par exemple : un panneau qui annonce le thème, la question, puis un panneau avec une anecdote, et retour au tableau.
+
+Sélectionnez le panneau et réglez 'Tableau Trivia' dans la section 'Métadonnées' de la page 'Avancé' du panneau de propriétés :
+
+- **Automatique** : joué après la question juste avant, comme dans les versions précédentes. Tous les panneaux et mini-jeux qui suivent directement une question sont joués avec elle, jusqu’à un panneau d’un autre thème. Un panneau avec un thème est aussi une case à part.
+- **Intro de la question suivante** : joué en premier quand on clique sur la case de la question suivante.
+- **Conclusion de la question précédente** : joué après la question précédente, avant le retour du tableau.
+- **Case à part** : joué uniquement comme case à part entière. Donnez-lui un thème, et des points pour sa ligne sur le tableau.
+
+![Le réglage Tableau Trivia d’un panneau](../../assets/images/trivia-board-billboard-properties.webp){ width="380" loading=lazy }
+
+Une intro ou une conclusion n’a pas besoin de thème : c’est la question qui décide où se trouve la case sur le tableau. 'Joué comme' indique ce que fait la diapositive sélectionnée, par exemple « History · 100, étape 3 sur 3, conclusion de la diapositive 5 ».
+
+### Voir ce que joue une case
+
+Les miniatures le montrent pour chaque manche Trivia Board :
+
+- Une barre de la couleur du thème longe les diapositives qu’un clic fait jouer, avec la case (« History · 100 ») au-dessus. Cliquez sur le nom de la case pour sélectionner ces diapositives, afin de les déplacer ou de les copier ensemble.
+- Une diapositive qui n’est jamais jouée depuis le tableau a un contour orange en pointillés et un signe d’avertissement. Placez le pointeur sur la miniature pour voir pourquoi, et où une diapositive est jouée.
+- Pour masquer cela, cliquez avec le bouton droit sur les miniatures et décochez 'Afficher les cases du Tableau Trivia'.
+
+![Miniatures d’une manche Trivia Board](../../assets/images/trivia-board-tile-thumbnails.webp){ width="280" loading=lazy }
+
+Dans l’aperçu du tableau (F5), une case affiche dans son coin un point par diapositive, un groupe par clic : ●●● est un clic de trois diapositives, ● ●● deux clics d’une et de deux diapositives. Une case avec un seul clic d’une seule diapositive n’a pas de points. Placez le pointeur sur une case pour voir ses diapositives. Si quelque chose ne va pas, un ! orange s’y ajoute.
+
+![L’aperçu du tableau avec les diapositives d’une case](../../assets/images/trivia-board-preview-tile-slides.webp){ loading=lazy }
+
+Vous pouvez aussi jouer le tableau dans l’aperçu, comme dans Quiz Show. Cliquez sur une case pour voir ses diapositives : Espace, → ou un clic de souris affiche la diapositive suivante, ← la précédente, et après la dernière diapositive le tableau revient. Appuyez sur Échap pour revenir directement au tableau. Les cases jouées sont atténuées ou masquées (le réglage 'Cases jouées'), et R rejoue le tableau depuis le début.
+
+Lorsque vous enregistrez le quiz, Studio signale les panneaux qui ne sont jamais joués, ainsi que les diapositives qui peuvent être jouées deux fois (par exemple un panneau avec un thème qui est aussi joué après une question).
+
+!!! note
+    Les versions plus anciennes de QuizXpress peuvent ouvrir un quiz avec ces réglages, mais jouent chaque panneau comme 'Automatique'.
+
 ## Aperçu d’un Trivia Board
 
 La diapositive Trivia Board dans QuizXpress Studio affiche le tableau tel qu’il apparaîtra pendant le spectacle : les vrais thèmes et valeurs de points de la manche, disposés selon vos paramètres de design (position, espacement, images et texte). En définissant les options de style du Trivia Board ainsi que l’arrière-plan, vous déterminez l’apparence du tableau.

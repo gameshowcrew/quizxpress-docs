@@ -1,3 +1,3 @@
 # Overzicht van de gebruikersinterface
 
-![](../../assets/images/image10.webp){ width="605" loading=lazy }
+![Het venster van Quiz Studio](../../assets/images/studio-ui-overview.webp){ loading=lazy }

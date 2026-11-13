@@ -40,7 +40,7 @@ As can be seen in the picture below, various other commands are available:
 
 - Groups: it is possible to divide teams into groups. You can read more about this in the following section.
 
-> ![](../assets/images/image331.webp){ width="605" loading=lazy }
+> ![The Teams tab with team names and groups](../assets/images/setup-teams-tab.webp){ width="605" loading=lazy }
 
 ### Grouping keypads
 
@@ -48,9 +48,11 @@ It is possible to divide teams into groups in Quiz Setup (alternatively, it is a
 
 When you click the ‘Groups’ button, a list is shown where you can enter group names and their accompanying set of keypads. See the picture below:
 
-![](../assets/images/image332.webp){ width="605" loading=lazy }
+![The list of groups](../assets/images/setup-teams-groups-view.webp){ width="605" loading=lazy }
 
-By pressing the ‘Add’ button, a window appears where you can enter both the group name and the accompanying keypads (by entering a keypad string). You can also remove groups.
+By pressing the ‘Add Group’ button, a window appears where you can enter both the group name and the accompanying keypads (by entering a keypad string). You can also remove groups.
+
+![Adding a group](../assets/images/setup-add-group-dialog.webp){ width="400" loading=lazy }
 
 When entering the keypad range for a group (for example, ‘1, 2, 3, 10-20’), a check is done to confirm the range falls within the keypad range defined on the ‘Buzzers’ tab. If it doesn’t, an error message is shown.
 
@@ -85,10 +87,10 @@ At the end of the countdown, the number of correct answers, the number of incorr
 
 When your QuizXpress license includes support for Galaxy devices or scoreboards, you’ll see the following options on the Buzzers tab of QuizXpress Setup:
 
-![](../assets/images/image335.webp){ width="234" loading=lazy }
+![The Galaxy and scoreboard options on the Buzzers tab](../assets/images/setup-galaxy-checkboxes.webp){ width="234" loading=lazy }
 
 When you enable Galaxy or scoreboard support, extra columns appear in the list on the Teams tab.
 
-![](../assets/images/image336.webp){ width="504" loading=lazy }
+![The Teams list with Galaxy device and Scoreboard columns](../assets/images/setup-teams-galaxy-columns.webp){ width="504" loading=lazy }
 
 Each Galaxy device or scoreboard has an ID. In this list, you can indicate which Galaxy device ID and/or scoreboard ID is used for each player.

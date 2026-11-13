@@ -86,7 +86,7 @@ The **…** button in the top right corner of the panel holds the settings for t
 
 ## The classic property grid
 
-![](../../assets/images/image18.webp){ width="644" loading=lazy }
+![The classic property grid](../../assets/images/studio-classic-property-grid.webp){ loading=lazy }
 
 The grid that earlier versions of QuizXpress used is still there. It lists all properties of the selected element in alphabetical groups and is the quickest way to see everything at once. Choose *Classic property grid* from the **…** menu of the properties panel to switch to it, and the *Switch to the new properties panel* button at the right of the grid’s own toolbar to come back. QuizXpress remembers which of the two you prefer.
 

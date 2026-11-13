@@ -1,6 +1,6 @@
 # Backstage-menu
 
-Wanneer u op het tabblad BESTAND klikt of op F1 drukt, verschijnt het backstage-menu. ![](../../assets/images/image12.webp){ width="501" loading=lazy }
+Wanneer u op het tabblad BESTAND klikt of op F1 drukt, verschijnt het backstage-menu. ![Het backstage-menu](../../assets/images/studio-backstage-menu.webp){ width="700" loading=lazy }
 
 Hier vindt u algemene functies van de toepassing. De details ervan vindt u op verschillende andere tabbladen:
 

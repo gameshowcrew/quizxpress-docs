@@ -4,13 +4,13 @@ In order to edit content, click the elements on the slide and change the propert
 
 To edit the question and all the answers, use the ‘Edit...’ entry in the slide’s context menu (right-click the slide and select ‘Edit...’). This brings up the ‘Edit question’ form. Alternatively, you can double-click the slide.
 
-![](../../assets/images/image21.webp){ width="333" loading=lazy }
+![The Edit question form](../../assets/images/studio-edit-question-dialog.webp){ width="500" loading=lazy }
 
 In this form you easily change the question and answers in one go.
 
 Furthermore, Studio offers two views for editing content: Graphical Mode and Table Mode. You can select one of the modes on the VIEW ribbon.
 
-![](../../assets/images/image22.webp){ width="85" loading=lazy }
+![Graphical Mode and Table Mode on the View ribbon](../../assets/images/studio-ribbon-edit-modes.webp){ width="100" loading=lazy }
 
 ## Graphical Mode
 
@@ -20,9 +20,9 @@ Graphical mode shows a graphical representation of the slide in the design area.
 
 In table mode you see an overview of all slides in a table. You see the slide type, the question, answers, correct answer and notes (if applicable, depending on the slide type) which can be conveniently edited in one view.
 
-![](../../assets/images/image23.webp){ width="593" loading=lazy }
+![Studio in Table Mode](../../assets/images/studio-table-mode.webp){ width="593" loading=lazy }
 
-![](../../assets/images/image24.webp){ width="193" loading=lazy }
+![The context menu in Table Mode with the Columns submenu](../../assets/images/studio-table-mode-menu.webp){ width="250" loading=lazy }
 
 You can show and edit additional frequently used properties in columns by right clicking in the table.
 

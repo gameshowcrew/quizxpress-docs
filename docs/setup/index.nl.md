@@ -6,7 +6,7 @@ Het programma Quiz Setup vindt u in het Windows Startmenu of in het menu Externe
 
 In Quiz Setup kunt u meerdere instellingenbestanden beheren. In de lijstweergave links in de gebruikersinterface ziet u de beschikbare configuratiebestanden. Het bestand in **vet** is het actieve bestand: die instellingen worden gebruikt wanneer u een echte quiz uitvoert. U wijzigt het actieve bestand door er met de rechtermuisknop op te klikken en in het contextmenu ‘Activeren’ te kiezen. Om een bestand te laden om het te bewerken, dubbelklikt u erop of kiest u ‘Laden’ in het contextmenu.
 
-![](../assets/images/image307.webp){ width="605" loading=lazy }
+![Het tabblad Buzzers met keypads](../assets/images/setup-buzzers-keypads-tab.webp){ width="605" loading=lazy }
 
 Met ‘Resetten’ keert het systeem terug naar de standaardconfiguratie. Let op: u moet altijd eerst een buzzersysteem kiezen voordat u functionaliteit kunt gebruiken.
 

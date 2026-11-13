@@ -2,7 +2,7 @@
 
 The Advanced tab page contains several advanced settings:
 
-![](../assets/images/image344.webp){ width="598" loading=lazy }
+![The Advanced tab in Quiz Setup](../assets/images/setup-advanced-tab.webp){ width="598" loading=lazy }
 
 **Full screen slides**
 

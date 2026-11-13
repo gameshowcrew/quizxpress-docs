@@ -1,3 +1,3 @@
 # User interface overview
 
-![](../../assets/images/image10.webp){ width="605" loading=lazy }
+![The Quiz Studio window with its main areas labelled](../../assets/images/studio-ui-overview.webp){ loading=lazy }

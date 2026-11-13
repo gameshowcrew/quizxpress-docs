@@ -2,7 +2,7 @@
 
 On this tab, you can define the actions that are executed (and in which order) when a question finishes (all responses have been received, or a correct answer has been given on an open question).
 
-![](../assets/images/image345.webp){ width="604" loading=lazy }
+![The End of Question tab in Quiz Setup](../assets/images/setup-end-of-question-tab.webp){ width="604" loading=lazy }
 
 Normally, if the actions are not overridden, a standard sequence of actions is executed, such as highlighting the correct answer and showing statistics in the info panel, etc. When you override the standard actions, the configured actions are executed one by one in the set order whenever you press the OK button on the quizmaster remote control, press the spacebar in Live, or click the ‘Next’ button in Director.
 

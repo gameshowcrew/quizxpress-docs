@@ -86,7 +86,7 @@ De knop **…** in de rechterbovenhoek van het paneel bevat de instellingen voor
 
 ## Het klassieke eigenschappenraster
 
-![](../../assets/images/image18.webp){ width="644" loading=lazy }
+![Het klassieke eigenschappenraster](../../assets/images/studio-classic-property-grid.webp){ loading=lazy }
 
 Het raster dat eerdere versies van QuizXpress gebruikten, is er nog steeds. Het toont alle eigenschappen van het geselecteerde element in alfabetische groepen en is de snelste manier om alles in één keer te zien. Kies *Klassiek eigenschappenraster* in het menu **…** van het eigenschappenpaneel om ernaar over te schakelen, en de knop *Overschakelen naar het nieuwe eigenschappenvenster* rechts op de eigen werkbalk van het raster om terug te keren. QuizXpress onthoudt welke van de twee u verkiest.
 

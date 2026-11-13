@@ -2,7 +2,7 @@
 
 To help you create new content fast, Studio also has a Quiz Wizard. To start it, on the HOME tab of the ribbon, click the ‘Quiz Wizard’ button in the ‘Magic’ section. The Quiz Wizard can help you create single slides or entire rounds. It guides you through a series of steps after which it will create the requested content. All you have to do afterwards is fill in the actual questions/answers on the created quiz slides. For example, to create a new Trivia Board, the Wizard shows the following configuration screen:
 
-![](../../assets/images/image25.webp){ width="452" loading=lazy }
+![The Quiz Wizard configuring a Trivia Board](../../assets/images/studio-quiz-wizard-trivia-board.webp){ width="452" loading=lazy }
 
 Here you specify how the Trivia Board grid will look and how many questions per points/category there will be.
 

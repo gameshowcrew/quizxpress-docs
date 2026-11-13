@@ -2,7 +2,7 @@
 
 Op dit tabblad bepaalt u welke acties worden uitgevoerd (en in welke volgorde) wanneer een vraag eindigt (alle antwoorden zijn ontvangen, of bij een open vraag is een juist antwoord gegeven).
 
-![](../assets/images/image345.webp){ width="604" loading=lazy }
+![Het tabblad Einde van de vraag](../assets/images/setup-end-of-question-tab.webp){ width="604" loading=lazy }
 
 Als de acties niet zijn aangepast, wordt normaal gesproken een standaardreeks acties uitgevoerd, zoals het markeren van het juiste antwoord en het tonen van statistieken in het infopaneel. Als u de standaardacties overschrijft, worden de ingestelde acties een voor een in de ingestelde volgorde uitgevoerd wanneer u op de OK-knop van de afstandsbediening van de quizmaster drukt, op de spatiebalk in Live drukt of in Director op de knop ‘Volgende’ klikt.
 

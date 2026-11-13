@@ -12,7 +12,7 @@ There are two ways you can run the system with mobile keypads:
 
 2)  Using a local Wi-Fi router connected to your laptop (no internet required but all players must be in one physical location to connect to your router)
 
-![](../assets/images/image324.webp){ width="455" loading=lazy }
+![The Mobile tab in Quiz Setup](../assets/images/setup-mobile-tab.webp){ width="455" loading=lazy }
 
 There are several options:
 
@@ -28,11 +28,11 @@ There are several options:
 
 The system supports collecting data from individual users on a screen that appears after they connect to the quiz. The fields to collect can be configured here in Quiz Setup, and the captured data will be available after the quiz in the Analyzer output file.
 
-![](../assets/images/image325.webp){ width="449" loading=lazy }
+![The Edit Custom Fields dialog](../assets/images/setup-custom-fields-dialog.webp){ width="449" loading=lazy }
 
 To add a field, click Add and enter the details in the custom field popup:
 
-![](../assets/images/image326.webp){ width="296" loading=lazy }
+![Adding a custom field](../assets/images/setup-custom-field-dialog.webp){ width="296" loading=lazy }
 
 When the user connects, a data entry screen is presented, like the following example:
 
@@ -54,7 +54,7 @@ When you want your audience to compete in groups while using mobile devices, you
 
 By clicking the ‘Groups’ button, a form appears where you can configure the groups and group behavior:
 
-![](../assets/images/image328.webp){ width="298" loading=lazy }
+![The Mobile Groups dialog](../assets/images/setup-mobile-groups-dialog.webp){ width="298" loading=lazy }
 
 In the lower section, you define the behavior for fastest-finger and voting questions.
 
@@ -62,7 +62,7 @@ In the lower section, you define the behavior for fastest-finger and voting ques
 
 When playing with the QuizXpress Smart Buzzer app, you can set up your own branding with the Branding Designer, changing the colors, logo, and welcome image for the app:
 
-![](../assets/images/image329.webp){ width="549" loading=lazy }
+![The mobile app brand design dialog](../assets/images/setup-app-branding-dialog.webp){ width="400" loading=lazy }
 
 Playing with predefined groups
 

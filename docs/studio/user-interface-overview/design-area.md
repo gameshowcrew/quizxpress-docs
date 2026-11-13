@@ -33,7 +33,7 @@ To turn smart guides off (or on again), right-click the slide background and cli
 
 To insert a new slide, go to the INSERT menu and choose one of the predefined layouts in the ‘Quiz Slides’ section. Dark blue boxes represent placeholders for inserting a picture or video.
 
-![](../../assets/images/image13.webp){ loading=lazy }
+![The slide layouts in the Quiz Slides gallery](../../assets/images/studio-insert-slide-gallery.webp){ loading=lazy }
 
 By choosing the layouts on the bottom row, you can insert a minigame, a Trivia Board, a Trivia Ladder, a Trivia Feud game, or a Bingo round, respectively.
 

@@ -6,7 +6,7 @@ U kunt ook mobiele apparaten gebruiken met QuizXpress. Mobiele apparaten kunt u 
 
 Wanneer u Quiz Setup voor het eerst start na de installatie van QuizXpress, is ‘Geen’ gekozen als buzzersysteem. Voordat u een quiz in QuizXpress Live uitvoert, moet in Quiz Setup een buzzersysteem worden gekozen. Dit wordt ook aangegeven door de hulpballon die de eerste keer dat u Quiz Setup start wordt getoond, zoals hieronder te zien is.
 
-![](../assets/images/image308.webp){ width="460" loading=lazy }
+![Het tabblad Buzzers zonder buzzers](../assets/images/setup-buzzers-none-tab.webp){ width="460" loading=lazy }
 
 In de hulpballon staat ook dat ‘Hints voor de quizmaster’ standaard worden getoond wanneer u een quizshow uitvoert in QuizXpress Live. Dit is een leerfunctie die u moet uitschakelen wanneer u een echte show uitvoert.
 
@@ -106,7 +106,7 @@ Zie [Fleetwood Reply-buzzers](../hardware-installation/fleetwood-reply-buzzers.m
 
 QuizXpress wordt geleverd met een virtueel, softwarematig keypad dat u op dezelfde computer of op andere computers in het netwerk kunt uitvoeren. Het maakt via een TCP/IP-verbinding verbinding met QuizXpress Live. Elk virtueel keypad heeft een keypad-id die u direct kunt wijzigen.
 
-![](../assets/images/image312.webp){ width="360" loading=lazy }
+![Virtuele keypads](../assets/images/setup-virtual-keypads.webp){ width="360" loading=lazy }
 
 !!! note
 

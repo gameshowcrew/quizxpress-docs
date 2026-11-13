@@ -26,6 +26,6 @@ Het lint van QuizXpress Studio is verdeeld in meerdere secties (lint-tabbladen).
 
 Naast de algemene lint-tabbladen die altijd zichtbaar zijn, zijn er zogeheten ‘contextuele tabbladen’. Of ze zichtbaar zijn, hangt af van het geselecteerde item in de editor. Wanneer u bijvoorbeeld een video-item op de dia selecteert, verschijnt het contextuele tabblad VIDEO:
 
-![](../../assets/images/image11.webp){ width="460" loading=lazy }
+![Het lint met videohulpmiddelen](../../assets/images/studio-ribbon-video-tools.webp){ width="600" loading=lazy }
 
 Het tabblad verdwijnt zodra u iets anders op de dia selecteert.

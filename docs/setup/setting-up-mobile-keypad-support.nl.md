@@ -12,7 +12,7 @@ Er zijn twee manieren om het systeem met mobiele keypads te gebruiken:
 
 2)  Met een lokale wifirouter die op uw laptop is aangesloten (geen internet nodig, maar alle spelers moeten zich op één fysieke locatie bevinden om verbinding te maken met uw router)
 
-![](../assets/images/image324.webp){ width="455" loading=lazy }
+![Het tabblad Mobiel](../assets/images/setup-mobile-tab.webp){ width="455" loading=lazy }
 
 Er zijn verschillende opties:
 
@@ -28,11 +28,11 @@ Er zijn verschillende opties:
 
 Het systeem ondersteunt het verzamelen van gegevens van individuele gebruikers op een scherm dat verschijnt nadat zij verbinding hebben gemaakt met de quiz. De te verzamelen velden kunt u hier in Quiz Setup instellen en de vastgelegde gegevens zijn na de quiz beschikbaar in het uitvoerbestand van Analyzer.
 
-![](../assets/images/image325.webp){ width="449" loading=lazy }
+![Het dialoogvenster Aangepaste velden](../assets/images/setup-custom-fields-dialog.webp){ width="449" loading=lazy }
 
 Om een veld toe te voegen, klikt u op Toevoegen en voert u de gegevens in het pop-upvenster voor aangepaste velden in:
 
-![](../assets/images/image326.webp){ width="296" loading=lazy }
+![Het dialoogvenster Aangepast veld](../assets/images/setup-custom-field-dialog.webp){ width="296" loading=lazy }
 
 Wanneer de gebruiker verbinding maakt, wordt een gegevensinvoerscherm getoond, zoals in het volgende voorbeeld:
 
@@ -54,7 +54,7 @@ Wanneer u wilt dat uw publiek in groepen strijdt terwijl het mobiele apparaten g
 
 Door op de knop ‘Groepen’ te klikken, verschijnt een formulier waarin u de groepen en het groepsgedrag kunt instellen:
 
-![](../assets/images/image328.webp){ width="298" loading=lazy }
+![Het dialoogvenster Groepen](../assets/images/setup-mobile-groups-dialog.webp){ width="298" loading=lazy }
 
 In het onderste gedeelte bepaalt u het gedrag voor vragen met de snelste vinger en voor stemvragen.
 
@@ -62,7 +62,7 @@ In het onderste gedeelte bepaalt u het gedrag voor vragen met de snelste vinger 
 
 Wanneer u speelt met de QuizXpress Smart Buzzer-app, kunt u met de Branding Designer uw eigen branding instellen en de kleuren, het logo en de welkomstafbeelding van de app wijzigen:
 
-![](../assets/images/image329.webp){ width="549" loading=lazy }
+![Het dialoogvenster voor de huisstijl van de app](../assets/images/setup-app-branding-dialog.webp){ width="400" loading=lazy }
 
 Spelen met vooraf gedefinieerde groepen
 

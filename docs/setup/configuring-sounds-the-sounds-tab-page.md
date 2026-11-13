@@ -8,7 +8,7 @@ When you select the ‘Right Answer’ category, the list on the right-hand side
 
 When installing QuizXpress, a set of default sounds is installed for you to choose from.
 
-![](../assets/images/image337.webp){ width="605" loading=lazy }
+![The Sound tab in Quiz Setup](../assets/images/setup-sounds-tab.webp){ width="605" loading=lazy }
 
 The following sounds/music can be set:
 
@@ -22,7 +22,7 @@ The following sounds/music can be set:
 
 - *Background music* – the music to fill all otherwise silent moments.
 
-> ![](../assets/images/image338.webp){ width="605" loading=lazy }
+> ![The lower part of the Sound tab](../assets/images/setup-sounds-tab-lower.webp){ width="605" loading=lazy }
 
 - *End of countdown music* – the sound played when countdown finishes.
 

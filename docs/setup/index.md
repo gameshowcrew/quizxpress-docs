@@ -6,7 +6,7 @@ The Quiz Setup program can be found in the Windows Start menu or in the External
 
 Quiz Setup allows you to manage multiple settings files. In the list view on the left of the user interface, you can see the available configuration files. The one in **bold** is the active file, meaning these settings will be used when running a production quiz. You can change the active file by right-clicking it and selecting ‘Activate’ from the context menu. To load a file for editing, double-click it, or select ‘Load’ from the context menu.
 
-![](../assets/images/image307.webp){ width="605" loading=lazy }
+![Quiz Setup with the Buzzers tab open](../assets/images/setup-buzzers-keypads-tab.webp){ width="605" loading=lazy }
 
 By clicking ‘Reset’, the system reverts to the default configuration. Note that you’ll always have to select a buzzer system before you can use any functionality.
 

@@ -2,7 +2,7 @@
 
 The ‘Screens’ tab page contains various settings used to customize the welcome screen. It also contains settings related to the various display resolutions/modes of QuizXpress Live.
 
-![](../assets/images/image339.webp){ width="593" loading=lazy }
+![The Screens tab in Quiz Setup](../assets/images/setup-screens-tab.webp){ width="593" loading=lazy }
 
 The following settings apply to the welcome screen:
 
@@ -24,7 +24,7 @@ The quiz player comes with multiple ‘skins’ (appearances or themes). Each th
 
 You can switch between the available skins in the Appearance section:
 
-![](../assets/images/image340.webp){ width="431" loading=lazy }
+![Choosing a skin in the Appearance section](../assets/images/setup-skin-list.webp){ width="431" loading=lazy }
 
 !!! tip "Your own skin"
     You can also create your own skin in your house style, with your own colours, fonts and images. See [Skinning](../advanced/skinning/index.md).

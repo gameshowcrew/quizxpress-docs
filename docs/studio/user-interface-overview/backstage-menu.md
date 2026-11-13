@@ -1,6 +1,8 @@
 # Backstage Menu
 
-When clicking the FILE tab, or hitting F1, the backstage menu appears. ![](../../assets/images/image12.webp){ width="501" loading=lazy }
+When clicking the FILE tab, or hitting F1, the backstage menu appears.
+
+![The backstage menu](../../assets/images/studio-backstage-menu.webp){ width="700" loading=lazy }
 
 Here you access global application functionality for which the details are available on several other tabs:
 

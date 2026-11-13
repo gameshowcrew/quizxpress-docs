@@ -26,6 +26,6 @@ The QuizXpress Studio ribbon is divided into several sections (Ribbon Tabs).
 
 Next to the global ribbon tabs that are always visible, there are so-called ‘contextual tabs’. Their visibility depends on the selected item in the editor. For example, when selecting a video item on the slide, the contextual tab for VIDEO appears:
 
-![](../../assets/images/image11.webp){ width="460" loading=lazy }
+![The Video Tools contextual tab on the ribbon](../../assets/images/studio-ribbon-video-tools.webp){ width="600" loading=lazy }
 
 The tab will disappear as soon as something else is selected on the slide.

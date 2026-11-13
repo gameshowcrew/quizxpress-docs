@@ -6,7 +6,7 @@ It is also possible to use mobile devices with QuizXpress. Mobile devices can be
 
 When starting Quiz Setup for the first time after installing QuizXpress, ‘None’ is chosen as the buzzer system. Before running a quiz in QuizXpress Live, a buzzer system must be chosen in Quiz Setup. This is also indicated by the help quote shown the first time you start Quiz Setup, as shown below.
 
-![](../assets/images/image308.webp){ width="460" loading=lazy }
+![The Buzzers tab with no buzzer system selected](../assets/images/setup-buzzers-none-tab.webp){ width="460" loading=lazy }
 
 The help quote also states that ‘Quizmaster hints’ are shown by default when running a quiz show in QuizXpress Live. This is a learning function and should be turned off when running a production show.
 
@@ -106,7 +106,7 @@ Please refer to [Fleetwood Reply buzzers](../hardware-installation/fleetwood-rep
 
 QuizXpress comes with a virtual, software-based keypad that you can run on the same machine or on other machines in the network. It connects to QuizXpress Live through a TCP/IP connection. Each virtual keypad has a keypad id that you can change instantly.
 
-![](../assets/images/image312.webp){ width="360" loading=lazy }
+![Three virtual keypads](../assets/images/setup-virtual-keypads.webp){ width="360" loading=lazy }
 
 !!! note
 

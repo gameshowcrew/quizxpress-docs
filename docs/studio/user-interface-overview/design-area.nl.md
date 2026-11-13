@@ -33,7 +33,7 @@ Om slimme hulplijnen uit (of weer aan) te zetten, klikt u met de rechtermuisknop
 
 Om een nieuwe dia in te voegen, gaat u naar het menu INVOEGEN en kiest u een van de vooraf gedefinieerde indelingen in de sectie ‘Quiz Vragen’. Donkerblauwe vakken stellen plaatshouders voor waarin u een afbeelding of video kunt invoegen.
 
-![](../../assets/images/image13.webp){ loading=lazy }
+![De dia-indelingen in de galerij Quizdia’s](../../assets/images/studio-insert-slide-gallery.webp){ loading=lazy }
 
 Met de indelingen op de onderste rij kunt u respectievelijk een minigame, een Trivia Bord, een Trivia Ladder, een Trivia Feud-spel of een Bingo-ronde invoegen.
 

@@ -8,7 +8,7 @@ Wanneer u de categorie ‘Juist antwoord’ selecteert, wordt de lijst rechts ge
 
 Bij de installatie van QuizXpress wordt een set standaardgeluiden geïnstalleerd waaruit u kunt kiezen.
 
-![](../assets/images/image337.webp){ width="605" loading=lazy }
+![Het tabblad Geluiden](../assets/images/setup-sounds-tab.webp){ width="605" loading=lazy }
 
 De volgende geluiden/muziek kunnen worden ingesteld:
 
@@ -22,7 +22,7 @@ De volgende geluiden/muziek kunnen worden ingesteld:
 
 - *Achtergrondmuziek* – de muziek om alle anders stille momenten te vullen.
 
-> ![](../assets/images/image338.webp){ width="605" loading=lazy }
+> ![Het onderste deel van het tabblad Geluiden](../assets/images/setup-sounds-tab-lower.webp){ width="605" loading=lazy }
 
 - *Muziek aan het einde van het aftellen* – het geluid dat wordt afgespeeld wanneer het aftellen afloopt.
 

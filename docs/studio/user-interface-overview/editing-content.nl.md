@@ -4,13 +4,13 @@ Om inhoud te bewerken, klikt u op de elementen op de dia en wijzigt u de eigensc
 
 Om de vraag en alle antwoorden te bewerken, gebruikt u de optie ‘Bewerken...’ in het contextmenu van de dia (klik met de rechtermuisknop op de dia en kies ‘Bewerken...’). Hiermee opent u het formulier ‘Vraag bewerken’. U kunt ook dubbelklikken op de dia.
 
-![](../../assets/images/image21.webp){ width="333" loading=lazy }
+![Het formulier Vraag bewerken](../../assets/images/studio-edit-question-dialog.webp){ width="500" loading=lazy }
 
 In dit formulier wijzigt u de vraag en de antwoorden eenvoudig in één keer.
 
 Verder biedt Studio twee weergaven voor het bewerken van inhoud: de grafische modus en de tabelmodus. U kiest een van de modi op het lint BEELD.
 
-![](../../assets/images/image22.webp){ width="85" loading=lazy }
+![Grafische modus en Tabelmodus op het lint Beeld](../../assets/images/studio-ribbon-edit-modes.webp){ width="100" loading=lazy }
 
 ## Grafische modus
 
@@ -20,9 +20,9 @@ De grafische modus toont een grafische weergave van de dia in het ontwerpgebied.
 
 In de tabelmodus ziet u een overzicht van alle dia’s in een tabel. U ziet het diatype, de vraag, de antwoorden, het juiste antwoord en de notities (indien van toepassing, afhankelijk van het diatype), die u gemakkelijk in één weergave kunt bewerken.
 
-![](../../assets/images/image23.webp){ width="593" loading=lazy }
+![Studio in Tabelmodus](../../assets/images/studio-table-mode.webp){ width="593" loading=lazy }
 
-![](../../assets/images/image24.webp){ width="193" loading=lazy }
+![Het contextmenu in Tabelmodus met het submenu Kolommen](../../assets/images/studio-table-mode-menu.webp){ width="250" loading=lazy }
 
 U kunt extra veelgebruikte eigenschappen in kolommen tonen en bewerken door met de rechtermuisknop in de tabel te klikken.
 

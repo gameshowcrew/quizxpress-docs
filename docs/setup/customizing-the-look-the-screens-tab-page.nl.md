@@ -2,7 +2,7 @@
 
 Het tabblad ‘Schermen’ bevat diverse instellingen waarmee u het welkomstscherm aanpast. Ook bevat het instellingen voor de verschillende schermresoluties en schermmodi van QuizXpress Live.
 
-![](../assets/images/image339.webp){ width="593" loading=lazy }
+![Het tabblad Schermen](../assets/images/setup-screens-tab.webp){ width="593" loading=lazy }
 
 De volgende instellingen gelden voor het welkomstscherm:
 
@@ -24,7 +24,7 @@ De quizspeler wordt geleverd met meerdere ‘skins’ (uiterlijken of thema’s)
 
 U kunt tussen de beschikbare skins wisselen in het gedeelte Weergave:
 
-![](../assets/images/image340.webp){ width="431" loading=lazy }
+![De lijst met skins](../assets/images/setup-skin-list.webp){ width="431" loading=lazy }
 
 !!! tip "Uw eigen skin"
     U kunt ook uw eigen skin maken in uw huisstijl, met uw eigen kleuren, lettertypen en afbeeldingen. Zie [Skinning](../advanced/skinning/index.md).

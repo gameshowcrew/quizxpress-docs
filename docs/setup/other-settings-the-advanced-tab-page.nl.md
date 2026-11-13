@@ -2,7 +2,7 @@
 
 Het tabblad Geavanceerd bevat verschillende geavanceerde instellingen:
 
-![](../assets/images/image344.webp){ width="598" loading=lazy }
+![Het tabblad Geavanceerd](../assets/images/setup-advanced-tab.webp){ width="598" loading=lazy }
 
 **Dia’s op volledig scherm**
 

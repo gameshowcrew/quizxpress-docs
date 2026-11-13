@@ -40,7 +40,7 @@ Zoals op de onderstaande afbeelding te zien is, zijn er verschillende andere opd
 
 - Groepen: het is mogelijk om teams in groepen te verdelen. Meer hierover leest u in de volgende sectie.
 
-> ![](../assets/images/image331.webp){ width="605" loading=lazy }
+> ![Het tabblad Teams met teamnamen en groepen](../assets/images/setup-teams-tab.webp){ width="605" loading=lazy }
 
 ### Keypads groeperen
 
@@ -48,9 +48,11 @@ U kunt teams in Quiz Setup in groepen verdelen (het is ook mogelijk om teams in 
 
 Wanneer u op de knop ‘Groepen’ klikt, wordt een lijst getoond waarin u groepsnamen en de bijbehorende set keypads kunt invoeren. Zie de onderstaande afbeelding:
 
-![](../assets/images/image332.webp){ width="605" loading=lazy }
+![De lijst met groepen](../assets/images/setup-teams-groups-view.webp){ width="605" loading=lazy }
 
 Door op de knop ‘Toevoegen’ te drukken, verschijnt een venster waarin u zowel de groepsnaam als de bijbehorende keypads kunt invoeren (door een keypadtekenreeks in te voeren). U kunt groepen ook verwijderen.
+
+![Een groep toevoegen](../assets/images/setup-add-group-dialog.webp){ width="400" loading=lazy }
 
 Wanneer u het keypadbereik voor een groep invoert (bijvoorbeeld ‘1, 2, 3, 10-20’), wordt gecontroleerd of het bereik binnen het keypadbereik valt dat op het tabblad ‘Buzzers’ is gedefinieerd. Is dat niet zo, dan wordt een foutmelding getoond.
 
@@ -85,10 +87,10 @@ Aan het einde van het aftellen worden per groep het aantal juiste antwoorden, he
 
 Wanneer uw QuizXpress-licentie ondersteuning voor Galaxy-apparaten of scoreborden bevat, ziet u de volgende opties op het tabblad Buzzers van QuizXpress Setup:
 
-![](../assets/images/image335.webp){ width="234" loading=lazy }
+![De opties voor Galaxy en scoreborden op het tabblad Buzzers](../assets/images/setup-galaxy-checkboxes.webp){ width="234" loading=lazy }
 
 Wanneer u ondersteuning voor Galaxy of scoreborden inschakelt, verschijnen extra kolommen in de lijst op het tabblad Teams.
 
-![](../assets/images/image336.webp){ width="504" loading=lazy }
+![De teamlijst met de kolommen Galaxy-apparaat en Scorebord](../assets/images/setup-teams-galaxy-columns.webp){ width="504" loading=lazy }
 
 Elk Galaxy-apparaat en elk scorebord heeft een ID. In deze lijst kunt u aangeven welk Galaxy-apparaat-ID en/of scorebord-ID voor elke speler wordt gebruikt.

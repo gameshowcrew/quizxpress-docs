@@ -73,13 +73,16 @@ tab: a folder `docs/advanced/<feature>/` with an `index.md` overview, listed in 
   and tell the user exactly which screenshot to make and where it goes. Don't publish placeholder text
   like "screenshot here".
 
-## Languages (English, French, Italian, Spanish)
+## Languages (English, French, Italian, Spanish, Dutch)
 
 The site is multilingual through the `mkdocs-static-i18n` plugin (suffix structure). English is the
-source and the default language (`/`); French is at `/fr/`, Italian at `/it/`, Spanish at `/es/`.
+source and the default language (`/`); French is at `/fr/`, Italian at `/it/`, Spanish at `/es/`,
+Dutch at `/nl/`.
 
 - A translation lives next to the English file with a language suffix: `docs/studio/wager.md` →
-  `docs/studio/wager.fr.md`, `docs/studio/wager.it.md` and `docs/studio/wager.es.md`. Same folder, same relative links.
+  `docs/studio/wager.fr.md`, `docs/studio/wager.it.md`, `docs/studio/wager.es.md` and `docs/studio/wager.nl.md`. Same folder, same relative links.
+- Dutch follows the term dictionary `tools/glossary.nl.md` (formal *u*, app names untranslated, UI
+  labels as in the Dutch product). Add new recurring terms there.
 - A page without a translation automatically shows the English text in that language's site, so the
   site never has broken pages while translation is in progress.
 - Keep the translated file's structure identical to the English one (same headings order, images,
@@ -88,9 +91,9 @@ source and the default language (`/`); French is at `/fr/`, Italian at `/it/`, S
   `other.md#claim-handling` must use the anchor of the *translated* heading in `.fr.md`/`.it.md`.
 - Images are shared (`docs/assets/images/`). A screenshot of the English UI is reused unless a
   localized one is added.
-- When you change an English page, update its `.fr.md`, `.it.md` and `.es.md` too (or tell the user they are outdated).
+- When you change an English page, update its `.fr.md`, `.it.md`, `.es.md` and `.nl.md` too (or tell the user they are outdated).
 - Search is per language: `hooks/search_by_language.py` splits the merged search index after the build and
-  `overrides/main.html` points each language's search box at its own index (`/fr/search/`, `/it/search/`, `/es/search/`).
+  `overrides/main.html` points each language's search box at its own index (`/fr/search/`, `/it/search/`, `/es/search/`, `/nl/search/`).
   Don't remove either, or searches show results from all languages again.
 - Menu titles come from each page's `# Heading`; the tab names in `nav:` are translated via
   `nav_translations` in the `i18n` plugin config in `mkdocs.yml`.

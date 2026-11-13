@@ -115,6 +115,32 @@ plugins:
             Live: Live
             Advanced: Avanzado
             More: Más
+        - locale: nl
+          name: Nederlands
+          build: true
+          nav_translations:
+            Getting started: Aan de slag
+            Studio: Studio
+            Setup: Configuratie
+            Live: Live
+            Advanced: Geavanceerd
+            More: Meer
+            Introduction: Introductie
+            Installation: Installatie
+            User interface overview: Overzicht van de gebruikersinterface
+            Slide and game formats: Dia- en spelvormen
+            Mini games: Minigames
+            Adding multimedia content: Multimedia-inhoud toevoegen
+            Other functionality: Overige functionaliteit
+            Using mobile keypads: Mobiele keypads gebruiken
+            Starting a quiz: Een quiz starten
+            Scripting: Scripts
+            AI assistants: AI-assistenten
+            Skinning: Skins
+            Other advanced topics: Overige geavanceerde onderwerpen
+            Troubleshooting: Probleemoplossing
+            Hardware installation: Installatie van hardware
+            Legal: Juridisch
 
 markdown_extensions:
   - admonition

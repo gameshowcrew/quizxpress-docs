@@ -18,7 +18,7 @@ Le sezioni seguenti descrivono le app in modo più dettagliato.
 
 All'avvio dell'app, i giocatori vedono l'opzione per partecipare a un quiz tramite PIN, Wi-Fi locale o QR Code.
 
-![](../../assets/images/image367.webp){ width="177" loading=lazy }
+![](../../assets/images/image367.webp){ width="226" loading=lazy }
 
 Quando la partita si svolge con un router Wi-Fi collegato al computer, il pulsante «Accedi con WiFi locale» è abilitato. Toccando il pulsante ci si connette al quiz in esecuzione sul Wi-Fi locale.
 
@@ -42,7 +42,7 @@ A sinistra si vede un esempio di domanda di tipo ‘Lettera Iniziale’.
 
 Sullo schermo si vedono diversi elementi:
 
-- In alto a sinistra si vede il numero assegnato al proprio buzzer mobile.
+- In alto a sinistra si vede il numero assegnato al proprio buzzer mobile, con sotto il PIN del quiz, e accanto l'immagine del profilo.
 
 - In alto a destra viene mostrato il nome del giocatore.
 
@@ -50,7 +50,7 @@ Sullo schermo si vedono diversi elementi:
 
   - L'indice della domanda corrente (domanda corrente sulle totali - es 2/20)
 
-  - Un trofeo con il numero di punti in palio. Se i punti decrementano nel tempo, si vedranno qui (Si tratta di un valore approssimativo).
+  - Un podio con il numero di punti in palio. Se i punti decrementano nel tempo, si vedranno qui (Si tratta di un valore approssimativo).
 
   - Un timer di countdown, che mostra il numero di secondi rimasti. Durante gli ultimi 5 secondi il timer lampeggia per indicare che il tempo sta per scadere.
 
@@ -58,21 +58,21 @@ Sullo schermo si vedono diversi elementi:
 
 QuizXpress Smart Buzzer supporta una vasta gamma di tipologie di domanda:
 
-| ![](../../assets/images/image368.webp){ width="96" loading=lazy }                                                                                               | ![](../../assets/images/image369.webp){ width="96" loading=lazy }            | ![](../../assets/images/image370.webp){ width="96" loading=lazy }           | ![](../../assets/images/image371.webp){ width="96" loading=lazy }              | ![](../../assets/images/image372.webp){ width="95" loading=lazy }        |
+| ![](../../assets/images/image368.webp){ width="100" style="min-width:100px" loading=lazy }                                                                                               | ![](../../assets/images/image369.webp){ width="100" style="min-width:100px" loading=lazy }            | ![](../../assets/images/image370.webp){ width="100" style="min-width:100px" loading=lazy }           | ![](../../assets/images/image371.webp){ width="100" style="min-width:100px" loading=lazy }              | ![](../../assets/images/image372.webp){ width="100" style="min-width:100px" loading=lazy }        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| *Dito più Veloce* | *Scelta multipla/Ordinata/Risposta multipla/Eliminatoria* | *Lettera Iniziale* | *Testuale* | *Numerica* |
-| ![](../../assets/images/image373.webp){ width="98" loading=lazy } | ![](../../assets/images/image374.webp){ width="99" loading=lazy } | ![](../../assets/images/image375.webp){ width="100" loading=lazy } | ![](../../assets/images/image376.webp){ width="100" loading=lazy } | ![](../../assets/images/image377.webp){ width="98" loading=lazy } |
-| *Scelta multipla con immagine* | *Scelta multipla con effetto immagine* | *Dito più Veloce con immagine* | *Scelta multipla con immagini/Ordinata/Risposta multipla* | *Numerica/Lettera Iniziale con immagine* |
+| *Dito più Veloce* | *Scelta multipla / Ordinata / Risposta multipla / Eliminatoria* | *Lettera Iniziale* | *Testuale* | *Numerica* |
+| ![](../../assets/images/image373.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image374.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image375.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image376.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image377.webp){ width="100" style="min-width:100px" loading=lazy } |
+| *Scelta multipla con immagine* | *Scelta multipla con effetto immagine* | *Dito più Veloce con immagine* | *Scelta multipla con immagini / Ordinata / Risposta multipla* | *Numerica / Lettera Iniziale con immagine* |
 
 Lo Smart Buzzer fornisce un riscontro dopo ogni domanda per indicare se la risposta era giusta o sbagliata e se sono stati ricevuti punti bonus:
 
-| ![](../../assets/images/image378.webp){ width="109" loading=lazy } | ![](../../assets/images/image379.webp){ width="109" loading=lazy } | ![](../../assets/images/image380.webp){ width="108" loading=lazy } | ![](../../assets/images/image381.webp){ width="109" loading=lazy } | ![](../../assets/images/image382.webp){ width="109" loading=lazy } |
+| ![](../../assets/images/image378.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image379.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image380.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image381.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image382.webp){ width="100" style="min-width:100px" loading=lazy } |
 |--------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | *Risposta Corretta* | *Risposta Errata* | *Iniziale Errata* | *Animazione Punti bonus* | *Punti bonus vinti* |
 
 I punteggi vengono visualizzati anche sul dispositivo mobile. I punteggi finali vengono mostrati in due o tre fasi: prima un annuncio, poi la classifica dei primi 3 classificati (se si è tra i primi 3) e infine il proprio punteggio individuale e la posizione in classifica.
 
-| ![](../../assets/images/image383.webp){ width="136" loading=lazy } | ![](../../assets/images/image384.webp){ width="137" loading=lazy } | ![](../../assets/images/image385.webp){ width="137" loading=lazy } | ![](../../assets/images/image386.webp){ width="137" loading=lazy } |
+| ![](../../assets/images/image383.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image384.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image385.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image386.webp){ width="100" style="min-width:100px" loading=lazy } |
 |--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|
 | *Punteggi intermedi* | *Annuncio dei Punteggi finali* | *Punteggio finale individuale top 3* | *Punteggio individuale, posizione e top* 3 |
 
@@ -94,13 +94,13 @@ Con questa modalità di gioco, i giocatori possono guadagnare punti extra dando 
 
 - Sulla schermata di Director o sull'app Director compare un popup di giudizio con i pulsanti *Pollice Giù/Sondaggio/Pollice Su*.
 
-![](../../assets/images/image388.webp){ width="145" loading=lazy }
+![](../../assets/images/image388.webp){ width="226" loading=lazy }
 
 - Il Quizmaster si confronta con il giocatore per ascoltarne la risposta verbale e può quindi giudicare la risposta giusta o sbagliata, oppure interrogare il resto dei giocatori per sapere se *loro* ritengono che la risposta data sia giusta o sbagliata, toccando il pulsante *Sondaggio* dell'app Director.
 
 - Su tutti i dispositivi degli altri giocatori compare per 10 secondi un popup di sondaggio Pollice Su/Giù e i giocatori possono dare il proprio voto (o astenersi senza perdere punti).
 
-![](../../assets/images/image389.webp){ width="141" loading=lazy }
+![](../../assets/images/image389.webp){ width="226" loading=lazy }
 
 - Il Quizmaster giudica quindi la risposta data dal giocatore più veloce toccando il pulsante ‘Corretta’ o ‘Errata’ sull'app Director. Di conseguenza, il giocatore più veloce vince o perde punti (a seconda delle impostazioni della domanda). Gli altri giocatori vincono o perdono il 50% dei punti della domanda a seconda della correttezza del loro giudizio sulla risposta data dal giocatore più veloce.
 
@@ -112,7 +112,7 @@ Per controllare il quiz dal tablet o dal telefono, è possibile usare l'app tele
 
 ![](../../assets/images/director-app-start.webp){ width="226" loading=lazy }
 
-È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante giallo «più» in basso a destra sullo schermo del dispositivo mobile.
+È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante «+» in basso a destra sullo schermo del dispositivo mobile.
 
 Premendo il pulsante, viene mostrato uno scanner di codici QR. Il codice QR da scansionare è visualizzato nella scheda Mobile di QuizXpress Setup (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)). Scansionare il codice qui visualizzato e il nome del computer verrà mostrato nell'app QuizXpress Director. Questa procedura va eseguita una sola volta per registrare il computer nell'app.
 
@@ -130,7 +130,7 @@ Dopo aver avviato un quiz, selezionare dall'elenco il computer che si desidera c
 
 Dopo la connessione al quiz in corso, si vedrà l'app QuizXpress Director, che ha 5 schede:
 
-| ![](../../assets/images/image391.webp){ width="103" loading=lazy } | ![](../../assets/images/image392.webp){ width="114" loading=lazy } | ![](../../assets/images/image393.webp){ width="113" loading=lazy } | ![](../../assets/images/image394.webp){ width="116" loading=lazy } | ![](../../assets/images/image395.webp){ width="115" loading=lazy } |
+| ![](../../assets/images/image391.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image392.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image393.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image394.webp){ width="100" style="min-width:100px" loading=lazy } | ![](../../assets/images/image395.webp){ width="100" style="min-width:100px" loading=lazy } |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Controlli | Avvia/arresta e controlla i Moduli Gioco | Naviga tra le domande del quiz | Panoramica di giocatori e punteggi | Sound Pad per riprodurre effetti sonori casuali |
 
@@ -180,11 +180,11 @@ La scheda Controlli permette di gestire il quiz. Sono disponibili i seguenti pul
 
 - Pulsante **Freccia** – fa avanzare alla diapositiva successiva.
 
-Le diapositive che sono state già svolte sono colorate di giallo, la domanda attuale è colorata di verde.
+La domanda attuale è evidenziata in giallo, con l'etichetta ‘Attuale’; le diapositive già svolte hanno il numero in grigio.
 
-> Dopo ogni domanda ‘Tutti possono rispondere’, l'app Director mostra il numero di giocatori che hanno risposto correttamente (in verde), il numero di quelli che hanno risposto in modo errato (in rosso) e il numero di quelli che non hanno risposto affatto (in blu).
+> Dopo ogni domanda ‘Tutti possono rispondere’, l'app Director mostra in alto nella scheda Domande il numero di giocatori che hanno risposto correttamente (in verde), il numero di quelli che non hanno risposto (in viola chiaro) e il numero di quelli che hanno risposto in modo errato (in rosso).
 
-![](../../assets/images/image396.webp){ width="189" loading=lazy }
+![](../../assets/images/image396.webp){ width="226" loading=lazy }
 
 3. La scheda Giocatori mostra tutti i partecipanti e i loro punteggi. In alto, sono disponibili i seguenti pulsanti:
 

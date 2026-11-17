@@ -42,7 +42,7 @@ A sinistra si vede un esempio di domanda di tipo ‘Lettera Iniziale’.
 
 Sullo schermo si vedono diversi elementi:
 
-- In alto a sinistra si vede il numero assegnato al proprio buzzer mobile.
+- In alto a sinistra si vede il numero assegnato al proprio buzzer mobile, con sotto il PIN del quiz, e accanto l'immagine del profilo.
 
 - In alto a destra viene mostrato il nome del giocatore.
 
@@ -50,7 +50,7 @@ Sullo schermo si vedono diversi elementi:
 
   - L'indice della domanda corrente (domanda corrente sulle totali - es 2/20)
 
-  - Un trofeo con il numero di punti in palio. Se i punti decrementano nel tempo, si vedranno qui (Si tratta di un valore approssimativo).
+  - Un podio con il numero di punti in palio. Se i punti decrementano nel tempo, si vedranno qui (Si tratta di un valore approssimativo).
 
   - Un timer di countdown, che mostra il numero di secondi rimasti. Durante gli ultimi 5 secondi il timer lampeggia per indicare che il tempo sta per scadere.
 
@@ -112,7 +112,7 @@ Per controllare il quiz dal tablet o dal telefono, è possibile usare l'app tele
 
 ![](../../assets/images/director-app-start.webp){ width="226" loading=lazy }
 
-È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante giallo «più» in basso a destra sullo schermo del dispositivo mobile.
+È possibile registrare il computer che si desidera controllare con il telecomando QuizXpress Director premendo il pulsante «+» in basso a destra sullo schermo del dispositivo mobile.
 
 Premendo il pulsante, viene mostrato uno scanner di codici QR. Il codice QR da scansionare è visualizzato nella scheda Mobile di QuizXpress Setup (fare riferimento a [Configurare il supporto delle pulsantiere mobili](../../setup/setting-up-mobile-keypad-support.md)). Scansionare il codice qui visualizzato e il nome del computer verrà mostrato nell'app QuizXpress Director. Questa procedura va eseguita una sola volta per registrare il computer nell'app.
 
@@ -180,9 +180,9 @@ La scheda Controlli permette di gestire il quiz. Sono disponibili i seguenti pul
 
 - Pulsante **Freccia** – fa avanzare alla diapositiva successiva.
 
-Le diapositive che sono state già svolte sono colorate di giallo, la domanda attuale è colorata di verde.
+La domanda attuale è evidenziata in giallo, con l'etichetta ‘Attuale’; le diapositive già svolte hanno il numero in grigio.
 
-> Dopo ogni domanda ‘Tutti possono rispondere’, l'app Director mostra il numero di giocatori che hanno risposto correttamente (in verde), il numero di quelli che hanno risposto in modo errato (in rosso) e il numero di quelli che non hanno risposto affatto (in blu).
+> Dopo ogni domanda ‘Tutti possono rispondere’, l'app Director mostra in alto nella scheda Domande il numero di giocatori che hanno risposto correttamente (in verde), il numero di quelli che non hanno risposto (in viola chiaro) e il numero di quelli che hanno risposto in modo errato (in rosso).
 
 ![](../../assets/images/image396.webp){ width="189" loading=lazy }
 
